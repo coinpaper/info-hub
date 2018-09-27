@@ -1,0 +1,252 @@
+# The trading symbol and name of the coin
+id: test-testing-coin
+symbol: TEST
+name: Testing Coin
+logo: test-testing-coin_logo@512x512.png
+
+# Founding of public-release date in the format "23-08-2020"
+founded: 1997-11-01
+
+# Description about the coin. Should be at most 10 sentences per field.
+descriptions:
+  one_sentence: This coin is used for testing purposes
+  introduction: We use this yml as a reference file to run automated test cases
+  technology: We use pyunittests to validate the content of this file
+  future: The fugure brings more test cases and higher coverage!!!
+
+# Information about the type of blockchain and its development status
+blockchain:
+  consensus: Proof of Tests
+  algortihm: pyunittest
+  issue_date: 2020-09-26
+  type: unknown
+  organization_structure: unknown
+  development_status: On-going development
+
+# List of URLs to Blockchain explorers such as "https://etherscan.io/".
+explorers:
+  - https://coinpaper.io
+  - https://github.com/coinpaper/info-hub
+
+# Place the official whitepaper itself as a PDF into /files/whitepaper.pdf
+# The abstract is the first section, mostly written in bold, inside the whitepaper.
+whitepaper:
+  abstract: This is where you would write the abstract from the whitepaper pdf
+  file: test-testing-coin_whitepaper.pdf
+
+# URL to the official website.
+website:
+  url: https://coinpaper.io
+
+# Explenation youtube video. Must be in the form "https://www.youtube.com/watch?v=dQw4w9WgXcQ".
+video:
+  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Collective information about the team.
+team:
+  # Representative figure, like "Vitalik Buterin" for Ethereum.
+  leader:
+    name: Gwynne Shotwell
+    imagename: gwynne-shotwell@512x512.png   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+    position: President
+    description:  Ms. Shotwell is the current President of SpaceX
+    links:
+      github:
+        url: https://github.com/joelbarmettlerUZH
+        followers: 57
+      linkedin:
+        url: https://www.linkedin.com/in/joel-barmettler-b9ab361b7/
+        followers: 173
+      medium:
+        url: https://medium.com/@joel.barmettler
+        followers: 108
+      twitter:
+        url: https://twitter.com/Coinpaper_io
+        followers: 10
+
+  # Official members or heavy contributers. The format of each member is
+  # the same as the format of the leader.
+  members:
+    - name: Elon Musk
+      imagename: gwynne-shotwell@512x512.png   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+      position: CEO
+      description:  Elon is the founder and CEO of SpaceX
+      links:
+        github:
+          url: https://github.com/joelbarmettlerUZH
+          followers: 57
+        linkedin:
+          url: https://www.linkedin.com/in/joel-barmettler-b9ab361b7/
+          followers: 173
+        medium:
+          url: https://medium.com/@joel.barmettler
+          followers: 108
+        twitter:
+          url: https://twitter.com/Coinpaper_io
+          followers: 10
+
+# Links to any official or large community driven social media channels.
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/Coinpaper
+  twitter: https://twitter.com/Coinpaper_io
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+
+# Official github code repository.
+github:
+  username: coinpaper
+  main_repository: coinpaper/info-hub   # Repository that represents the blockchain/token
+
+# Manual reviews that influence the Coinpaper score. Please reade the contribution
+# guidelines before commiting changes to this section.
+manual_reviews:
+  introduction:
+
+    # What problem is the coin/token solving?
+    purpose:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+  current_stand:
+
+    # Did the token or its founders go through scandals (scams, false claims..)
+    # or have they achieved something great (collaborations..) in the past?
+    scandals_highlights:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # What is the product around the token. What belongs to the ecosystem?
+    product:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # How is development processing? When will the product be ready to use?
+    development:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # Was the team able to form valuable partnerships?
+    partnerships:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # Does the project have a strong, enthusiastic and supportive communtiy?
+    community:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # Are there any close competitors that might overtake the project?
+    substitutes:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+  foresight:
+    # How will this project most probably look in a few months/years from now?
+    # THIS IS NOT ABOUT PRICE ACTION!
+    prediction:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # Are there any projects that build on top of this technology?
+    projects:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # If the project achieves what they claims, what would the future bring?
+    potential:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+  pro_con:
+    # Is there something ready-to-use yet?
+    product_availability:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # Is anybody even using it?
+    product_usage:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # How fast is the network? Can it scale?
+    transactions_per_second:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # How expensive is it to use the network?
+    transaction_cost:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # How long does it take the network to validate requests?
+    transaction_speed:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # Is the security concept proofen?
+    security:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # Did the project find any adoption in its nieche?
+    adoption:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # How much enery is needed to keep the project alive?
+    energy_consumption:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # How prive/pseudonomous is the participation in the network?
+    privacy:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # Is the network decentralized, as blockchain is supposed to be?
+    decentralization:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+    # Can coins/tokens be traded on trusted exchanges?
+    exchange_availability:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      is_pro: true
+      is_contra: false
+
+  # This section focuses on the founding- or lead development team
+  team:
+
+    # Who are the founders? Have they achieved something in the past already?
+    founders:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
+
+    # Who is developing the product? Is it run by the community?
+    developers:
+      description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, <br /> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      score: 3.0
+      references: See on https://polygon-software.ch
