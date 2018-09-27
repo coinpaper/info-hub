@@ -19,10 +19,9 @@ class YMLValidator:
         return True
 
     def __validate_fields(self):
-        context = {
-            "coin_id": self.__coin_id,
-        }
-        YMLValidator.__recursive_validation(self.__yml_to_validate, self.__validation_yml, context)
+        context = {"coin_id": self.__coin_id}
+        path = f"[{self.__coin_id}/info.yml]"
+        YMLValidator.__recursive_validation(self.__yml_to_validate, self.__validation_yml, context, path=path)
         return True
 
     def __validate_structure(self):
@@ -32,7 +31,7 @@ class YMLValidator:
         pass
 
     @staticmethod
-    def __recursive_validation(value, validation, context, path=""):
+    def __recursive_validation(value, validation, context, path):
 
         # Substructure case
         if type(value) == dict and type(validation) == dict:
@@ -49,7 +48,7 @@ class YMLValidator:
                 if validation_key == "is_contra":
                     context["opposite"] = value["is_pro"]
 
-                new_path = f"{path}.{validation_key}" if path else validation_key
+                new_path = f"{path}.{validation_key}"
                 YMLValidator.__recursive_validation(values_value, validation_value, context, path=new_path)
             return
 
