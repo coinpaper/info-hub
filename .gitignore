@@ -2,3 +2,5 @@
 repos/
 *.pyc
 venv/
+transfer.py
+backup/

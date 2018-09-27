@@ -10,14 +10,14 @@ descriptions:
   future: text|max(600)
 blockchain:
   consensus: text|max(60)
-  algortihm: text|max(60)
+  algorithm: text|max(60)
   issue_date: date
   type: oneof(token,coin,unknown)
   organization_structure: oneof(Centralized,Semi-centralized,Decentalized,unknown)
-  development_status: oneof(Defunct,Alpha version,Just an Idea,Beta Version,On-going development,Working product)
+  development_status: oneof(Defunct,Alpha version,Just an Idea,Beta version,On-going development,Working product)
 explorers: foreach(url)
 whitepaper:
-  abstract: text|max(300)
+  abstract: text|max(600)
   file: file|pdf
 website:
   url: url|startswith(https://)
@@ -27,7 +27,7 @@ team:
   leader:
     name: text|max(50)
     imagename: image|png
-    position: text|max(50)
+    position: text|max(60)
     description:  text|max(600)
     links:
       github:
@@ -45,7 +45,7 @@ team:
   members:
     name: text|max(50)
     imagename: image|png
-    position: text|max(50)
+    position: text|max(60)
     description: optional|text|max(600)
     links:
       github:
@@ -72,6 +72,7 @@ github:
   username: optional|text|max(50)|githubuser
   main_repository: optional|text|max(50)|githubrepo
 manual_reviews:
+  available: boolean
   introduction:
     purpose:
       description: optional|text

@@ -17,7 +17,7 @@ descriptions:
 # Information about the type of blockchain and its development status
 blockchain:
   consensus: Proof of Tests
-  algortihm: pyunittest
+  algorithm: pyunittest
   issue_date: 2020-09-26
   type: unknown
   organization_structure: unknown
@@ -103,6 +103,10 @@ github:
 # Manual reviews that influence the Coinpaper score. Please reade the contribution
 # guidelines before commiting changes to this section.
 manual_reviews:
+
+  # Indicates whether the manual review is ready to be published online
+  available: true
+
   introduction:
 
     # What problem is the coin/token solving?
