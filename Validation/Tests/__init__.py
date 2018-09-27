@@ -1,3 +1,3 @@
-from Validation.Tests.ValueValidator import *
-from Validation.Tests.Validate import *
-from Validation.Tests.YMLValidator import *
+from Validation.Tests.test_ValueValidator import *
+from Validation.Tests.test_Validate import *
+from Validation.Tests.test_YMLValidator import *
