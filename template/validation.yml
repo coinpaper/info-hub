@@ -64,10 +64,10 @@ socials:
   telegram: optional|url|startswith(https://t.me/)
   reddit: optional|url|startswith(https://www.reddit.com/r/)
   twitter: optional|url|startswith(https://twitter.com/)
-  facebook: optional|url|startswith(https://facebook.com/)
+  facebook: optional|url|startswith(https://www.facebook.com/)
   medium: optional|url|startswith(https://medium.com/@)
   vimeo: optional|url|startswith(https://twitter.com/)
-  discord: optional|url|startswith(https://discordapp.com/invite/)
+  discord: optional|url|startswith(https://discord.com)
 github:
   username: optional|text|max(50)|githubuser
   main_repository: optional|text|max(50)|githubrepo
