@@ -26,7 +26,7 @@ video:
 team:
   leader:
     name: text|max(50)
-    imagename: image|png
+    imagename: optional|image|png
     position: text|max(60)
     description:  text|max(600)
     links:
@@ -37,14 +37,14 @@ team:
         url: optional|url|startswith(https://www.linkedin.com/)
         followers: optional|number
       medium:
-        url: optional|url|startswith(https://medium.com/@)
+        url: optional|url|startswith(https://medium.com/)
         followers: optional|number
       twitter:
         url: optional|url|startswith(https://twitter.com/)
         followers: optional|number
   members:
     name: text|max(50)
-    imagename: image|png
+    imagename: optional|image|png
     position: text|max(60)
     description: optional|text|max(600)
     links:
@@ -55,7 +55,7 @@ team:
         url: optional|url|startswith(https://www.linkedin.com/)
         followers: optional|number
       medium:
-        url: optional|url|startswith(https://medium.com/@)
+        url: optional|url|startswith(https://medium.com/)
         followers: optional|number
       twitter:
         url: optional|url|startswith(https://twitter.com/)
@@ -65,8 +65,8 @@ socials:
   reddit: optional|url|startswith(https://www.reddit.com/r/)
   twitter: optional|url|startswith(https://twitter.com/)
   facebook: optional|url|startswith(https://www.facebook.com/)
-  medium: optional|url|startswith(https://medium.com/@)
-  vimeo: optional|url|startswith(https://twitter.com/)
+  medium: optional|url|startswith(https://medium.com/)
+  vimeo: optional|url|startswith(https://vimeo.com/)
   discord: optional|url|startswith(https://discord.com)
 github:
   username: optional|text|max(50)|githubuser
