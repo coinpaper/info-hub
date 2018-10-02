@@ -1,0 +1,473 @@
+id: eth-ethereum
+symbol: ETH
+name: Ethereum
+logo: eth-ethereum_logo@512x512.png
+founded: '2015-07-30'
+descriptions:
+  one_sentence: Platform for decentralized apps and smart contracts
+  introduction: "General Data and Information. The Ethereum white paper was released\
+   \ by Vitalik Buterin in late 2013 after proposals to include a scripting language\
+   \ to enable decentralized applications (dApps) on the Bitcoin blockchain failed\
+   \ to gain traction. Ether is the native currency of the Ethereum blockchain and\
+   \ is used to compensate nodes for performing computations in the Turing-complete\
+   \ instruction set of the Ethereum Virtual Machine (EVM). These instructions form\
+   \ the backbone of smart contracts and digital asset ownership which are recorded\
+   \ and issued upon the Ethereum blockchain."
+  technology: "The development and governance of Ethereum\
+   \ relies upon the use of open-source Ethereum Improvement Proposals (EIPs) whereby\
+   \ developers and the wider public can submit proposals to improve or change standards\
+   \ to the Ethereum platform. These proposals can affect all aspects of the Ethereum\
+   \ ecosystem, from core code changes and ERC token standards through to public\
+   \ informational resources."
+  future: 'Significant Features. - Designed as a Virtual Machine with a Turing-complete
+    language means that Ethereum is the Swiss Army tool of blockchains. Highly flexible
+    and adaptable, but perhaps not always the most efficient solution. - A comparatively
+    large hashrate makes Ethereum one of the more secure blockchains in existence.
+    - Solutions to scaling problems are being investigated, including sharding and
+    a move to Proof of Stake consensus protocol. These changes are slated to be released
+    under the codename Casper.'
+blockchain:
+  consensus: Ethereum consensus (currently proof of work)
+  algorithm: Ethash
+  issue_date: '2014-07-24'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://blockchair.com/ethereum
+- https://etherscan.io/
+- https://ethplorer.io/
+- https://etherchain.org/
+whitepaper:
+  abstract: The intent of Ethereum is to create an alternative protocol for building
+    decentralized applications, providing a different set of tradeoffs that we believe
+    will be very useful for a large class of decentralized applications, with particular
+    emphasis on situations where rapid development time, security for small and rarely
+    used applications, and the ability of different applications to very efficiently
+    interact, are important.
+  file: eth-ethereum_whitepaper.pdf
+website:
+  url: https://ethereum.org/en/
+video:
+  url: https://www.youtube.com/watch?v=TDGq4aeevgY
+team:
+  leader:
+    name: Vitalik Buterin
+    imagename: eth-ethereum_vitalik_buterin.png
+    position: Founder
+    description: He first discovered blockchain and cryptocurrency technologies through
+      Bitcoin in 2011, and was immediately excited by the technology and its potential.
+      He cofounded Bitcoin Magazine in September 2011, and after two and a half years
+      looking at what the existing blockchain technology and applications had to offer,
+      wrote the Ethereum white paper in November 2013. He now leads Ethereum's research
+      team, working on future versions of the Ethereum protocol.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7566
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 37310
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 939888
+  members:
+  - name: Jeffrey Wilcke
+    imagename: eth-ethereum_jeffrey_wilcke.png
+    position: Co-Founder
+    description: He started the first implementation of Ethereum using the Go programming
+      language in 2013 and has been the Go team lead and head developer ever since.
+      The Go client launched successfully on July 30, 2015, marking the release of
+      the genesis block and Ethereum platform.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jeffreywilcke/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jeffreywilcke/
+        followers: 12
+  - name: Virgil Griffith
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/virgilgr
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/virgilgr
+        followers: 10707
+  - name: Alexandre Van de Sande
+    imagename: null
+    position: UX Design
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/pub/alexandre-van-de-sande/5/bba/673
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/avsa
+        followers: 25609
+  - name: Alex Leverington
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexleverington/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aya Miyaguchi
+    imagename: null
+    position: Executive Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/amiyaguchi
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mi_ayako?lang=en
+        followers: 10611
+  - name: Vlad Zamfir
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: https://github.com/vladzamfir
+        followers: 339
+      linkedin:
+        url: https://www.linkedin.com/in/vlad-zamfir/
+        followers: null
+      medium:
+        url: https://medium.com/@Vlad_Zamfir
+        followers: 5704
+      twitter:
+        url: null
+        followers: null
+  - name: Zach Lebeau
+    imagename: null
+    position: Conceptualist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zach-lebeau-39aa34111/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Drake
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/drakefjustin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/drakefjustin
+        followers: 7376
+  - name: Yoichi Hirai
+    imagename: null
+    position: Formal Verification Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yoichi-hirai-780567b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/pirapira
+        followers: 3423
+  - name: Iuri Matias
+    imagename: null
+    position: Developer
+    description: Development of Decentralized Systems using Blockchain Technology.
+      Smart Contracts, Cryptography and CryptoEconomics. Creator of the Embark Framework.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/iurimatias/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Karl Floersch
+    imagename: null
+    position: Researcher
+    description: "Karl Floersch specializes in the development of blockchain systems,\
+      \ focusing on Ethereum. His experience prior to blockchain had him engineering\
+      \ software for clients including Macy\u2019s and SC Johnson, and working full\
+      \ time with Citibank and Riverbed Technology."
+    links:
+      github:
+        url: https://github.com/karlfloersch
+        followers: 376
+      linkedin:
+        url: https://www.linkedin.com/in/karlfloersch
+        followers: null
+      medium:
+        url: https://medium.com/@karl_dot_tech
+        followers: 1037
+      twitter:
+        url: https://twitter.com/karl_dot_tech?lang=en
+        followers: 14348
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/ethereum
+  twitter: https://twitter.com/ethereum
+  facebook: https://www.facebook.com/ethereumproject/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: ethereum
+  main_repository: ethereum/go-ethereum
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "While Bitcoin is revered as the pioneer of cryptocurrencies that\
+        \ built a legacy of its own and launched a whole industry of innovation through\
+        \ Blockchain technology, it still remained limited in its application and\
+        \ practical implementation. Then came Ethereum, which opened the doors of\
+        \ the locked hurdles, unleashed the true potential of the application of cryptocurrencies\
+        \ and opened the world\u2019s eyes to what Cryptocurrency is set to achieve.<br\
+        \ />\r\nEthereum is an open-source, public Blockchain platform that is decentralized\
+        \ and gives room for independent companies to build their own decentralized\
+        \ applications and cryptocurrency tokens on its platform. Those cryptocurrencies\
+        \ are then known as ERC-20 tokens. Ethereum builds smart contracts and stores\
+        \ information on a network of international nodes. A cryptocurrency known\
+        \ as Ether is used to pay network nodes in order to process transactions (Chinchilla,\
+        \ 2019).<br />\r\n"
+      score: 5.0
+      references: 'Chinchilla, C. (2019, June 17). Github. Retrieved from Github Website:
+        https://github.com/ethereum/wiki/wiki/White-Paper'
+  current_stand:
+    scandals_highlights:
+      description: "Ethereum has previously announced that it will be rolling out\
+        \ an upgraded version of the Ethereum Blockchain platform. They have named\
+        \ the upgrade Constantinople. However, the release was recently delayed because\
+        \ the team noticed some serious security concerning bugs in the design of\
+        \ the platform (Jameson, 2019). <br />\r\nAnother major fact regarding the\
+        \ Ethereum network is that the network was bottlenecked due to an influx of\
+        \ transactions. In December 2017, the user activity on the decentralized app\
+        \ \u2018CryptoKitties\u2019 increased to such extent that the whole Ethereum\
+        \ network faced delayed transactions and reduced speed (Cheng, 2017).<br />\r\
+        \n"
+      score: 4.0
+      references: "Jameson, H. (2019, February 22). Ethereum Blog. Retrieved from\
+        \ Ethereum Blog website: https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/<br\
+        \ />\r\nCheng, E. (2017, December 06). CNBC. Retrieved from CNBC: https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html"
+    product:
+      description: 'Ethereum technology is well-developed and has been reported to
+        have made quite an impression as it is already widely used around the world.
+        More and more decentralized apps are being built on the network platform with
+        each passing day. The language used for the coding and programming of many
+        DApps (decentralized applications) is Solidity and the creators have the option
+        to implement smart contracts on their apps.The language Solidity is developed
+        particularly to improve the smart contracts from a security point of view
+        (Solidity, 2018). '
+      score: 5.0
+      references: 'Solidity. (2018, December 17). Solidity. Retrieved from Solidity
+        Website: https://solidity.readthedocs.io/en/v0.5.3/#'
+    development:
+      description: The code is developed by the Ethereum team who constantly publishes
+        new updates and upgrades of the Ethereum network. The activity can be tracked
+        on their GitHub profile. The focus these days is on the latest upgrade of
+        the Ethereum network known as Constantinople. The upgrade will be released
+        soon and will considerably improve the speed of the transactions while consuming
+        way lesser energy (Chinchilla, 2019).
+      score: 4.8
+      references: 'Chinchilla, C. (2019, June 17). Github. Retrieved from Github Website:
+        https://github.com/ethereum/wiki/wiki/White-Paper'
+    partnerships:
+      description: "Ethereum has captured a huge portion of the business community\
+        \ already. Almost every decentralized app (DApp) is built on Ethereum technology.\
+        \ An alliance is known as \u2018Ethereum Alliance\u2019 is a composition of\
+        \ around 200 big companies, which include, but are not limited to, MasterCard,\
+        \ Credit Suisse, UBS, Microsoft and Intel (Sharma, 2019)."
+      score: 5.0
+      references: 'Sharma, R. (2019, June 25). Investopedia. Retrieved from Investopedia
+        Website: https://www.investopedia.com/tech/what-enterprise-ethereum-alliance/'
+    community:
+      description: 'The Ethereum community is perhaps the largest community in the
+        crypto-world. It is also one of the most active ones, where community members
+        frequently contribute to the development of the technology. They promote news
+        and publicize any new development regarding Ethereum on different social media
+        platforms. To put things into perspective, the Ethereum subreddit (Part of
+        the Reddit Forum) has over 400,000 subscribers. '
+      score: 4.8
+      references: null
+    substitutes:
+      description: Shortly after Ethereum was launched as an open-source platform,
+        many well-known substitutes have emerged in the market that all claim to offer
+        the same level of performance, if not better. However, Ethereum still remains
+        the most popular platform for decentralized applications that offers smart
+        contracts as well.
+      score: 4.8
+      references: null
+  foresight:
+    prediction:
+      description: "With the ongoing level of development by the Ethereum team, it\
+        \ is likely that the team will overcome the hurdles that have been hindering\
+        \ the use of the technology to be used efficiently. The limitation mainly\
+        \ occurs in the shape of limited TPS that is allowed on the network. <br />\r\
+        \nThe technology, however, will probably remain as the leading platform for\
+        \ the development of decentralized applications and will grow at a steady\
+        \ rate as smart contracts get more interesting and usable for people and businesses.<br\
+        \ />\r\n"
+      score: 4.6
+      references: null
+    projects:
+      description: "The most important project in Ethereum\u2019s pipeline currently\
+        \ is the Constantinople upgrade. The upgrade, expectedly, will enhance the\
+        \ performance of the network by increasing the transactional capacity of the\
+        \ network and minimizing the energy demands of the processes."
+      score: 5.0
+      references: null
+    potential:
+      description: Ethereum holds exceptional growth potential. With an already well-developed
+        platform and a large number of users, Ethereum could be the sole base for
+        building decentralized applications in the future. The attraction of smart
+        contracts will prove to be very beneficial to the Ethereum network once the
+        technology starts to become mature (Jameson, 2019).
+      score: 5.0
+      references: 'Jameson, H. (2019, February 22). Ethereum Blog. Retrieved from
+        Ethereum Blog website: https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/'
+  pro_con:
+    product_availability:
+      description: Ethereum is already a well-established platform. Developers can
+        produce their own DApps (decentralized applications) with the programming
+        language Solidity on the Ethereum platform.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: The number of transactions per second is limited which limits the
+        performance of the whole network when one DApp (decentralized applications)
+        processes a high number of transactions.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: The transaction fees average around 10 cents per transaction.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The current speed of the Ethereum network is around 4 to 10 minutes,
+        which is not slow but there are much faster substitutes available.
+      is_pro: false
+      is_contra: true
+    security:
+      description: The team has significantly improved the security level of the Ethereum
+        network. In mid-2017, a hacker group found a vulnerability in the Ethereum
+        code and stole over $30 Million. The loophole was detected and fixed later
+        on.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: Ethereum has gained quite a level of relevance and is well accepted
+        among the cryptocurrency community and programmers.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: 'The current energy consumption is huge, but this is expected to
+        decrease considerably after the new Constantinople upgrade has been released
+        and implemented. '
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Ethereum is a pseudonymous cryptocurrency, which means that people
+        can see the current addresses balances.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Ethereum is a completely decentralized platform for developing
+        DApps and other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Ethereum is one of the most popular cryptocurrencies and is available
+        on almost all exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: 'Ethereum was founded by Vitalik Buterin, who has made his mark
+        in the cryptocurrency and Blockchain community as an enthusiast and a promoter.
+        He is very well-respected within the crypto-community and has promoted the
+        understanding and overall knowledge of cryptocurrencies through his undying
+        efforts of contributing to different blog posts and forums. He also founded
+        the Bitcoin Magazine in May 2012 in order to enhance awareness of the general
+        public towards the use of cryptocurrencies and Blockchain technology (Snyder,
+        2017).  '
+      score: 4.8
+      references: 'Snyder, B. (2017, June 23). CNBC. Retrieved from CNBC Website:
+        https://www.cnbc.com/2017/06/22/meet-vitalik-buterin-the-founder-of-bitcoin-rival-ethereum.html'
+    developers:
+      description: The team consists of well-chosen figures who are experts in their
+        own field and which complement each other also. The CEO of the company is
+        Vitalik Buterin.
+      score: 4.8
+      references: 'Crunchbase. (2019, November 23). Crunchbase. Retrieved from Crunchbase
+        Website: https://www.crunchbase.com/organization/ethereum/current_employees/current_employees_image_list'
