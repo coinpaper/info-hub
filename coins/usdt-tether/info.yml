@@ -1,0 +1,396 @@
+id: usdt-tether
+symbol: USDT
+name: Tether
+logo: usdt-tether_logo@512x512.png
+founded: '2015-02-25'
+descriptions:
+  one_sentence: Stablecoin that should stay at the value of 1 USD
+  introduction: General Data and Information. Announced in July 2014 by Brock Pierce,
+    Reeve Collins and Craig Sellars as Realcoin, Tether (USDT) is the most popular
+    and liquid stablecoin in the crypto-currency ecosystem. It is a token that was
+    first issued on the Bitcoin blockchain using the Omni Layer platform, however
+    it has since been launched as a token on various other blockchains (Ethereum,
+    Tron, EOS and Algorand).
+  technology: "6th October 2014 - First tokens issued on the Bitcoin blockchain via\
+    \ the Omni Layer. 20th November 2014 - Renamed to \u201CTether\u201D. January\
+    \ 2015 - USDT trading enabled on Bitfinex, other crypto exchanges follow suit.\
+    \ 5th January 2018 - USDT tokens supported on Ethereum. 27th November 2018 - Direct\
+    \ customer (non-exchange) fiat redemption enabled. 4th March 2019 - USDT tokens\
+    \ supported on TRON. 31st May 2019 - USDT tokens supported on EOS. 29 th July\
+    \ 2019 - USDT tokens supported on Liquid Network."
+  future: 'Designed to be backed 1:1 by fiat (US dollars), Tether tokens
+    (USDT) are minted or burnt (destroyed) as the reserves held by Tether (the company)
+    increase (via deposits) or fall (via claims against the tokens). In this way,
+    Tether tokens are seen as a stable store of value in an otherwise highly volatile
+    crypto-currency ecosystem.'
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2014-11-26'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://www.omniexplorer.info/asset/31
+- https://usdt.tokenview.com
+- https://bloks.io/account/tethertether
+- https://bloks.io/tokens/USDT-eos-tethertether
+whitepaper:
+  abstract: "A digital token backed by fiat currency provides individuals and organizations\
+    \ with a robust and decentralized method of exchanging value while using a familiar\
+    \ accounting unit. The innovation of blockchains is an auditable and cryptographically\
+    \ secured global ledger. Asset\xADbacked token issuers and other market participants\
+    \ can take advantage of blockchain technology, along with embedded consensus systems,\
+    \ to transact in familiar, less volatile currencies and assets."
+  file: usdt-tether_whitepaper.pdf
+website:
+  url: https://tether.to
+video:
+  url: https://www.youtube.com/watch?v=GsSSLDzKCOE
+team:
+  leader:
+    name: Jl Van Der Velde
+    imagename: usdt-tether_jl_van_der_velde.png
+    position: CHIEF EXECUTIVE OFFICER
+    description: CEO of cryptocurrency exchange Bitfinex
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Stuart Hoegner
+    imagename: usdt-tether_stuart_hoegner.png
+    position: GENERAL COUNSEL
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stuart-hoegner-bb67695/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Giancarlo Devasini
+    imagename: usdt-tether_giancarlo_devasini.png
+    position: CHIEF FINANCIAL OFFICER
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/giancarlo-devasini-268758154
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: J. L. van der Velde
+    imagename: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/j-l-van-der-velde-26a24b6/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Philip Potter
+    imagename: null
+    position: CSO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/philip-potter-087495a6
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matthew Tremblay
+    imagename: null
+    position: CCO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/Tether/
+  twitter: https://twitter.com/Tether_to/
+  facebook: https://www.facebook.com/tether.to/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "One of the biggest limitations the cryptocurrency technologies\
+        \ battle is the huge price swings in their valuations which render them slightly\
+        \ impractical for day-to-day trading. Keeping this concern in mind, a new\
+        \ breed of cryptocurrency known as stablecoins was introduced. Stablecoins\
+        \ are backed by real-world fiat currencies like the US Dollar or Japanese\
+        \ Yen. Tether (USDT) is a Blockchain cryptocurrency backed by the US dollar\
+        \ (Blockgeeks, 2018). <br />\r\nTether was created with the sole intention\
+        \ of introducing a Blockchain-based cryptocurrency that will be stabilized\
+        \ so that it becomes a recognized and accepted means of exchange rather than\
+        \ a tool of investment. It is essential to tackle the problem of wide price\
+        \ swings if we want to see a future where cryptocurrencies could be used to\
+        \ run day-to-day business transactions. Tether aims to achieve that. Its fixed-price\
+        \ follows that of the US Dollar, which provides an incentive to the masses\
+        \ to spend token rather than \u2018HODL-ing\u2019 them (Frankenfield, 2019).\
+        \ <br />\r\n"
+      score: 4.7
+      references: "Blockgeeks. (2018, November 21). Blockgeeks Inc. Retrieved from\
+        \ Blockgeeks Inc Website: https://blockgeeks.com/guides/what-is-tether/<br\
+        \ />\r\nFrankenfield, J. (2019, June 25). Investopedia. Retrieved from Investopedia\
+        \ Website: https://www.investopedia.com/terms/t/tether-usdt.asp"
+  current_stand:
+    scandals_highlights:
+      description: "Since this stable coin was brought into the mainstream, it has\
+        \ managed to capture a considerable amount of cryptocurrency exchange activity.\
+        \ Tether is used in about 40-80 percent of all transactions happening on the\
+        \ leading exchanges of Binance and Huobi. A large part of the transactions\
+        \ sees the purchase of Bitcoin using Tether tokens. In August 2019, amidst\
+        \ the devastating performances of many cryptocurrencies, Tether managed to\
+        \ record its all-time high activity with a total market capital reaching up\
+        \ to $4 billion (Cuen, 2019). <br />\r\nHowever, Tether\u2019s history has\
+        \ not always been right on track. In November 2017, a cyber-attack on the\
+        \ Tether network resulted in a theft of about $31 million tokens. This caused\
+        \ panic and made Stablecoin users more security conscious. A little fast forward\
+        \ to January 2018 and Tether was faced with another controversy which was\
+        \ as a result of the bad faith demonstrated by the parent company Tether Ltd.\
+        \ As Tether, and all other stable coins are backed by a real-world currency\
+        \ that is supposed to be deposited in a bank account as collateral. Each Tether\
+        \ token is paired by a US Dollar. Tether Limited did not go through with the\
+        \ mandatory audit which was supposed to ensure that the real world reserves\
+        \ are maintained. This lack of transparency gave rise to the winds of suspicion\
+        \ and mistrust (Seth, 2018). <br />\r\nTether Foundation is the main body\
+        \ that supplies Tether tokens. They used to state that every Tether token\
+        \ is backed by a real-world US Dollar deposited in reserves. However, it was\
+        \ alleged that this was not the case. As much as 25% of the Tether valuations\
+        \ come from loans taken to fill the reserve which is something to be worried\
+        \ about. Contrary to their popular claim that each Tether is backed by a US\
+        \ Dollar, it has been established now that these claims were evidently empty.\
+        \ According to a Tether\u2019s spokesperson and the official website as well\
+        \ (under the Transparency description), it has been revealed that instead\
+        \ of 100% US dollar reserves, it has \u2018cash equivalents\u2019. Interestingly,\
+        \ these \u2018cash equivalents\u2019 are presumed to be loans and other cryptocurrencies\
+        \ as well. So the whole concept of pairing the cryptocurrency to a stable\
+        \ fiat currency goes down the drain because the \u2018equivalent-reserves\u2019\
+        \ are themselves highly volatile in nature. So, in short, Tether has also\
+        \ become an unregulated crypto-currency and the investors might be in for\
+        \ a surprise; perhaps, not a good one (Coppola, 2019).<br />\r\n"
+      score: 1.4
+      references: "Coppola, F. (2019, March 14). Forbes. Retrieved from Forbes Website:\
+        \ https://www.forbes.com/sites/francescoppola/2019/03/14/tethers-u-s-dollar-peg-is-no-longer-credible/#691b11f0451b<br\
+        \ />\r\nCuen, L. (2019, August 30). CoinDesk. Retrieved from CoinDesk Website:\
+        \ https://www.coindesk.com/why-tether-volume-surged-to-all-time-highs-in-august<br\
+        \ />\r\nSeth, S. (2018, June 20). Investopedia. Retrieved from Investopedia\
+        \ Website: https://www.investopedia.com/news/tether-backed-sufficient-usd-reserves/"
+    product:
+      description: "Tether is a token issued on the \u2018Omni-layer\u2019 in the\
+        \ bitcoin network. The Omni protocol basically provides a platform for new\
+        \ products to be launched on the Bitcoin Blockchain. As a result, every Omni\
+        \ transaction shares the same transaction hash as the Bitcoin transaction\
+        \ which produces it in the first place. There are other stablecoins launched\
+        \ on the Omni Protocol but Tether enjoys a massive share of 90% of Omni\u2019\
+        s transactions (Blockgeeks, 2018)."
+      score: 3.5
+      references: 'Blockgeeks. (2018, November 21). Blockgeeks Inc. Retrieved from
+        Blockgeeks Inc Website: https://blockgeeks.com/guides/what-is-tether/'
+    development:
+      description: "Tether\u2019s concept has been published in detail in the whitepaper\
+        \ provided by the parent company Tether Limited. The main code is developed\
+        \ by the company itself under the supervision of the software engineer Craig\
+        \ Sellers. The technology itself relies on the already developed major Blockchain\
+        \ of Bitcoin. Using the open-source Omni Protocol, the team was able to build\
+        \ a token whose value could be pegged to US dollar and whose transactions\
+        \ could be monitored using the Bitcoin network."
+      score: 3.0
+      references: null
+    partnerships:
+      description: "Tether has a number of notable industry partners, most of which\
+        \ ranges from trade exchanges to online banks. Industry supporters include\
+        \ Omni, Poloniex, Ambisafe, MegaChange, etc., while many trade exchanges like\
+        \ Bitfinex, Bittrex, HitBTC, etc. are listed as Tether\u2019s partner. Recently,\
+        \ Bahamian Bank revealed its partnership with Tether Limited (Baker, 2018).<br\
+        \ />\r\nIn another interesting development, Tron\u2019s CEO, Justin Sun has\
+        \ announced his intention to adopt and introduce Tether token on the Tron\
+        \ network (De, 2019).<br />\r\n"
+      score: 4.6
+      references: "Baker, P. (2018, November 1). Crypt Briefing. Retrieved from Crypt\
+        \ Briefing Web site: https://cryptobriefing.com/tether-reserves-usdt-bank-partner/<br\
+        \ />\r\nDe, N. (2019, March 04). Coin Desk. Retrieved from Coin Desk Website:\
+        \ https://www.coindesk.com/tether-to-launch-new-version-of-usdt-stablecoin-on-tron-blockchain"
+    community:
+      description: "Tether\u2019s community, essentially, is limited to users only.\
+        \ Since there is not much development required on the Tether technology, members\
+        \ of the community haven\u2019t been doing a lot to improve the technology.\
+        \ The community only includes frequent trade exchange users. According to\
+        \ some stats, around 40-80 percent of Bitcoin transactions are made through\
+        \ Tether token."
+      score: 3.3
+      references: 'Cuen, L. (2019, August 30). CoinDesk. Retrieved from CoinDesk Website:
+        https://www.coindesk.com/why-tether-volume-surged-to-all-time-highs-in-august'
+    substitutes:
+      description: 'An array of stablecoins have been launched since Tether has consolidated
+        its position in the crypto-world. Some of the substitutes considered next
+        to Tether token are USD Coin (USDC), Paxos Standard (PAX), Gemini Dollar (GUSD)
+        and MakerDAO (DAI) Stablecoin (Puckrin, 2019). '
+      score: 2.0
+      references: 'Puckrin, N. (2019, February 20). Hacked. Retrieved from Hacked
+        Website: https://hacked.com/top-4-tether-alternatives-best-stablecoins-to-hodl-crypto-gains/'
+  foresight:
+    prediction:
+      description: Tether has been recently swimming in controversy, which has painted
+        the cryptocurrency with a scandalous brush. With the entry of many other stablecoins,
+        the crypto-world might run toward the new entrants, relegating Tether coin
+        to the background, and this move will be aggravated by the ongoing negative
+        atmosphere that has surrounded the Tether coin.
+      score: 1.8
+      references: null
+    projects:
+      description: Tether was initially launched under the umbrella of the Tether
+        Foundation to create a Blockchain-based token that could bridge the gap between
+        the cryptocurrencies and the real-world currencies. However, Tether has not
+        been having a positive press, and that has affected its reputation, but despite
+        all the negative stories about Tether, technology is being used in many projects.
+        HubSpot is using Tether in projects like Select, Shepherd, Tooltip, Drop,
+        etc.
+      score: 3.2
+      references: null
+    potential:
+      description: 'Tether could potentially become the only stablecoin for cryptocurrency
+        exchanges, but this is very unlikely, as many other stablecoins are already
+        being used by cryptocurrency exchanges. '
+      score: 3.5
+      references: null
+  pro_con:
+    product_availability:
+      description: The technology is in a fully working condition with many exchanges
+        offering the coin while many Blockchain networks like Tron and Litecoin are
+        starting to introduce the technology on their networks.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Since Tether uses the Bitcoin Blockchain, its TPS is predominantly
+        the same as Bitcoin, i.e. 6-7 transactions per second.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: Tether apparently charges zero fees for transactions between Tether
+        wallets.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much lower compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: Tether can be crowned as the pioneer of the stablecoins. For this
+        reason, it is widely popular as almost every big cryptocurrency exchange offers
+        Tether tokens.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: Stablecoins follow the price value of real-world currency. The
+        energy-intensive process of mining is not involved in the working of Tether
+        and therefore is it energy-friendly.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: 'Although the currency is being presented as a decentralized system,
+        many claims have been made recently that suggests that Tether is more of an
+        entirely centralized system. To understand this notion, consider this: Tether
+        tokens are backed by US dollars which means every transaction must access
+        the reserves to ensure the presence of the fiat currency. If this access is
+        denied or the reserves are low in quantity, the entire system could crash. '
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: 'Tether is available on almost all the famous exchanges like Binance,
+        Bitfinex, Kraken, etc. '
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "Tether was initially founded by Brock Pierce, the director of\
+        \ the Bitcoin Foundation, with the technical assistance of the software engineer\
+        \ Craig Sellers and the entrepreneurial skills of Reeve Collins. Back then,\
+        \ in July 2014, the project was named Realcoin and its main objective was\
+        \ to develop a utility token that had a 1:1 parity with some real-world fiat\
+        \ currency (Jenkinson, 2018).<br />\r\nAccording to a recent development,\
+        \ it has been alleged in the leaked Paradise Papers, that Tether shares common\
+        \ management employees with the famous crypto-exchange, Bitfinex. Giancarlo\
+        \ Devasini is as of the time of this article, serving as a director for both\
+        \ companies, while Phil Potter is a director at Tether and holds the position\
+        \ of Chief Strategy Officer at Bitfinex. This allegation gave way to some\
+        \ serious suspicions regarding the transparency of Tether and the working\
+        \ and legitimacy of Bitfinex (John Ian Woong, 2017).<br />\r\n"
+      score: 2.8
+      references: "Jenkinson, G. (2018, October 17). Coin Telegraph. Retrieved from\
+        \ Coin Telegraph Website: https://cointelegraph.com/news/untethered-the-history-of-stablecoin-tether-and-how-it-has-lost-its-1-peg<br\
+        \ />\r\nJohn Ian Woong, J. D. (2017, December 7). Quartz. Retrieved from Quartz\
+        \ Website: https://qz.com/1149772/the-murky-relationship-between-bitfinex-and-tether-is-raising-suspicions/<br\
+        \ />\r\n"
+    developers:
+      description: The main representative body behind Tether is the Tether Foundation
+        whose current CEO is JL Van der Velde while Stuart Hoegner serves as the General
+        Counsel for the firm.
+      score: 3.0
+      references: null

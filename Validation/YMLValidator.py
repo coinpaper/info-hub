@@ -113,6 +113,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("eth-ethereum")
+    v = YMLValidator("usdt-tether")
     v.validate()
 
