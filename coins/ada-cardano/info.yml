@@ -1,0 +1,1649 @@
+id: ada-cardano
+symbol: ADA
+name: Cardano
+logo: ada-cardano_logo@512x512.png
+founded: '2017-09-29'
+descriptions:
+  one_sentence: Platform for smart contracts
+  introduction: "Developers position Cardano as the \u201Cthird generation blockchain.\"\
+    \ The main goal of the platform is to implement all the best features of Litecoin,\
+    \ bitcoin and ethereum into one cryptocurrency; complementing the resulting mixture\
+    \ with a number of additional innovative technologies. Security and reliability\
+    \ are higher than Bitcoin, p2p transactions are faster and cheaper than Litecoin,\
+    \ and smart contracts are better implemented than Ethereum."
+  technology: "Cardano uses the innovative Proof of Stake algorithm called Ouroboros,\
+    \ which is the first truly secure method for users, as confirmed by scientific\
+    \ research. Legal support. Unlike many cryptocurrencies that offer anonymity and\
+    \ sacrifice their reputation (money laundering charges), the Cardano team has\
+    \ very well established relations with governments and regulatory authorities\
+    \ (especially in Japan), which until recently had condemned the idea of \u200B\
+    \u200Bcryptocurrencies."
+  future: '- Continuous work to improve the project. - A serious approach to development,
+    attracting the best scientists and businessmen to the project. - Stable flow of
+    investors. - Plans to achieve full decentralization of the system. - The attractiveness
+    of using innovative technological solutions in the project. - Cardano is an ambitious
+    project that tackled many important issues of the crypto industry.'
+blockchain:
+  consensus: Proof of Stake
+  algorithm: Ouroboros
+  issue_date: '2017-10-02'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Beta version
+explorers:
+- https://adascan.net
+- https://explorer.cardano.org/en.html
+- https://cardanoscan.io
+whitepaper:
+  abstract: 'There''s no available whitepaper but academic papers. '
+  file: ada-cardano_whitepaper.pdf
+website:
+  url: https://cardano.org/
+video:
+  url: https://www.youtube.com/watch?v=58WwbOB9POE
+team:
+  leader:
+    name: Charles Hoskinson
+    imagename: ada-cardano_charles_hoskinson.png
+    position: CEO&FOUNDER
+    description: "Charles Hoskinson is a Colorado-based technology entrepreneur and\
+      \ mathematician. He attended Metropolitan State University of Denver and University\
+      \ of Colorado Boulder to study analytic number theory before moving into cryptography\
+      \ through industry exposure.\n\nHis professional experience includes founding\
+      \ three cryptocurrency-related start-ups \u2013 Invictus Innovations, Ethereum\
+      \ and IOHK \u2013 and he has held a variety of posts in both the public and\
+      \ private sectors. He was the founding chairman of the Bitcoin Foundation\u2019\
+      s education committee and established the Cryptocurrency Research Group in 2013."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/charles-hoskinson-1a95a4b4
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/IOHK_Charles
+        followers: 126652
+  members:
+  - name: Aggelos Kiayias
+    imagename: ada-cardano_aggelos_kiayias.png
+    position: Chief Scientist
+    description: Aggelos Kiayias is the chair in cybersecurity and privacy at the
+      University of Edinburgh. His research interests are in computer security, information
+      security, applied cryptography, and foundations of cryptography with a particular
+      emphasis in blockchain technologies and distributed systems, e-voting and secure
+      multiparty protocols, as well as privacy and identity management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Amanda Rasch
+    imagename: ada-cardano_amanda_rasch.png
+    position: Office Manager
+    description: 'Amanda grew up and graduated in Switzerland and since worked in
+      the Financial Industry in various roles.
+
+      This included administration, office management, executive assistance and marketing
+      management. She feels very passionate about excellent customer service and has
+      gained wide knowledge in the South African short-term insurance sector while
+      consulting private and corporate clients at a reputable brokerage for several
+      years. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tilmar Goos
+    imagename: ada-cardano_tilmar_goos.png
+    position: Legal Counsel
+    description: "Tilmar Wilhelm Goos is a Swiss based international tax and business\
+      \ specialist. He has nearly 10 years\u2019 international experience and has\
+      \ been working in China, Mexico, the Netherlands, and Portugal.\nTilmar holds\
+      \ a BBA degree in International Business & Mandarin Chinese as well as a LL.M\
+      \ in European and Trans global Business Law & Taxation. His current Ph.D research\
+      \ focuses on the tax & legal issues of the Digital Economy."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tilmarwgoos/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Juliette Adelfang
+    imagename: ada-cardano_juliette_adelfang.png
+    position: Delivery Assurance Lead
+    description: 'Juliette started her career in the insurance industry doing performance
+      analysis and training development for new personnel.
+
+      She continued her development in roles that have included corporate administration
+      and office management. Having a service oriented background, Juliette has a
+      keen interest in event management and project coordination for blockchain related
+      projects. She graduated from the University of Johannesburg with a BTech Degree
+      in Hospitality Management.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/juliette-adelfang-83324693/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steve Wagendorp
+    imagename: ada-cardano_steve_wagendorp.png
+    position: Head of Technical Operations
+    description: 'Steve joined the Cardano Foundation having recently managed operations
+      for an asset manager in Zurich focusing on fund administration, compliance,
+      regulatory matters and IT.
+
+      As a technology enthusiast, he developed a natural interest in blockchain technology
+      and decentralised application development. Steve graduated from the university
+      of Cape Town with a degree in Geomatics engineering.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/steve-wagendorp-85249611a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ye Ji Kim
+    imagename: ada-cardano_ye_ji_kim.png
+    position: Marketing & Community Team
+    description: 'Ye Ji is a management professional who has had the experiences of
+      working with various stakeholders from startups to government officials.
+
+      Ye Ji graduated from Yonsei University with a BSc degree in Political Science
+      and International Studies and also a candidate for MSc Management of Information
+      Systems and Digital Innovation in London School of Economics and Political Science. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lei Hao
+    imagename: ada-cardano_lei_hao.png
+    position: Marketing & Community Team
+    description: 'Lei is an academic and strategic advisor specialising in technology
+      and business.
+
+      Lei received his PhD in Media and Communications from Goldsmiths, University
+      of London. He has a diverse professional and academic background in the humanities
+      and ICT. His analyses are informed by empirical research on the intersections
+      of emerging technologies, human behaviour, risk, ethics, governance, entrepreneurship
+      and innovation. His current focus is on the implementation of blockchain technology. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/drleihao/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maki Mukai
+    imagename: ada-cardano_maki_mukai.png
+    position: Content Marketing & Community Manager
+    description: "Maki is a marketing professional who has had the opportunity to\
+      \ work in a number of diverse industries.\nMaki graduated from Queen\u2019s\
+      \ University with a BSc Hons. degree in Biology and Environmental Science and\
+      \ also holds a Master of Business Management from University of British Columbia.\
+      \ Having a dual degree in science and business has given her the analytical\
+      \ foundation to come in and learn about blockchain technology that will help\
+      \ better serve the Cardano community."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/makimukai/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Moss
+    imagename: ada-cardano_jon_moss.png
+    position: Marketing Consultant
+    description: "Jon helps businesses and organisations to be more successful through\
+      \ a better understanding and use of marketing, community and technology.\nHe\
+      \ is the Founder of Hull\u2019s Tech community and also ran East Yorkshire\u2019\
+      s tech conference HD Live. He is also the Co-Founder of the C4Di - Centre for\
+      \ Digital Innovation. \nHe has lived in Italy, Asia and Australia and now resides\
+      \ in the UK. Jon graduated from Cardiff University with a BCS in Physiology.\n\
+      \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jonmoss
+        followers: 2649
+  - name: Pascal Schmid
+    imagename: ada-cardano_pascal_schmid.png
+    position: Council Member
+    description: 'Pascal graduated from the University of St. Gallen in 2004 with
+      an M.A.HSG in Finance, Accounting and Controlling.
+
+      He aquired many years of well-founded professional experience as a finance expert,
+      especially in companies with IRFS and USGAAP reporting requirements. Pascal
+      joined the Cardano Foundation as Swiss foundation council member.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: PhD Duncan Coutts
+    imagename: null
+    position: Director, full stack engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/duncancoutts
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "PhD Lars Br\xFCnjes"
+    imagename: null
+    position: Director of Education
+    description: null
+    links:
+      github:
+        url: https://github.com/brunjlar
+        followers: 57
+      linkedin:
+        url: "https://www.linkedin.com/in/dr-lars-br\xFCnjes-1640993b"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/LarsBrunjes
+        followers: 1682
+  - name: PhD Philipp Kant
+    imagename: null
+    position: Director of formal methods
+    description: null
+    links:
+      github:
+        url: https://github.com/kantp
+        followers: 35
+      linkedin:
+        url: https://www.linkedin.com/in/dr-philipp-kant-4972b1a3
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/philipp_kant
+        followers: 481
+  - name: Peter Thompson
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/peterthompson
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Darryl McAdams
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/psygnisfive
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/psygnisfive
+        followers: 6
+  - name: Ante Kegalj
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/akegalj
+        followers: 16
+      linkedin:
+        url: https://www.linkedin.com/in/ante-kegalj-730a343b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jens Krause
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/sectore
+        followers: 105
+      linkedin:
+        url: https://www.linkedin.com/in/jenskrause
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sectore
+        followers: 618
+  - name: Denis Shevchenko
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/denisshevchenko
+        followers: 215
+      linkedin:
+        url: https://www.linkedin.com/in/dshevchenkobiz
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dshevchenko_biz
+        followers: 1384
+  - name: Alfredo Di Napoli
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/adinapoli-iohk
+        followers: 14
+      linkedin:
+        url: https://www.linkedin.com/in/alfredodn/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/alfredodinapoli
+        followers: 444
+  - name: Jonn Mostovoy
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/podmostom
+        followers: 834
+  - name: Arseniy Seroka
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jagajaga
+        followers: 131
+      linkedin:
+        url: https://www.linkedin.com/in/seroka
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Vieth
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/avieth
+        followers: 34
+      linkedin:
+        url: https://www.linkedin.com/in/alexander-vieth-124a47ab
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mikhail Volkhov
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/volhovM
+        followers: 109
+      linkedin:
+        url: https://www.linkedin.com/in/mikhail-volkhov-516044120
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/volkhovm
+        followers: 53
+  - name: George Agapov
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Gromakovskii
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/gromakovsky
+        followers: 140
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/gromak1994
+        followers: 43
+  - name: "Alexandre Bald\xE9"
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/rockbmb
+        followers: 21
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Artyom Kazak
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/neongreen
+        followers: 236
+      linkedin:
+        url: https://www.linkedin.com/in/artyom-kazak-1a8737105
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dmitry Kovanikov
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ChShersh
+        followers: 290
+      linkedin:
+        url: https://www.linkedin.com/in/chshersh
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ilya Lubimov
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/fersel
+        followers: 4
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/serokell
+        followers: 3043
+  - name: Vasileios Gkoumas
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/vagoum
+        followers: 16
+      linkedin:
+        url: https://www.linkedin.com/in/vasilis-goumas-011837123/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kostas Vrakopoulos
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/costasvr
+        followers: 1
+      linkedin:
+        url: https://www.linkedin.com/in/kostas-vrakopoulos-915a58149/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Edsko de Vries
+    imagename: null
+    position: Consultant
+    description: null
+    links:
+      github:
+        url: https://github.com/edsko
+        followers: 83
+      linkedin:
+        url: https://www.linkedin.com/in/edsko-de-vries-04126b31
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/EdskoDeVries
+        followers: 1234
+  - name: Andreas Triantafyllos
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/365andreas
+        followers: 4
+      linkedin:
+        url: https://www.linkedin.com/in/andreas-triantafyllos/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Edward Tate
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/et4te
+        followers: 25
+      linkedin:
+        url: https://www.linkedin.com/in/edward-tate-07a021153
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/edt8
+        followers: 122
+  - name: Stavros Chryselis
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/StavrosChryselis
+        followers: 6
+      linkedin:
+        url: https://www.linkedin.com/in/stavros-chryselis-319659b3/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/SChryselis
+        followers: 3
+  - name: Javier Roberto Diaz
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/javierdiaz72
+        followers: 1
+      linkedin:
+        url: https://www.linkedin.com/in/javier-d%C3%ADaz-0615126/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/javierdiazmanzi
+        followers: 19
+  - name: PhD Marcin Szamotulski
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/coot
+        followers: 118
+      linkedin:
+        url: https://www.linkedin.com/in/marcin-szamotulski/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/me_coot
+        followers: 580
+  - name: Jean-Christophe Mincke
+    imagename: null
+    position: Development manager
+    description: null
+    links:
+      github:
+        url: https://github.com/jcmincke
+        followers: 6
+      linkedin:
+        url: https://www.linkedin.com/in/jean-christophe-mincke-b887601/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jcmincke
+        followers: 4
+  - name: Nicholas Clarke
+    imagename: null
+    position: Consultant
+    description: null
+    links:
+      github:
+        url: https://github.com/nc6
+        followers: 31
+      linkedin:
+        url: https://www.linkedin.com/in/nicholas-clarke-09849883/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/osymandias
+        followers: 84
+  - name: Deepak Kapiswe
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/DeepakKapiswe
+        followers: 31
+      linkedin:
+        url: https://www.linkedin.com/in/deepak-kapiswe-38020711b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/deepakkapiswe
+        followers: 201
+  - name: Tatyana Valkevych
+    imagename: null
+    position: Release manager
+    description: null
+    links:
+      github:
+        url: https://github.com/tatyanavych/
+        followers: 1
+      linkedin:
+        url: https://www.linkedin.com/in/tatyanavalkevych/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tatyanavych
+        followers: 6
+  - name: Chad Nester
+    imagename: null
+    position: Compilers Engineers
+    description: null
+    links:
+      github:
+        url: https://github.com/cubesoup
+        followers: 11
+      linkedin:
+        url: https://www.linkedin.com/in/chad-nester-b43423151/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Parsons
+    imagename: null
+    position: Cardano Foundation Chairman
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nathan Kaiser
+    imagename: null
+    position: Chairperson
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Domino Burki
+    imagename: null
+    position: Council Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Manmeet Singh
+    imagename: null
+    position: Council Member (CIO Emurgo)
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/manmeetsingh/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ken Kodama
+    imagename: null
+    position: CEO Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ken-kodama-088a59101/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Emurgo_Ken
+        followers: 3039
+  - name: "Nicol\xE1s Arqueros"
+    imagename: null
+    position: CTO Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicol%C3%A1s-arqueros-05a26529
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sumire Ono
+    imagename: null
+    position: Executive Assistant Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shunsuke Murasaki
+    imagename: null
+    position: Senior Manager, Business Development Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shunsuke-murasaki-942012ba
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Encrypt2
+        followers: 889
+  - name: Yosuke Yoshida
+    imagename: null
+    position: Senior Manager, Corporate Planning
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Akihiro Yabe
+    imagename: null
+    position: Senior Manager, Corporate Department Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/akihiro-yabe-4b7563154/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kyle Peterson
+    imagename: null
+    position: Investment Group Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kylepeterson156/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shunsuke Mitsumoto
+    imagename: null
+    position: Manager, Public Relations Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sebastien Guillemot
+    imagename: null
+    position: R&D Engineering Lead Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/SebastienGllmt
+        followers: 5747
+  - name: Takahiro Hoshi
+    imagename: null
+    position: ICO Consultant Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shigetaka Doi
+    imagename: null
+    position: Human Resources Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shigetaka-doi-3406b859/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryuta Toida
+    imagename: null
+    position: Human Resources Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ryuta-toida-120286155/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Takumi Sezaki
+    imagename: null
+    position: Corporate Development Emurgo
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rebecca Valentine
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/psygnisfive
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Kristijan \u0160ari\u0107"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ksaric
+        followers: 7
+      linkedin:
+        url: https://www.linkedin.com/in/kristijan-%C5%A1ari%C4%87-a6038350
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rob Cohen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/robcohen
+        followers: 9
+      linkedin:
+        url: https://www.linkedin.com/in/rcohenme/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rob_cohen_
+        followers: 30
+  - name: "Matthias G\xFCdemann"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/mgudemann
+        followers: 33
+      linkedin:
+        url: https://www.linkedin.com/in/matthias-g%C3%BCdemann-a1539819/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Thomas Winant
+    imagename: null
+    position: Consultant
+    description: null
+    links:
+      github:
+        url: https://github.com/mrBliss/
+        followers: 14
+      linkedin:
+        url: https://www.linkedin.com/in/thomas-winant-4a0b7585/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Radu Ometita
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/raduom
+        followers: 13
+      linkedin:
+        url: https://www.linkedin.com/in/raduom/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Peyton-Jones
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/michaelpj
+        followers: 66
+      linkedin:
+        url: https://www.linkedin.com/in/michael-pj/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roman Kireev
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/effectfully
+        followers: 131
+      linkedin:
+        url: https://www.linkedin.com/in/roman-kireev-6810aa13a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vanessa McHale
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/vmchale
+        followers: 464
+      linkedin:
+        url: https://www.linkedin.com/in/vanessa-mchale-342b95140/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/vamchale
+        followers: 4303
+  - name: Alexander Nemish
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/nau
+        followers: 79
+      linkedin:
+        url: https://www.linkedin.com/in/alexander-nemish
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/atlanter
+        followers: 200
+  - name: Matthias Benkort
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/KtorZ
+        followers: 139
+      linkedin:
+        url: https://www.linkedin.com/in/matthias-benkort-47186a57/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Diemand
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/CodiePP/
+        followers: 10
+      linkedin:
+        url: https://www.linkedin.com/in/axeld
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/CodiePlusPlus
+        followers: 24
+  - name: Polina Vinogradova
+    imagename: null
+    position: Software Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/polinavino
+        followers: 4
+      linkedin:
+        url: https://www.linkedin.com/in/polina-vinogradova-62105713b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/polinavinovino
+        followers: 149
+  - name: Jordan Millar
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Jimbo4350
+        followers: 7
+      linkedin:
+        url: https://www.linkedin.com/in/jordanimillar/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Parsons
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/parsonsmatt/
+        followers: 337
+      linkedin:
+        url: https://www.linkedin.com/in/parsonsmatthew/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mattoflambda
+        followers: 3266
+  - name: Kostas Dermentzis
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/kderme
+        followers: 13
+      linkedin:
+        url: https://www.linkedin.com/in/konstantinos-dermentzis/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kostas_drmnz
+        followers: 5
+  - name: "Marko Dimja\u0161evi\u0107"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mdimjasevic
+        followers: 47
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tom Kelly
+    imagename: null
+    position: Marketing & Community Manager
+    description: Tom is an experienced marketing professional, with a background focused
+      on growing technology businesses from the ground up.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tomkelly25/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tomkelly_25
+        followers: 5602
+  - name: Bruce Milligan
+    imagename: null
+    position: General Manager
+    description: Since the Cardano Foundation was initiated in 2015 Bruce has driven
+      the growth of its operations, shaping strategy and delivering presentations.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/CardanoAnnouncements
+  reddit: https://www.reddit.com/r/cardano
+  twitter: https://twitter.com/Cardano
+  facebook: https://www.facebook.com/CardanoFoundation/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: input-output-hk
+  main_repository: input-output-hk/cardano-sl
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: Cardano was built by a team of professionals including researchers,
+        scientists, and engineers that took a strictly scientific approach. It was
+        built with the aim of providing more enhanced and advanced functions of all
+        other cryptocurrencies combined. The creators are adamant to roll out their
+        own stack of technology that could support the implementation of smart contracts
+        and to build a platform where developers can work on their decentralized applications
+        (DApps). The blockchain also aims to achieve interoperability between other
+        cryptocurrency blockchains (Kiayias, 2019).
+      score: 4.0
+      references: 'Kiayias, A. (2019, July 20). Cardano. Retrieved from Cardano Website:
+        https://eprint.iacr.org/2016/889.pdf'
+  current_stand:
+    scandals_highlights:
+      description: "The main highlight of the Cardano roadmap is its initial coin\
+        \ offering of ADA which managed to gather around $62,200,000 by the end of\
+        \ January 2017. However, a vast majority (90%) of the ADA buyers were of Japanese\
+        \ origin. This raised a serious concern in the crypto-community as this was\
+        \ a major sign that the technology evidently lacked diversity. According to\
+        \ Charles Hoskinson, the \u201CJapanese bias\u201D was due to the marketing\
+        \ strategy of Cardano with its main focus on Japan, which is so because the\
+        \ crypto-market there offers the most long term growth (McIntosh, 2018)."
+      score: 3.5
+      references: 'McIntosh, R. (2018, February 14). Financemagnates. Retrieved from
+        Financemagnates Website: https://www.financemagnates.com/cryptocurrency/news/cardanos-charles-hoskinson-preyed-upon-elderly-children-fake-news/'
+    product:
+      description: "Cardano has adopted a policy of research-first for all of its\
+        \ products. The underlying technical aspects of the Cardano platform have\
+        \ already been peer-reviewed and scientifically approved, but there\u2019\
+        s no finished product yet released that supports the developed version of\
+        \ the scientific techniques. In terms of decentralization, Cardano has failed\
+        \ to release any product that proves that the blockchain is free from the\
+        \ control of any governing authority (Undersearcher, 2019). Up till now, the\
+        \ Cardano blockchain was centralized and was being controlled by IOHK Company\
+        \ (Maurya, 2018)."
+      score: 1.7
+      references: "Undersearcher. (2019, May 2). Medium. Retrieved from Medium Website:\
+        \ https://medium.com/@undersearcher/how-decentralized-is-cardano-d3a47f985ce1\
+        \ <br />\r\nMaurya, N. (2018, October 13). Coingape. Retrieved from Coingape\
+        \ Website: https://coingape.com/iohk-splits-with-cardano-foundation/"
+    development:
+      description: The Cardano Foundation is dedicated to steadily improving and updating
+        platform, wallets, and concepts that can be used in the future for Cardano
+        blockchain. The GitHub repository has been proven to be highly active and
+        has a few thousand commits already. However, the amount of code updates each
+        commit (upload of new code) offers is minimal. The language used for the Cardano
+        blockchain codebase is the Haskell programming language, which is quite surprising,
+        as the language is considered by a lot of experts to be widely obsolete, especially
+        in this era of more modern languages.
+      score: 4.0
+      references: 'Cardano. (2019, November 17). GitHub. Retrieved from GitHub Website:
+        https://github.com/input-output-hk/cardano-sl'
+    partnerships:
+      description: According to Charles Hoskinson, there are three big cryptocurrency
+        markets in the world namely China, Japan, and South Korea and the marketing
+        strategy of Cardano is focusing on the same. The foundation partnered with
+        Metaps and launched a cryptocurrency prepaid card that will be released in
+        South Korea at the end of December. The card will be available for sale at
+        33,000 retail Korean merchants (MetapsPlus, 2018).
+      score: 3.7
+      references: 'MetapsPlus. (2018, December 11). Metaps. Retrieved from Metaps
+        Website: https://www.metaps.com/press/en/518-metaps-plus-cryptocard-en'
+    community:
+      description: 'The Cardano (ADA) community is growing at a fast pace. More and
+        more people are putting their trust in Charles Hoskinson and his vision. However,
+        Cardano is slow in delivering community-driven projects and has up until now
+        not released its main project of a decentralized platform. '
+      score: 3.4
+      references: null
+    substitutes:
+      description: "Cardano aims to provide better scalable technologies than Ethereum,\
+        \ Bitcoin and other cryptocurrencies combined. Ethereum has proven itself\
+        \ to be Cardano\u2019s biggest competition in terms of their work on Smart\
+        \ Contracts. Although Cardano boasts about its additional features and scalable\
+        \ technology, there are considerable network shortcomings, which clearly gives\
+        \ Ethereum the lead in their development. "
+      score: 2.5
+      references: null
+  foresight:
+    prediction:
+      description: For now, it is too soon to predict anything about Cardano. Sure,
+        the technology looks impressive and the team might be able to develop and
+        deliver a fully functional platform that could solve the problems that other
+        Smart Contract centric cryptocurrencies are facing. Also, there have been
+        a lot of promises on what Cardano plans to offer its users. Cardano will gain
+        momentum in such events, but for now, it can be said that other platforms
+        that are developed and currently offer better incentives will remain ahead
+        of Cardano for the time being. Cardano is currently restricted to  East Asian
+        countries and thus, will see its growth predominantly in these areas alone.
+      score: 3.5
+      references: null
+    projects:
+      description: 'The main project that Cardano is focusing on is the development
+        and implementation of its platform. The team is also researching on KMZ sidechain
+        protocol to achieve greater scalability and Quantum Resistant Signatures to
+        prevent cyber-attacks from quantum computers. '
+      score: 3.8
+      references: null
+    potential:
+      description: The potential for the growth of Cardano is massive as the industry
+        is evolving each day. Developers are eager to shift to better systems and
+        networks. It now depends on how fast the development team can finish their
+        project and introduce revolutionary functions that could render other DApp
+        platforms obsolete. The best possibility for the blockchain is that it could
+        become the most widely used and default platform for the development of DApps.
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: Although the concept of the technology has been scientifically
+        approved, there is currently no product available for Cardano (ADA).
+      is_pro: false
+      is_contra: true
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: The Cardano blockchain can handle fewer transactions per second
+        compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: The transaction fees of Cardano (ADA)  are much higher compared
+        to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_speed:
+      description: The transaction speed of Cardano (ADA) is much lower compared to
+        other already existing cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: The security provided by the blockchain is unproven and low as
+        Cardano (ADA)  is relatively new.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: Cardano (ADA) has a low acceptance rate compared to other cryptocurrencies,
+        partly because of the marketing strategy of the coin that is focusing only
+        on Japan for now.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: The energy consumption of Cardano (ADA) is high compared to other
+        cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with Cardano (ADA)  are pseudonymous and can be traced.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Cardano (ADA) is centralized and was being controlled by IOHK Company.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: 'Cardano (ADA) is available on major trusted exchanges. '
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: 'The founding body of Cardano is the Cardano Foundation and their
+        team consists of capable research-oriented individuals. Charles Hoskinson
+        is considered the main lead of the Cardano project that commenced in 2015.
+        Charles Hoskinson was also a co-founder of Ethereum. He moved to the Cardano
+        Foundation to pursue his technical ambitions of building his own cryptocurrency.
+        He praises the academic research-first policy of the Cardano Foundation (Undersearcher,
+        2018). '
+      score: 3.7
+      references: 'Undersearcher. (2018, October 18). Hackernoon. Retrieved from Hackernoon
+        Website: https://hackernoon.com/whats-going-on-with-cardano-3f2996841b21'
+    developers:
+      description: The Cardano Foundation claims that there are over 50 developers
+        that are working full time on developing the blockchain and its products.
+        These include researchers, scientists, and engineers (Mitchell, 2019).
+      score: 3.5
+      references: 'Mitchell, S. (2019, May 07). Coinrevolution. Retrieved from Coinrevolution
+        Website: https://coinrevolution.com/charles-hoskinson-reveals-that-50-blockchain-developers-are-building-cardano-projects/ '
