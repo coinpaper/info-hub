@@ -53,8 +53,11 @@ class YMLValidator:
         detected_images = os.listdir(os.path.normpath(os.path.join(os.path.dirname(__file__), f"./../coins/{self.__coin_id}/images")))
         detected_files = os.listdir(os.path.normpath(os.path.join(os.path.dirname(__file__), f"./../coins/{self.__coin_id}/files")))
 
+        leader_image = []
+        if self.__yml_to_validate["team"]["leader"]:
+            leader_image = [self.__yml_to_validate["team"]["leader"]["imagename"]]
         resolved_images = ignore_images + [self.__yml_to_validate["logo"]] + \
-                         [self.__yml_to_validate["team"]["leader"]["imagename"]] + \
+                         leader_image + \
                          [member["imagename"] for member in self.__yml_to_validate["team"]["members"]]
         resolved_files = ignore_files + [self.__yml_to_validate["whitepaper"]["file"]]
 
@@ -127,6 +130,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("bat-basic-attention-token")
+    v = YMLValidator("bch-bitcoin-cash")
     v.validate()
 
