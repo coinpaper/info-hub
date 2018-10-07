@@ -1,0 +1,157 @@
+id: dot-polkadot
+symbol: DOT
+name: Polkadot
+logo: dot-polkadot_logo@512x512.png
+founded: '2016-05-30'
+descriptions:
+  one_sentence: Network protocol that allows disparate data to be transferred across blockchains
+  introduction: We could not find out any information about Polkadot yet.
+  technology: There is no technology description for Polkadot yet.
+  future: We can not provide any looks into the future for Polkadot yet.
+blockchain:
+  consensus: PoS
+  algorithm: Blind Assignment for Blockchain Extension
+  issue_date: '2016-05-30'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://polkascan.io
+whitepaper:
+  abstract: Present-day blockchain architectures all suffer from a number of issues not least practical means of extensibility and scalability. We believe this stems from tying two very important parts of the consensus architecture, namely canonicality and validity, too closely together. This paper introduces an architecture, the heterogeneous multi-chain, which fundamentally sets the two apart. In compartmentalising these two parts, and by keeping the overall functionality provided to an absolute minimum
+    of security and transport, we introduce practical means of core extensibility in situ.
+  file: dot-polkadot_whitepaper.pdf
+website:
+  url: https://polkadot.network
+video:
+  url: https://www.youtube.com/watch?v=kw8eu2VadFA
+team:
+  leader:
+    name: Gavin Wood
+    imagename: dot-polkadot_gavin_wood.png
+    position: Founder
+    description: Co-Founder of Ethereum. Founded Polkadot.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/dot
+  twitter: null
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
