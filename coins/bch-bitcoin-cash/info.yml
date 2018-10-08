@@ -1,0 +1,307 @@
+id: bch-bitcoin-cash
+symbol: BCH
+name: Bitcoin Cash ABC
+logo: bch-bitcoin-cash_logo@512x512.png
+founded: '2017-08-01'
+descriptions:
+  one_sentence: Bitcoin copy with faster transaction times
+  introduction: "Bitcoin Cash (BCH also known as BCHABC)\
+    \ is a hard-fork of Bitcoin after consensus was not reached on the question of\
+    \ increasing the blocksize of the original Bitcoin. An increased blocksize (Bitcoin\
+    \ Cash has a maximum block size of 8MB compared to Bitcoin\u2019s 1MB) was seen\
+    \ by backers (such as Roger Ver) as enabling Bitcoin to function better as a regularly\
+    \ used currency, as a larger block size would enable more transactions to be recorded\
+    \ per block (without decreasing the average block time) thus increasing the capacity\
+    \ of the blockchain. However, opponents of the increased block size argued that\
+    \ the increased block size and increased demands on storage for the complete blockchain\
+    \ would risk increased centralization of miners capacity (as the costs of running\
+    \ mining nodes would increase further beyond the ability of smaller pools and\
+    \ individual miners). As no consensus was reached, the faction supporting the\
+    \ larger block size hard-forked Bitcoin Cash from Bitcoin. Apart from this increased\
+    \ blocksize, Bitcoin Cash is technically similar to the original Bitcoin and it\
+    \ is currently the most well known and most liquid of the blockchains that have\
+    \ forked from the Bitcoin blockchain."
+  technology: 1st August 2017 - Bitcoin Cash (BCH) hard forks from Bitcoin (BTC)  at
+    block height 478558. 1st August 2017 - Emergency Difficulty Adjustment (EDA) also
+    added as an additional difficulty reduction algorithm (able to reduce by 20%)
+    in the event that time for 6 consecutive blocks exceeds 12 hours. 15th November
+    2018 - Bitcoin SV hard forks from Bitcoin Cash (BCH) at block height 556766. Utility.
+    Just like the original Bitcoin, Bitcoin Cash sees itself as a store of value which
+    is unrestrained by national and political borders. It envisages an economic system
+    whereby two parties can exchange value trustlessly and instantly, free from interference
+    and mediation from third parties. The move to a larger block size was to enable
+    a greater number of transactions to be written to the blockchain without altering
+    other fundamental parameters of the original Bitcoin. This positions Bitcoin Cash
+    as a faster moving store of value crypto-currency with a greater emphasis on liquidity
+    and velocity in comparison to Bitcoin. Significant Features.
+  future: "Decentralized access allowing any party with the open-source software and\
+    \ internet access to send and receive Bitcoin Cash irreversibly without third\
+    \ party interference or trust. Decentralized governance via open-source development\
+    \ and forking. Future scaling via increased block size against Bitcoin (8MB vs\
+    \ 1MB), currently the full capacity is not utilised. Transactions are pseduo-anonymous.\
+    \ Funds are sent address to address, but an owner identity can eventually attributed\
+    \ to an address given enough data and analysis. Average blocktime of 10 minutes;\
+    \ Total supply of 21 million BCH; Consensus via Proof of Work (SHA-256). As of\
+    \ June 2019, research shows that the Bitcoin Cash difficulty adjustment algorithm\
+    \ appears to maintain a more stable block generation time under highly variable\
+    \ hash power in comparison to Bitcoin\u2019s algorithm. References: . Bitcoin\
+    \ price.."
+blockchain:
+  consensus: Proof of Work
+  algorithm: SHA256
+  issue_date: '2018-11-15'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://blockchair.com/bitcoin-cash/blocks
+whitepaper:
+  abstract: THERE IS NO BITCOIN CASH WHITEPAPER - Both Bitcoin cash websites posted
+    the original Bitcoin whitepaper instead.
+  file: bch-bitcoin-cash_whitepaper.pdf
+website:
+  url: https://www.bitcoincash.org
+video:
+  url: https://www.youtube.com/watch?v=bMG2Nq44gzc
+team:
+  leader:
+    name: Roger Ver
+    imagename: bch-bitcoin-cash_roger_ver.png
+    position: Founder
+    description: Founded Bitcoin Cash (BCH)
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/bitcoincashfork
+  reddit: https://www.reddit.com/r/btc/
+  twitter: https://twitter.com/bitcoin_abc
+  facebook: https://www.facebook.com/bitcoincashorg
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: Bitcoin-ABC
+  main_repository: Bitcoin-ABC/bitcoin-abc
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Bitcoin Cash (BCH) is a forked (copied) version of Bitcoin (BTC).\
+        \ Before jumping right into its details, it is essential to learn the basics\
+        \ of Bitcoin. Bitcoin is a decentralized peer-to-peer electronic cash system\
+        \ that took the world by storm as it was not controlled by any authority or\
+        \ a single institute. As the hype grew, more and more people got involved\
+        \ in the technology to the point where it was discovered that it had creating\
+        \ issues and transactional bottenecks and something was needed to address\
+        \ the scalability issues of Bitcoin. Now, the thing that needed to be done\
+        \ led to the inception of a forked technology of Bitcoin, by the name of Bitcoin\
+        \ Cash (BCH).<br />\r\nBitcoin Cash (BCH) came into being after serious concerns\
+        \ were raised about the scalability and speed of the Bitcoin Network, so much\
+        \ that it was agreed that its future was in jeopardy. Therefore, Bitcoin Cash\
+        \ (BCH) forked (copied) off the main Bitcoin (BTC) in August 2017. The purpose\
+        \ behind it was to address the aforementioned issues relating to Bitcoin.\
+        \ Bitcoin Cash fixed the mining limitation linked with Bitcoin. Previously,\
+        \ what used to happen was that the transactional fees rose to very high levels\
+        \ when there was a massive inflow of transaction requests. Bitcoin Cash increased\
+        \ the block size of the mining block from 1MB to 8MB so that more transactions\
+        \ could be processed per second. In November 2018, Bitcoin Cash (BCH) also\
+        \ forked into two newer versions, namely Bitcoin ABC (BCHABC) and Bitcoin-Satoshi-Vision\
+        \ (BSV) (CryptoChief, 2019).<br />\r\n"
+      score: 3.5
+      references: 'CryptoChief. (2019, August 26). Reddit. Retrieved from Reddit Website:
+        https://www.reddit.com/r/CryptoWikis/wiki/bitcoincash_basicinfo'
+  current_stand:
+    scandals_highlights:
+      description: Bitcoin Cash (BCH), now Bitcoin Cash ABC, has always been in the
+        news for the wrong reason, and for that reason has started to lose its integrity
+        over time. One such incident took place in May 2019. An intentional upgrade
+        was planned and announced that was supposed to enhance the performance of
+        the Bitcoin Cash (BCH) network. Normally, such activities are controlled by
+        the mining groups who have the potential to push new upgrades, deny upgrades,
+        and initiate upgrades from the community. BTC.top is a company that controls
+        over 51% of the hashing power of Bitcoin Cash (BCH) (Memoria, 2019). BTC.top
+        misused its power on 15 May 2019 by hijacking a mining block previously controlled
+        by another company called Prohashing. As a reaction, Prohashing called it
+        out and announced the very next day that they would cease all Bitcoin Cash
+        (BCH) mining from immediate effect (Hertig, 2019).
+      score: 1.5
+      references: "Memoria, F. (2019, MAy 19). Cryptoglobe. Retrieved from Cryptoglobe\
+        \ Website: https://www.cryptoglobe.com/latest/2019/05/crypto-mining-pool-btc-top-briefly-reaches-54-hahsrate-on-bitcoin-cash/<br\
+        \ />\r\nHertig, A. (2019, May 24). Coindesk. Retrieved from Coindesk Website:\
+        \ https://www.coindesk.com/bitcoin-cash-miners-undo-attackers-transactions-with-51-attack"
+    product:
+      description: The current technology of Bitcoin Cash (BCH) is undoubtedly superior
+        to the original Bitcoin and promises better performance with regards to transactions
+        per second and network speed. Despite this, Bitcoin has maintained its position
+        as the original and the pioneer cryptocurrency technology. Be it brand loyalty
+        or low key originality, but people do not accept any forked technology of
+        the Bitcoin easily. Also, new cryptocurrencies offer better packages on the
+        whole as compared to Bitcoin Cash (BCH).
+      score: 2.5
+      references: null
+    development:
+      description: 'The main development of the Bitcoin Cash (BCH) code and the network
+        was set up in the year 2018 under Roger Ver, but now that has almost come
+        to a halt. Especially after Bitcoin Cash (BCH) forked into two separate cryptocurrencies,
+        there have been no developments on the Bitcoin Cash (BCH) network. Although
+        minor changes are committed to the code, none of them can be considered a
+        major upgrade that promises better things. '
+      score: 1.5
+      references: 'Bitcoin Cash ABC Team. (2019, November). GitHub. Retrieved from
+        GitHub Website: https://github.com/Bitcoin-ABC/bitcoin-abc'
+    partnerships:
+      description: "Bitcoin Cash (BCH) managed to bag some partnerships, mainly because\
+        \ the technology had the original Bitcoin as its predecessor. In 2019, Bitcoin\
+        \ Cash (BCH) announced a partnership with the Minecraft-like gaming website\
+        \ https://www.craft.cash. The website started to accept Bitcoin Cash (BCH)\
+        \ as a transactional medium and has since processed about 550,000 transactions\
+        \ which account for nearly 50% of total Bitcoin Cash (BCH) transactions (Redman,\
+        \ 2018). <br />\r\nAnother partnership to acknowledge Bitcoin Cash (BCH) was\
+        \ with Cheap Air, who started accepting many other cryptocurrencies as well\
+        \ as Ethereum, Bitcoin, Dash and Litecoin (Trust Nodes, 2019).<br />\r\nBitcoin\
+        \ Cash also landed into a major agreement with BitPay, which allowed the Bitcoin\
+        \ Cash (BCH) users to create Bitcoin Cash wallets in May 2019. This was a\
+        \ major breakthrough with regard to customer services of Bitcoin Cash (BCH)\
+        \  (James, 2019). <br />\r\n<br />\r\n"
+      score: 3.0
+      references: "James. (2019, October 11). Bitpay. Retrieved from Bitpay Website:\
+        \ https://support.bitpay.com/hc/en-us/articles/115005884803-How-to-create-a-Bitcoin-Cash-BCH-wallet-in-the-BitPay-wallet-app<br\
+        \ />\r\nRedman, J. (2018, November 08). Bitcoin. Retrieved from Bitcoin Website:\
+        \ https://news.bitcoin.com/minecraft-like-platform-craft-cash-brings-a-3d-world-to-bitcoin-cash/<br\
+        \ />\r\nTrust Nodes. (2019, April 26). Trust Nodes. Retrieved from Trust Nodes:\
+        \ https://www.trustnodes.com/2019/04/26/cheapair-to-accept-ethereum-dash-bitcoin-cash-and-litecoin<br\
+        \ />\r\n"
+    community:
+      description: 'The community is a minor portion of the original community of
+        the giant-group Bitcoin. Lately, lesser activity has been recorded as a lot
+        of users in the community have a hard time trusting the coin based on the
+        bad press it has gathered in its short stay. Also, with the on-going negative
+        developments going around Bitcoin Cash (BCH), the community members are finding
+        it more difficult to defend the decisions of their leader Roger Ver. '
+      score: 2.0
+      references: null
+    substitutes:
+      description: Bitcoin Cash (BCH) intends to actualize the main vision of the
+        original Bitcoin (BTC), which is to  become the main recognized cryptocurrency
+        that will serve as digital cash used for transactions. However, the popularity
+        of the original Bitcoin has overshadowed the performance of all of its forked
+        versions and has restrained them from becoming mainstream. For this reason,
+        Bitcoin Cash (BCH) has not been able to gain widespread acceptance, Also,
+        there are much better options and substitutes to Bitcoin Cash that offer enhanced
+        solutions for scalability, privacy, and network speed.
+      score: 1.0
+      references: null
+  foresight:
+    prediction:
+      description: As disappointing as it may sound, the realistic prediction about
+        Bitcoin Cash is that it is likely to perish sooner or later. This is because
+        the main founding company Bitmain (Crypto Miner) has abandoned Bitcoin Cash
+        (BCH) under its new CEO. The community is getting largely uninterested, the
+        code development is sloppy and security concerns regarding the 51% hijacking
+        attacks are being raised.
+      score: 1.4
+      references: null
+    projects:
+      description: 'In an attempt to save the sinking ship, Bitcoin Cash (BCH) is
+        looking to initiate a project that will update the cryptographic algorithms
+        with Schnorr Signatures (cryptographic scheme known for its simplicity). This
+        might help the Bitcoin Cash (BCH) network to improve its scalability and practicality,
+        but there is no guarantee that this will truly save the ship from sinking. '
+      score: 3.6
+      references: null
+    potential:
+      description: The potential of the current Bitcoin Cash (BCH) network is dispiriting.
+        However, if the team manages to enter into a big strategic partnership, it
+        can create an ecosystem that will attract new mining companies, new businesses
+        and a whole lot of new users.
+      score: 4.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: 'It can handle more transactions per second compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: 'The transaction fees are much lower compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'The transaction speed is much higher compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    security:
+      description: 'In light of the recent mining attacks on the network, it has been
+        established that Bitcoin Cash (BCH) is weak in terms of security. It is a
+        relatively newer coin and has unproven standards of security. '
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: The coin has a low acceptance rate compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: Bitcoin Cash (BCH) relies on mining and therefore, consumes more
+        energy as compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: As much the founding members claim Bitcoin Cash (BCH) is a decentralized
+        cryptocurrency, recent control by the mining giants have proven otherwise.
+        There are claims and proof that it is in fact, centralized.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: The coin is available on the major trusted exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "Bitcoin Cash (BCH) separated from the Bitcoin (BTC) network due\
+        \ to the support and backing of mainly two leaders, Roger Ver and Jihan Wu.\
+        \ Roger Ver is a previous member of the Bitcoin governing community and owns\
+        \ the Bitcoin.com website that he\u2019s using to promote Bitcoin Cash (BCH).\
+        \ Jihan Wu, on the other hand, is the CEO of Bitmain, an organization that\
+        \ builds mining rigs for cryptocurrencies. The fork, on the whole, received\
+        \ a lot of backlash and unfriendly questions as the critics questioned the\
+        \ motive behind choosing the name \u2018Bitcoin Cash\u2019 knowing too well\
+        \ that it was very similar to the original cryptocurrency \u2018Bitcoin\u2019\
+        . Critics claimed that this could lead to misguidance and deceive the newcomers\
+        \ into thinking that Bitcoin Cash is the original Bitcoin (de, 2018).<br />\r\
+        \nShortly after, Bitmain wanted to be out of the Bitcoin Cash conspiracy after\
+        \ its main investors, IDG Capital and Sequoia Capital (investment and capital\
+        \ firms) claimed that Jihan Wu has misrepresented, misquoted and misinterpreted\
+        \ the proposal and progress numbers (Drake, 2019).<br />\r\n"
+      score: 1.5
+      references: "de, N. (2018, December 07). Coindesk. Retrieved from Coindesk Website:\
+        \ https://www.coindesk.com/mining-firm-claims-bitcoin-abc-proponents-hijacked-bitcoin-cash<br\
+        \ />\r\nDrake, E. (2019, April 26). Coingeek. Retrieved from Coingeek Website:\
+        \ https://coingeek.com/jihan-wu-on-his-own-bitmain-reportedly-wants-out-of-failure-bitcoin-cash/<br\
+        \ />\r\n"
+    developers:
+      description: Not much is known about a developing team.
+      score: 2.0
+      references: null

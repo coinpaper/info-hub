@@ -1,0 +1,547 @@
+id: xrp-xrp
+symbol: XRP
+name: Ripple
+logo: xrp-xrp_logo@512x512.png
+founded: '2013-04-01'
+descriptions:
+  one_sentence: Global transactions for financial institutions
+  introduction: "Ripple, the company behind xRapid, xCurrent and XRP solutions continues\
+    \ to invest heavily in developing its ecosystem.  Its main objective has always\
+    \ been to increase the intrinsic value of its currency and trading technologies,\
+    \ as well as taking the adoption of cryptocurrencies to a new level. The company\
+    \ recently partnered with MoneyGram, an international money transfer service.\
+    \  The initial idea of \u200B\u200Bthe partnership was for MoneyGram to test xRapid\
+    \ and xCurrent as transaction tools. XRapid and xCurrent can be used to settle\
+    \ international transactions fast and cheap."
+  technology: Fortunately the test seems to have been a success as MoneyGram has announced
+    that it will adopt XRP and Ripple's solutions in full. According to ZyCrypto,
+    xRapid was considered an efficient form of transaction, reducing the time and
+    cost of transfer settlements. Interestingly, the recent partnership was born of
+    a rivalry.  Ripple, which is trying to bring a revolution for transfer solutions,
+    had MoneyGram as its direct competitor, since both were in the same industry.
+  future: This is where both sides win and the cryptocurrency ecosystem benefits.
+    The news is excellent for the XRP, but there is no price movement yet. XRP remains
+    the third largest in the industry at $ 0.316480 and up 1.5%, moving similarly
+    to the rest of the cryptocurrency. It is possible that when the partnership gains
+    strength, the currency will appreciate more, but this is far from certain.  In
+    addition, altcoins have been at a low point for a few weeks..
+blockchain:
+  consensus: Ripple Protocol Consensus Algorithm
+  algorithm: Ripple Protocol Consensus Algorithm
+  issue_date: '2013-02-02'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://xrpcharts.ripple.com/
+- https://bithomp.com/explorer/
+- https://xrpscan.com/
+whitepaper:
+  abstract: While several consensus algorithms exist for the Byzantine Generals Problem,
+    specifically as it pertains to distributed payment systems, many suffer from high
+    latency induced by the requirement that all nodes within the network communicate
+    synchronously.  The result is a low-latency consensus algorithm which still maintains
+    robustness in the face of Byzantine failures.
+  file: xrp-xrp_whitepaper.pdf
+website:
+  url: https://ripple.com
+video:
+  url: https://www.youtube.com/watch?v=Uy5e26c6P2Y
+team:
+  leader:
+    name: Brad Garlinghouse
+    imagename: xrp-xrp_brad_garlinghouse.png
+    position: CEO
+    description: 'Brad is the CEO of Ripple and a member of the Board of Directors.
+      Prior to Ripple, Brad served as the CEO of file collaboration service Hightail.
+      From 2009 to 2012 he was President of Consumer Applications at AOL and prior
+      to that he held various executive positions at Yahoo! from 2003 to 2009, including
+      Senior Vice President.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bradgarlinghouse/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: David Schwartz
+    imagename: xrp-xrp_david_schwartz.png
+    position: Chief Technology Officer
+    description: "David is one of the original architects of the Ripple consensus\
+      \ network. Prior to joining Ripple, David Schwartz was Chief Technical Officer\
+      \ for WebMaster Incorporated, a Santa Clara software developer. He developed\
+      \ encrypted cloud storage and enterprise messaging systems for organizations\
+      \ like CNN and the National Security Agency (NSA). Known as \u201CJoelKatz,\u201D\
+      \ he is a respected voice in the digital currency community.\n\n"
+    links:
+      github:
+        url: https://github.com/JoelKatz
+        followers: 327
+      linkedin:
+        url: https://www.linkedin.com/in/david-schwartz-8b767b34
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ron Will
+    imagename: xrp-xrp_ron_will.png
+    position: Chief Financial Officer
+    description: 'Before joining Ripple, he was the CFO at TubeMogul, Inc., a public
+      advertising software company based in Emeryville, California that was acquired
+      by Adobe for $540 million. Prior to TubeMogul, Ron was CFO, Chief Compliance
+      Officer and Operating Partner at Mainsail Partners, a growth equity firm with
+      more than $750 million in committed capital. Ron also held a CFO role at BrightRoll,
+      Inc., a video advertising platform, where he helped scale the company and grow
+      revenue by 500% in four years. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/willron/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kahina Van Dyke
+    imagename: xrp-xrp_kahina_van_dyke.png
+    position: SVP of Business and Corporate Development
+    description: 'Prior to Ripple, Kahina lead Global Financial Services and built
+      the global payments partnerships teams at Facebook. She has held executive global
+      roles at MasterCard and Citibank mostly on international assignments. In addition,
+      Kahina is a non-executive board director of Progressive Insurance company. She
+      brings a depth of industry knowledge combined with a track record launching
+      innovative solutions with partners. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kahinavandyke/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Asheesh Birla
+    imagename: xrp-xrp_asheesh_birla.png
+    position: SVP of Product
+    description: 'Asheesh is the SVP of Product at Ripple, which he first joined in
+      2013 to lead the development of their product suite. Asheesh is an industry
+      expert on blockchain and is a frequent contributor, speaker, and advisor on
+      blockchain and cryptocurrency. Asheesh started his career as an entrepreneur
+      15 years ago in Silicon Valley, where he founded a content management company
+      that he later sold to Thomson Reuters, becoming their VP of Global Technology
+      in 2005.  '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/asheeshbirla
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ashgoblue?lang=en
+        followers: 23536
+  - name: Cory Johnson
+    imagename: xrp-xrp_cory_johnson.png
+    position: Chief Market Strategist
+    description: 'Prior to Ripple, Cory worked as a hedge fund portfolio manager at
+      Kingsford Capital Management and journalist at Bloomberg and CNBC covering high-growth
+      technology companies.
+
+      Earlier in his career Cory ushered in many startups, including theStreet.com,
+      the Industry Standard, SLAM and Vibe magazines.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/corytv?lang=en
+        followers: 61219
+  - name: Monica Long
+    imagename: xrp-xrp_monica_long.png
+    position: SVP of Marketing and Communications
+    description: Throughout her career, Monica has helped technology companies drive
+      fundamental change in the financial industry. Before joining Ripple, Monica
+      worked in corporate communications at Intuit. Prior to that, she supported startup
+      clients in various B2B and B2C sectors, with several in fintech, including Prosper.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/monicalong
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/monicalongsf?lang=en
+        followers: 8567
+  - name: Marcus Treacher
+    imagename: xrp-xrp_marcus_treacher.png
+    position: SVP of Customer Success
+    description: "Marcus has over 30 years of experience in transaction banking and\
+      \ payment technology, including 12 years in global leadership roles at HSBC.\
+      \ He served as a member of the Global Board of SWIFT from 2010 to 2016. Prior\
+      \ to joining Ripple Marcus was HSBC\u2019s Global Head of Payments Innovation,\
+      \ applying emerging fintech to solve customer challenges in digital payments,\
+      \ trade and supply chain. Prior to HSBC, he held leadership positions at Citigroup\
+      \ and Accenture. \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marcus-treacher-b8387b5/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ethan Beard
+    imagename: null
+    position: VP of Product
+    description: Ethan Beard is the SVP of Xpring at Ripple. Throughout his career,
+      Ethan has focused on building relationships between technology companies and
+      their partners, including leading the Facebook Developer Network.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ethanbeard/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ethanbeard
+        followers: 8883
+  - name: Chris Kanaan
+    imagename: null
+    position: VP of Engineering
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ckanaan
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sandi Kochhar
+    imagename: null
+    position: VP of People
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sandikochhar/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brynly Llyr
+    imagename: null
+    position: General Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brynly-llyr-3075709
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Mitchell
+    imagename: null
+    position: VP of Global Sales
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johnemitchell/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric van Miltenburg
+    imagename: null
+    position: VP of Business Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vanmiltenburg/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ericvanm?lang=en
+        followers: 2482
+socials:
+  telegram: https://t.me/Ripple
+  reddit: https://www.reddit.com/r/ripple
+  twitter: https://twitter.com/Ripple
+  facebook: https://www.facebook.com/ripplepay/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: ripple
+  main_repository: ripple/rippled
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Ripple (XRP) is among those few cryptocurrencies that took the\
+        \ market by storm and made their mark in a very short period of time. It doubles\
+        \ as an open payment network and a digital currency. The network aims to free\
+        \ the world from the binding chains of the current payment and financial network.\
+        \ In essence, it provides an alternative to banks, PayPal and credit cards\
+        \ by offering a cross border payment method while charging minimal fees for\
+        \ financial transactions.<br />\r\nAs of now, the Ripple network is working\
+        \ on the release of three different products, namely xCurrent, xRapid and\
+        \ xVia. The company is now focussing more on xCurrent and this is the product\
+        \ that has more or less become the identity of the Ripple network. It aims\
+        \ to bring financial institutions like banks on board and allows cross border\
+        \ financial transactions in a faster, secure and cheaper way (Sinha, 2019).<br\
+        \ />\r\n"
+      score: 3.7
+      references: 'Sinha, R. (2019, January 20). The First Block. Retrieved from The
+        First Block Website: https://thefirstblock.live/blog/explains/an-overview-of-ripples-ripplenet-xcurrent-xrapid-xvia/'
+  current_stand:
+    scandals_highlights:
+      description: "Ripple\u2019s first critique, which was a rather strong one is\
+        \ that the Ripple network is not decentralized. Ripple holds more than 50%\
+        \ of the total supply of RippleXRP tokens and thus can control the validation\
+        \ processes on the network. Obviously, with every other cryptocurrency offering\
+        \ a decentralized technology network, this was not welcomed by the public\
+        \ (Mix, 2018).<br />\r\nIn December 2018, a detrimental story was uncovered\
+        \ by an independent researcher, Geoff Goldberg. According to the irrefutable\
+        \ evidence unearthed, it was alleged at some point that Ripple was using fake\
+        \ social media bots to lure the new users into developing an interest towards\
+        \ the Ripple network. This greatly damaged the reputation of the institute\
+        \ and further raised questions towards the integrity of the technology (Caldwell,\
+        \ 2019).<br />\r\nRipple also made it into news, after the famous actor, Ashton\
+        \ Kutcher, donated $4 million to the DeGeneres Wildlife Fund live at the Ellen\
+        \ DeGeneres Talk Show through the Ripple network. He also stated that Ripple\
+        \ is an amazing technology and he himself has invested in this technology\
+        \ (TheEllenShow, 2018).<br />\r\n"
+      score: 2.3
+      references: "Mix. (2018, February 06). TheNextWeb. Retrieved from TheNextWeb\
+        \ Website: https://thenextweb.com/hardfork/2018/02/06/ripple-report-bitmex-centralized/<br\
+        \ />\r\nCaldwell, J. (2019, February 23). ToshiTimes. Retrieved from ToshiTimes\
+        \ Website: https://toshitimes.com/analyst-discovers-that-the-xrp-army-is-a-bunch-of-bots/<br\
+        \ />\r\nTheEllenShow. (2018, May 23). Youtube. Retrieved from Youtube Website:\
+        \ https://www.youtube.com/watch?v=a7JQzSn8Ptg"
+    product:
+      description: Among the three products offered by the Ripple network, up till
+        now, xCurrent is the most developed. It is a solution for cross-border payments,
+        which as of now, are very time consuming and include high costs. Ripple offers
+        instant transfers between borders and charges minimal fees. However, banks
+        although very interested in the technology, are reluctant to use the RippleXRP
+        token due to its high fluctuation, which has become a major issue for the
+        Ripple Company.
+      score: 3.0
+      references: null
+    development:
+      description: 'The company has rolled out the test version of the Ripple XRP
+        token. There is not much information available in relation to the current
+        state and progress of the product. However, the GitHub profile of Ripple looks
+        very busy and seems like the team is working really hard to keep it upgraded
+        and updated (Ripple Team, 2019). '
+      score: 2.7
+      references: 'Ripple Team. (2019, November). GitHub. Retrieved from GitHub Website:
+        https://github.com/ripple/rippled'
+    partnerships:
+      description: "Ripple has managed to get into a mutual agreement of partnerships\
+        \ with several businesses. On February 3, 2018, Ripple signed a mutual agreement\
+        \ with the multinational Spanish Bank, Santander Group. The bank will use\
+        \ and promote Ripple product xCurrent, but will not be using the Ripple XRP\
+        \ token for the transactional processes (Sokolov, 2019).<br />\r\nAnother\
+        \ development in the making is the partnership with the Fleetcor Indusind\
+        \ Bank. They will be making use of the xCurrent technology but it is still\
+        \ unclear as to whether they will be making use of the Ripple XRP token or\
+        \ not (Jagati, 2018).<br />\r\n"
+      score: 2.5
+      references: "Sokolov, V. (2019, July 14). BitzArena. Retrieved from BitzArena\
+        \ Website: https://bitzarena.com/ripple-xrp-powered-one-pay-fx-santander-app-enables-new-important-payment-corridor/<br\
+        \ />\r\nJagati, S. (2018, March 06). Coin News Global. Retrieved from Coin\
+        \ News Global Website: https://coinnewsglobal.com/ripple-partners-with-payment-provider-fleetcor-to-foster-xrp-use/"
+    community:
+      description: The Ripple community has one of the most active user communities
+        in the crypto-world. This could be indicated when XRP made it to the list
+        of top 10 cryptocurrencies in terms of market capitalization. The community
+        has strengthened and indicators of high user activity and involvement are
+        seen. The community promotes and shares recent information and developments
+        to attract new people towards the technology.
+      score: 4.0
+      references: null
+    substitutes:
+      description: 'The biggest threat to the Ripple Network currently is Stellar
+        Lumen. Stellar was created by the co-founder of Ripple, McCaleb, and is evidently
+        a forked (copied) version of the Ripple technology. '
+      score: 4.3
+      references: null
+  foresight:
+    prediction:
+      description: "The Ripple product xCurrent has a bright future in the crypto\
+        \ market. However, the success of the Ripple XRP token heavily depends upon\
+        \ recognition and acceptance by financial institutions as a  token for transactional\
+        \ purposes. The main hindrance towards making the Ripple XRP acceptable is\
+        \ not only its high volatility and unstable behaviour, but also getting the\
+        \ bank to trust the technology. Financial institutions like banks might not\
+        \ be interested in giving full control of a very high-profile transaction\
+        \ to the Ripple network. What banks might be interested in would be to create\
+        \ an ecosystem of their own, with partnerships and collaborations with other\
+        \ banks in order to use the xCurrent technology. This would serve their purpose\
+        \ better.<br />\r\n"
+      score: 1.8
+      references: null
+    projects:
+      description: "There are no new projects in the company\u2019s pipeline. They\
+        \ are currently focusing on the already announced products and much of the\
+        \ efforts are directed towards making it better and marketing of the technology,\
+        \ to attract businesses for partnerships and to attract potential investors\
+        \ for the Ripple XRP token. "
+      score: 2.1
+      references: null
+    potential:
+      description: 'The potential that this technology holds is exceptionally huge.
+        For this very same reason, financial institutions are reluctant to promote
+        the usage of Ripple because the network, if it becomes implemented, could
+        damage the importance of the banking network. If the Ripple coin XRP is adopted
+        by major banks, it would see a bright future. '
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available and is currently undergoing test
+        in its beta mode.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Ripple network can handle many more transactions per second compared
+        to other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: The transaction fees are much lower compared to other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'The transaction speed is much higher compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    security:
+      description: Ripple offers relatively high security. The coin has been around
+        for a while and has made quite an impression on multiple occasions.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: The coin has a low acceptance rate compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'The energy consumption is low compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous and thus can be tracked.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: The coin is centralized with Ripple owning the majority of the
+        XRP supply.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: 'The coin is available on the major trusted exchanges. '
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "The minds behind the Ripple technology are Chris Larsen and McCaleb.\
+        \ McCaleb is a competent, skilful programmer and has several ventures to his\
+        \ name. He founded the famous file sharing program eDonkey2000, which was\
+        \ put down by the regulatory authorities and he was forced to pay $30 million\
+        \ in compensation (Mennecke, 2006). Afterward, he created the website MtGox\
+        \ (which was hacked on June 2011 \u2013 USD 9 million were stolen). He later\
+        \ sold the website, while still holding a considerable amount of shares of\
+        \ it (McCormack, 2019). <br />\r\nMcCaleb co-founded Ripple in 2012 with Larsen,\
+        \ but his term there was short-lived. He left the Ripple network in 2014 to\
+        \ start out his own cryptocurrency venture Stellar Lumens which is considered\
+        \ as a Ripple fork. Currently, Larsen is single-handedly leading the Ripple\
+        \ Team.<br />\r\n"
+      score: 2.0
+      references: "McCormack, P. (2019, March 28). Hackernoon. Retrieved from HAckernoon\
+        \ Website: https://hackernoon.com/jed-mccaleb-on-the-creation-of-mt-gox-85645521eabf<br\
+        \ />\r\nMennecke, T. (2006, September 12). Slyck. Retrieved from Slyck Website:\
+        \ https://www.slyck.com/story1288_eDonkey_Settles_for_30_Million<br />\r\n"
+    developers:
+      description: The Ripple Foundation is currently being lead by the CEO, Brad
+        Garlinghouse. The team includes many experienced individuals with knowledge
+        in both technical and financial services.
+      score: 3.5
+      references: null
