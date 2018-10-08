@@ -1,0 +1,556 @@
+id: vet-vechain
+symbol: VET
+name: VeChain
+logo: vet-vechain_logo@512x512.png
+founded: '2017-08-31'
+descriptions:
+  one_sentence: Inventory tracking system for businesses
+  introduction: With the concept of 'Live for Collaboration', the VeChain project
+    began in 2015 and is built to be the public blockchain platform supporting blockchain-based
+    business applications offering real economic and social value.
+  technology: As a leading global enterprise level public blockchain platform, the
+    VeChainThor Blockchain provides a comprehensive governance structure, a robust
+    economic model, and advanced IoT integration, which can build a trust-free and
+    distributed business ecosystem platform to enable a transparent information flow,
+    efficient collaboration and high-speed value transfer..
+  future: We can not provide any looks into the future for VeChain yet.
+blockchain:
+  consensus: Proof of Authority
+  algorithm: PoA
+  issue_date: '2018-06-30'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://explorer.vtho.net/
+- https://ethplorer.io/address/0xd850942ef8811f2a866692a623011bde52a462c1
+whitepaper:
+  abstract: "VeChain is the world\u2019s leading blockchain platform offering Blockchain-as-a-Service\
+    \ to enterprises for products and information. By leveraging on blockchain technology,\
+    \ VeChain strives to build a trust-free and distributed business ecosystem, which\
+    \ is self-circulating and scalable."
+  file: vet-vechain_whitepaper.pdf
+website:
+  url: https://www.vechain.org
+video:
+  url: https://www.youtube.com/watch?v=dpT7zLNu4qk
+team:
+  leader:
+    name: Sunny Lu
+    imagename: vet-vechain_sunny_lu.png
+    position: CEO
+    description: Sunny was graduated from Shanghai Jiao Tong University, majored in
+      Electronics and Communication Engineering. He has been served as IT Executive
+      in Fortune 500 companies over 13 years, former CIO of LV China. He started VeChain
+      project in 2015.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sunny-lu-55456915/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Noah Huo
+    imagename: vet-vechain_noah_huo.png
+    position: CMO
+    description: Noah has over 5 years experiences of consulting and assurance services
+      in FinTech, cybersecurity and blockchain technology. He involved in financial
+      crime detection and prevention in NAB before he played a critical role in the
+      blockchain development in PwC CN/HK. In February 2018, Noah joined VeChain to
+      be in charge of PR management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/noah-huo/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peter Zhou
+    imagename: vet-vechain_peter_zhou.png
+    position: Chief Scientist
+    description: Peter was involved in projects funded by the European Commission
+      and Academy of Finland when working as a postdoctoral researcher at the University
+      of Kent, UK as well as a senior research scientist at the University of Oulu,
+      Finland.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/margaret-zhu-a8666b25/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jerome Grilleres
+    imagename: vet-vechain_jerome_grilleres.png
+    position: VeChain Europe GM
+    description: "Jerome holds an MBA from London Business School and a MSc in Computer\
+      \ Science. He is from Barclays France and has 8 years\u2019 experience in Business\
+      \ Strategy and Development in Retail Banking and 6 years in Developing Real\
+      \ Time trading application in Investment Banks."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jeromegrilleres/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JeromeGrilleres
+        followers: 2974
+  - name: Sarah Nabaa
+    imagename: vet-vechain_sarah_nabaa.png
+    position: VeChain Singapore GM
+    description: Prior to joining VeChain in 2017, Sarah's background was in business
+      development. After 3 years of proprietary trading, she bootstrapped and sold
+      her e-commerce business and began consulting startups and SMEs on their digital
+      strategies and transformation. She graduated from NTU with a Bachelor in Electrical
+      & Electronic Engineering.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sarah-nabaa-155422103/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chin Qian
+    imagename: vet-vechain_chin_qian.png
+    position: VP-Sales & Channel
+    description: Chin worked for HP from 2004 to 2016 and accumulated rich experience
+      in marketing and project management. He joined VeChain in 2017 as director of
+      business partner recruitment and management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/%E8%AF%9A%E8%AF%9A-%E9%92%B1-01110613b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Richard Fu
+    imagename: vet-vechain_richard_fu.png
+    position: VP-Marketing
+    description: Richard has over 20 years' working experience in multinational enterprises
+      such as Shangri-la Group and LVHM specializing in sales and marketing. He joined
+      VeChain as director of PR and marketing.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/richard-%E4%BB%98%E5%AE%87-5b470b80/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jianliang Gu
+    imagename: vet-vechain_jianliang_gu.png
+    position: CTO
+    description: Jianliang was graduated from Shanghai University with master degree
+      majored in Cybernetics. He was working in TCL communication technology as Technical
+      Director. He has more than 16 years' experience in both hardware and software
+      of embedded system development and management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jianliang-gu-260506157/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/VeChain_GU
+        followers: 2408
+  - name: Kevin Feng
+    imagename: vet-vechain_kevin_feng.png
+    position: COO
+    description: Kevin Feng has over 12 years experiences of consulting and assurance
+      services in cybersecurity, privacy and emerging technology at PwC. Besides,
+      Kevin has been driving the development of blockchain services of PwC CN/HK region.
+      In January 2018, Kevin joined VeChain as COO.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ykfeng/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kfeng027
+        followers: 12809
+  - name: Jay Zhang
+    imagename: vet-vechain_jay_zhang.png
+    position: CFO
+    description: Jay has worked for PwC and Deloitte as senior manager over 14 years.
+      He joined VeChain in 2015 as the leader of Blockchain governance framework design
+      and digital assets management framework establishment.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jie-zhang-9426a74a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chun Yin (CY) Cheung
+    imagename: null
+    position: Head of Regulation Committee
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chun-yin-cy-cheung-b581b3112
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: George Kang
+    imagename: null
+    position: Head of Public Relation Committee
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wen-yu-kang-847b0b47/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marget Rui Zhu
+    imagename: null
+    position: Head of Compensation & Nomination Committee
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/margaret-zhu-a8666b25/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Renato Grottola
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/renato-grottola-36b59/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jim Breyer
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jim-breyer-361900b2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bo Shen
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/boshen1011/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/boshen1011?lang=en
+        followers: 4280
+  - name: Daniel Kelman
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/daniel-kelman-819394a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Gong
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/gongjames/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roland Sun
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/\u94ED-\u5B59-611940a7/"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nan Ning
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ning-nan-56823099/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bin Qian
+    imagename: null
+    position: Chief Blockchain Developer
+    description: Bin has over 10 years' experience in Mobile application development
+      industry, specializing in developing Internet applications based real-time communication
+      system. He is definitely P2P network technology expert.
+    links:
+      github:
+        url: https://github.com/qianbin
+        followers: 58
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Scott Brisbin
+    imagename: null
+    position: General Counsel
+    description: Scott is a well-known lawyer whose clients include Rolling Stones
+      and lead singer Mick Jagger, Disney, MGM etc., Scott joined the MSK law firm
+      after graduated and since 1989 began as a legal partner.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stbrisbin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/vechain_official_english
+  reddit: https://www.reddit.com/r/vechain
+  twitter: https://twitter.com/vechainofficial
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: vechain
+  main_repository: vechain/thor
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
