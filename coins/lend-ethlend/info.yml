@@ -1,0 +1,733 @@
+id: lend-ethlend
+symbol: LEND
+name: Aave
+logo: lend-ethlend_logo@512x512.png
+founded: '2017-05-15'
+descriptions:
+  one_sentence: Lending market
+  introduction: ETHLend.io introduces decentralized lending on Ethereum network by
+    using ERC-20 compatible tokens or Ethereum Name Service (ENS) domains as a collateral.
+    ETHLend solves the problem of reducing the loss of loan capital on default.
+  technology: On healthy loan relationships the loan is paid back. However, the pseudo-anonymous
+    nature of Ethereum blockchain network opens the possibility to avoid repayment
+    of the loan since the lender might not have all the necessary details of the borrower
+    to enforce the debt in the borrower's jurisdiction.
+  future: Moreover, enforcement in a decentralized environment, where the parties
+    can be from any part of the world, might not be efficient. ETHLend provides decentralized
+    solutions to avoid loss of capital and to make one true global lending market
+    available..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-12-01'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers: []
+whitepaper:
+  abstract: Decentralized Lending on Ethereum Network - Lending Ethereum
+  file: lend-ethlend_whitepaper.pdf
+website:
+  url: https://ethlend.io
+video:
+  url: https://www.youtube.com/watch?v=YcaX5GsdWOw
+team:
+  leader:
+    name: Stani Kulechov
+    imagename: lend-ethlend_stani_kulechov.png
+    position: CEO & Founder
+    description: Stani Kulechov is the founder and CEO of Aave and ETHLend. He is
+      an influencer in the development of technology, with extensive experience mentoring
+      founders and advisors of ICOs and blockchain projects. Stani has spoken at numerous
+      FinTech, Blockchain and cryptocurrency events, particularly on topics related
+      to Ethereum Smart Contracts.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stanislav-kulechov-361284132/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Jordan Lazaro Gustave
+    imagename: lend-ethlend_jordan_lazaro_gustave.png
+    position: COO
+    description: Jordan Lazaro Gustave is the COO of Aave. Jordan is an active member
+      in the technology industry, with a background in international relations and
+      innovation management. He has extensive experience working alongside government
+      officials and financial institutions to promote innovation.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jordan-lazaro-gustave-32018976/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Mika S\xF6yring"
+    imagename: "lend-ethlend_mika_s\xF6yring.png"
+    position: CFO
+    description: "Mika S\xF6yring is the CFO of Aave. Mika previously served as the\
+      \ CFO of health technology company Revenio Group Corporation (formerly Done\
+      \ Solutions Corporation), and has extensive experience as an entrepreneur and\
+      \ a financial specialist. Mika holds a master\u2019s degree from the Helsinki\
+      \ School of Economics and Business Administration."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maria Magenes
+    imagename: lend-ethlend_maria_magenes.png
+    position: CMO
+    description: Maria Magenes is the CMO of Aave. She previously worked for McKinsey
+      and Sky Italia, a media broadcasting company where she gained 3 years of strategic
+      marketing experience. She have always been interested in tech and its possible
+      applications and impacts on finance, business and everyday life.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ville Valkonen
+    imagename: lend-ethlend_ville_valkonen.png
+    position: CCO
+    description: Ville Valkonen is the CCO of Aave. He previously operated a legal
+      consulting firm that focused on startups in Finland. He also worked with several
+      law firms, focusing heavily on SMEs and providing counseling on contract matters
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/villevvalkonen
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martin Wichmann
+    imagename: null
+    position: Growth Hacker
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/martin-wichmann-89722561/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Kersten Sch\xFCtze"
+    imagename: null
+    position: Head of corporate strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kersten-schuetze/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adnan Javed
+    imagename: null
+    position: Legal Strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adnan-javed
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jitendra Chittoda
+    imagename: null
+    position: Blockchain Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jchittoda/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Amir Dib
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/amir-dib-b0345175/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jin Park
+    imagename: null
+    position: Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jparkingspace/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Edmund To
+    imagename: null
+    position: Full stack software engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/edmundto/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jesmer Wong
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jesmerwong/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anastasija Plotnikova
+    imagename: null
+    position: Business Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/anastasija-plotnikova/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nolvia Serrano
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nolvia-serrano-ba7362b2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Scott Malsbury
+    imagename: null
+    position: Communications
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/scott-malsbury-a6260b12/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rowan Van Ginkel
+    imagename: null
+    position: Design Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rowanvanginkel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luca Cotta
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/luca-cotta-0b6678145/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kelly Ann Pope
+    imagename: null
+    position: Social Media Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/smospider/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shane Benjamin
+    imagename: null
+    position: Full Stack Developer
+    description: "Shane is a full-stack Node.js developer and cryptocurrency enthusiast\
+      \ who is passionate about innovation and building the new internet by creating\
+      \ great Dapps.\r\n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shane-benjamin-24616696/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ernesto Boado
+    imagename: null
+    position: Full Stack & Jr Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ernesto-boado/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yuki Suzuki
+    imagename: null
+    position: Front End Developer
+    description: "Yuki is a experienced Javascript developer.Yuki is very interested\
+      \ in cryptocurrencies and blockchain technology and is developing web & mobile\
+      \ applications for ETHLend.\r\n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yuki-suzuki-95b21a137/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Chiang
+    imagename: null
+    position: Software Engineer
+    description: "Michael is a software engineer specializing in JavaScript and modern\
+      \ web application frameworks. He is getting his foot in the door with cryptocurrency\
+      \ technologies and is helping to develop the front end and smart contract implementations.\r\
+      \n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/michiang/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anthony Akentiev
+    imagename: null
+    position: Blockchain Developer
+    description: "More than 12 years of C++ experience. Strong Solidity knowledge\
+      \ and blockchain development experience.\r\n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/anthonyakentiev/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Koen Sanders
+    imagename: null
+    position: Cyber Security
+    description: "Koen is a young Blockchain professional, application developer and\
+      \ a hacker. He is currently studying ICT and is going to take a minor in Cybersecurity.\r\
+      \n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/koen-sanders-54aba7151/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Philipp Vasilyev
+    imagename: null
+    position: "Area Manager \u2013 Russian Market"
+    description: "\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/philipp-vasilyev-54a451b7/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steve Mann
+    imagename: null
+    position: Jr. Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stevemann2705
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Matonis
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jonmatonis/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Professor Wulf Kaal
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wulf-kaal-6904a65b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Ada Jonu\u0161\u0117"
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ada-jonuse-9766364b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Amin Rafiee
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rob Viglione
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robert-viglione-2780634
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robviglione
+        followers: 40555
+  - name: Tomoaki Sato
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tomoaki-sato-086a0555/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/ETHLend
+  reddit: https://www.reddit.com/r/ETHlend
+  twitter: https://twitter.com/AaveAave
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
