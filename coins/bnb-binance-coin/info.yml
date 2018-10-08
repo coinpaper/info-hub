@@ -1,0 +1,706 @@
+id: bnb-binance-coin
+symbol: BNB
+name: Binance Coin
+logo: bnb-binance-coin_logo@512x512.png
+founded: '2017-07-15'
+descriptions:
+  one_sentence: Payment token for the Binance exchange
+  introduction: From the ICO, Binance issued its own coin called the Binance Coin,
+    with BNB as the symbol. BNB runs natively on Binance chain. The coin was established
+    with a total supply of 200 million. Every quarter, we will destroy BNB based on
+    the trading volume on our crypto-to-crypto platform until we destroy 50% of all
+    the BNB. All transactions will be on the blockchain. We eventually will destroy
+    100MM BNB, leaving 100MM BNB remaining. The BNB coin itself has multiple forms
+    of utility, essentially being the underlying gas that powers the Binance Ecosystem.
+  technology: "- Crypto.com has included support for Binance\u2019s BNB token to its\
+    \ platform which includes the MCO Visa Card and mobile app. - Uplive platform\
+    \ supports BNB to buy virtual gifts. - Nexo platform supports the BNB coin as\
+    \ collateral for instant crypto loans. BNB Value & The Burn . You can use BNB\
+    \ to pay for any fees on Binance platform, including but not limited to: Exchange\
+    \ fees, Listing fees, and any other fee."
+  future: 'All transactions will be on the blockchain. We
+    eventually will destroy 100MM BNB, leaving 100MM BNB  remaining. Decentralized
+    Exchange. On April 23, 2019, Binance has completed the Binance Coin (BNB) mainnet
+    swap. In the future, Binance will build a decentralized exchange, where BNB will
+    be used as one of the key base assets as well as gas to be spent..'
+blockchain:
+  consensus: Byzantine Fault Tolerance
+  algorithm: Tendermint (BFT)
+  issue_date: '2017-07-08'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://explorer.binance.org/
+whitepaper:
+  abstract: 'Binance describes a world-class crypto exchange, powering the future
+    of crypto finance and the Binance coin that supports it. '
+  file: bnb-binance-coin_whitepaper.pdf
+website:
+  url: https://www.binance.com/en
+video:
+  url: https://www.youtube.com/watch?v=zNVNno9LAjo
+team:
+  leader:
+    name: Changpeng Zhao (Cz)
+    imagename: bnb-binance-coin_changpeng_zhao_(cz).png
+    position: Founder & CEO
+    description: "Expert in blockchain and trading systems\nPossesses an impressive\
+      \ track record of successful startups\nPreviously\nHead of Bloomberg Tradebook\
+      \ Futures R&D team at Bloomberg \nHead of Technology at Blockchain.info  \n\
+      Serial entrepreneur and multiple other startups."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Yi He
+    imagename: bnb-binance-coin_yi_he.png
+    position: Co-Founder & CMO
+    description: 'Previous Vice President of Yixia Technology (a comapany with 20billion
+      RMB market value) including Miaopai, Xiaokaxiu, Yizhibo), Previous Co-founder at OKCoin
+      Previous travel TV host One of the most influential females of Chinese Internet Industry'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ted Lin
+    imagename: bnb-binance-coin_ted_lin.png
+    position: Chief Growth Officer
+    description: Ted leads the Growth, Commercial, and Education initiatives at Binance.
+      Graduated from Cornell University with Masters in Computer Science, he has successfully
+      led multi-national expansion initiatives in well known tech companies including
+      Infortrend, Transcend and ASUS. Having witnessed and fueled the exciting technological
+      disruptions brought on by mobility, big data, distributed and cloud computing,
+      Ted has once again risen to the challenge to join the next revolution, where
+      he works with the team of fellow Binancians to advance the adoption of cryptocurrency.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ted-lin-b71a3142/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wei Zhou
+    imagename: bnb-binance-coin_wei_zhou.png
+    position: CFO
+    description: "Mr. Zhou brings over 15 years of executive experience at leading\
+      \ technology, internet and media companies where he has built up particular\
+      \ expertise in financial management and accounting, capital markets and investments,\
+      \ as well as growing and scaling business operations in both China and the United\
+      \ States."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ella Zhang
+    imagename: bnb-binance-coin_ella_zhang.png
+    position: CEO of Binance Labs
+    description: "Ella has over 14+ yrs experience in venture capital and high tech.\
+      \ She was the youngest investment director of KPCB, where she was early investor\
+      \ for several successful companies including Rong360 (NYSE: JT) and Ximalaya\
+      \ FM. Prior to KPCB, Ella worked at Google, Tencent and UTStarcom in interdisciplinary\
+      \ roles."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ella-zhang-992b9817/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Helen Hai
+    imagename: bnb-binance-coin_helen_hai.png
+    position: Head of BCF
+    description: "HAI Helen is head of BCF, she is United Nations Goodwill Ambassador\
+      \ (UNIDO). She was named a 2015 Young Global Leader by World Economic Forum,\
+      \ She received the 2015 African Business Icon Award, and awarded as Officer\
+      \ of the National Order of Lion of Senegal in 2016."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gin Chao
+    imagename: bnb-binance-coin_gin_chao.png
+    position: Strategy Officer
+    description: "Gin Chao currently serves as Strategy Officer for Binance, where\
+      \ he leads the corporate development, venture investment and legal departments.\
+      \ He previously spent 10 years in Asia working for NBA and Dell in senior corporate\
+      \ development roles. Prior to that, he worked for 15 years in the US at Sovereign\
+      \ Investment Company leading acquisitions, Deutsche Bank's investment banking\
+      \ group raising over $2 billion in capital for Web 1.0 companies, and Price\
+      \ Waterhouse\u2019s management consulting division."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Changpeng Zhao '
+    imagename: null
+    position: CEO
+    description: "Changpeng Zhao is a Chinese-Canadian business executive, who is\
+      \ the founder and CEO of Binance, the world's largest cryptocurrency exchange\
+      \ by trading volume, as of April 2018. Zhao was previously a member of the team\
+      \ that developed Blockchain.info and also served as chief technology officer\
+      \ of OKCoin.\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/cpzhao/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/cz_binance
+        followers: 552224
+  - name: Roger Wang
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rogerlilaiwang/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Hofbauer
+    imagename: null
+    position: Chief Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jamesjhofbauer/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Allan Yan
+    imagename: null
+    position: Director of Product
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/allannyan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Leah Li '
+    imagename: null
+    position: Global PR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leahli/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sunny Li
+    imagename: null
+    position: Operations Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/SunnyJiachenLi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christy Hyungwon Choi
+    imagename: null
+    position: Director at Binance Labs
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/christy-hyungwon-choi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicholas Ng
+    imagename: null
+    position: Senior Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicholasngjf/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jin Lan
+    imagename: null
+    position: Senior Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jin-lan-4130b2172/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'David K. '
+    imagename: null
+    position: Head of Singapore
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kaodavid/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Licheng Cao
+    imagename: null
+    position: Senior Android Development Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/licheng-cao-6b1728b3/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhongyi Cheng
+    imagename: null
+    position: Operation Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zhongyi-cheng-0023b7117/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kathy Zhu
+    imagename: null
+    position: Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kathy-zhu-yuehan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rebecca M.
+    imagename: null
+    position: Talent Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rebeccamifsud/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pheng T.
+    imagename: null
+    position: Talent Acquisition
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pengphengtan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jane Zhan
+    imagename: null
+    position: Talent Acquisition
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jane-zhan-02b8405b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Diem Tran Kieu
+    imagename: null
+    position: Vietnam Marketing Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/diem-tran-kieu-156a6810a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/binanceexchange
+  reddit: https://www.reddit.com/r/binance/
+  twitter: https://twitter.com/binance
+  facebook: https://www.facebook.com/binanceexchange/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: binance-chain
+  main_repository: binance-chain/javascript-sdk
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Following the growing popularity of cryptocurrencies, many companies\
+        \ are delving into the opportunity to cash in by rolling out their own crypto-tokens\
+        \ that can be used within their own ecosystem. The use of these tokens provides\
+        \ incentives like fee-cutting, free benefits, and loyalty rewards, and this\
+        \ attracts more and more users to the platform. Similarly, the cryptocurrency\
+        \ exchange Binance.com was perhaps the first one to roll out their coin, by\
+        \ the name of Binance Coin.<br />\r\nUtility crypto-tokens are made to be\
+        \ used within the company\u2019s ecosystem. The Binance Coin is a loyalty-based\
+        \ utility token that the users if Binance.com can use. The token offers them\
+        \ a significant reduction in fees on sell/buy orders of up to 50%. The success\
+        \ of the coin is thus directly related to the performance of the Binance exchange\
+        \ (Binance Academy, 2018).<br />\r\n"
+      score: 4.7
+      references: 'Binance Academy. (2018, April 04). Binance. Retrieved from Binance
+        Website: https://www.binance.vision/glossary/binance-coin'
+  current_stand:
+    scandals_highlights:
+      description: "Lately, different crypto platforms have suffered cyber-attacks,\
+        \ and Binance.com is no exception. On March 7, 2018, there was an attempt\
+        \ by hackers to steal money and other digital assets from user accounts. The\
+        \ method they used is referred to as the \u2018phishing\u2019 method, where\
+        \ they created a web page similar to Binance\u2019s official webpage and tried\
+        \ to lure users into entering their confidential user account information\
+        \ into their database. However, the news broke out soon and Binance\u2019\
+        s security caught it early enough to prevent any major loss (Xie, 2018). <br\
+        \ />\r\nThe latest news about Binance is that they have released their own\
+        \ stable coin by the name of BGBR on 23 March 2019 (Binance, 2019 July 27).\
+        \ This was after the Tether scandal unfolded. Tether Foundation could not\
+        \ verify their fiat currency reserves to back the amount of Tether Tokens,\
+        \ and this had received a backlash from the public. Amidst the crises, Binance\
+        \ CEO had announced to roll out their own stable coin (Crypto Traders News,\
+        \ 2019).<br />\r\n"
+      score: 4.0
+      references: "Xie, A. (2018, July 14). HotBot. Retrieved from HodlBot Website:\
+        \ https://www.hodlbot.io/blog/a-thorough-investigation-of-the-binance-hack<br\
+        \ />\r\nBinance. (2019, July 27). Binance. Retrieved from Binance Website:\
+        \ https://www.binance.com/en/support/articles/360030827252<br />\r\nCrypto\
+        \ Traders News. (2019, April 27). Crypto traders Pro. Retrieved from Crypto\
+        \ traders Pro Website: https://cryptotraderspro.com/bitfinex-tether-scandal-binance-opportunity/"
+    product:
+      description: Binance Coin is relative to Binance.com's performance, which is
+        one of the best and largest among its kind. It is the biggest exchange and
+        has rightfully earned quite the reputation among cryptocurrency users and
+        investors. There are many crypto-coins listed and being exchanged on the Binance
+        exchange. The platform maintains its repute and integrity by filtering out
+        any coin that shows negative behaviour and is not suitable for the cryptocurrency
+        community. Some of the indicators that become the reason for the fall out
+        is lack of commitment of the team, low level of code and network quality,
+        public acceptance and evidence of unethical business conduct. This is how
+        Binance scrutinizes all cryptocurrencies that it offers (Binance, 2019 March
+        27).
+      score: 4.9
+      references: 'Binance. (2019, March 27). Binance. Retrieved from Binance Website:
+        https://www.binance.com/en/support/articles/360026666152'
+    development:
+      description: "The code development is currently being directed towards the creation\
+        \ of a decentralized exchange (DEX). Binance is also working hard to enhance\
+        \ the Binance Chain and its genesis block (the first block on their Blockchain)\
+        \ was mined on April 18, 2019. Binance wants to get ahead of other Blockchain\
+        \ companies and capture the market to have a heads up. The plan is to use\
+        \ BNB coin on the decentralized exchange but still wants to have a say in\
+        \ what altcoins can be listed and traded on the exchange (Binance, 2019 March\
+        \ 23).<br />\r\nIn another major development, Binance redesigned their website\
+        \ recently in June 2019. It offers an enhanced interface and an easy-to-use\
+        \ version of the website (Binance, 2019 July 13). <br />\r\n"
+      score: 4.7
+      references: "Binance. (2019, March 23). Binance. Retrieved from Binance Website:\
+        \ https://www.binance.com/en/blog/327334696200323072/Binance-DEX-Launches-on-Binance-Chain-Invites-Further-Community-Development<br\
+        \ />\r\nBinance. (2019, July 13). Binance. Retrieved from Binance Website:\
+        \ https://www.binance.com/en/blog/345864302621016064/Binance-20-Trading-Evolved-9-Features-to-Explore-with-the-Binancecom-Upgrade<br\
+        \ />\r\n"
+    partnerships:
+      description: "Binance is not new to the crypto-world and has maintained its\
+        \ position as one of the most popular crypto-exchanges. It is for sure, a\
+        \ huge force in the market. Not only in regards to its exchange, but its Binance\
+        \ Academy is looked up to as a centre of knowledge. Another initiative by\
+        \ the name of Binance Labs is researching future development possibilities\
+        \ about the Blockchain technology.<br />\r\nIn 2018, it partnered with Trust\
+        \ Wallet and acquired the company. Trust Wallet was a wallet app used to store\
+        \ cryptocurrencies. It also partnered with Certik in the same year, which\
+        \ is a Blockchain and smart contract verification platform. This enhanced\
+        \ the security of the listed tokens on Binance. Travelbybit.com was another\
+        \ venture Binance jumped into, through which the users could spend their BNB\
+        \ tokens to make transactions on the website. <br />\r\nIn late 2018, Binance\
+        \ announced their collaboration with MoedaSeeds.com. This announcement was\
+        \ intended to enable investors to contribute their BNB tokens to their loan\
+        \ programs. The year 2019 saw the unveiling of Binance and IdentityMindGlobal.com\
+        \ partnership which was made to improve data protection through KYC (Know\
+        \ Your Customer) and AML (Anti-Money Laundering) programs."
+      score: 4.6
+      references: null
+    community:
+      description: The Binance team is active on social media platforms. Even the
+        CEO of Binance, tweets frequently which help in raising the positive sentiment
+        towards the cryptocurrency exchange. In order to maintain and strengthen company-community
+        interaction, Binance has also started competitions, which is intended to allow
+        its users and members of the community to participate and get rewarded for
+        their efforts.
+      score: 4.6
+      references: null
+    substitutes:
+      description: If we talk about only the Binance ecosystem, no substitute for
+        Binance Coin has been created for now that could offer reduced transaction
+        fees. However, on other exchanges, Binance Coin cannot be used. Some exchanges
+        have their own utility tokens that can be considered substitutes to the Binance
+        Coin, for example Huobi Token.
+      score: 4.6
+      references: null
+  foresight:
+    prediction:
+      description: "The cryptocurrency exchange is one of the largest and widely used,\
+        \ and it continues to gain momentum with each passing day. As things are going,\
+        \ it is pertinent the Binance will remain one of the biggest crypto-exchanges\
+        \ and will resume attracting businesses and users in the future. The company\
+        \ is also striving to maintain its integrity and trust within the user community.\
+        \ The recent act of creating the \u2018Safu\u2019 fund (Secure Asset Fund\
+        \ for Users), which is meant to be used in any occurrence of asset theft on\
+        \ the platform, has been very well received by the general public."
+      score: 5.0
+      references: null
+    projects:
+      description: Binance, being a pioneer-company of cryptocurrencies, is maintaining
+        its ambition to work towards the betterment of the cryptocurrency community.
+        It is working on many different projects, including the development of a decentralized
+        exchange (DEX).
+      score: 4.9
+      references: null
+    potential:
+      description: "Binance is already seen as a mark of excellence in the cryptocurrency\
+        \ field. It is an embodiment of all ambitious ideas and has maintained its\
+        \ position as a leader in the market. The potential of the Binance coin is\
+        \ directly linked with the platform\u2019s performance and it can increase\
+        \ after the coin gets used in many different projects that are in the company\u2019\
+        s pipeline. "
+      score: 4.7
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available and is being used on the Binance
+        platform.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: The token can handle much fewer transactions per second compared
+        to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: The transaction fees are much higher compared to other cryptocurrencies.
+        Although the users get their transaction fees reduced by up to 50 percent,
+        there are many other cryptocurrencies that now charge zero fees.
+      is_pro: false
+      is_contra: true
+    transaction_speed:
+      description: The transaction speed is much lower as compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: 'The security of the Binance Coin is relatively high. The coin
+        has been around for quite a while now and has battled and won against cyber-attacks
+        on multiple occasions. '
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: 'The coin has a high acceptance rate compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: Energy consumption is high compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with this coin are pseudonymous and thus can be traced.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Binance coin is centralized and is controlled by the Binance Company.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: "For now the coin is only available for Binance\u2019s internal\
+        \ ecosystem and is yet not available on other exchanges."
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: The Binance Coin was formed under the leadership of Binance.com.
+        It is an ERC-20 token and was proposed and launched by the founder of Binance.com
+        exchange, Changpeng Zhao. Changpeng has a history of working for crypto-currency
+        related projects. He is the co-founder of Blockchain.com (formerly known as
+        Blockchain.info) and has also served as the Chief Technology Officer (CTO)
+        of OKCoin, a platform for spot trading between fiat and digital assets (Ambler,
+        2018).
+      score: 4.9
+      references: 'Ambler, P. (2018, February 07). Forbes. Retrieved from Forbes Website:
+        https://www.forbes.com/sites/pamelaambler/2018/02/07/changpeng-zhao-binance-exchange-crypto-cryptocurrency/#454bff331eee'
+    developers:
+      description: 'The team behind Binance coin is, in essence, the same as of Binance
+        Company. The focal person is Changpeng Zhao (CZ), who founded Binance in 2017
+        and is responsible for its success (Forbes, 2018). '
+      score: 4.8
+      references: 'Forbes. (2018). Forbes. Retrieved from Forbes Website: https://www.forbes.com/profile/changpeng-zhao/#484556b36277'
