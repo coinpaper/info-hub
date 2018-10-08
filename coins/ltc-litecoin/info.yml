@@ -1,0 +1,560 @@
+id: ltc-litecoin
+symbol: LTC
+name: Litecoin
+logo: ltc-litecoin_logo@512x512.png
+founded: '2011-10-07'
+descriptions:
+  one_sentence: Bitcoin copy with faster transaction times
+  introduction: "General Data and Information. The Litecoin software was released\
+    \ on the 7th October 2011 by Charlie Lee, with the network going live roughly\
+    \ a week later on the 13th of October 2011. As a fork of Bitcoin Core, Litecoin\
+    \ featured several improvements upon the original Bitcoin protocol including reduced\
+    \ blocktimes (decreased to 2.5 minutes instead of 10 minutes), increased total\
+    \ supply and a different proof of work algorithm (scrypt vs SHA-256). The adoption\
+    \ of a faster blocktime meant that transactions were quicker to settle and be\
+    \ written into the blockchain, whilst the adoption of the memory intensive scrypt\
+    \ algorithm was intended to defeat the ASIC dominance of mining (due to the added\
+    \ financial costs of producing specialized mining machines with the required extra\
+    \ memory). However, due to the popularity of Litecoin, ASICs have been already\
+    \ developed and deployed that are able to mine the scrypt algorithm."
+  technology: 7th October 2011 - Open Source software for Litecoin released. 13th
+    October 2011 - Litecoin network goes live. May 2017 - Segregated Witness (SegWit)
+    implemented. First Lightning Network transaction completed on the Litecoin network.
+    Utility. Litecoin serves a similar use-case function as Bitcoin, attempting to
+    be a digital store of value and medium of exchange but with the advantage of faster
+    block times (which makes transactions faster to settle). In addition (due to lower
+    network usage), it has lower transaction fees than the better known flagship crypto-currency.
+    However, it suffers from a smaller market capitalization and liquidity which makes
+    it much less useful as a pairing partner for other crypto-currencies.
+  future: 'Significant Features. - Average Blocktime of 2.5 minutes; Total supply
+    of 84 million LTC; Proof of Work consensus based on scrypt algorithm. - Transactions
+    are pseduo-anonymous. Funds are sent address to address, but an owner identity
+    can eventually attributed to an address given enough data and analysis. - Whilst
+    sharing many decentralized attributes of consensus and governance as Bitcoin,
+    Litecoin does have a known creator who can provide vision and guidance for the
+    direction of the project. - Decentralized access allowing any party with the open-source
+    software and internet access to send and receive Bitcoin irreversibly without
+    third party interference or trust. - Decentralized governance via open-source
+    development and forking. References: ..'
+blockchain:
+  consensus: Proof of Work
+  algorithm: Scrypt
+  issue_date: '2011-10-08'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- http://explorer.litecoin.net/chain/Litecoin
+- https://chainz.cryptoid.info/ltc/
+- https://live.blockcypher.com/ltc/
+- https://blockchair.com/litecoin
+whitepaper:
+  abstract: NO ORIGINAL LITECOIN WHITEPAPER AVAILABLE.
+  file: ltc-litecoin_whitepaper.pdf
+website:
+  url: https://litecoin.com/en/
+video:
+  url: https://www.youtube.com/watch?v=q7B7S88RtV8
+team:
+  leader:
+    name: Charlie Lee
+    imagename: ltc-litecoin_charlie_lee.png
+    position: Founder
+    description: "Charlie Lee \uFF1AMore than four years before Charlie founded Litecoin,\
+      \ he started working at Google in September 2007 as a software engineer. At\
+      \ Google, Charlie is involved in many projects such as Play Games, YouTube Mobile\
+      \ and Chrome OS. In July 2013, Charlie left Google after five years of working\
+      \ with the company. In October 2011, Charlie Lee founded Litecoin. About two\
+      \ years after the creation of Litecoin, Charlie left Google to work for the\
+      \ newly created Coinbase."
+    links:
+      github:
+        url: https://github.com/coblee
+        followers: 581
+      linkedin:
+        url: https://www.linkedin.com/in/chocobo/
+        followers: null
+      medium:
+        url: https://medium.com/@SatoshiLite
+        followers: 7475
+      twitter:
+        url: https://twitter.com/SatoshiLite
+        followers: 821121
+  members:
+  - name: Litecoin China Community Leader
+    imagename: ltc-litecoin_litecoin_china_community_leader.png
+    position: PZ
+    description: Early Bitcoin evangelist, Convener of the Global Bitcoin Roundtable,
+      Secretary General of the Global Litecoin Roundtable, AMT Community and the sponsor
+      of the VNS project.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xinxi Wang
+    imagename: null
+    position: Director
+    description: null
+    links:
+      github:
+        url: https://github.com/wangxinxi
+        followers: 88
+      linkedin:
+        url: https://www.linkedin.com/in/wangxinxi
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/TheRealXinxi
+        followers: 30744
+  - name: Franklyn Richards
+    imagename: null
+    position: Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zing Yang
+    imagename: null
+    position: Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zing-yang-3183162/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adrian Gallagher
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/thrasher-
+        followers: 376
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/thrasher_au
+        followers: 1228
+  - name: Loshan T
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/losh11
+        followers: 85
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/loshan1212
+        followers: 7165
+  - name: Keith Yong
+    imagename: null
+    position: Operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/keith-yong-44b371151/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Warren Togami
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/wtogami
+        followers: 150
+      linkedin:
+        url: https://www.linkedin.com/in/warrentogami
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/wtogami
+        followers: 6890
+  - name: Fan Yang
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/fancycedar
+        followers: 18
+      linkedin:
+        url: https://www.linkedin.com/in/fancycedar
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Johnson Lau
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jl2012
+        followers: 269
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peng Sun
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/void-main
+        followers: 160
+      linkedin:
+        url: https://www.linkedin.com/in/void-main
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xinrong Guo
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ultragtx
+        followers: 138
+      linkedin:
+        url: https://www.linkedin.com/in/ultragtx/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Richard Macarthy
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/rjmacarthy
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Schwartz
+    imagename: null
+    position: Project Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/DaddyCool1991
+        followers: 8355
+  - name: John Eidson
+    imagename: null
+    position: Marketing & Communications
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johneidson/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luiza Palma
+    imagename: null
+    position: Social Rights & Services
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/luizalopespalma
+        followers: 86
+socials:
+  telegram: https://t.me/litecoin
+  reddit: https://www.reddit.com/r/litecoin
+  twitter: https://twitter.com/LitecoinProject
+  facebook: https://www.facebook.com/LitecoinFoundation
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: litecoin-project
+  main_repository: litecoin-project/litecoin
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "The number of different cryptocurrencies launched after the birth\
+        \ of Bitcoin in 2009 has increased beyond what anyone could\u2019ve envisaged.\
+        \ Each cryptocurrency that emerges claims that it offers something better\
+        \ in terms of scalability, speed, privacy or fees. One such cryptocurrency\
+        \ is Litecoin, which surfaced in 2011. Litecoin claims to be a better and\
+        \ lighter version of the original Bitcoin and has proved that its transactions\
+        \ are four times faster and much cheaper as well.<br />\r\nLitecoin was developed\
+        \ by a former Google employee. The technology offered by Bitcoin had some\
+        \ serious limitations and was discovered to be plagued by many flaws. Among\
+        \ these were slow speeds, low-scalability, and mining practicality problems.\
+        \ Litecoin was developed to address these issues and enhance the crypto-performance.\
+        \ Its goal is to be a storage value for digital contracts and to become a\
+        \ mainstream medium to be used for digital transactions. Its founder described\
+        \ the technology as \u2018digital silver\u2019 in relation to Bitcoin\u2019\
+        s \u2018digital gold\u2019 (Litecoin, 2012).<br />\r\n"
+      score: 2.7
+      references: 'Litecoin. (2012, March 12). Litecoin. Retrieved from Litecoin Website:
+        https://litecoin.com/en/'
+  current_stand:
+    scandals_highlights:
+      description: "The main highlight of Litecoin\u2019s history is that it has remained\
+        \ one of the most popular altcoins of all time and has performed well in the\
+        \ crypto-market. Litecoin has maintained its place in the top 10 altcoins\
+        \ of all time for a really long time, which is a good indicator of its steady\
+        \ growth and stability.<br />\r\nRecently, Litecoin\u2019s popularity took\
+        \ a serious hit after its founder announced that he has sold all of his Litecoins.\
+        \ Obviously, if the founder himself didn\u2019t believe in the potential of\
+        \ the coin enough to keep it, why would others? This expression of no-confidence\
+        \ can be seen by the fact that there are more BTC-addresses with $1000 than\
+        \ LTC-addresses with as little as $1 (Bitinfocharts, 2019).<br />\r\nAnother\
+        \ incident that made its way to the crypto-news on 24 Mar 2019, was that a\
+        \ user had to pay a staggering amount of 200 Litecoins as the fee for his\
+        \ transaction. Litecoin Foundation claims that the usual fee prices are around\
+        \ $0.05, but 200 Litecoins as fees are valued at over $17,500 (Wilfred, 2019).<br\
+        \ />\r\n"
+      score: 3.7
+      references: "Bitinfocharts. (2019). Litecoin Bitinfocharts. Retrieved from Bitinfocharts\
+        \ Litecoin: https://bitinfocharts.com/<br />\r\nWilfred, M. (2019, May 24).\
+        \ Coinfomania Litecoin. Retrieved from Litecoin Coinfomania: https://coinfomania.com/litecoin-user-spent-17500-in-fees-for-778-transfer/<br\
+        \ />\r\n"
+    product:
+      description: "Litecoin was developed to address the issue of scalability and\
+        \ to reduce the expense of transactions of Bitcoin, and it has managed to\
+        \ provide a faster and cheaper alternative to some extent. The greater performance\
+        \ is achieved through a hashing algorithm known as Scrypt instead of using\
+        \ the original SHA-256 algorithm (Asolo, 2018). <br />\r\nLitecoin Foundation\
+        \ rolled a token swapping network by the name of Lightning in November 2017.\
+        \ It provided a way to swap tokens of different Blockchains, and the first\
+        \ swap to go down in history was between Bitcoin and Litecoin.<br />\r\n<br\
+        \ />\r\n"
+      score: 3.5
+      references: 'Asolo, B. (2018, December 18). Mycryptopedia. Retrieved from Mycryptopedia
+        Website: https://www.mycryptopedia.com/litecoin-scrypt-algorithm-explained/'
+    development:
+      description: The code of Litecoin was being looked after by the Litecoin Foundation.
+        However, the upgrades have come to a disappointing halt since February 2019
+        (Litecoin Team, 2019).
+      score: 1.0
+      references: 'Litecoin Team. (2019, February 19). Github. Retrieved from Github
+        Website: https://github.com/litecoin-project/litecoin'
+    partnerships:
+      description: Litecoin garnered much of its support from the cryptocurrency exchange
+        Coinbase. Coinbase and Visa, collectively, launched the Coinbase Card which
+        allowed users to use their Litecoin, Bitcoin and Ethereum balances for transactions
+        (Zhao, 2019).
+      score: 3.5
+      references: 'Zhao, W. (2019, June 12). Coindesk. Retrieved from Coindesk Website:
+        https://www.coindesk.com/coinbase-expands-cryptocurrency-visa-debit-cards-across-europe '
+    community:
+      description: "Litecoin hosts one of the most supportive and loyal communities.\
+        \ They have toiled towards promoting technology in every way possible, but\
+        \ there have not been many incentives to create value and attract users towards\
+        \ the technology. The crypto world moved faster than they had imagined and\
+        \ so Litecoin\u2019s development team did not get the chance to fully adapt\
+        \ to  the market before other better options swooped in with their better\
+        \ features and promises. "
+      score: 2.5
+      references: null
+    substitutes:
+      description: "Litecoin did not adapt to the changing dynamics of the crypto-world\
+        \ and thus has been relegated to the background by  newer alternatives. It\
+        \ did not support the private transaction feature and did not work towards\
+        \ enhancing its network speed. Now there are much faster altcoins present\
+        \ in the market and other cryptocurrencies that offer much better solutions\
+        \ for scalability, privacy, and speed. The only hollow claim the Litecoin\
+        \ Foundation still holds is that it was once considered to be the \u2018digital\
+        \ silver\u2019 of the industry, a name people are not sure it can live up\
+        \ to at this point."
+      score: 2.0
+      references: null
+  foresight:
+    prediction:
+      description: There are no significant improvements in the technology and the
+        current state does not offer something that could be considered a customer-attracting
+        value. Litecoin might stay in the top ten cryptocurrencies for a while but
+        as things are going, it would probably be left behind to perish.
+      score: 1.5
+      references: null
+    projects:
+      description: There are no active projects under Litecoin Foundation. Even, the
+        last project that was announced and was being anticipated, was cancelled in
+        March 2018.
+      score: 1.0
+      references: null
+    potential:
+      description: Litecoin can still cash on its popularity if it wishes to, but
+        the time is of considerable importance. The potential is massive if the technology
+        manages to build partnerships with businesses and attract a user to its network.
+      score: 3.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: 'It can handle many more transactions per second compared to other
+        cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: The transaction fees are much lower compared to other cryptocurrencies.
+        The official figures claim that the fees are as less as $0.05 for most transactions.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is up to four times faster than Bitcoin and
+        many other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    security:
+      description: The security of the Litecoin network is relatively high as the
+        coin has been around for a while.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: The coin has a high acceptance rate compared to other cryptocurrencies
+        and has managed to remain in the top 10 cryptocurrencies for a long period
+        of time.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: The energy consumption is high compared to other cryptocurrencies
+        since it is based on the same architecture as Bitcoin.
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with this coin are pseudonymous and the network does
+        not support private transactions.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: 'The coin is fully decentralized. '
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: The coin is available on the major trusted exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "The founder of Litecoin Is Charlie Lee, a former employee of Google.\
+        \ Litecoin\u2019s code is very similar to the architecture of Bitcoin and\
+        \ can be considered as its forked (copied) version. Charlie Lee was very early\
+        \ to notice the limitations of Bitcoin and started working on Litecoin in\
+        \ 2011 (Litecoin-Foundation, 2014). A large portion of Litecoin tokens was\
+        \ held by the owner, Charlie Lee, who in 2018, tweeted that he has sold all\
+        \ his Litecoins. This news drastically dropped the market price of Litecoin,\
+        \ which has not been able to recover fully until now (Russell, 2017)."
+      score: 2.7
+      references: "Litecoin-Foundation. (2014, January 3). Litecoin-Foundation. Retrieved\
+        \ from Litecoin-Foundation Website: https://litecoin-foundation.org/about-us/<br\
+        \ />\r\nRussell, J. (2017, December 20). TechCrunch. Retrieved from TechCrunch\
+        \ Website: https://techcrunch.com/2017/12/20/litecoin-charlie-lee-conflict-of-interest/<br\
+        \ />\r\n"
+    developers:
+      description: 'The Litecoin development is supported by the Litecoin Foundation.
+        The current team consists mostly of members that are located in China and
+        have ample experience in their relevant fields. The founder Charlie Lee acts
+        as the Managing director of the Litecoin Foundation (Litecoin-Foundation,
+        2014). '
+      score: 3.1
+      references: 'Litecoin-Foundation. (2014, January 3). Litecoin-Foundation. Retrieved
+        from Litecoin-Foundation Website: https://litecoin-foundation.org/about-us/'
