@@ -1,0 +1,589 @@
+id: link-chainlink
+symbol: LINK
+name: Chainlink
+logo: link-chainlink_logo@512x512.png
+founded: '2017-09-21'
+descriptions:
+  one_sentence: Oracle platform - link between payment systems
+  introduction: General Data and Information. Chainlink (LINK) is a decentralized
+    network that provides information (oracles) to smart contracts. Founded in 2017
+    by Sergey Nazarov and Steve Ellis, Chainlink aims to solve the problem of off-chain
+    information sourcing by smart contracts for their execution parameters. Smart
+    contracts are designed to execute automatically when certain paramenters are met,
+    however, when these parameters exist off-chain there is a reliance on sources
+    of information (known as oracles) to provide the necessary information.
+  technology: ' The ChainLink network allows users who have either a data feed or
+    information carrying APIs to easily provide information to smart-contracts in
+    exchange for the LINK token. Milestones. September 2017 - ChainLink ICO. November
+    2018 - Town Crier (smart contracts and data privacy projects) acquired. 13th June
+    2019 - Partnership with Google announced. Utility. The Link Network provides timely
+    and accurate information to smart contracts via a decentralized network of oracles
+    (data feeds and APIs).'
+  future: 'The LINK token serves as a payment for smart contracts that utilise the
+    data provided by the Link Network, with oracles that provide accurate information
+    being rewarded in proportion to their staked LINK. Significant Features. Partnerships
+    with major industry players such as SWIFT and Google. Integrations by Ethereum
+    sidechains such as Harmony, Celer and Matic. Average blocktime n/a; Total supply
+    of 1 Billion LINK ; Oracle Consensus written into Ethereum Blockchain via threshold
+    signatures.'
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-09-22'
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers: []
+whitepaper:
+  abstract: Smart contracts are poised to revolutionize many industries by replacing
+    the need for both traditional legal agreements and centrally automated digital
+    agreements. Both performance verification and execution rely on manual actions
+    from one of the contracting parties, or an automated system that programmatically
+    retrieves and updates relevant changes. ChainLink provides on-chain components
+    for (smart-) contracts to gain external connectivity.
+  file: link-chainlink_whitepaper.pdf
+website:
+  url: https://chain.link
+video:
+  url: https://www.youtube.com/watch?v=6kEwNq7Xx50
+team:
+  leader:
+    name: Sergey Nazarov
+    imagename: link-chainlink_sergey_nazarov.png
+    position: CEO
+    description: Starting his career at FirstMark Capital, he left to join the cryptocurrency
+      revolution in 2011. He firmly believes blockchain technology has the ability
+      to change the way societies distribute wealth, enforce contracts, and share
+      critical information.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sergeydnazarov
+        followers: null
+      medium:
+        url: https://medium.com/@sergeynazarov
+        followers: 1000
+      twitter:
+        url: https://twitter.com/sergeynazarov?lang=en
+        followers: 28326
+  members:
+  - name: Rory Piant
+    imagename: link-chainlink_rory_piant.png
+    position: Community Manager
+    description: 'Rory is an experienced community manager, with a genuine passion
+      for seeing worthwhile technologies like Chainlink get adopted by the larger
+      smart contracts and cryptocurrency communities.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rorypiant/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Thomas Hodges
+    imagename: link-chainlink_thomas_hodges.png
+    position: Integration Engineer
+    description: 'Thomas is an experienced integration engineer, helping plan and
+      manage large software deployments for enterprise customers. He is also a big
+      fan of Chainlink, and the decentralized future we''re all working towards.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/thomasstevenhodges/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adelyn Zhou
+    imagename: link-chainlink_adelyn_zhou.png
+    position: Director of Marketing
+    description: 'Adelyn is an experienced growth marketer, whose senior roles at
+      her previous companies have led them to be acquired by industry leaders like
+      Amazon. Adelyn is also an expert in Applied Artificial Intelligence, and believes
+      smart contracts have a large contribution to make in that field.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adelynzhou/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dan Kochis
+    imagename: link-chainlink_dan_kochis.png
+    position: Global Head of BD & Partnerships
+    description: 'Dan has a long history of closing deals that help companies reach
+      their next stage of growth globally. He was integral to Alibaba''s first US
+      acquisition, various worldwide strategic partnerships worth over $120MM in annual
+      revenue, and corporate exits totaling over $4bn.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/daniel-kochis-9b42627/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Barker
+    imagename: link-chainlink_john_barker.png
+    position: Software Engineer
+    description: 'After an academic career studying the security of the Tor network,
+      John went on to lead development teams that have built some of the largest big
+      data processing systems, while also making open-source contributions to leading
+      projects like the Rust programming language.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Kwiatkowski
+    imagename: link-chainlink_alex_kwiatkowski.png
+    position: Software Engineer
+    description: 'Alex is an experienced software engineer who previously worked at
+      Pivotal Labs and Northpass, building secure and highly scaleable enterprise
+      software. He''s excited about the positive impact that well made smart contracts
+      will have on the world''s global financial system.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexanderkwiatkowski/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mark Oblad
+    imagename: link-chainlink_mark_oblad.png
+    position: Head of Operations
+    description: 'Mark began his career at Gunderson Dettmer, helping manage the growth
+      of leading global hedge funds. Going on to build Valcu, a technical leader in
+      contracts automation software, where Mark saw the large potential of externally
+      connected smart contracts.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/markoblad/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dimitri Roche
+    imagename: link-chainlink_dimitri_roche.png
+    position: Software Engineer
+    description: Dimitri was previously a software engineer at Pivotal Labs and McKinsey.
+      Going on to lead engineering teams at large companies like infogroup. He's excited
+      about the positive societal impact of smart contracts, through the fairness
+      and transparency they create.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steve Ellis
+    imagename: link-chainlink_steve_ellis.png
+    position: CTO
+    description: Previously a software engineer and team lead at Pivotal Labs, where
+      he worked on securing sensitive HIPAA compliant data and building scaleable
+      payments automation software. He's a big fan of Ethereum, Bitcoin and the decentralized
+      future we're all building.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/steveellis0606
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/streamofco?lang=en
+        followers: 1807
+  - name: Ari Juels
+    imagename: null
+    position: Technical Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/pub/ari-juels/0/58a/20a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/arijuels?lang=en
+        followers: 2433
+  - name: Andrew Miller
+    imagename: null
+    position: Technical Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/socrates1024
+        followers: 16012
+  - name: "\u200BEvan Cheng"
+    imagename: null
+    position: Technical Advisor
+    description: https://angel.co/evan-cheng
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chengevan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hudson Jameson
+    imagename: null
+    position: Technical Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/Souptacular
+        followers: 352
+      linkedin:
+        url: https://www.linkedin.com/in/hudsonjameson/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/hudsonjameson
+        followers: 17918
+  - name: Jake Brukhman
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jbrukh
+        followers: 14684
+  - name: Brian Lio
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brianlio
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/chainlinkofficial
+  reddit: https://www.reddit.com/r/chainlink
+  twitter: https://twitter.com/smart_contract
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: smartcontractkit
+  main_repository: smartcontractkit/chainlink
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Although cryptocurrencies have been in the news for quite some\
+        \ time, there are still some drawbacks and limitations that have continually\
+        \ hindered the technology from being completely adopted as a means of payment\
+        \ and transaction all over the world. ,Issues related to scalability, privacy,\
+        \ security, and physical integration are some of the hindrances that need\
+        \ to be addressed. At the core of the Blockchain technology is the concept\
+        \ of smart contracts, an idea first conceived in 1993. <br />\r\nSmart contracts\
+        \ can be defined as the digital version of legal contracts. The fact that\
+        \ it exists on a decentralized network gives it a beneficial edge because\
+        \ no one can alter it. Smart contracts are executed when a certain number\
+        \ of conditions are fulfilled. However the execution of a social contract\
+        \ requires some data input from the physical world. The Blockchain must acquire\
+        \ and interact with data feeds and an API (Application Programming Interface).\
+        \ The interaction with the physical world requires middleware which is known\
+        \ as an \u2018oracle\u2019. Here ChainLink comes into play. ChainLink provides\
+        \ a Blockchain-based secure oracle network (a decentralized source of information)\
+        \ that allows and streamlines the interconnectivity of smart contracts and\
+        \ external resources (Dale, 2019).<br />\r\n"
+      score: 4.5
+      references: 'Dale, O. (2019, October 09). Blockonomi. Retrieved from Blockonomi
+        website: https://blockonomi.com/chainlink-guide/'
+  current_stand:
+    scandals_highlights:
+      description: "A lot of research and hard work has been put into Chainlink since\
+        \ it was announced. However, it was not until 2017 that this Blockchain-based\
+        \ cryptocurrency came under radar and started generating waves of a revolutionary\
+        \ product. SmartContract has been working in the background for quite a while\
+        \ now, focusing on the development of the technology rather than marketing\
+        \ it. Their main agenda is to get market leaders and influencers to back them\
+        \ up in order to promote wide-scale adoption of the technology. <br />\r\n\
+        ChainLink has a history of partnership with SWIFT, which is the largest global\
+        \ provider for secure financial transactions. SmartContract is working with\
+        \ them to integrate Chainlink technology to carry out financial transactions\
+        \ (Vasileva, 2019). This can produce great results for the future of technology.<br\
+        \ />\r\nThe year 2019 has been tremendous for Chainlink, because the CEO,\
+        \ Sergey, finally announced that the much-anticipated Oracle Network will\
+        \ be launched in May 2019. The cryptocurrency\u2019s price valuation experienced\
+        \ a boom after this announcement (Price, 2019). <br />\r\nChainlink was alongside\
+        \ popular exchanges like Binance and Coinbase. This was a major accomplishment\
+        \ and development for Chainlink as it was selected on popular opinion and\
+        \ on the merit of its technology. Also, the users are showing increasing interest\
+        \ in the Blockchain and the hype is supposedly based on the anticipation of\
+        \ truly revolutionary technology. A number of notable partnerships have been\
+        \ announced by the company which looks very promising.<br />\r\nAlthough ChainLink\
+        \ has a total supply of 1 billion tokens, the current circulation has only\
+        \ reached around 350 million till now. A large portion of the tokens is still\
+        \ left to be released, and this might trigger a fall in price valuation of\
+        \ the coin."
+      score: 4.3
+      references: "Price, D. (2019, May 21). Block decoded. Retrieved from Block decoded\
+        \ Website: https://blocksdecoded.com/highlights-consensus-2019/<br />\r\n\
+        Vasileva, C. (2019, October 9). Bitcoinist. Retrieved from Bitcoinist Website:\
+        \ https://bitcoinist.com/5-reasons-why-chainlink-link-is-leading-the-market-today/<br\
+        \ />\r\n"
+    product:
+      description: "Chainlink, in real terms, is a middleware that is built to bridge\
+        \ the gap between the Blockchain-based activity and the physical processes\
+        \ involved in a transaction. It redefines the architecture of oracles and\
+        \ brings them onto Blockchain technology. The actual product was supposedly\
+        \ launched in May 2019 (Paradigm, 2019). On the official ChainLink website,\
+        \ anyone can request a \u2018Chainlink\u2018 to connect their smart contracts\
+        \ with external inputs and/or outputs like Data Feeds (Market Prices, IoT\
+        \ events, etc\u2026), Traditional Payments (Bank Accounts, PayPal, etc\u2026\
+        ), and Cross-chain (Events on another Blockchain). It is based on the Ethereum\
+        \ Blockchain. "
+      score: 4.6
+      references: 'Paradigm. (2019, March 27). Medium Corporation. Retrieved from
+        Medium Corporation Website: https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974'
+    development:
+      description: "The code is developed by SmartContract who has been working on\
+        \ the project since 2014. According to the company, ChainLink\u2019s decentralized\
+        \ oracle network is capable of providing the same level of security as smart\
+        \ contracts. The technology consists of mainly two parts, the on-chain architecture,\
+        \ and the off-chain architecture. Another protocol known as ChainLink Core\
+        \ is a software that allows the interaction of the on-chain and off-chain\
+        \ infrastructures. Very solid development on GitHub. "
+      score: 4.6
+      references: null
+    partnerships:
+      description: "ChainLink rightly cashed its growing hype in the year 2019 as\
+        \ it formed a number of partnerships to grow its network of users. Among the\
+        \ popular partnerships are SWIFT, while rumors of big announcements related\
+        \ to Google and Microsoft are making waves in the community, nothing has been\
+        \ made official yet. In March 2019, CEO Sergey announced partnerships with\
+        \ Synthetix, Provable, Bodhi and Naka Chain. Other partnerships include Olympus\
+        \ Labs, Mobilum and Kaiko. The future looks very promising in light of this\
+        \ notable growth of Chainlink\u2019s user network (Paradigm, 2019)."
+      score: 4.4
+      references: 'Paradigm. (2019, March 27). Medium Corporation. Retrieved from
+        Medium Corporation Website: https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974'
+    community:
+      description: 'The project has been around for quite some time under the umbrella
+        of SmartContract. Through the years, the team has only focused on developing
+        the technology, rather than marketing it. ChainLink is notorious for its weak
+        connections within its community and meager involvement of its users in its
+        development. However, as said before, 2019 bears good news for ChainLink.
+        The trend of little marketing and inactive community has been changing lately
+        and we may see better representation of the technology on different platforms. '
+      score: 3.0
+      references: null
+    substitutes:
+      description: "Soon after ChainLink\u2019s popularity, the world of cryptocurrency\
+        \ experienced a paradigm shift towards the building of smart contracts. So\
+        \ far, there are several alternatives competing with ChainLink technology.\
+        \ Among them are Fondu, Incetivai and Callisto Network."
+      score: 4.6
+      references: null
+  foresight:
+    prediction:
+      description: After the recent paradigm shift of the crypto-markets towards the
+        science of smart contracts, the world might possibly see Chainlink leading
+        the industry of decentralized smart contract oracles.
+      score: 4.8
+      references: null
+    projects:
+      description: SmartContracts has dedicated a lot of time to working and researching
+        ways to improve the Chainlink project, and finally it has started to bear
+        fruits. The project aims to expand its integration into different parts of
+        financial transactions while upgrading the Blockchain and its software technology
+        to further enhance the performance and usability of the technology.
+      score: 4.6
+      references: null
+    potential:
+      description: "ChainLink has the potential to become the world\u2019s leading\
+        \ decentralized oracle for smart contracts. "
+      score: 4.9
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Since Chainlink is based on Ethereum Blockchain, its processing
+        speeds would be worse than that of other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: There is no official data available concerning the transaction
+        fees of ChainLink, but since the technology addresses the scalability issues
+        that plague other cryptocurrencies, it is expected that it will be fairly
+        low.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much lower compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: The acceptance level this year is remarkable for ChainLink. Many
+        new users are indicating their interest in investing in the technology.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: 'The technology does not rely on mining processes to carry out
+        financial transactions and for that reason, it can be counted as an energy-efficient
+        technology. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: "The project\u2019s approach to maintaining decentralization is\
+        \ through three different approaches. This includes distribution of data sources,\
+        \ distribution of oracles and use of trusted hardware. The project guarantees\
+        \ the same level of decentralization as provided by smart contracts themselves."
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: ChainLink has made its debut on many popular exchanges recently,
+        which include Coinbase, Binance, and Kraken.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: ChainLink was launched by a company named SmartContract, founded
+        in 2014. Sergey Nazarov and Steve Ellis were the brains behind this project.
+        The CEO, Sergey is an entrepreneur who has had several other ventures previously.
+        The CTO, Steve is a software engineer who has served for other companies as
+        well (CoinSwitch, 2019).
+      score: 4.4
+      references: 'CoinSwitch. (2019, February 7). Coinswitch. Retrieved from CoinSwitch
+        website: https://coinswitch.co/info/chainlink/what-is-chainlink'
+    developers:
+      description: 'The Team is headed by CEO Sergey Nazarov, who is an entrepreneur
+        with a history of starting up several business ventures and CTO Steve Ellis
+        who is a software engineer who is responsible for the smooth running of the
+        technical aspect of the project. The development team includes many other
+        notable software engineers who have proven themselves in the world of cryptocurrency
+        in the past. '
+      score: 4.5
+      references: null
