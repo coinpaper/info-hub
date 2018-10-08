@@ -1,0 +1,281 @@
+id: leo-leo-token
+symbol: LEO
+name: LEO Token
+logo: leo-leo-token_logo@512x512.png
+founded: null
+descriptions:
+  one_sentence: Payment token for Bitfinex exchange
+  introduction: "iFinex started its operations in 2012, initially operating under\
+    \ the Bitfinex brand, making it one of the longest-standing exchanges in the industry.\
+    \ Since then iFinex, through its trading platforms, has become one of the best-known\
+    \ and recognized companies in the cryptocurrency space with a community of passionate\
+    \ entrepreneurs, idealists and technologists that have together created one of\
+    \ the best growth stories in our industry. Our guiding principle has always been\
+    \ innovation for progress. We are known for building industry first products and\
+    \ tools that accelerate the blockchain promise of freedom and scalability set\
+    \ out in the original Bitcoin WhitePaper, \u201CBitcoin: A Peer-to-Peer Electronic\
+    \ Cash System,\u201D released in 2008."
+  technology: "We also believe the best innovation and biggest progress comes from\
+    \ opening our doors to the community, which is why we are dedicated to education\
+    \ and open-source development within the cryptocurrency space. Developing for\
+    \ innovation is a critical element of progress within cryptocurrencies, but driving\
+    \ adoption is equally important. We maintain that the best chance of increasing\
+    \ adoption of cryptocurrency is fiat currency cash flow\u2014increasing the speed\
+    \ and ease by which fiat currencies can be exchanged for cryptocurrency in a legally-compliant\
+    \ manner. We do not dispute that the end goal of cryptocurrencies is to displace\
+    \ the place of fiat in our lives, but we believe that achieving these goals will\
+    \ only be possible after the ecosystem has developed and matured."
+  future: Moreover, investment from outside the industry needs to reach the many vital
+    projects that are working hard to improve and scale the technology. For this reason,
+    Bitfinex fights to defend the use of an independent fiat gateway. We are humbled
+    and incredibly grateful that so many of our customers and community members share
+    our approach and ethos and have actively supported us through times of adversity.
+    Here we share an opportunity to stand together, united in our vision for the future
+    of crypto..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2019-05-10'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
+- https://ethplorer.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
+- https://eospark.com/account/bitfinexleo1
+whitepaper:
+  abstract: iFinex Inc. (iFinex), a privately-held financial technology company incorporated
+    in the British Virgin Islands, operates virtual currency trading platforms under
+    the business name Bitfinex, and provides numerous other cryptocurrency and cryptoasset-related
+    products and services. This whitepaper introduces the initial offering of a new
+    utility token, LEO, for use on Bitfinex and other iFinex trading platforms.
+  file: leo-leo-token_whitepaper.pdf
+website:
+  url: https://www.bitfinex.com
+video:
+  url: https://www.youtube.com/watch?v=c2iw0uHnX1Q
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/bfxtelegram
+  reddit: https://reddit.com/r/bitfinex
+  twitter: null
+  facebook: https://www.facebook.com/1672189753001072
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "The introduction of the first cryptocurrency, Bitcoin in 2009,\
+        \ heralded dawn of a new era. Since then the world of digital currencies has\
+        \ garnered a tremendous amount of attention and has provided numerous alternatives\
+        \ to fiat currencies. Owing to this, a lot of cryptocurrency exchanges started\
+        \ to provide incentives to their users in order to maintain their popularity.\
+        \ Bitfinex, a much-known cryptocurrency exchange, launched its own loyalty-building\
+        \ token by the name of LEO which is mainly used for discounts on Bitfinex\u2019\
+        s platform.<br />\r\nLEO Token is a proprietary exchange token offered by\
+        \ Bitfinex. It was released in an Initial Coin Offering held by the exchange\
+        \ company. The purpose of this and many other similar platform-based tokens\
+        \ is just to provide an additional incentive to the users by offering them\
+        \ discounts on trading fees if they use the token for their transactions on\
+        \ the exchange platform (CryptoCompare, 2019).<br />\r\n"
+      score: 4.5
+      references: 'CryptoCompare. (2019, June 28). CryptoCompare. Retrieved from CryptoCompare:
+        https://www.cryptocompare.com/coins/guides/what-is-bitfinexs-leo-token/'
+  current_stand:
+    scandals_highlights:
+      description: "The announcement for the release of the LEO token was made at\
+        \ a time that its integrity was being questioned. The cryptocurrency exchange\
+        \ platform Bitfinex had adventured by launching a stablecoin by the name of\
+        \ Tether (USDT) in 2014. Some years down the track, they ran into a fund embezzlement\
+        \ scandal in relation to Tether. It was claimed that they were short of $850\
+        \ million in funds that were supposed to back/support the stablecoin Tether\
+        \ (USDT). It was in the middle of this controversy that Bitfinex announced\
+        \ the launch of the LEO Token (LEO). So naturally, the release of LEO Token\
+        \ (LEO) worth $1 billion was seen as a double-dealing move made with the intention\
+        \ of recovering the lost amount.<br />\r\nHowever, LEOToken (LEO) has still\
+        \ managed to make its place in the market, despite the presence of many critics\
+        \ and receiving a lot of backlashes. To make this stay possible, LEO Token\
+        \ has some interesting features that differentiate it from other loyalty-tokens.\
+        \ Firstly, Bitfinex has announced to buyback and burn tokens each month using\
+        \ as much as 27% of its revenue. This gives it an edge over Binance\u2019\
+        s BNB coin. Binance intends to only burn 50% of BNB coin, while Bitfinex will\
+        \ eventually burn 100% of LEO tokens (Wheeler, 2019). <br />\r\nRecently,\
+        \ a crypto research and analysis firm, Cointelligence, has claimed that the\
+        \ smart contract of LEO token has been deliberately designed in such a way\
+        \ that it can open ways for multi-billion-dollar fraud (Antonovici, 2019).<br\
+        \ />\r\n"
+      score: 1.8
+      references: "Wheeler, Z. (2019, June 13). Cryptobriefing. Retrieved from Cryptobriefing:\
+        \ https://cryptobriefing.com/bitfinex-leo-token-second-look/<br />\r\nAntonovici,\
+        \ A. (2019, July 05). Bitcoinist. Retrieved from Bitcoinist Website: https://bitcoinist.com/bitfinexs-leo-token-enables-multi-billion-dollar-fraud-cointelligence-claims/<br\
+        \ />\r\n"
+    product:
+      description: 'The actual product is a loyalty-building token that can be used
+        within the iFinex ecosystem. The token is based on the Ethereum blockchain
+        and it benefits users across the entire iFinex portfolio. The use of the product
+        will allow its users to redeem discounts on their transactions (Coinpaprika,
+        2019). '
+      score: 4.5
+      references: 'Coinpaprika. (2019, November 03). Coinpaprika. Retrieved from Coinpaprika
+        Website: https://coinpaprika.com/coin/leo-leo-token/'
+    development:
+      description: "The code of LEO token has been developed by iFinex\u2019s developers.\
+        \ The token was issued by the iFinex subsidiary Unus Sed Leo. The development\
+        \ activity cannot be tracked as the GitHub repository isn\u2019t publicly\
+        \ accessible. Because Leo Token is a utility token, the development of the\
+        \ system in which it is used should be considered. The development of the\
+        \ Bitfinex exchange is solid. "
+      score: 4.2
+      references: 'Bitfinex Team. (2019, November 24). GitHub. Retrieved from GitHub
+        Website: https://github.com/bitfinexcom'
+    partnerships:
+      description: 'LEO token (LEO) has a good advantage in the market as it might
+        be able to cash the partnerships of its parent company iFinex. More users
+        on the platform mean that there is the possibility that more LEO tokens will
+        be traded. Recently, Bitfinex has announced a partnership with Market Synergy
+        which will provide robust performance connectivity and security for the Bitfinex
+        platform. '
+      score: 3.7
+      references: null
+    community:
+      description: "Bitfinex, and hence the LEO token, has a large and well-connected\
+        \ community. Bitfinex\u2019s official website has a blog that is reviewed\
+        \ and discussed by many users frequently. However, recently, The Bitfinex\
+        \ platform has been facing serious criticism mostly because of the many shortcomings\
+        \ and conspiracies; thus, it has begun to lose its integrity and more importantly,\
+        \ users\u2019 loyalty. "
+      score: 2.8
+      references: null
+    substitutes:
+      description: "There are many substitutes that could replace LEO token. Many\
+        \ utility coins offer much better incentives compared to what LEO Token (LEO)\
+        \ offers. The most famous of all perhaps is Binance\u2019s BNB coin. Huobi\
+        \ token and OKEx are also widely used utility coins. "
+      score: 3.0
+      references: null
+  foresight:
+    prediction:
+      description: "It\u2019s uncertain whether or not LEOToken (LEO) will be able\
+        \ to grow, owing to a number of reasons. Firstly, it is owned by a cryptocurrency\
+        \ exchange that itself has damaged its reputation and experienced the slowest\
+        \ growth in 2019. People are gravitating towards different platforms that\
+        \ are more attractive and whose proprietary tokens offer much better incentives.\
+        \ Until Bitfinex releases itself from the clenching tentacles of the Tether\
+        \ lawsuit, its future seems bleak and questionable, for sure (Comben, 2019).<br\
+        \ />\r\nThe performance of LEO token wholly lies on the performance of its\
+        \ platform Bitfinex, which quite frankly isn\u2019t doing too well. Bitfinex\
+        \ showcased the smallest growth in 2019 compared to other popular cryptocurrency\
+        \ exchanges. The lawsuits against the corporation don\u2019t seem like it\
+        \ would be resolved anytime soon or even be dropped. Under such conditions,\
+        \ Bitfinex will see resistance from the cryptocurrency community.<br />\r\n"
+      score: 3.0
+      references: 'Comben, C. (2019, November 01). Bitcoinist. Retrieved from Bitcoinist
+        Website: https://bitcoinist.com/3-reasons-bitfinex-leo-token-failed/'
+    projects:
+      description: 'Bitfinex has announced a couple of future projects with the intention
+        of enhancing the performance of its platform in order to attract users. Through
+        their official website, Bitfinex announced a platform upgrade that will add
+        new features and improvements to the platform. In September 2019, Bitfinex
+        also unveiled Bitfinex Token Sales, which replaced their previous platform
+        known as Tokinex. '
+      score: 4.7
+      references: null
+    potential:
+      description: "The potential of LEO token (LEO) could be huge if the Bitfinex\
+        \ exchange would overcome the many obstacles that plague them, which doesn\u2019\
+        t seem likely to happen soon. "
+      score: 4.7
+      references: null
+  pro_con:
+    product_availability:
+      description: LEO token has been released in May 2019 and has been under use
+        ever since.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: LEO token is based on Ethereum blockchain and can therefore not
+        process more transactions per second than other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: LEO token will grant discounts to its users on transactions.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: LEO token is based on Ethereum blockchain and therefore has no
+        better transaction speed than other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: Relatively low. LEO Token (LEO) is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: 'The acceptance of LEO Token (LEO) has been limited to the Bitfinex
+        exchange ecosystem. '
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'There is no official data that reveals the energy consumption
+        of LEO token. '
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with LEO Token (LEO) are pseudonymous and could be
+        tracked.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: LEO Token (LEO) is centralized.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: 'LEO Token (LEO) is prevalently available only on the Bitfinex
+        platform. '
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: "The founding company of LEO Token is Bitfinex, a reputable cryptocurrency\
+        \ exchange platform that has made a name for itself in the tech community.\
+        \ Bitfinex is owned by theiFinex Corporation which also controls different\
+        \ platforms like Ethfinex, EOSfinex, and other products. The token was released\
+        \ in May 2019 and is being aimed at being a \u201Cutility token at the heart\
+        \ of the iFinex ecosystem\u201D (Peaster, 2019)."
+      score: 3.8
+      references: 'Peaster, W. M. (2019, September 22). Blockonomi. Retrieved from
+        Blockonomi Website: https://blockonomi.com/bitfinex-leo-exchange-token-chatter-increases/'
+    developers:
+      description: The team behind the LEO token (LEO) is mainly the development team
+        appointed by the iFinex Corporation. They are experts of blockchain technology
+        hailing from different countries.
+      score: 4.4
+      references: null
