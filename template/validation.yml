@@ -5,9 +5,9 @@ logo: image|png
 founded: date
 descriptions:
   one_sentence: text|max(60)
-  introduction: text|max(600)
-  technology: text|max(600)
-  future: text|max(600)
+  introduction: text|max(1200)
+  technology: text|max(1200)
+  future: text|max(1200)
 blockchain:
   consensus: text|max(60)
   algorithm: text|max(60)

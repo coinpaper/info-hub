@@ -9,7 +9,8 @@ class TestValueValidator(unittest.TestCase):
         Test for no unecessary files
         """
         v = YMLValidator("test-testing-coin")
-        self.assertRaises(ValueError, v.validate_no_unnecessary_files)
+        v.validate_no_unnecessary_files()
+        self.assertEquals(len(v.file_errors), 2)
 
         test_images = [
             "invalid@128x128.png",
@@ -17,24 +18,24 @@ class TestValueValidator(unittest.TestCase):
         ]
         test_files = []
         v = YMLValidator("test-testing-coin")
-        self.assertTrue(v.validate_no_unnecessary_files(
-            test_images=test_images,
-            test_files=test_files
-        ))
+        v.validate_no_unnecessary_files(test_images=test_images, test_files=test_files)
+        self.assertEquals(len(v.file_errors), 0)
 
     def test_validate_structure(self):
         """
         Test for minimal substructure
         """
         v = YMLValidator("test-testing-coin")
-        self.assertTrue(v.validate_structure())
+        v.validate_structure()
+        self.assertEquals(len(v.structure_errors), 0)
 
     def test_validate_fields(self):
         """
         Test validity of all fields
         """
         v = YMLValidator("test-testing-coin")
-        self.assertTrue(v.validate_fields())
+        v.validate_fields()
+        self.assertEquals(len(v.field_errors), 0)
 
     def test_end_2_end(self):
         """
