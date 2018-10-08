@@ -1,0 +1,1151 @@
+id: neo-neo
+symbol: NEO
+name: NEO
+logo: neo-neo_logo@512x512.png
+founded: '2016-09-09'
+descriptions:
+  one_sentence: Chinese platform for smart contracts
+  introduction: "Neo is an open-source platform driven by the community.\
+    It utilizes blockchain technology and digital identities to digitize \
+    and automate the management of assets using smart contracts. Using \
+    a distributed network, it aims to create a smart economy by building \
+    infrastructures of the next-gen Internet and creating a solid foundation \
+    for mass blockchain adoption."
+  technology: "Launched in 2016, the Neo MainNet has been in stable operation \
+    for more than 3 years. Neo is expecting to launch Neo3 in 2020, a robust implementation\
+    \ with high throughput, enhanced stability and security, an optimized smart contract\
+    \ system, and a feature-packed infrastructure set to empower developer adoption\
+    \ and to accelerate enterprise-grade blockchain innovations."
+  future: "Learn more at: https://neo.org"
+blockchain:
+  consensus: Delegated Byzantine Fault Tolerant
+  algorithm: dBFT
+  issue_date: '2014-06-01'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://neo.tokenview.com/
+- https://neotracker.io
+whitepaper:
+  abstract: NEO is the use of blockchain technology and digital identity to digitize
+    assets, the use of smart contracts for digital assets to be self-managed, to achieve
+    "smart economy" with a distributed network.
+  file: neo-neo_whitepaper.pdf
+website:
+  url: https://neo.org
+video:
+  url: https://www.youtube.com/watch?v=4f0swLLNUC4
+team:
+  leader:
+    name: Da Hongfei
+    imagename: neo-neo_da_hongfei.png
+    position: Co-Chair
+    description: NEO is a non-profit community-driven blockchain project. It utilizes
+      blockchain technology and digital identity to digitize assets and automate the
+      management of digital assets using smart contracts. Using a distributed network,
+      it aims to create a "Smart Economy". NEO was founded in 2014 and was open sourced
+      on GitHub in June 2015. NEO believes that community development is its top priority.
+      NEO has a huge developer community around the world, such as CoZ, NEL and NeoResearch,
+      who continuously contribute to NEO development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Hongfei Da
+    imagename: null
+    position: Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dahongfei
+        followers: null
+      medium:
+        url: https://medium.com/@dahongfei
+        followers: 113
+      twitter:
+        url: https://twitter.com/dahongfei?lang=en
+        followers: 44602
+  - name: Erik Zhang
+    imagename: null
+    position: Co-Founder & Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/erikzhang
+        followers: 307
+      linkedin:
+        url: https://www.linkedin.com/in/erik-zhang-5a6b14ab
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/neoerikzhang?lang=en
+        followers: 5743
+  - name: Jun Li
+    imagename: null
+    position: Public Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tony Tao
+    imagename: null
+    position: Secretary
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/taotony?lang=en
+        followers: 147
+  - name: Wentao Yang
+    imagename: null
+    position: Research
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Li Jianying
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Malcolm Lerider
+    imagename: null
+    position: Senior R&D Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/lerider
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/malcolm-lerider-1144364a
+        followers: null
+      medium:
+        url: https://medium.com/@MalcolmLerider
+        followers: 1213
+      twitter:
+        url: https://twitter.com/malcolmlerider?lang=en
+        followers: 7952
+  - name: Johnson
+    imagename: null
+    position: Global Development Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fred Huang
+    imagename: null
+    position: Global community management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/fred-huang-ba7793a7
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/fredafrica2012?lang=en
+        followers: 1908
+  - name: Nathan Chen
+    imagename: null
+    position: Project Liaison
+    description: null
+    links:
+      github:
+        url: https://github.com/WhaleChen
+        followers: 29
+      linkedin:
+        url: https://www.linkedin.com/in/nathan-chen-324295141
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mcwhalemc
+        followers: 135
+  - name: Chris Chen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/chenzhitong
+        followers: 122
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sharlyne
+    imagename: null
+    position: Community operation
+    description: null
+    links:
+      github:
+        url: https://github.com/Sharlyne8888
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sharlyne-lee-b71948144
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sharlyne8888
+        followers: 98
+  - name: Peter Lin
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/PeterLinX
+        followers: 170
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ray
+    imagename: null
+    position: Test Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yan Mingxia
+    imagename: null
+    position: Front-end Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: JC
+    imagename: null
+    position: Community operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robin Fang
+    imagename: null
+    position: Translator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Susu
+    imagename: null
+    position: Project Liaison
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kris Zeng
+    imagename: null
+    position: Community operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Celia Yu
+    imagename: null
+    position: Senior technical writer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luo Xue
+    imagename: null
+    position: Developer intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Caterina Zhang
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/caterina-keke-zhang-947913a9
+        followers: null
+      medium:
+        url: https://medium.com/@caterinazhang
+        followers: 12
+      twitter:
+        url: https://twitter.com/caterina_zhang?lang=en
+        followers: 3657
+  - name: Tamar Salant
+    imagename: null
+    position: Business Development Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tamar-salant-15800412
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/TamarSalant
+        followers: 1070
+  - name: Miles Graham
+    imagename: null
+    position: Consultant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/miles-graham-664028112
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Grace Gui
+    imagename: null
+    position: Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/grace-gui-95906635?
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/gracegui43
+        followers: 388
+  - name: Wayne Zhu
+    imagename: null
+    position: Head of Investment
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fabio C. Canesin
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: https://github.com/canesin
+        followers: 183
+      linkedin:
+        url: https://www.linkedin.com/in/canesin
+        followers: null
+      medium:
+        url: https://medium.com/@canesin
+        followers: 517
+      twitter:
+        url: null
+        followers: null
+  - name: Ethan Fast
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: https://github.com/Ejhfast
+        followers: 190
+      linkedin:
+        url: https://www.linkedin.com/in/ethanfast
+        followers: null
+      medium:
+        url: https://medium.com/@unignorant
+        followers: 594
+      twitter:
+        url: https://twitter.com/unignorant
+        followers: 5694
+  - name: Thomas Saunders
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: https://github.com/localhuman
+        followers: 66
+      linkedin:
+        url: https://www.linkedin.com/in/moderncarpentry/
+        followers: null
+      medium:
+        url: https://medium.com/@localhuman
+        followers: 370
+      twitter:
+        url: null
+        followers: null
+  - name: Tyler B Adams
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: https://github.com/lllwvlvwlll
+        followers: 28
+      linkedin:
+        url: https://www.linkedin.com/in/tylerbadams
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lllwvlvwlll
+        followers: 1421
+  - name: Alan Fong
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: https://github.com/anfn101
+        followers: 36
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joe Stewart
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/hal0x2328
+        followers: 32
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Hal_0x2328
+        followers: 57
+  - name: Chris Hager
+    imagename: null
+    position: City of Zion Developer
+    description: "Chris Hager is Director of Engineering at Red Pulse, and is heading\
+      \ up the development and engineering efforts at the firm. Mr. Hager is an engineer\
+      \ and technologist with 20 years of professional experience in the areas of\
+      \ software development, system architecture, cloud infrastructure, operating\
+      \ systems, scalable and distributed applications, blockchain technologies, and\
+      \ mobile applications.\r\n"
+    links:
+      github:
+        url: https://github.com/metachris
+        followers: 179
+      linkedin:
+        url: https://www.linkedin.com/in/metachris/
+        followers: null
+      medium:
+        url: https://medium.com/@metachris
+        followers: 217
+      twitter:
+        url: https://twitter.com/metachris
+        followers: 807
+  - name: David Schwartz
+    imagename: null
+    position: City of Zion Developer
+    description: "CoZ Developer, NEX Developer\r\nFullstack developer. Blockchain\
+      \ enthusiast. Language agnostic. Enjoy learning best practices, functional programming,\
+      \ solving interesting problems, and working in collaborative environments."
+    links:
+      github:
+        url: https://github.com/dvdschwrtz
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dvdschwrtz/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dvdschwrtz
+        followers: 2967
+  - name: Jason L Perry
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ambethia
+        followers: 244
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@ambethia
+        followers: 202
+      twitter:
+        url: null
+        followers: null
+  - name: Yak Jun Xiang
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/snowypowers
+        followers: 74
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erik van den Brink
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Travis Lin
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Gaffney
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jlgaffney
+        followers: 9
+      linkedin:
+        url: https://www.linkedin.com/in/justin-gaffney-4330057a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dean van Dugteren
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/deanpress
+        followers: 107
+      linkedin:
+        url: https://www.linkedin.com/in/deanpress
+        followers: null
+      medium:
+        url: https://medium.com/@deanpress
+        followers: 1281
+      twitter:
+        url: https://twitter.com/deanpress?lang=en
+        followers: 4275
+  - name: Jaime Kindelan
+    imagename: null
+    position: Security Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Fernando D\xEDaz Toledano"
+    imagename: null
+    position: Security Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Silas Albrecht
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/slipo
+        followers: 23
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luke Plaster
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/notatestuser
+        followers: 202
+      linkedin:
+        url: https://www.linkedin.com/in/luke-plaster-6b7699116
+        followers: null
+      medium:
+        url: null
+        followers: 15
+      twitter:
+        url: https://twitter.com/notatestuser
+        followers: null
+  - name: Charlie Revett
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/revett
+        followers: 59
+      linkedin:
+        url: https://www.linkedin.com/in/cdrev
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/charlierevett
+        followers: null
+  - name: Nikolaj Kuntner
+    imagename: null
+    position: Chief Scientist (nChain)
+    description: null
+    links:
+      github:
+        url: https://github.com/Nikolaj-K
+        followers: 50
+      linkedin:
+        url: https://www.linkedin.com/in/nikolaj-kuntner-0138aa104
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Evgeny Boxer
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/evgenyboxer
+        followers: 26
+      linkedin:
+        url: https://www.linkedin.com/in/evgenyboxer
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/evgenyboxer
+        followers: 66
+  - name: Paulo Aboim Pinto
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/paulo-aboim-pinto-a671392
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "S\xE9rgio Flores"
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Relfos
+        followers: 94
+      linkedin:
+        url: https://www.linkedin.com/in/s%25C3%25A9rgio-flores-682b6719
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/onihunters?lang=en
+        followers: 3257
+  - name: Michael Herman
+    imagename: null
+    position: City of Zion Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mjhea0
+        followers: 1714
+      linkedin:
+        url: https://www.linkedin.com/pub/michael-herman/3b/a94/4
+        followers: null
+      medium:
+        url: https://medium.com/@mjhea0
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ashley Rolleston
+    imagename: null
+    position: 'Co-founder City of Zion '
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/Neo_Blockchain
+  reddit: https://www.reddit.com/r/NEO
+  twitter: https://twitter.com/neo_blockchain
+  facebook: null
+  medium: https://medium.com/@NEO_Council
+  vimeo: null
+  discord: null
+github:
+  username: neo-project
+  main_repository: neo-project/neo
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "While many cryptocurrencies are facing imposed bans in different\
+        \ countries due to their decentralized and unregulated nature, NEO has the\
+        \ potential to emerge as a mainstream cryptocurrency for environments that\
+        \ only allow regulated currencies. NEO Onchain technology is designed to be\
+        \ regulator-friendly and unlike other cryptocurrencies, it adopts a centralized\
+        \ approach.<br />\r\nNEO\u2019s goal is to provide a platform where corporations\
+        \ can develop and implement their decentralized apps. Their main focus, for\
+        \ now, is to capture the Chinese market. NEO is itself a technology of a Chinese\
+        \ company Onchain, where it serves as the foundation of the Decentralised\
+        \ Network Architecture System of the company (NEO, 2018).<br />\r\n<br />\r\
+        \n"
+      score: 4.5
+      references: 'NEO. (2018). NEO . Retrieved from NEO Website: https://docs.neo.org/docs/en-us/basic/whitepaper.html '
+  current_stand:
+    scandals_highlights:
+      description: "There is a claim that the Chinese government supports the Blockchain\
+        \ Company Onchain, and therefore its blockchain technology NEO (See, 2017).\
+        \ However, it is hard to decide if one should be excited or worried about\
+        \ this development. The Chinese government is notorious for seizing money\
+        \ from their citizens and is therefore not completely a big plus for the company.\
+        \ An example like this can be found from the likes of Baoshang Bank Co, where\
+        \ the government assumed control of all its resources and assets in May 2019\
+        \ (Bloomberg News, 2019).<br />\r\nUsually, cryptocurrencies are based on\
+        \ such blockchain technologies which feature complete or partial decentralization.\
+        \ However, NEO stands out in this aspect. It used a mining algorithm named\
+        \ as \u201Cdelegated byzantine fault-tolerant\u201D which uses consensus nodes\
+        \ to distribute the voting power. The company Onchain holds seven of such\
+        \ nodes, keeping the control of the network with them and making NEO a centralized\
+        \ cryptocurrency. Users are critical of this point, as Onchian can seize their\
+        \ funds if the Chinese government tells them to do so (Manoppo, 2018).<br\
+        \ />\r\nNEO Foundation has recently unlocked the NEO token worth $100 million\
+        \ in May 2019. The revenues generated from these new tokens are planned to\
+        \ be used for further development of the technology. However, this amount\
+        \ of NEO tokens could be damaging if they are released into the market all\
+        \ at once, as it might result in immediate inflation (G., 2019). <br />\r\n\
+        In March 2019 the Neo Blockchain was down for over 2 hours, as block 3467252\
+        \ took 127 minutes. This can happen with a single point of failure, as the\
+        \ foundation is controlling 7 consensus nodes themselves.<br />\r\n"
+      score: 1.5
+      references: "See, R. (2017, August 25). Hackernoon. Retrieved from Hackernoon\
+        \ Website: https://hackernoon.com/neo-onchain-and-its-ultimate-plan-dna-4c33e9b6bfaa<br\
+        \ />\r\nBloomberg News. (2019, May 28). Bloomberg. Retrieved from Bloomberg\
+        \ News: https://www.bloomberg.com/news/articles/2019-05-27/china-s-first-bank-seizure-in-20-years-spooks-lenders-investors<br\
+        \ />\r\nManoppo, M. (2018, June 16). Medium. Retrieved from Medium Website:\
+        \ https://medium.com/@marcomanoppo/delegated-byzantine-fault-tolerance-consensus-mechanism-502f9586c358<br\
+        \ />\r\nG., A. V. (2019, May 15). Crypto-economy. Retrieved from Crypto-economy\
+        \ Website: https://www.crypto-economy.net/en/neo-blockchain-receives-100-million-worth-of-funds-to-push-development-of-its-platform-forward/ "
+    product:
+      description: "The actual platform that NEO has developed is already in the working\
+        \ phase and is functioning.  Decentralized applications can be built on the\
+        \ platform. The company claims that the NEO network can handle up to 10,000\
+        \ transactions per second. However, this high transaction speed is achieved\
+        \ at the expense of decreased decentralization. Onchain controls seven consensus\
+        \ nodes and therefore themselves controls the blockchain traffic.<br />\r\n\
+        The platform supports the use of C++, Java, Python and Go as programming languages\
+        \ for the development of decentralized apps. However, these languages are\
+        \ not limited by the design of the network in any way and may become a reason\
+        \ for the injection of malicious code on to the network (NEO, 2018).<br />\r\
+        \n<br />\r\n"
+      score: 2.8
+      references: 'NEO. (2018). NEO . Retrieved from NEO Website: https://docs.neo.org/docs/en-us/basic/whitepaper.html '
+    development:
+      description: 'The GitHub repository of NEO Onchain is impressively active and
+        productive. The repository showcases a lot of updates and active participation
+        by all the developers. The main developer is Erik Zhang, who is currently
+        working hard to upgrade the consensus algorithm dbft2. The algorithm is supposed
+        to block any attempted forks on the NEO network. It is important to note that
+        the development team of NEO is not really big, and they are still trying to
+        make things work. '
+      score: 4.6
+      references: 'NEO team (2019). GitHub. Retrieved from GitHub Website: https://github.com/neo-project'
+    partnerships:
+      description: "The Chinese support towards the NEO blockchain seems to be of\
+        \ great importance, but in fact, it has some deeply rooted concerns. This\
+        \ means that Onchain might sometime in future be working for the Chinese government\
+        \ and under their directives, which implies that they might at some point\
+        \ be in control or seize user funds. <br />\r\nStill on the news concerning\
+        \ NEO\u2019s partnership, it was rumoured that Alibaba.com has partnered with\
+        \ the NEO network. However, a little research into the news revealed that\
+        \ this was not true. <br />\r\nNEO has partnered with the largest telecom\
+        \ company from the Netherlands. They have been given the control of one consensus\
+        \ node of the NEO network. This will improve the decentralization of the NEO\
+        \ network (Muller, 2018).<br />\r\n<br />\r\n"
+      score: 2.1
+      references: 'Muller, C. (2018, October 22). Cryptoglobe. Retrieved from Cryptoglobe
+        Website: https://www.cryptoglobe.com/latest/2018/10/dutch-telecoms-giant-royal-kpn-confirmed-as-neo-full-node-operator/ '
+    community:
+      description: "The Neo community is quite large in China, but lately, there have\
+        \ been numerous complaints of fraudulent behaviour as false announcements\
+        \ about partnerships with large known companies are made and spread by the\
+        \ Neo community.<br />\r\nThe community also actively participates in the\
+        \ development of the NEO network. There are many independent developers that\
+        \ are creating new libraries for the NEO smart contracts.<br />\r\n<br />\r\
+        \n"
+      score: 2.8
+      references: null
+    substitutes:
+      description: "The most notable and perhaps the most powerful alternative to\
+        \ the NEO blockchain is Ethereum, mainly because most of the decentralized\
+        \ apps are being built on top of the Ethereum network. The major drawback\
+        \ Ethereum network faces in terms of usage is that the programmer first needs\
+        \ to get accustomed to the \u2018Solidity\u2019 programming language. NEO\
+        \ platform, on the other hand, allows the developers to use C++, Java, Python\
+        \ and Go which are far more common languages. This might take NEO\u2019s popularity\
+        \ ahead of Ethereum."
+      score: 3.0
+      references: null
+  foresight:
+    prediction:
+      description: 'NEO will likely make a name in the Chinese market more than any
+        cryptocurrencies and will become the first choice for decentralized applications,
+        especially those built by companies operating in countries that require cryptocurrency
+        regulation, like China. The rest of the world might continue using platforms
+        like Ethereum which offer a more decentralized network and a more secure network. '
+      score: 3.8
+      references: null
+    projects:
+      description: The flagship project that Onchain is working on is NEO 3.0. According
+        to the plans, the upgraded version is planned to be released by the end of
+        December 2019. The updated version of the NEO network will provide better
+        support for larger-scale commercial applications. The NEO network will become
+        more scalable and secure, as there are plans to centralize the network even
+        more.
+      score: 4.4
+      references: null
+    potential:
+      description: "NEO possesses promising potential. Even though the network is\
+        \ centralized, there might still be companies or partnerships that would want\
+        \ to build their decentralized applications on the NEO network. This can increase\
+        \ the popularity of the NEO network and promote it to become the user\u2019\
+        s choice over smart contract platforms."
+      score: 4.6
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available and is in its working condition.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: The network can handle up to 10,000 transactions per second, which
+        is a lot more than other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: 'NEO network charges very fewer transaction fees as compared to
+        other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much lower compared to other cryptocurrencies.
+        This is because the network relies on consensus working and the platform is
+        highly centralized.
+      is_pro: true
+      is_contra: false
+    security:
+      description: The security aspect of the network has not been fully discovered
+        and tested as the technology is relatively a new one.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: The coin has a low acceptance rate compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: Energy consumption is very low as compared to other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous and can be traced.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: The coin is centralised.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: Neo is available on the major trusted exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: NEO is developed by Onchain which is a Chinese company. It was
+        developed originally as Antshares in 2014 but was later on rebranded and changed
+        to NEO in 2017. The founders of Onchain are Da HongFei and Erik Zhang (Zhou,
+        2017).
+      score: 2.2
+      references: 'Zhou, C. (2017, August 09). Bitcoin Magazine. Retrieved from Bitcoinmagazine
+        Website: https://bitcoinmagazine.com/articles/neo-completes-rebranding-announces-blockchain-partnerships '
+    developers:
+      description: 'The main lead of the development team is Eric Zhang who is working
+        tirelessly to improve the existing algorithms and protocols of the network.
+        However, there is not much information regarding other team members. '
+      score: 3.0
+      references: null

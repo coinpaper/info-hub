@@ -1,0 +1,277 @@
+id: bsv-bitcoin-sv
+symbol: BSV
+name: Bitcoin Cash SV
+logo: bsv-bitcoin-sv_logo@512x512.png
+founded: '2018-02-10'
+descriptions:
+  one_sentence: Bitcoin copy with faster transaction times
+  introduction: Bitcoin SV (BSV) started in November 2018 as a hard fork of Bitcoin
+    Cash, which itself was a hard forked version of the original Bitcoin. BSV was
+    one of two coins that emerged from the hard fork, with Bitcoin Cash ABC as the
+    other coin created from the event.
+  technology: Upon creation of Bitcoin SV, Bitcoin cash holders who had their private
+    keys or kept their Bitcoins on a service that supported the split were able to
+    receive equal amounts of Bitcoin SV and Bitcoin Cash ABC, resulting in further
+    divergence in Bitcoin price dynamics. The Bitcoin SV team said that its vision
+    is to restore the Bitcoin protocol to its original design.
+  future: Bitcoin SV also enables massive scaling, which its team says will pave the
+    way for the BSV blockchain to support significantly higher transaction volumes
+    and more transaction fees for miners. This is important for miners to maintain
+    profitability as the block reward will halve again in the year 2020 (reducing
+    from 12 BSV to 6.25 BSV for each block), and halve again in later years.Bitcoin
+    price..
+blockchain:
+  consensus: Proof of Work
+  algorithm: SHA256
+  issue_date: '2018-11-15'
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://whatsonchain.com/
+- https://blockchair.com/bitcoin-sv
+whitepaper:
+  abstract: THERE IS NO BITCOIN SV WHITEPAPER - The Bitcoin SV website posted the
+    original Bitcoin whitepaper instead.
+  file: bsv-bitcoin-sv_whitepaper.pdf
+website:
+  url: https://bitcoinsv.io
+video:
+  url: https://www.youtube.com/watch?v=ihqRIXECHP4
+team:
+  leader:
+    name: Craig Wright
+    imagename: null
+    position: CEO
+    description: Craig Wright created Bitcoin SV.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: null
+  reddit: null
+  twitter: https://twitter.com/BitcoinSVNode
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: bitcoin-sv
+  main_repository: bitcoin-sv/bitcoin-sv
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "When the world of cryptocurrencies came into existence through\
+        \ the birth of Bitcoin, Satoshi Nakamoto was the visionary who laid down the\
+        \ mission of the technology in his whitepaper \u2018\u2019Bitcoin: A Peer-to-Peer\
+        \ Electronic Cash System\u201D. As the technology evolved and many other cryptocurrencies\
+        \ made their way into the crypto-world, the technology deviated greatly from\
+        \ its main course. Bitcoin Blockchain has been broken down into smaller factions,\
+        \ each offering its own version of the Bitcoin. Bitcoin encountered its first\
+        \ hard fork on August 2017 and with it \u2018Bitcoin Cash (BCH)\u2019 rose\
+        \ to stage. Bitcoin Cash (BCH) was developed with the aim of solving the scalability\
+        \ issue of technology and creating a more efficient replacement. Note that\
+        \ Bitcoin Cash (BCH) did not(!) replace Bitcoin (BTC).<br />\r\nAfter some\
+        \ time, the Bitcoin Cash community felt that the technology had deviated from\
+        \ the Bitcoin Cash vision as defined in the whitepaper from the original Bitcoin\
+        \ (BTC). Once the Bitcoin Cash fork happened, Bitcoin SV (BSV) (SV stands\
+        \ for Satoshi Vision) and Bitcoin ABC (BCHABC) (ABC stands for Adjustable\
+        \ Blocksize Cap) were born (SFOX, 2018). According to the official spokesperson,\
+        \ Bitcoin SV is the restoration of the original technology. It aims to return\
+        \ to the original plan and vision of Satoshi by working for a completely decentralized\
+        \ network and using the cryptocurrency solely as a tool for payment and trade\
+        \ exchange (ChangeNow, 2018).<br />\r\n"
+      score: 3.0
+      references: "SFOX. (2018, December 22). Medium . Retrieved from Medium Website:\
+        \ https://blog.sfox.com/what-is-bitcoin-sv-dfda089205d3<br />\r\nChangeNow.\
+        \ (2018, December 10). ChangeNow. Retrieved from ChangeNow Website: https://changenow.io/currencies/bitcoin-sv"
+  current_stand:
+    scandals_highlights:
+      description: "Bitcoin SV\u2019s inception was marked both by a highlight and\
+        \ a scandal for the technology. In August 2018, in trying to pursue the actualization\
+        \ of nChain and Coin Geek, Bitcoin Cash forked and two separate communities\
+        \ namely Bitcoin ABC and Bitcoin SV came in to being. Bitcoin SV\u2019s leadership\
+        \ and the community, on the whole, were hostile in their dealings as they\
+        \ made repeated aggressive attempts to practically wipe out Bitcoin Cash\u2019\
+        s supposedly deviated technology by taking all of its hashing power. The community\
+        \ was adamant to compel Bitcoin\u2019s original community to accept the Satoshi\
+        \ Vision by force. This crypto-civil-war went on for around a week before\
+        \ both technologies decided that they had considerable representation in form\
+        \ of their community and they should focus on sustaining that (SFOX, 2018).<br\
+        \ />\r\nAnother major highlight for Bitcoin SV came in May 2019, when the\
+        \ cryptocurrency surged more than 120 percent. This was partly due to the\
+        \ rather surprising development as the founder, Craig White, succeeded in\
+        \ \u2018proving\u2019 himself as the original Satoshi Nakamoto and registering\
+        \ the Bitcoin white paper\u2019s copyrights to his name (Ouimet, 2019).<br\
+        \ />\r\n"
+      score: 1.4
+      references: "SFOX. (2018, December 22). Medium . Retrieved from Medium Website:\
+        \ https://blog.sfox.com/what-is-bitcoin-sv-dfda089205d3<br />\r\nOuimet, S.\
+        \ (2019, May 21). Coin Desk. Retrieved from Coin Desk Website: https://www.coindesk.com/bitcoin-sv-bsv-suddenly-surges-200"
+    product:
+      description: Bitcoin SV is a relatively new entrant to the crypto market as
+        it had its foundation recently set up. The team has not yet focused on developing
+        any product of theirs that runs on the Bitcoin SV blockchain. The collective
+        focus of the team, now, is at the restoration of the original protocols of
+        Bitcoin and developing those protocols to address the issues of scalability
+        and security.
+      score: 1.2
+      references: null
+    development:
+      description: "Bitcoin SV\u2019s technical developments are based on the original\
+        \ Bitcoin whitepaper. The code development included restoring the Blockchain\
+        \ network in its original form, bring back the old protocols and improving\
+        \ the transactional performance of the cryptocurrency. The main code of development\
+        \ has been done under the leadership of Daniel Connolly and Steve Shadders\
+        \ (Bitcoin SV, 2018)."
+      score: 2.0
+      references: 'Bitcoin SV. (2018, December 2). Bitcoin SV. Retrieved from Bitcoin
+        SV Website: https://bitcoinsv.io/team/'
+    partnerships:
+      description: "Concerning the official website of Bitcoin SV, the cryptocurrency\
+        \ has made a number of valuable partnerships in the market. A number of cryptocurrency\
+        \ wallets like Atomic Wallets, BC Bitcoin, Bitaddress, etc. host Bitcoin SV\
+        \ (among other cryptocurrencies) while many exchanges, although not the widely\
+        \ used ones offer trading of Bitcoin SV. As the technology strengthens its\
+        \ holdings, a lot of people are becoming interested and new partnerships are\
+        \ being announced. Recently, DriveMarkets\u2019 CEO, Kate Hiscox, revealed\
+        \ that they will be partnering with Bitcoin SV to launch out DRIVE Pay (Editor,\
+        \ 2019). Also, Bitcoin SV will be sponsoring the International Professional\
+        \ Pool Association this year, opening doors for many opportunities for the\
+        \ real-life application and implementation of the technology (Tonin, 2019)."
+      score: 3.2
+      references: "Editor. (2019, May 09). Medium. Retrieved from Medium Website:\
+        \ https://medium.com/drive-markets/why-we-chose-to-build-an-enterprise-product-on-bitcoin-sv-e9422b6caa3<br\
+        \ />\r\nTonin, D. (2019, August 05). Ayre Media Group. Retrieved from Ayre\
+        \ Media Group Website: https://calvinayre.com/2019/08/05/bitcoin/ipa-announced-bitcoin-sv-partnership-with-calvin-ayre/"
+    community:
+      description: One of the biggest advantages Bitcoin SV has over its competitors
+        is the fact that it is backed by the Bitcoin Association, the largest and
+        the oldest community that promotes the Bitcoin technology. The community as
+        a whole supports the original vision behind Bitcoin and is working towards
+        bringing into fruition the vision of the original version of the Blockchain.
+      score: 3.0
+      references: null
+    substitutes:
+      description: Bitcoin SV claims that it is in fact, the original Bitcoin. So,
+        simply put, the original Bitcoin is considered to be a substitute for this
+        technology, because what this technology offers is basically a restored version
+        of the original Bitcoin.
+      score: 1.2
+      references: null
+  foresight:
+    prediction:
+      description: "The market has a mixed opinion about Bitcoin SV. The technology\
+        \ will and probably may not survive, mainly because of the reputation of Bitcoin\
+        \ SV\u2019s founder Craig Wright who is deemed as a scam by many. "
+      score: 1.3
+      references: null
+    projects:
+      description: "Bitcoin SV is a project in itself, started by the Bitcoin community,\
+        \ nChain, and CoinGeek. The project aims to restore the original values and\
+        \ core values of Bitcoin as envisioned by Satoshi Nakamoto. The end goal of\
+        \ the project is to develop the technology towards \u2018Genesis\u2019, which\
+        \ is the full restoration and implementation of the Bitcoin Protocol."
+      score: 1.5
+      references: null
+    potential:
+      description: 'The technology might not be as successful in the short-term since
+        the development of the protocol is still underway, but it has shown potential
+        for growth in the following years. '
+      score: 3.5
+      references: null
+  pro_con:
+    product_availability:
+      description: 'Although Bitcoin SV saw improvements in its latest upgrades, the
+        protocol is still a work in progress and is not fully developed. '
+      is_pro: false
+      is_contra: true
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: After the upgrade of the Bitcoin Protocol on July 2019, the Bitcoin
+        SV developers reported, that there was a massive increase in the processing
+        speeds. Bitcoin SV can reportedly handle 1000+ transactions per second.
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: Contrary to the high transaction fees of the original Bitcoin,
+        Bitcoin SV now costs less than one-fifth of a cent.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'After the recent upgradation of the Bitcoin Protocol in July 2019,
+        there was a massive increase in the processing speeds. '
+      is_pro: true
+      is_contra: false
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: After Craig White claimed that he is Satoshi Nakamoto, many people
+        were not impressed with the claim and labeled him a scam. While Bitcoin SV
+        did surge following this news, there were many big exchanges that de-listed
+        the cryptocurrency from their sites, including Kraken, Binance and Shapeshift.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'There is no official data that reveals the energy consumption
+        of the Bitcoin SV network. But since the technology is based on the original
+        Bitcoin, there is a high possibility that it will be  energy-intensive. '
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Since Bitcoin SV aims to revive the original values of Bitcoin,
+        decentralization is amongst their primary focuses.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Bitcoin SV is not available on leading trade exchanges like Kraken,
+        Binance, bittrex, etc. It is, however, still available on a number of trade
+        exchanges including Poloniex and Huobi Global.
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: "The main spokesperson for Bitcoin SV is Craig Wright while the\
+        \ technology is pursuing the main foundation principles of Satoshi Nakamoto.\
+        \ Not surprisingly, Craig Wright has claimed that he is, in fact, Satoshi\
+        \ Nakamoto, the original creator of Bitcoin. He did not stop there, he has\
+        \ also strengthened his position by winning US copyright registrations for\
+        \ Bitcoin\u2019s original (Bambrough, 2019). The Bitcoin SV project is owned\
+        \ by the Bitcoin Foundation on behalf of the BSV community.<br />\r\nNote:\
+        \ If Craig Wright had developed Bitcoin, he should have access to the keys\
+        \ that store the earliest Bitcoins, which would\u2019ve been mined on his\
+        \ computer. These coins never moved in Bitcoin's history.<br />\r\n<br />\r\
+        \n"
+      score: 1.5
+      references: 'Bambrough, B. (2019, May 21). Forbes. Retrieved from Forbed Website:
+        https://www.forbes.com/sites/billybambrough/2019/05/21/this-bitcoin-rival-just-doubled-in-value-heres-why/#152e2cbe6455'
+    developers:
+      description: 'The development team features many experts in Blockchain technology.
+        The Lead Developer is Daniel Connolly, while Steve Shadders is serving as
+        the Technical Director, overseeing every technical aspect of the improvement
+        on Bitcoin SV. The team also has a pool of engineers who are skilled and are
+        experts in C++ and Bitcoin protocol. Additional support and backup are also
+        provided by nChain. '
+      score: 3.7
+      references: null
