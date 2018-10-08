@@ -1,0 +1,311 @@
+id: theta-theta-token
+symbol: THETA
+name: THETA
+logo: theta-theta-token_logo@512x512.png
+founded: '2017-11-23'
+descriptions:
+  one_sentence: Video streaming service
+  introduction: The Theta Network and protocol solves various challenges the video
+    streaming industry faces today.
+  technology: "First, tokens on the Theta blockchain are used as an incentive to encourage\
+    \ individual users to share their redundant computing and bandwidth resources\
+    \ as caching or relay nodes for video streams. This improves the quality of stream\
+    \ delivery and solves the \u201Clast-mile\u201D delivery problem, the main bottleneck\
+    \ for traditional content delivery pipelines, especially for high resolution high\
+    \ bitrate 4k, 8k and next generation streams. Second, with sufficient network\
+    \ density the majority of viewers will pull streams from peering caching nodes,\
+    \ allowing video platforms to significantly reduce content delivery network (CDN)\
+    \ costs."
+  future: More importantly, by introducing tokens as an end-user incentive mechanism
+    the Theta Network allows video platforms to deepen viewer engagement, drive incremental
+    revenues, and differentiate their content and viewing experience from their competitors..
+blockchain:
+  consensus: Multi-Level Byzantine Fault Tolerance
+  algorithm: MBFT
+  issue_date: '2018-01-16'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x3883f5e181fccaF8410FA61e12b59BAd963fb645
+- https://ethplorer.io/address/0x3883f5e181fccaf8410fa61e12b59bad963fb645
+- https://explorer.thetatoken.org/
+whitepaper:
+  abstract: Theta is a decentralized video delivery network, powered by users and
+    an innovative new blockchain.
+  file: theta-theta-token_whitepaper.pdf
+website:
+  url: https://www.thetatoken.org
+video:
+  url: https://www.youtube.com/watch?v=6pYr_VSNks4
+team:
+  leader:
+    name: Mitch Liu
+    imagename: theta-theta-token_mitch_liu.png
+    position: CEO
+    description: "Mr. Liu is the co-founder and CEO of SLIVER.tv, the leading esports\
+      \ entertainment\nplatform with patented technology to live stream top esports\
+      \ events in fully immersive 360\xB0 VR\nin partnership with Intel Extreme Masters,\
+      \ Turner ELEAGUE, ESL One and Dreamhack among\nother global tournament operators.\
+      \ In 2010, Mr. Liu co-founded Gameview Studios best known for its Tap Fish mobile\
+      \ game franchise with nearly 100 Million downloads. The company was acquired\
+      \ by DeNA, a leading Japanese mobile gaming company within 6 months of launch."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Jieyi Long
+    imagename: theta-theta-token_jieyi_long.png
+    position: CTO
+    description: 'Mr. Long is the co-founder and Chief Technology Officer of SLIVER.tv.
+      He leads the
+
+      technical team and developed multiple patented technologies including VR live
+      streaming and
+
+      instant replay for video games. He received a B.S. degree in Microelectronics
+      from Peking
+
+      University in Beijing, China. He also received a Ph.D. degree in Computer Engineering
+      from
+
+      Northwestern University in Evanston, IL where he conducted research in mathematical
+      modeling
+
+      and algorithms to optimize large scale electronics systems, and a cryptography
+      enthusiast.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Nichols
+    imagename: null
+    position: Head of Product & Platform
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Riz Virk
+    imagename: null
+    position: Head of Corp Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wei Ribao
+    imagename: null
+    position: Blockchain Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yibo Sim Xing
+    imagename: null
+    position: Blockchain Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roy Zheng
+    imagename: null
+    position: Blockchain Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qinwei Gong
+    imagename: null
+    position: Blockchain Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg
+  reddit: https://www.reddit.com/r/thetatoken
+  twitter: https://twitter.com/theta_network
+  facebook: https://www.facebook.com/thetatoken
+  medium: https://medium.com/@ThetaLabs
+  vimeo: null
+  discord: null
+github:
+  username: thetatoken
+  main_repository: thetatoken/theta-protocol-ledger
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
