@@ -1,0 +1,166 @@
+id: bcd-bitcoin-diamond
+symbol: BCD
+name: Bitcoin Diamond
+logo: bcd-bitcoin-diamond_logo@512x512.png
+founded: '2017-11-24'
+descriptions:
+  one_sentence: Bitcoin copy
+  introduction: Bitcoin Diamond is hard fork of Bitcoin, created in November 2017.
+  technology: "Developers of Bitcoin Diamond set the cryptocurrency\u2019s total supply\
+    \ as 210 million, 10 times that of Bitcoin.  Aside from Bitcoin price dynamics\
+    \ and supply and demand considerations, Bitcoin Diamond also differs itself from\
+    \ Bitcoin by using an optimized X13 mining algorithm, as well as elements drawn\
+    \ from Bitcoin Cash, such as a blockchain size of 135 GB and maximum transactions\
+    \ of 4.8 million per day. Bitcoin Diamond also adopts SegWit and Lightning Network\
+    \ technology, like Bitcoin but unlike Bitcoin Cash."
+  future: Bitcoin price..
+blockchain:
+  consensus: Proof of Work
+  algorithm: X13
+  issue_date: '2017-11-16'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- http://explorer.btcd.io/
+- https://bcd.tokenview.com
+whitepaper:
+  abstract: "Bitcoin Diamond (BCD) is a fork of Bitcoin that occurs at the predetermined\
+    \ height of block 495866 and there with a new chain BCD will be generated.\r\n\
+    Bitcoin Diamond aims to be \"a better bitcoin\", with stronger emphasis on privacy\
+    \ and lower fees."
+  file: bcd-bitcoin-diamond_whitepaper.pdf
+website:
+  url: https://www.bitcoindiamond.org/
+video:
+  url: https://www.youtube.com/watch?v=AaC9j3WXASw
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/BCDcommunity
+  reddit: https://www.reddit.com/r/BitcoinDiamond
+  twitter: https://twitter.com/BitcoinDiamond_
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: eveybcd
+  main_repository: eveybcd/BitcoinDiamond
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
