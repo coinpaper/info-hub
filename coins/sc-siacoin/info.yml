@@ -1,0 +1,306 @@
+id: sc-siacoin
+symbol: SC
+name: Siacoin
+logo: sc-siacoin_logo@512x512.png
+founded: '2015-03-17'
+descriptions:
+  one_sentence: Rent and lend unused hard drive space
+  introduction: Sia is reinventing cloud storage. Our technology connects users who
+    need file storage with hosts worldwide offering underutilized hard drive capacity.
+    Blockchain technology secures their data and enables improved economics for users
+    and hosts. The Sia blockchain allows this marketplace to run without an intermediary.
+  technology: "Sia secures storage transactions with smart contracts, creating a more\
+    \ reliable and affordable offering when compared to traditional cloud providers.\
+    \ No one person or organization can censor or deny access to data\u2014not miners,\
+    \ not developers, nor any government. We believe Sia\u2019s distributed, decentralized\
+    \ storage technology is stronger, more secure, more efficient, and more equitable\
+    \ for the entire ecosystem. We believe that neither individuals nor institutions\
+    \ should be beholden to large corporations. Sia was created to promote and safeguard\
+    \ users\u2019 freedoms. It\u2019s our attempt to bring decentralized storage built\
+    \ on blockchain technology to the mainstream without sacrificing price or performance."
+  future: Our long term goal is for Sia to become the backbone storage layer of the
+    Internet. Nebulous, Inc. was established in 2014 and launched the Sia Storage
+    Platform in 2015. Based in Boston, Nebulous is funded by Raptor Group, First Star
+    Ventures, Fenbushi Capital and INBlockchain..
+blockchain:
+  consensus: Proof of Work
+  algorithm: Blake2b
+  issue_date: '2015-07-03'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://sc.tokenview.com
+whitepaper:
+  abstract: Sia is the first decentralized storage platform secured by blockchain
+    technology. The Sia Storage Platform leverages underutilized hard drive capacity
+    around the world to create a data storage marketplace that is more reliable and
+    lower cost than traditional cloud storage providers.
+  file: sc-siacoin_whitepaper.pdf
+website:
+  url: https://sia.tech
+video:
+  url: https://www.youtube.com/watch?v=7f09TqW98Vo
+team:
+  leader:
+    name: David Vorick Ceo
+    imagename: null
+    position: ' Cofounder, Core Developer'
+    description: He like knowing that our technology is out there improving lives
+      and changing the way people think about the world. I hope that what we build
+      is inspirational to others; the desire to inspire is, in itself, an inspiration
+      for me.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Matt Sevey
+    imagename: null
+    position: ' Core Developer'
+    description: Sia is leading the way and defining what decentralized data storage
+      can be. It enables users to take control over how their data is stored and have
+      the confidence it is safe and secure.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eddie Wang
+    imagename: null
+    position: ' Frontend Developer'
+    description: Distributed storage will be a key component to a fault-tolerant blockchain
+      ecosystem. Sia is only fully-decentralized product in this space with a thoughtful
+      design and clear product path.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steve Funk
+    imagename: null
+    position: ' Head of Support'
+    description: Sia has a team that truly cares about the experience, and a passionate
+      community that inspires us to do our best,
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stevengfunk/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Schinnerl
+    imagename: null
+    position: ' Core Developer'
+    description: In a world of distributed storage there will be no downtime, no companies
+      spying on your data, and no massive cloud leaks. Storage will be faster, safer,
+      and cheaper.
+    links:
+      github:
+        url: https://github.com/chrisschinnerl
+        followers: 24
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zach Herbert
+    imagename: null
+    position: ' VP of Operations'
+    description: At Sia, we are constantly thinking long-term, putting product ahead
+      of marketing, and building a strong technical foundation for future success.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zherbert
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luke Champine
+    imagename: sc-siacoin_luke_champine.png
+    position: Cofounder, Core Developer
+    description: Sia captures that rebellious hacker spirit that spurns the current
+      paradigm and, instead, builds something novel, powerful, esoteric. Code is eating
+      the world; blockchains are just a continuation of that trend, extending it into
+      the world of finance.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Vorick
+    imagename: null
+    position: CEO, Cofounder, Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/siacoin
+  reddit: https://www.reddit.com/r/Siacoin
+  twitter: https://twitter.com/siatechhq
+  facebook: https://www.facebook.com/nebulouslabs/
+  medium: null
+  vimeo: null
+  discord: https://discord.com/invite/sia
+github:
+  username: NebulousLabs
+  main_repository: NebulousLabs/Sia
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
