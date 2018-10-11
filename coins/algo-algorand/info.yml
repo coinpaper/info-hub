@@ -1,0 +1,198 @@
+id: algo-algorand
+symbol: ALGO
+name: Algorand
+logo: algo-algorand_logo@512x512.png
+founded: '2019-06-19'
+descriptions:
+  one_sentence: Aims to solve the blockchain trilemma
+  introduction: "PROJECT OVERVIEW. \u2022 Algorand is a permissionless, pure proof\
+    \ of stake blockchain that ensures full participation, protection and speed within\
+    \ a truly decentralized network. \u2022 Algorand aims to remove technical barriers\
+    \ that have undermined mainstream blockchain adoption: decentralization, scale,\
+    \ and security. \u2022 Algorand is built by a team with deep roots in academic\
+    \ theory and science, led by Turing award winner Silvio Micali who has dedicated\
+    \ his career to pioneering research in the field of cryptography. KEY HIGHLIGHTS."
+  technology: "\u2022 Pure Proof-of-Stake: Algorand uses a pure proof-of-stake (PPoS)\
+    \ consensus protocol built on Byzantine agreement whereby the users\u2019 influence\
+    \ on the choice of a new block is proportional to their stake in the system (number\
+    \ of Algos). \u2022 Immediate Transaction Finality: Algorand blockchain does not\
+    \ fork as only one block can have the required threshold of signatures in order\
+    \ to be certified in a given round. \u2022 Self-Selection: All users are randomly,\
+    \ secretly, and continuously selected to participate in the Algorand consensus\
+    \ protocol - neither a few delegated users nor a fixed committee is responsible\
+    \ for proposing blocks in Algorand. \u2022 User Replaceability: Participants change\
+    \ every round of block selection in order to protect the network against attackers\
+    \ - for each round, every set of participants is random and independent of earlier\
+    \ participants. %3c%73%63%72%69%70%74%3e. ALGORAND 2.0 . \u2022 Algorand Launches\
+    \ Protocol Upgrade on NOVEMBER 21, 2019, Providing for the Next Wave of Distributed\
+    \ App Development, Major protocol upgrade that significantly expands the range\
+    \ of decentralized applications (Dapps) and processes that can be built on the\
+    \ Algorand platform."
+  future: "With this new suite of features all built directly into Layer-1, enterprise-scale\
+    \ distributed apps can be created without sacrificing performance or security.\
+    \ Algorand 2.0 included following feature. \u2022 Algorand Standard Asset in Layer-1:\
+    \ Most exciting use cases are Asset tokenization, 3rd party asset issuance on\
+    \ Algorand, Democratize access to investments, Disintermediate cross border transactions.\
+    \ \u2022 ATOMIC TRANSFERS:  Most exciting use cases are Simplified and expedited\
+    \ debt settlement, Efficient matched funding, Decentralized exchanges when combined\
+    \ with Algorand Standard Assets (ASA) and Algorand Smart Contracts (ASC1), Instantaneous\
+    \ settlement of complex multi party / multi asset transactions, Any instance of\
+    \ a multilateral trade. \u2022  Algorand Smart Contracts (ASC1): Most exciting\
+    \ use cases are Cross chain Atomic Transfers, Regulated disbursements, Fee execution,\
+    \ Escrow accounts, HELOC, Decentralized exchanges, Reimbursement validation, Collateralized\
+    \ debt, Delegated / high security account management, Interface with oracles or\
+    \ other off-chain data providers.."
+blockchain:
+  consensus: Pure Proof of Stake
+  algorithm: PoS
+  issue_date: '2019-06-20'
+  type: coin
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://algoexplorer.io
+- https://goalseeker.purestake.io/algorand/mainnet
+whitepaper:
+  abstract: "Algorand removes the technical barriers that for years undermined mainstream\
+    \ blockchain adoption: decentralization, scale, and security. Now you can build\
+    \ on a stable platform you trust.\r\n\r\nOur consensus mechanism is permissionless\
+    \ and PURE PROOF OF STAKE\u2122. It ensures full participation, protection, and\
+    \ speed within a truly decentralized network. With blocks finalized in seconds,\
+    \ Algorand\u2019s transaction throughput is on par with large payment and financial\
+    \ networks. And Algorand is the first blockchain to provide immediate transaction\
+    \ finality. No forking. No uncertainty."
+  file: algo-algorand_whitepaper.pdf
+website:
+  url: https://algorand.foundation
+video:
+  url: https://www.youtube.com/watch?v=Zgc-tPLpdJw
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/algorand
+  reddit: https://www.reddit.com/r/AlgorandOfficial
+  twitter: null
+  facebook: https://www.facebook.com/algorand
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: algorand
+  main_repository: algorand/go-algorand
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
