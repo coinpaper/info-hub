@@ -1,0 +1,1302 @@
+id: lsk-lisk
+symbol: LSK
+name: Lisk
+logo: lsk-lisk_logo@512x512.png
+founded: '2016-02-01'
+descriptions:
+  one_sentence: Create smart contracts with javascript
+  introduction: Lisk is a next generation platform that allows for the development
+    and distribution of JavaScript based decentralized applications using an easy
+    to use, fully featured ecosystem.
+  technology: Through Lisk, developers can build, publish, distribute, and monetize
+    their applications within a custom built cryptocurrency powered system that utilizes
+    custom blockchains, smart contracts, cloud storage, and computing nodes; all from
+    within one industry solution. Lisk is the first decentralized application solution
+    written entirely in Node.js. This opens up the Lisk ecosystem to thousands of
+    current developers with no additional skills necessary.
+  future: Any web developer who is already familiar with JavaScript and Node.js can
+    immediately jump in and begin building decentralized applications from day one..
+blockchain:
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
+  issue_date: '2016-05-04'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://explorer.lisk.io/
+whitepaper:
+  abstract: "Lisk makes it easy for developers to build and deploy blockchain applications\
+    \ in JavaScript.\r\nDevelop and publish blockchain applications with your own\
+    \ sidechains on the open-source Lisk Platform."
+  file: lsk-lisk_whitepaper.pdf
+website:
+  url: https://lisk.io
+video:
+  url: https://www.youtube.com/watch?v=Pr2PzF6ATJ0
+team:
+  leader:
+    name: Oliver Beddows
+    imagename: lsk-lisk_oliver_beddows.png
+    position: Vice President & CTO
+    description: The global financial crisis helped to make Oliver realize that he
+      wanted to create something of bigger significance than the projects he was involved
+      in at the time. With twelve years of development experience, he understood that
+      digital technology, put into the hands of more people than the elite, can be
+      a powerful tool to make the world more just and honest. Oliver saw that blockchain
+      technology offered great opportunity, but that the platforms available for developers
+      were far too complex
+    links:
+      github:
+        url: https://github.com/karmacoma
+        followers: 124
+      linkedin:
+        url: https://www.linkedin.com/in/oliver-beddows-19aa09107/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Karmacrypto
+        followers: 4383
+  members:
+  - name: Juan Gonzalez
+    imagename: lsk-lisk_juan_gonzalez.png
+    position: DevOps Engineer
+    description: "Juan is a coding veteran. His experience ranges from DevOps roles\
+      \ (managing systems, continuous integration, configuration management) to software\
+      \ development in a variety of languages (C, Python, C#, PHP, Javascript, among\
+      \ others) for a variety of platforms (linux/linux-based network routers, Windows,\
+      \ Web/CMSes). He has an interest in infosec and regularly attends DerbyCon and\
+      \ DEFCON. Juan\u2019s passion for blockchain began with an Ethereum meetup in\
+      \ Minneapolis. He is originally from Wisconsin and is a huge fan of the American\
+      \ football team Green Bay Packers."
+    links:
+      github:
+        url: https://github.com/Nazgolze
+        followers: 43
+      linkedin:
+        url: https://www.linkedin.com/in/juan-gonzalez31
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JuanInBerlin
+        followers: 1086
+  - name: Mat Piaggi
+    imagename: lsk-lisk_mat_piaggi.png
+    position: Community Lead
+    description: Mat has built a career developing long-lasting connections between
+      brands, their customers and communities. Having contributed to a range of technology
+      startups in New Zealand, Australia and Germany, he was drawn to blockchain by
+      the undiscovered potential of this nascent technology.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/matpiaggi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/MatPiaggi
+        followers: 862
+  - name: Michael Borowiec
+    imagename: lsk-lisk_michael_borowiec.png
+    position: Communications Lead
+    description: "Michael's passion for communications started in school with political\
+      \ journalism and activism for environmental NGOs. After graduating from university,\
+      \ he moved to Berlin to dive into the dynamic world of startups. What followed\
+      \ was a period of industry-hopping, including successful tenures in e-commerce\
+      \ and fashion. But it wasn\u2019t until discovering blockchain that Michael\
+      \ knew he found an industry to call home."
+    links:
+      github:
+        url: https://github.com/michaellightcurve
+        followers: 14
+      linkedin:
+        url: https://www.linkedin.com/in/michaelborowiec/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/borovviec
+        followers: 295
+  - name: Jacob Kowalewski
+    imagename: lsk-lisk_jacob_kowalewski.png
+    position: Education Lead
+    description: "Lisk\u2019s ambition to make blockchain accessible to everyone instantly\
+      \ resonated with Jacob\u2019s aspiration to engage and educate people on the\
+      \ subject of this incredible technology. Driven by innovation, collaboration\
+      \ and a desire to see a fairer world, as well as a lifelong affinity for developing\
+      \ technologies, Jacob is particularly excited about aiding in the development\
+      \ of groundbreaking blockchain applications on the Lisk platform. "
+    links:
+      github:
+        url: https://github.com/JacobKowalewski
+        followers: 18
+      linkedin:
+        url: https://www.linkedin.com/in/jacobkowalewski/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kuba Kufel
+    imagename: lsk-lisk_kuba_kufel.png
+    position: Marketing Manager
+    description: "Kuba\u2019s experience in marketing began with an internship at\
+      \ a public relations agency in Warsaw. His passion for technology has always\
+      \ affected his professional choices. He has experience working with Fortune\
+      \ 500 companies as well as young startups. In recent years, his interest in\
+      \ branding has grown; he loves to figure out how to build lasting relationships\
+      \ between companies and their audiences."
+    links:
+      github:
+        url: https://github.com/kubakufel
+        followers: 11
+      linkedin:
+        url: https://www.linkedin.com/in/kufel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lindsay Buescher
+    imagename: lsk-lisk_lindsay_buescher.png
+    position: Performance Marketing Lead
+    description: Lindsay specializes in creating engaging marketing strategies. After
+      spending over a decade working at tech startups and ad agencies, she understands
+      what truly drives business results. Her razor-sharp analytical expertise means
+      Lindsay can quickly pinpoint campaign optimizations. She saw Lisk as an opportunity
+      to fully advocate decentralization as an ideology.
+    links:
+      github:
+        url: https://github.com/LindsaysDarkAlley
+        followers: 26
+      linkedin:
+        url: https://www.linkedin.com/in/lindsaybuescher
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lindsay4liberty
+        followers: 1594
+  - name: Thomas Schouten
+    imagename: lsk-lisk_thomas_schouten.png
+    position: Head of Marketing
+    description: With a background in business and marketing, Thomas is responsible
+      for the ideation, development and execution of marketing strategies for Lisk.
+      He believes that with the right people, anything is possible. Thomas has a versatile,
+      creative and visionary mind with great passion for blockchain technology, entrepreneurship
+      and golf. For a long time, he was interested in the economical and disrupting
+      factor of Bitcoin before gaining a true understanding of the blockchain technology
+      itself.
+    links:
+      github:
+        url: https://github.com/thomelsch
+        followers: 17
+      linkedin:
+        url: https://www.linkedin.com/in/thomasmschouten/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Thomelsch
+        followers: 1579
+  - name: Mehmet Yatki
+    imagename: lsk-lisk_mehmet_yatki.png
+    position: 'Backend Developer '
+    description: "Mehmet\u2019s love of coding began when he was a teenager. Over\
+      \ the last fifteen years, he has developed various applications such as mobile\
+      \ and desktop apps and real-time browser games, but mostly focused on web development.\
+      \ He likes to create useful tools and solve problems. When he isn't coding in\
+      \ the office, he is likely coding at home or doing stand-up comedy on a stage\
+      \ somewhere in Berlin."
+    links:
+      github:
+        url: https://github.com/yatki
+        followers: 37
+      linkedin:
+        url: https://www.linkedin.com/in/mehmetyatki/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jan Hackfeld
+    imagename: lsk-lisk_jan_hackfeld.png
+    position: Cryptographer
+    description: Fresh out of his doctorate program in Distributed Algorithms and
+      Optimization, Jan is a keen problem-solver. As a Cryptographer at Lightcurve,
+      he is responsible for researching ways to improve different aspects of the current
+      Lisk protocol. He wants to see the disruption of centralized service providers,
+      such as the finance industry, by blockchain technology.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrei Klimenok
+    imagename: lsk-lisk_andrei_klimenok.png
+    position: Frontend QA Engineer
+    description: "As a Frontend QA Engineer, Andrei takes quality advocacy for the\
+      \ Lisk project very seriously. He spent six years in Quality Assurance prior\
+      \ to joining the Lightcurve team. He\u2019s excited to see blockchain transform\
+      \ all industries by eliminating the need for intermediaries. He also feels that\
+      \ blockchain will ensure that information cannot be manipulated from a single\
+      \ point of control."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andreyklimenok/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andreas Kendziorra
+    imagename: lsk-lisk_andreas_kendziorra.png
+    position: Cryptographer
+    description: As a scientist, Andreas enjoys solving complex problems. Prior to
+      joining Lisk, he held positions researching mathematics and public key cryptography,
+      researching traffic modeling, simulation, as well as surveillance and developing
+      software in the automotive industry. He believes Lisk will provide the tools
+      that will enable anyone to easily create secure dapps to benefit various communities.
+    links:
+      github:
+        url: https://github.com/AndreasKendziorra
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Michal Tomasik"
+    imagename: lsk-lisk_michal_tomasik.png
+    position: Frontend Developer
+    description: "Micha\u0142 loves trying new things; over the past few years, he\
+      \ has delved into various technologies, ranging from game development to machine\
+      \ learning. As a Frontend Developer, he loves creating interfaces and has a\
+      \ great deal of commercial experience. In regards to Lisk\u2019s future, he\
+      \ is most exciting for sidechains, which he believes will be a game changer."
+    links:
+      github:
+        url: https://github.com/michaeltomasik
+        followers: 16
+      linkedin:
+        url: https://www.linkedin.com/in/mtomasik/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Manu Nelamane Siddalingegowda
+    imagename: lsk-lisk_manu_nelamane_siddalingegowda.png
+    position: Backend Developer
+    description: 'Manu grew up in a small town with very little exposure to technology.
+      This motivated him to study engineering. He has experience in C#, .Net, JavaScript,
+      Node.JS and most recently worked on Elixir programming language. In his opinion,
+      blockchain as a technology and cryptocurrency as a domain are a combination
+      that will rule the 21st century. '
+    links:
+      github:
+        url: https://github.com/ManuGowda/
+        followers: 15
+      linkedin:
+        url: https://www.linkedin.com/in/manugowda/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ManuGowda_Ns
+        followers: 40
+  - name: Lucas Silvestre
+    imagename: lsk-lisk_lucas_silvestre.png
+    position: 'Fullstack Developer '
+    description: 'Lucas is a self-described curious guy who likes to know how things
+      work. As a developer reading code, he gets to learn how applications behave
+      to better understand concepts. Before joining the team, he spent over five years
+      as a Fullstack Developer using Ruby as a main programming language. He also
+      has a great deal of experience with various JavaScript libraries and frameworks. '
+    links:
+      github:
+        url: https://github.com/lsilvs
+        followers: 49
+      linkedin:
+        url: https://www.linkedin.com/in/lsilvs/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lsilves
+        followers: 386
+  - name: Nicolai Steinel
+    imagename: lsk-lisk_nicolai_steinel.png
+    position: Frontend Developer
+    description: "Nicolai is an enthusiastic Frontend Developer at Taikonauten. He\u2019\
+      s excited about the innovative projects developers will be able to easily build\
+      \ with Lisk. Taikonauten is an award-winning agency based in Berlin. They are\
+      \ specialists for the human-centered, strategic & digital staging of brands\
+      \ and products. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicolai-steinel-9218a6b2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shusetsu Toda
+    imagename: lsk-lisk_shusetsu_toda.png
+    position: Fullstack Developer
+    description: "Shusetsu grew up between Japan, the US and Canada. He\u2019s held\
+      \ a number of roles in the past, including Software Engineer and CEO. He has\
+      \ experience in JavaScript, TypeScript, Go, JAVA, C++, C# and PHP. Creating\
+      \ and providing products with great user experience has always been at the core\
+      \ of his career; he has released mobile games as well as services and business\
+      \ tools. "
+    links:
+      github:
+        url: https://github.com/shuse2
+        followers: 34
+      linkedin:
+        url: https://www.linkedin.com/in/shusetsu-toda/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Gros-Dubois
+    imagename: lsk-lisk_jon_gros-dubois.png
+    position: Backend Developer
+    description: Jon grew up in Guadeloupe, a French island in the middle of the Caribbean.
+      It is difficult to say whether or not this contributed to his drive to bring
+      people closer together. He believes government regulation has made it difficult
+      for small-time investors to participate in the growth of the technology economy.
+      Decentralization through blockchain will help to better distribute and allocate
+      funding so that it is evenly spread out and accessible to more people.
+    links:
+      github:
+        url: https://github.com/jondubois
+        followers: 219
+      linkedin:
+        url: https://www.linkedin.com/in/jonathan-gros-dubois/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jgrosdubois
+        followers: 230
+  - name: Iker Alustiza
+    imagename: lsk-lisk_iker_alustiza.png
+    position: Cryptographer
+    description: Iker grew up in Vitoria-Gasteiz in the Basque region of Spain. Prior
+      to joining Lisk, he spent several years as a Software Engineer and Content Developer
+      at MATLAB and Simulink-maker MathWorks. He discovered Bitcoin and the revolutionary
+      idea of blockchain back in 2013. Soon after, he got involved in various blockchain
+      projects as a hobby.
+    links:
+      github:
+        url: https://github.com/IkerAlus
+        followers: 15
+      linkedin:
+        url: https://www.linkedin.com/in/iker-alustiza-beitia-68803a2b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michal Tuleja
+    imagename: lsk-lisk_michal_tuleja.png
+    position: Backend Developer
+    description: "Michal grew up in a small town in Poland. He wrote his first code\
+      \ at the age of 10 - and never lost his interest in programming since. Fast\
+      \ forward many years, he developed software for public hospitals and in the\
+      \ medical science industry in Berlin. Blockchain felt like the next natural\
+      \ step in his career, as he quickly recognized this technology would be the\
+      \ solution to people\u2019s fear of centralization. "
+    links:
+      github:
+        url: https://github.com/MichalTuleja
+        followers: 3
+      linkedin:
+        url: https://www.linkedin.com/in/michaltuleja/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nazar Hussain
+    imagename: lsk-lisk_nazar_hussain.png
+    position: Backend Developer
+    description: Nazar has been in the software development industry for over 15 years.
+      Prior to Lisk, he worked as a Senior Software Architect leading three products
+      for eKomi. He has also worked in a range of industries, including education,
+      finance and governmental services. Nazar had been looking into blockchain technology
+      for over a year before he realized he was interested in pursuing a career in
+      it.
+    links:
+      github:
+        url: https://github.com/nazarhussain
+        followers: 30
+      linkedin:
+        url: https://www.linkedin.com/in/nazarhussain/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Francois Chavant
+    imagename: lsk-lisk_francois_chavant.png
+    position: DevOps Engineer
+    description: "Francois has a passion for automation. So he\u2019s always looking\
+      \ for ways to make system administration tasks run smoothly and improve the\
+      \ software deployment process. As a DevOps engineer he\u2019s looking forward\
+      \ to the SDK release, which will make blockchain far less intimidating, frustrating\
+      \ and more appealing. He also likes that a decentralized network offers openness\
+      \ in a secure environment."
+    links:
+      github:
+        url: https://github.com/fchavant
+        followers: 25
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yashar Ayari
+    imagename: lsk-lisk_yashar_ayari.png
+    position: 'Frontend Developer '
+    description: Yashar is a Frontend Developer from Iran. He joined Lisk with a great
+      deal of previous experience in IT. His career brought him to many different
+      places over the last seven years - from East Asia to Western Europe. He believes
+      decentralization and blockchain technology will lead us to a better world; and
+      that Lisk is the open source blockchain platform that will help make our world
+      more accessible than ever before.
+    links:
+      github:
+        url: https://github.com/yasharAyari
+        followers: 21
+      linkedin:
+        url: https://www.linkedin.com/in/yashar-ayari-3816157a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/YasharAyari
+        followers: 234
+  - name: Diego Garcia
+    imagename: lsk-lisk_diego_garcia.png
+    position: Backend Developer
+    description: Diego has been in the blockchain scene for quite some time. He most
+      recently worked for startup Mubiz developing blockchain-based applications.
+      The most outstanding project in which he led development was Mubiz.com, a search
+      engine which crawls the decentralized marketplace OpenBazaar.
+    links:
+      github:
+        url: https://github.com/diego-G
+        followers: 45
+      linkedin:
+        url: https://www.linkedin.com/in/diegogarciamartin14
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Usman Khan
+    imagename: lsk-lisk_usman_khan.png
+    position: Backend Developer
+    description: Usman felt right at home when he moved to Berlin from Pakistan last
+      year to join Lisk. Moving around a great deal from a young age instilled in
+      him a sense that he is a global citizen. Usman's interest in computers began
+      with the game Quake III, and a fun hobby quickly morphed into a love of programming.
+    links:
+      github:
+        url: https://github.com/SargeKhan
+        followers: 33
+      linkedin:
+        url: https://www.linkedin.com/in/usmanokhan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ali Haghighatkhah
+    imagename: lsk-lisk_ali_haghighatkhah.png
+    position: Frontend Developer
+    description: From the early days of his career as a developer, Ali realized the
+      incredible benefits that open source frameworks and libraries can bring to the
+      world. He personally benefitted from these advantages, but never had the chance
+      to pass them onto his community. Here at Lisk, he finally has the ability to
+      contribute, as the Lisk platform encourages people to work together to build
+      a better, decentralized world.
+    links:
+      github:
+        url: https://github.com/reyraa
+        followers: 40
+      linkedin:
+        url: https://www.linkedin.com/in/ali-haghighatkhah-32238784
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rey_raa
+        followers: 157
+  - name: "Vit Stanislav"
+    imagename: lsk-lisk_vit_stanislav.png
+    position: Frontend Developer
+    description: "V\xEDt\u2019s life of programming began when he was just a teenager.\
+      \ The first programming language he learned was PHP; Java, C, C++, Python and\
+      \ JavaScript came next. He gravitated towards frontend development after his\
+      \ time developing online learning systems with the Adaptive Learning Research\
+      \ Group at university."
+    links:
+      github:
+        url: https://github.com/slaweet
+        followers: 46
+      linkedin:
+        url: https://www.linkedin.com/in/v%C3%ADt-stanislav-21b64367/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maciej Baj
+    imagename: lsk-lisk_maciej_baj.png
+    position: Backend Developer
+    description: 'Maciej joined Lisk from Nokia, where he was a Fullstack Developer.
+      During his time at Nokia, he focused on smaller projects in data processing,
+      geolocation and smart city development. He enjoys experimenting with trending
+      technologies and taking on projects from various disciplines; he is particularly
+      fond of artificial intelligence. '
+    links:
+      github:
+        url: https://github.com/MaciejBaj
+        followers: 65
+      linkedin:
+        url: https://www.linkedin.com/in/maciej-baj-52a875104/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mariusz Serek
+    imagename: lsk-lisk_mariusz_serek.png
+    position: 'Backend Developer '
+    description: Before joining Lisk, Mariusz worked as a Junior Software Engineer
+      for Home.pl, the largest domain registrar in Poland. He came to Lisk to help
+      create a better future with blockchain technology. He believes Lisk is a pioneer
+      in the industry in part because its goals include bringing about greater blockchain
+      technology accessibility.
+    links:
+      github:
+        url: https://github.com/4miners
+        followers: 73
+      linkedin:
+        url: https://www.linkedin.com/in/mariusz-serek/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Max Kordek
+    imagename: null
+    position: CEO and Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maxkordek/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/MaxKordek
+        followers: 14974
+  - name: Isabella Dell
+    imagename: null
+    position: System Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ricardo Ferro
+    imagename: null
+    position: Tools developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Joel Fern\xE1ndez"
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Julian Alterini
+    imagename: null
+    position: Motion Desinger
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/julian-alterini/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/shoolian
+        followers: 1261
+  - name: Jennifer Tekneci
+    imagename: null
+    position: Content Strategist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jennifer-tekneci/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yair Etziony
+    imagename: null
+    position: QA engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/yairlisk
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yair-etziony-2653812a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lucas Isasmendi
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/LucasIsasmendi
+        followers: 64
+      linkedin:
+        url: https://www.linkedin.com/in/lucasisasmendi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Lucas_Isasmendi
+        followers: 183
+  - name: Lothar Skorupka
+    imagename: null
+    position: FInancial Analyst
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lothar-skorupka-72205593/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huseyin Yilmaz
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/imfinethankyou/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jan Liz-Fonts
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jan-liz-fonts-989a14157/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Will Clark
+    imagename: null
+    position: Fullstack Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/willclarktech
+        followers: 35
+      linkedin:
+        url: https://www.linkedin.com/in/willclarktech
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gina Contrino
+    imagename: null
+    position: Frontend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ginacontrino
+        followers: 28
+      linkedin:
+        url: https://www.linkedin.com/in/ginacontrino/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ginacontrino
+        followers: 124
+  - name: Rene Thomas
+    imagename: null
+    position: Product Owner & Project Lead at Taikonauten
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hagen Plum
+    imagename: null
+    position: Graphics and UX Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hagen-plum-a054a574/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bart Stassen
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bartstassen/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/belgianwolfie?lang=en
+        followers: 372
+  - name: Tobias Schwarz
+    imagename: null
+    position: Frontend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Tosch110
+        followers: 56
+      linkedin:
+        url: https://www.linkedin.com/in/tobias-schwarz-45645511a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/toschdev
+        followers: 707
+  - name: Lisa Sonnenstuhl
+    imagename: null
+    position: UI/UX Strategist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lisa-sonnenstuhl-b14816141/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Guido Schmitz-Krummacher
+    imagename: null
+    position: Board Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/guidos1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mona Barenfanger
+    imagename: null
+    position: Student Assistant
+    description: null
+    links:
+      github:
+        url: https://github.com/Tschakki
+        followers: 30
+      linkedin:
+        url: https://www.linkedin.com/in/mona-b-037196152/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pablo Molina
+    imagename: null
+    position: Frontend Developer
+    description: Pablo enjoys a good challenge; perhaps this is what led him to pursue
+      a profession in blockchain. Prior to joining Lisk, he spent seven years in frontend
+      development.
+    links:
+      github:
+        url: https://github.com/faival
+        followers: 4
+      linkedin:
+        url: https://www.linkedin.com/in/pablomolinapelaez/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christian Vatter
+    imagename: null
+    position: Brand Consultant
+    description: Christian is Founder and Managing Director at Rlevance. Berlin-based
+      consultancy Rlevance is made up of researchers, strategists and innovators who
+      combine brand thinking with human-centered design to help companies create sustainable
+      relationships with their audiences.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/christianvatter/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rlevance
+        followers: 372
+  - name: Anastasia Albert
+    imagename: null
+    position: Marketing Manager
+    description: Anastasia has an affinity for fast-paced environments - this is what
+      drew her to the world of startups. Prior to joining Lightcurve, Anastasia led
+      Marketing and Communications at online marketplace for tech support Mila.com.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/anastasia-albert-2372642b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nastjaalbert
+        followers: 866
+  - name: Monica Tartau
+    imagename: null
+    position: Events Manager
+    description: "Monica believes that a well-orchestrated event with the right mix\
+      \ of people can lead to great things. Prior to becoming Lightcurve\u2019s Events\
+      \ Manager, Monica was an Event Planner, organizing corporate events in the e-commerce\
+      \ industry to planning hallmark weddings."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/monicatartau/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Valeria Ippolito
+    imagename: null
+    position: Video Editor
+    description: Valeria has always had an eye for art and design. She realized early
+      on that even though she liked design, her true passion was for moving images.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Domenico Loia
+    imagename: null
+    position: UX/UI Designer
+    description: From web to mobile applications to websites, Domenico enjoys working
+      on a variety of tasks with brand identity in mind. He is driven by understanding
+      various user needs, with the ultimate goal of delivering an easy-to-use product
+      to the end user.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/domenico-loia-484725a2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/domenico_loia
+        followers: 624
+  - name: Pascal Schmid
+    imagename: null
+    position: Board Member
+    description: Pascal Schmid is a Lisk Foundation Board Member. He acquired many
+      years of professional experience as a finance expert, especially in companies
+      in the industrial and financial sector with IFRS and US GAAP reporting requirements.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andries Bellemans
+    imagename: null
+    position: HR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andries-bellemans-4ba144a2
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/andriesbel
+        followers: 204
+  - name: Angela van den Eijnden
+    imagename: null
+    position: Office Manager
+    description: Angela is no stranger to management - she used to run her own restaurant
+      in the Netherlands. She also spent the last two years in employee engagement
+      and event management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/angela-van-den-eijnden-3b7492b1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Burak Dogan
+    imagename: null
+    position: FInancial Analyst
+    description: Burak has a passion for numbers, analysis, and all things finance.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/burak-dogan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/Lisk_HQ
+  reddit: https://www.reddit.com/r/lisk
+  twitter: https://twitter.com/LiskHQ
+  facebook: https://www.facebook.com/LiskHQ/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: LiskHQ
+  main_repository: LiskHQ/lisk-sdk
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
