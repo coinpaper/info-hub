@@ -1,0 +1,181 @@
+id: rvn-ravencoin
+symbol: RVN
+name: Ravencoin
+logo: rvn-ravencoin_logo@512x512.png
+founded: '2018-01-03'
+descriptions:
+  one_sentence: Transfer of assets via Smart Contracts
+  introduction: What is Ravencoin? To us, the RVN community, it's a new open-source
+    project intended to see if a use case specific blockchain designed to be focused
+    on the transfer of assets can develop technology which provides security or functional
+    advantages for certain projects. Specifically working on things like RSK, which
+    will allow Solidity to work on this chain, will be huge for Ravencoin in the future.
+    RVN was launched January 3rd, 2018 with very little info regarding the future
+    of the project. Since then, several community members have learned that there
+    is an active development team on this coin, and the super clean wallet client
+    and lightning fast network are only the beginning.
+  technology: The RVN team is launching their coin in the spirit of Bitcoin, code
+    first. We hope to keep you updated in this thread as to work being done on RVN,
+    as that information becomes available to us. But you don't need to wait for us
+    or take our word for it. Ravencoin is open source and ANYONE is free to contribute
+    to the project, please, join the team in GitHub!.
+  future: 'Ravencoin was launched in the interest of fair distribution. There is no
+    ICO, no pre-mine, and you can mine RVN on readily available consumer-grade hardware!
+    Several of us have been mining this coin since launch, and can attest that you
+    can still currently hit blocks solo mining with your CPU through the wallet client,
+    how long this will last, we can not say (Update: as of this writing February 2018,
+    6 RVN pools exist, solo mining has officially become difficult). We have learned,
+    however, that the team is very dedicated to making RVN an ASIC resistant project
+    now and into the future. We believe in RVN as a project and aim to help the project
+    grow, and we''re happy to have you join us!..'
+blockchain:
+  consensus: Proof of Work
+  algorithm: X16R
+  issue_date: '2018-01-03'
+  type: coin
+  organization_structure: Decentralized
+  development_status: On-going development
+explorers:
+- https://ravencoin.network/
+whitepaper:
+  abstract: 'Ravencoin is a digital peer to peer network that aims to implement a
+    use case specific blockchain, designed to efficiently handle one specific function:
+    the transfer of assets from one party to another. Built on a fork of the Bitcoin
+    code, Ravencoin was launched January 3rd, 2018, and is a truly open source project
+    (no ICO or masternodes). It focuses on building a useful technology, with a strong
+    and growing community.'
+  file: rvn-ravencoin_whitepaper.pdf
+website:
+  url: https://getravencoin.org
+video:
+  url: https://www.youtube.com/watch?v=BaC_i0qdLvA
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/RavencoinDev
+  reddit: https://www.reddit.com/r/Ravencoin
+  twitter: https://twitter.com/ravencoin
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: RavenProject
+  main_repository: RavenProject/Ravencoin
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
