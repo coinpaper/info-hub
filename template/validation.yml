@@ -1,7 +1,7 @@
 id: text|max(50)|lowercase
 symbol: text|max(10)|uppercase
 name: text|max(50)
-logo: image|png
+logo: optional|image|png
 founded: optional|date
 descriptions:
   one_sentence: optional|text|max(80)
