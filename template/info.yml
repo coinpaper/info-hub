@@ -64,24 +64,7 @@ team:
 
   # Official members or heavy contributers. The format of each member is
   # the same as the format of the leader.
-  members:
-    - name: null
-      imagename: member@512x512.png   # Place the 512x512 pixel image in the images/ folder and specify the image name here
-      position: null
-      description:  null
-      links:
-        github:
-          url: null
-          followers: null
-        linkedin:
-          url: null
-          followers: null
-        medium:
-          url: null
-          followers: null
-        twitter:
-          url: null
-          followers: null
+  members: []
 
 # Links to any official or large community driven social media channels.
 socials:
