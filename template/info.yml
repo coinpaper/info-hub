@@ -103,7 +103,7 @@ github:
 manual_reviews:
 
   # Indicates whether the manual review is ready to be published online
-  available: true
+  available: false
 
   introduction:
 
