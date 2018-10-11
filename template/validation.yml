@@ -4,7 +4,7 @@ name: text|max(50)
 logo: image|png
 founded: optional|date
 descriptions:
-  one_sentence: optional|text|max(60)
+  one_sentence: optional|text|max(80)
   introduction: optional|text|max(1200)
   technology: optional|text|max(1200)
   future: optional|text|max(1200)
