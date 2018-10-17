@@ -1,28 +1,29 @@
 id: ant-aragon
 symbol: ANT
 name: Aragon
-logo: null
-founded: null
+logo: ant-aragon_logo@512x512.png
+founded: '2020-01-01'
 descriptions:
-  one_sentence: null
-  introduction: null
-  technology: null
-  future: null
+  one_sentence: Manage a decentralized organization
+  introduction: ''
+  technology: ''
+  future: ''
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: ''
+  algorithm: ''
+  issue_date: '2020-01-01'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
 explorers: []
 whitepaper:
-  abstract: null
-  file: null
+  abstract: The Aragon Network is an Aragon organization that provides infrastructure and services to users of the Aragon platform, and is governed by ANT holders. The existing Aragon infrastructure enables users to create and manage organizations. Each Aragon organization exists as a set of smart contracts that define the organization's stakeholders and their associated rights and privileges. However, some rights and privileges require subjective constraints that cannot be encoded in a
+    smart contract directly.
+  file: ant-aragon_whitepaper.pdf
 website:
-  url: null
+  url: https://aragon.org/token/ant
 video:
-  url: null
+  url: https://www.youtube.com/watch?v=fuMRooPuPbI
 team:
   leader:
     name: null
