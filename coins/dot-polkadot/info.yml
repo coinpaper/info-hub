@@ -39,7 +39,7 @@ team:
         url: https://www.linkedin.com/in/gavin-wood-88843316/
         followers: null
       medium:
-        url: null
+        url: https://gavofyork.medium.com/
         followers: null
       twitter:
         url: https://twitter.com/gavofyork
@@ -50,7 +50,7 @@ socials:
   reddit: https://www.reddit.com/r/dot
   twitter: https://twitter.com/Polkadot
   facebook: https://www.facebook.com/polkadotnetwork/
-  medium: null
+  medium: https://gavofyork.medium.com/
   vimeo: null
   discord: null
 github:
@@ -152,7 +152,7 @@ manual_reviews:
       is_contra: false
   team:
     founders:
-      description: The founding figure of Polkadot is none other than the cryptocurrency sensation, Dr. Gavin Woods. Dr. Woods was one of the pioneers of the Ethereum cryptocurrency and is an experienced individual with over 20 years of experience in the software industry. He has been involved with many blockchain projects including Ethereum, and is also renowned for creating the programming language Solidity (Matinger, 2020).
+      description: The founding figure of Poladot is none other than the cryptocurrency sensation, Dr. Gavin Woods. Dr. Woods was one of the pioneers of the Ethereum cryptocurrency and is an experienced individual with over 20 years of experience in the software industry. He has been involved with many blockchain projects including Ethereum, and is also renowned for creating the programming language Solidity (Matinger, 2020).
         In 2017, Dr, Gavin started working on a new cryptocurrency, which eventually came out as Polkadot and was created to “deliver on the promises which Ethereum could not”.
       score: 5.0
       references: 'Matinger, L. (2020, August 20). Cryptoticker. Retrieved from Cryptoticker: https://cryptoticker.io/en/what-is-polkadot/'
