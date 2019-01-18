@@ -1,0 +1,449 @@
+id: btg-bitcoin-gold
+symbol: BTG
+name: Bitcoin Gold
+logo: btg-bitcoin-gold_logo@512x512.png
+founded: '2017-10-23'
+descriptions:
+  one_sentence: Bitcoin copy
+  introduction: Bitcoin Gold was created in 2017 through a fork of the Bitcoin blockchain.
+    It is a community-led project to create an experimental hard fork of Bitcoin to
+    a new proof-of-work algorithm. The Bitcoin Gold community initiated the fork as
+    part of its mission to make Bitcoin mining decentralized again.
+  technology: "The community claims that Satoshi Nakamoto\u2019s idealistic vision\
+    \ of \u201Cone CPU one vote\u201D has been superseded by a reality dominated by\
+    \ a very small number of entities, some of whom have allegedly engaged in abusive\
+    \ practices against individual miners and the Bitcoin network as a whole, such\
+    \ as influencing Bitcoin price. The Bitcoin Gold blockchain contains the full\
+    \ transaction history of the Bitcoin blockchain up until the fork date, including\
+    \ the exact balances of Bitcoins held in wallets around the world, providing insights\
+    \ on Bitcoin price and other details about these wallets. Wallet addresses that\
+    \ contain Bitcoin immediately before the fork were given an equivalent amount\
+    \ of Bitcoin Gold immediately after the fork."
+  future: The Bitcoin and Bitcoin Gold blockchains both continue onward independently
+    after the fork, with the Bitcoin Gold organization providing support for the latter.
+    A crypto endowment held in multi-sig, time-locked wallets is funding current and
+    future operations of the organization. Bitcoin price..
+blockchain:
+  consensus: Proof of Work
+  algorithm: Equihash
+  issue_date: '2017-10-24'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://btgexp.com/
+- https://btgexplorer.com/
+- https://explorer.bitcoingold.org/insight/
+- https://btg.tokenview.com/
+whitepaper:
+  abstract: "Bitcoin Gold is a Hard Fork of Bitcoin, that allows you to mine Bitcoin\
+    \ Gold with GPU. BTG implements a new PoW algorithm, Equihash, that makes mining\
+    \ decentralized again with ASIC resistant algorithm.\r\n\r\nPremine: 100 000 BTG"
+  file: btg-bitcoin-gold_whitepaper.pdf
+website:
+  url: https://bitcoingold.org
+video:
+  url: https://www.youtube.com/watch?v=TsdFR64AIiE
+team:
+  leader:
+    name: Alejandro Regojo
+    imagename: btg-bitcoin-gold_alejandro_regojo.png
+    position: Project Manager, Co-Founder, Board
+    description: Bitcoin Gold project manager and co-founder
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/jos\xE9-alejandro-regojo-barr\xF3n/"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/alejandroregojo
+        followers: 3327
+  members:
+  - name: Jack Liao
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bitcoingold/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: h4x3rotab
+    imagename: null
+    position: Lead Developer / Co-Founder
+    description: null
+    links:
+      github:
+        url: https://github.com/h4x3rotab
+        followers: 228
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robert Kuhne
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rbtkhn
+        followers: 8780
+  - name: Martin Kuvandzhiev
+    imagename: null
+    position: Co-Founder / Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/martin-kuvandzhiev-061615a2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/MKuvandzhiev
+        followers: 354
+  - name: Franco Niebles
+    imagename: null
+    position: Lead designer & Co-founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/franconiebles/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/franconiebles
+        followers: 1025
+  - name: Edward Iskra
+    imagename: null
+    position: Communication Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/edwardiskra/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/MentalNomadSays
+        followers: 536
+  - name: Igor Soshkin
+    imagename: null
+    position: Marketing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/igorsoshkin
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jack Mandelberg-Litten
+    imagename: null
+    position: Community coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jack-mandelberg-litten-2a9989155/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Gustavo del R\xEDo"
+    imagename: null
+    position: Social media
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/gustavo-del-rio-947802114/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/coinevolution
+        followers: 655
+  - name: "Juan G. S\xE1nchez"
+    imagename: null
+    position: Web Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/juanguillermosanchez
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/trixel
+        followers: 494
+  - name: Lwillys Tafur
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lwillys/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Yankov
+    imagename: null
+    position: Legal Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ivan-yankov-78b26459/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhivko Kostadinov
+    imagename: null
+    position: General Support
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zhivko-kostadinov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Finn Mikaelson
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/finn-m-861183155/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yavor Todorov
+    imagename: null
+    position: Mining Support
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yavortodorov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sachin Marya
+    imagename: null
+    position: Community Leader
+    description: Crypto Enthusiast. Passionate about Aviation, Consumer rights, Social
+      causes etc.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sachin-marya-a813bb121/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/btg_india
+        followers: 93
+socials:
+  telegram: https://t.me/BitcoinGoldHQ
+  reddit: https://www.reddit.com/r/BitcoinGoldHQ
+  twitter: https://twitter.com/bitcoingold
+  facebook: https://www.facebook.com/bitcoingoldofficial/
+  medium: https://medium.com/@btcgpu
+  vimeo: null
+  discord: https://discord.com/invite/HmVUU6S
+github:
+  username: BTCGPU
+  main_repository: BTCGPU/BTCGPU
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

@@ -1,0 +1,216 @@
+id: btt-bittorrent
+symbol: BTT
+name: BitTorrent
+logo: btt-bittorrent_logo@512x512.png
+founded: '2019-01-28'
+descriptions:
+  one_sentence: Content-sharing platform
+  introduction: 'Project overview: . Many internet users today are familiar with the
+    BitTorrent peer-to-peer protocol invented by Bram Cohen that powers the torrent
+    clients used around the world today. With BitTorrent (BTT), a TRC-10 utility token
+    based on the TRON blockchain, BitTorrent extends its familiar protocol to create
+    a token-based economy for networking, bandwidth, and storage resources on the
+    existing BitTorrent network, thus providing a way for network participants to
+    capture the value of sharing bandwidth and storage. Project mission:. BitTorrent
+    (BTT) allows content creators to connect with their audience, earn and spend digital
+    currency without a middleman.'
+  technology: "In one giant leap, the BitTorrent client can introduce blockchain to\
+    \ hundreds of millions of users around the world and empower a new generation\
+    \ of content creators with the tools to distribute their content directly to others\
+    \ on the web. Project value proposition:. Users of torrent clients are familiar\
+    \ with challenges such as slow downloads and files that become unavailable over\
+    \ time. By creating incentives for users to share, the token will enable faster\
+    \ download and better swarm longevity for the entire network. BitTorrent (BTT)\
+    \ will first be implemented into the Windows-based \xB5Torrent Classic client,\
+    \ BitTorrent\u2019s most popular application. BitTorrent token-enabled \xB5Torrent\
+    \ Classic clients will be 100% compatible with other clients that support the\
+    \ BitTorrent protocol."
+  future: Key features. - Existing BitTorrent clients will implement an optional set
+    of backward-compatible protocol extensions which allow them to bid and receive
+    bids for their bandwidth, working in tandem with a cryptocurrency wallet and bidding
+    engine. - The project plans to utilize BitTorrent (BTT) in more utility cases
+    beyond the current sharing of bandwidth, to more general storage, computation,
+    and resource availability, such as a distributed VPN (virtual private network)
+    or content delivery network (CDN). - The token will be used at first by BitTorrent
+    clients to bid for and earn in exchange for allocation of upstream bandwidth.
+    It will later be used for capabilities including purchasing content, tipping live
+    streaming performers, and crowdfunding the creation of new works..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2019-01-02'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://tronscan.org/#/token/1002000
+- https://trxplorer.io/token/1002000
+whitepaper:
+  abstract: BitTorrent (BTT) allows content creators to connect with their audience,
+    earn and spend digital currency without a middleman. By connecting the BitTorrent
+    peer-to-peer network to the TRON blockchain, we offer a new experience to over
+    100M+ users.
+  file: btt-bittorrent_whitepaper.pdf
+website:
+  url: https://www.bittorrent.com
+video:
+  url: https://www.youtube.com/watch?v=QnQG76Nq7Dk
+team:
+  leader:
+    name: Justin Sun
+    imagename: btt-bittorrent_justin_sun.png
+    position: CEO
+    description: 'Born in 1990 Masters, University of Pennsylvania, Bachelors, Peking
+      University.
+
+      Former chief representative at Ripple Labs, Greater China Region.
+
+      2011 Asia Weekly Cover Person; 2014 Davos Global Shaper, 2015 Forbes China 30
+      Under 30.
+
+      2015 CNTV Rising Star of the Year; 2015 only millennial graduate in the first
+      batch of entrepreneurs at Hupan University.
+
+      Since July 24th, 2018, TRON acquired BitTorrent Inc. which is an Internet technology
+      company based in San Francisco and became its CEO'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Eric Klinker
+    imagename: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ericklinker/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/BTTBitTorrent
+  reddit: https://www.reddit.com/r/bittorrent
+  twitter: https://twitter.com/BitTorrent
+  facebook: https://www.facebook.com/bittorrent/
+  medium: https://medium.com/bittorrent
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

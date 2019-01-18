@@ -1,0 +1,480 @@
+id: eos-eos
+symbol: EOS
+name: EOS
+logo: eos-eos_logo@512x512.png
+founded: '2017-05-06'
+descriptions:
+  one_sentence: Platform for decentralized apps and smart contracts
+  introduction: "General Data and Information. EOSIO was developed and launched by\
+    \ block.one (white paper released in 2017), a company headed by Daniel Larimer\
+    \ (formerly of Bitshares and Steemit) and Brendan Blumer. It was one of the most\
+    \ famous (if not THE most) ICOs (Initial Coin Offering), with an almost year long\
+    \ uncapped ICO being offered to investors between June 2017 and June 2018, resulting\
+    \ in a funding of almost 4 billion US dollars."
+  technology: Milestones. 26th June 2017 - ICO begins, ERC20 tokens offered on Ethereum
+    blockchain. 3rd September 2017 - Testnet (Dawn 1.0) launched. 4th December 2017
+    - Testnet (Dawn 2.0) launched. 25th January 2018 - Testnet (Dawn 3.0) launched.
+    7th May 2018 - Testnet (Dawn 4.0) launched. 1st June 2018 - ICO concludes, nearly
+    4 billion USD raised. 1st June 2018 - EOS Mainnet launches, all ERC-20 tokens
+    frozen and transferred to new chain.
+  future: "The EOS token is mainly used for the \u201Cpurchase\u201D of network resources\
+    \ (CPU/RAM) required to interact with the blockchain, but it also finds use in\
+    \ being a common currency for the DEXs and dApps built on the EOS blockchain as\
+    \ well as being a measure (when staked) of voting weight for choosing block producers."
+blockchain:
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
+  issue_date: '2017-07-02'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://eostracker.io/
+- https://eospark.com/
+- https://bloks.io/
+- https://eosflare.io/
+whitepaper:
+  abstract: "EOS.IO software utilizes the only known decentralized consensus algorithm\
+    \ proven capable of meeting the performance requirements of applications on the\
+    \ blockchain, \u200BDelegated Proof of Stake (DPOS)\u200B. Under this algorithm,\
+    \ those who hold tokens on a blockchain adopting the EOS.IO software may select\
+    \ block producers through a continuous approval voting system."
+  file: eos-eos_whitepaper.pdf
+website:
+  url: https://eos.io
+video:
+  url: https://www.youtube.com/watch?v=46XOIH5wLYo
+team:
+  leader:
+    name: Brendan Blumer
+    imagename: eos-eos_brendan_blumer.png
+    position: CHIEF EXECUTIVE OFFICER
+    description: "Brendan was an early investor in blockchain and transitioned to\
+      \ full-time involvement in the space in 2016 when he met business partner Dan\
+      \ Larimer and they co-founded Block.one. Prior to this, Brendan founded okay.com,\
+      \ a collaborative data-sharing ecosystem for the Asia Pacific property market\
+      \ that has grown to be Hong Kong\u2019s largest digital property agency. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brendanblumer
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/brendanblumer?lang=en
+        followers: 25095
+  members:
+  - name: Daniel Larimer
+    imagename: eos-eos_daniel_larimer.png
+    position: CHIEF TECHNOLOGY OFFICER
+    description: "Dan specializes in software creation and development and has founded\
+      \ several successful companies that focus on innovative technology, ranging\
+      \ from virtual reality simulators to unmanned vehicle control systems to several\
+      \ second-generation blockchain companies \u2013 most notably BitShares, Steemit,\
+      \ and Block.one. He is the inventor of the widely adopted Delegated Proof of\
+      \ Stake and Decentralized Autonomous Corporation concepts. He is a graduate\
+      \ of Virginia Tech\u2019s Department of Computer Science."
+    links:
+      github:
+        url: https://github.com/bytemaster
+        followers: 2849
+      linkedin:
+        url: https://www.linkedin.com/in/daniel-larimer-0a367089
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bytemaster7?lang=en
+        followers: 43809
+  - name: Rob Jesudason
+    imagename: eos-eos_rob_jesudason.png
+    position: PRESIDENT
+    description: "Rob is a member of Block.one\u2019s Board of Directors and is responsible\
+      \ for group global operations. Prior to joining Block.one, he worked at Commonwealth\
+      \ Bank of Australia, a global top-12 bank by market capitalization (A$125 billion)\
+      \ for six and a half years, most recently as its Chief Financial Officer. Before\
+      \ CBA, Jesudason worked at Credit Suisse as Head of Global Emerging Markets\
+      \ for its Financial Institutions Group. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robert-jesudason-83a39923
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robertjesudaso1
+        followers: 376
+  - name: Andrew Bliss
+    imagename: eos-eos_andrew_bliss.png
+    position: CHIEF FINANCIAL OFFICER
+    description: Andrew is a financial professional, investor and entrepreneur and
+      has served as the Chief Financial Officer of Block.one since its inception.
+      Prior to joining Block.one, Andrew held several financial and accounting positions
+      with global avionics and technology multinational Rockwell Collins, where he
+      worked for just under a decade. Andrew holds a Bachelor of Business Administration
+      and an MBA from the University of Iowa.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andrewcbliss
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/andrewcbliss
+        followers: 429
+  - name: Michael Alexander
+    imagename: eos-eos_michael_alexander.png
+    position: CHIEF EXECUTIVE OFFICER, EOS VC
+    description: 'Mike is responsible for managing both direct venture investments
+      and EOS VC partnerships, with a focus on sourcing and investing in projects
+      developing on the EOSIO ecosystem. With more than 25 years of experience in
+      Asia capital markets, Mike is a prominent figure in the financial services in
+      the region. Prior to Block.one, he served as the CEO of Jefferies Group Asia,
+      where he worked for just under eight years. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kokuei (Guo) Yuan
+    imagename: eos-eos_kokuei_(guo)_yuan.png
+    position: EXECUTIVE CHAIRMAN
+    description: "Guo is responsible for overseeing Block.one\u2019s financial and\
+      \ management operations. He has more than 20 years of experience as an investment\
+      \ professional and business manager, having previously worked as the president\
+      \ of ii5 Global and as an investment banker at CLSA. Guo is also involved in\
+      \ technology start-ups in both Hong Kong and India, among other business ventures\
+      \ in Asia."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Mendes
+    imagename: eos-eos_james_mendes.png
+    position: CHIEF PEOPLE OFFICER
+    description: "Prior to joining Block.one, James was Managing Director Human Resources\
+      \ at Citibank where he was responsible for driving talent related initiatives\
+      \ and leading the transformation of the function across the Asia-Pacific region\
+      \ and EMEA consumer business. Over the course of his career, James has worked\
+      \ in Europe, Asia and Africa, and has advised and partnered with several of\
+      \ the world\u2019s top brands. Prior to Citibank, he was Managing Director,\
+      \ Asia, at Korn Ferry. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/james-mendes-4102bb
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sheel Kohli
+    imagename: eos-eos_sheel_kohli.png
+    position: CHIEF MARKETING AND COMMUNICATIONS OFFICER
+    description: "Sheel brings 18 years of marketing and communications leadership\
+      \ experience to Block.one. Prior to joining, he worked as a managing director\
+      \ at Credit Suisse for 13 years, and was responsible for all of the institution\u2019\
+      s corporate communications across the Asia-Pacific region, covering investment\
+      \ banking, private banking and asset management. He was also heavily involved\
+      \ in the bank\u2019s flagship annual spring Asian Investment Conference. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sheel-kohli-9a372311/?originalSubdomain=hk
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sheelkohli?lang=en
+        followers: 614
+  - name: Ian Grigg
+    imagename: null
+    position: Partner
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kokuei Yuan
+    imagename: null
+    position: Executive Chairman
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/EOSProject
+  reddit: https://www.reddit.com/r/EOS
+  twitter: https://twitter.com/block_one_
+  facebook: https://www.facebook.com/eosblockchain/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: eosio
+  main_repository: eosio/eos
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "The field of cryptocurrency is expanding at an undying rate. One\
+        \ of the most interesting cryptocurrencies to have emerged on the scenes is\
+        \ EOS. EOS is a network based on the much-famous Ethereum Blockchain. This\
+        \ is where it gets its unofficial naming i.e. Ethereum Operating System (The\
+        \ Analyst Team, 2018).<br />\r\nOne can say EOS is an updated version of the\
+        \ Ethereum Blockchain, but a more improved and updated version. EOS technology\
+        \ was developed with the primary aim of building a network that can support\
+        \ and provide a more efficient and scalable platform for decentralized applications.\
+        \ It performs a number of similar functions, but more efficiently and swiftly.\
+        \ When Ethereum was released initially, it claimed to have been the first\
+        \ Blockchain to support decentralized applications. Sooner, it was revealed\
+        \ that it needed more improvements as it was plagued by a lot of scalability\
+        \ issues. What EOS technology does, in summary, is that it adds another layer\
+        \ to the Ethereum network to help address these issues, taking the world closer\
+        \ towards the possibility of decentralization.<br />\r\n"
+      score: 4.5
+      references: 'The Analyst Team. (2018, March 15). Decentral Media and Crypto
+        Briefing 2019. Retrieved from Decentral Media and Crypto Briefing 2019 Web
+        site: https://cryptobriefing.com/what-is-eos-introduction-to-the-eos-token/'
+  current_stand:
+    scandals_highlights:
+      description: "There is no upper limit set to the supply of EOS. The inflation\
+        \ rate has been decided by the governing body and is set at 5% currently.\
+        \ However, unlimited supply quantity will raise concerns about inflation in\
+        \ the future.<br />\r\nEOS is comparatively in the community, a new cryptocurrency.\
+        \ The technology\u2019s whitepaper was released in 2017 and that is when this\
+        \ Blockchain network came into limelight. It was backed by a very strong research\
+        \ and marketing campaign by Block.io who ran the longest Initial Coin Offering\
+        \ (ICO) in the history of cryptocurrencies. EOS ICO lasted for a whole year\
+        \ from June 2017 to 2018, and it was not only the longest ICO but is also\
+        \ the most successful of all time, raising a humungous amount of $4.1 billion\
+        \ in the time period (Dale, 2019).<br />\r\nAlthough the EOS network has experienced\
+        \ a tremendous growth since its inception, recently the cryptocurrency faced\
+        \ a serious public backlash, as people accused them of running a corrupt governing\
+        \ system. It was claimed that a large part of EOS Blockchain\u2019s governance\
+        \ under the Chinese crypto giants \u2018Huobi\u2019 were allegedly involved\
+        \ in vote-buying activities. Through this, they were safeguarding the position\
+        \ of their \u2018block producers\u2019 (BPs). BPs are decentralized bodies\
+        \ that constantly manage and govern the EOS network \u2013 there are 21 in\
+        \ total. Block.one and Huobi both put out public statements, but there was\
+        \ no clear message that acknowledges or denies the accusations (O'Neal, 2018).<br\
+        \ />\r\n"
+      score: 1.6
+      references: "Dale, B. (2019, Sep 17). Coin desk. Retrieved from Coin desk Web\
+        \ site: https://www.coindesk.com/the-first-yearlong-ico-for-eos-raised-4-billion-the-second-just-2-8-million<br\
+        \ />\r\nO'Neal, S. (2018, October 05). Coin telegraph. Retrieved from Coin\
+        \ telegraph Website: https://cointelegraph.com/news/corrupt-governance-what-we-know-about-recent-eos-scandal"
+    product:
+      description: "EOS has a working product, but it is centralized. The purpose\
+        \ of consensus algorithms is to keep a Blockchain secure. <br />\r\nThe parent\
+        \ company of EOS, Block.one has come up with many DApps (decentralized applications)\
+        \ after they launched their Mainnet (fully developed and deployed Blockchain\
+        \ protocol). As an estimate, there are around 350 DApps working on the EOS\
+        \ network, which are published by both block.one and the community members\
+        \ of the EOS network. The most famous of them all, perhaps, is Voice. Voice\
+        \ is a social media platform, officially launched by block.one, that allows\
+        \ its users to post and share content (Bloomberg , 2019).<br />\r\n"
+      score: 3.2
+      references: 'Bloomberg . (2019, June 01). The blockcrypto. Retrieved from The
+        blockcrypto Website: https://www.theblockcrypto.com/linked/25549/block-one-the-firm-behind-eos-launches-social-media-app'
+    development:
+      description: "The mathematical model of the EOS network is based on the technology\u2019\
+        s whitepaper which was published in 2017. After that block.one, under the\
+        \ technical leadership of Dan Larimer, has developed the code. The platform\
+        \ code is an open-source document that is freely accessible on GitHub where\
+        \ Community members are encouraged to develop code and send pull requests\
+        \ to block.one servers, who have the power to make the final decision. "
+      score: 4.7
+      references: null
+    partnerships:
+      description: "There are two notable partnerships that EOS has successfully retained\
+        \ in 2019, and which are keeping the technology competitive in the crypto-world.\
+        \ Tapatalk, a mobile forum app with over 300 million users, has recently launched\
+        \ a Gold Point Reward System which is powered by EOS Blockchain.<br />\r\n\
+        They also partner with Wanchain, a project that aims to achieve interoperability\
+        \ between different Blockchains. Wanchain has previously implemented interoperability\
+        \ schemes on the Bitcoin and Ethereum network and is now eyeing EOS as its\
+        \ next Blockchain (Olarinoye, 2019). <br />\r\n"
+      score: 3.8
+      references: 'Olarinoye, D. (2019, March 26). Invest in Blockchain. Retrieved
+        from Invest in Blockchain Website: https://www.investinblockchain.com/eos-q1-2019-partnerships/'
+    community:
+      description: "Due to the superior performance of EOS (at the cost of decentralization),\
+        \ there are many developers who are interested in developing on EOS network.\
+        \ Recently a special forum was organized by MEET.ONE where EOS developers,\
+        \ more than 40 well-known EOS block producers, and leading DApp companies\
+        \ introduced and adopted the EOS Blockchain (MEET.ONE, 2019). <br />\r\nAccording\
+        \ to many EOS leaders, a substantial contribution to the EOS ecosystem has\
+        \ come from the community members. There are many subsidiaries of EOS like\
+        \ eosDetroit, eosDublin, eosAsia and EOSGO which are all working towards the\
+        \ development of the EOS network (Fitzpatrick, 2018).<br />\r\n"
+      score: 3.6
+      references: "MEET.ONE. (2019, April 30). A Mediums Corporation. Retrieved from\
+        \ A Mediums Corporation Web site: https://medium.com/meet-one/this-is-the-unique-decentralized-eos-community-f6e3ca169cc3<br\
+        \ />\r\nFitzpatrick, L. (2018, Nov 04). Forbes. Retrieved from Forbes Website:\
+        \ https://www.forbes.com/sites/lukefitzpatrick/2018/11/04/the-driving-force-behind-eos-is-community-qa-with-eos-leaders-from-america-and-europe-to-asia/#493be957906b"
+    substitutes:
+      description: Since the EOS technology is based on the Ethereum network, it is
+        often compared with Ethereum. Other substitutes considered equally similar
+        to EOS are, Stellar and Tron.
+      score: 2.4
+      references: null
+  foresight:
+    prediction:
+      description: 'Imagine what starting capital is made available to a normal tech
+        startup. EOS received 4 billion US dollars. What it does with this amount
+        will determine if it succeeds or not. The biggest hurdle is the lack of decentralization.
+        Unfortunately, no measures are being taken to achieve a level of decentralization
+        similar to that of Ethereum, which is why it might be difficult for EOS to
+        take over the market as number one. '
+      score: 2.3
+      references: null
+    projects:
+      description: EOS started out as an Ethereum based token but has now launched
+        its own main net which uses the EOS.IO software. Block.one has laid out a
+        roadmap that represents the plans of the company for the coming years. Under
+        this project, the company will aim at enhancing the EOS platform in an attempt
+        to make EOS the most widely adopted technology. Two main components of the
+        project are to scale the block production and to make the EOS environment
+        more developer-friendly (About Currencies, 2019).
+      score: 3.5
+      references: 'About Currencies. (2019, July 10). Changelly. Retrieved from Changelly
+        Web site: https://changelly.com/blog/what-is-eos/'
+    potential:
+      description: EOS's potential could be huge if the semi-decentralized Blockchain
+        prevails over other smart contract platforms like Ethereum.
+      score: 4.6
+      references: null
+  pro_con:
+    product_availability:
+      description: "Around 350 DApps have been launched based on the EOS network.\
+        \ Also, Block.one has officially announced their own DApp named as \u2018\
+        Voice\u2019."
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: "EOS can process 1000+ transactions per second as compared to Bitcoin\u2019\
+        s 6 and Ethereum\u2019s 20 transactions per second."
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: EOS network does not require mining and as a result, there are
+        technically no transaction costs.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'The transaction speed is much higher compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: 'EOS is one of those currencies which have exploded on the trade
+        charts. The network already hosts a wide base of 3 million active users and
+        around 350 DApps have been launched on the EOS main net. '
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: According to some analysts, EOS is around 66,000 times more efficient
+        than Bitcoin because there's no mining involved.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: "Although all cryptocurrencies claim to be decentralized, there\
+        \ still remain traces of centralization in them. Recently, a research group,\
+        \ \u2018Weiss Ratings\u2019, has slammed the Eos technology with concerns\
+        \ of having some serious problems related to centralization. "
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: EOS is available on exchanges like Coinbase, Bitfinex, Binance,
+        etc.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "The original brain behind the EOS technology is Dan Larimer, the\
+        \ guy who is widely acknowledged for his genius maneuvers that gave new life\
+        \ to Steem (a social Blockchain network that rewarded its members for sharing\
+        \ content), and BitShares (a cryptocurrency trading exchange) (Zamboglou,\
+        \ 2018).<br />\r\nEOS is officially backed up by Block.one, which is a leading\
+        \ company that offers high-performance Blockchain solutions. The company was\
+        \ founded by Brendan Blumer, who is the current CEO, while Daniel Larimer\
+        \ serves as the company\u2019s CTO (Ladeluca, 2019). <br />\r\n"
+      score: 4.6
+      references: "Zamboglou, D. (2018, November 13). A Mediums Corporation. Retrieved\
+        \ from A Mediums Corporation Website: https://medium.com/datadriveninvestor/eos-explained-9dbc83b47ea8<br\
+        \ />\r\nLadeluca, J. (2019, January 05). BTC Manager. Retrieved from BTC Manager\
+        \ Website: https://btcmanager.com/block-one-eos-background-biggest-ico/"
+    developers:
+      description: 'The team behind EOS is officially represented by block.one. Daniel
+        Larimer is the CTO who is credited with developing the technology. Brendan
+        Blumer is the CEO, while Ian Grigg and Brock Pierce serve as partners. '
+      score: 4.6
+      references: null

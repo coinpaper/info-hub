@@ -1,34 +1,34 @@
 id: text|max(50)|lowercase
 symbol: text|max(10)|uppercase
 name: text|max(50)
-logo: image|png
-founded: date
+logo: optional|image|png
+founded: optional|date
 descriptions:
-  one_sentence: text|max(60)
-  introduction: text|max(1200)
-  technology: text|max(1200)
-  future: text|max(1200)
+  one_sentence: optional|text|max(80)
+  introduction: optional|text|max(1200)
+  technology: optional|text|max(1200)
+  future: optional|text|max(1200)
 blockchain:
-  consensus: text|max(60)
-  algorithm: text|max(60)
-  issue_date: date
-  type: oneof(token,coin,unknown)
-  organization_structure: oneof(Centralized,Semi-centralized,Decentralized,unknown)
-  development_status: oneof(Defunct,Alpha version,Just an Idea,Beta version,On-going development,Working product)
+  consensus: optional|text|max(60)
+  algorithm: optional|text|max(60)
+  issue_date: optional|date
+  type: optional|oneof(token,coin,unknown)
+  organization_structure: optional|oneof(Centralized,Semi-centralized,Decentralized,unknown)
+  development_status: optional|oneof(Defunct,Alpha version,Just an Idea,Beta version,On-going development,Working product)
 explorers: foreach(url)
 whitepaper:
-  abstract: text|max(600)
-  file: file|pdf
+  abstract: optional|text|max(600)
+  file: optional|file|pdf
 website:
-  url: url|startswith(https://)
+  url: optional|url|startswith(https://)
 video:
-  url: url|youtube
+  url: optional|url|youtube
 team:
   leader:
-    name: text|max(50)
+    name: optional|text|max(50)
     imagename: optional|image|png
-    position: text|max(60)
-    description:  text|max(600)
+    position: optional|text|max(60)
+    description:  optional|text|max(600)
     links:
       github:
         url: optional|url|startswith(https://github.com/)

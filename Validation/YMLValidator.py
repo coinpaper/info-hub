@@ -4,6 +4,7 @@ import os
 from Validation.Files import validation_yml, open_yml
 from Validation.ValueValidator import ValueValidator
 
+EMPTY_FILE = ".empty"
 
 class YMLValidator:
 
@@ -52,6 +53,9 @@ class YMLValidator:
 
         detected_images = os.listdir(os.path.normpath(os.path.join(os.path.dirname(__file__), f"./../coins/{self.__coin_id}/images")))
         detected_files = os.listdir(os.path.normpath(os.path.join(os.path.dirname(__file__), f"./../coins/{self.__coin_id}/files")))
+
+        detected_images = list(filter(lambda d: d != EMPTY_FILE, detected_images))
+        detected_files = list(filter(lambda d: d != EMPTY_FILE, detected_files))
 
         leader_image = []
         if self.__yml_to_validate["team"]["leader"]:

@@ -1,0 +1,172 @@
+id: tmtg-the-midas-touch-gold
+symbol: TMTG
+name: The Midas Touch Gold
+logo: tmtg-the-midas-touch-gold_logo@512x512.png
+founded: '2020-01-01'
+descriptions:
+  one_sentence: Asset platform on blockchain
+  introduction: "The Midas Touch Gold\r\nThe Intersection of Virtual Values and Reality\r\
+    \n\r\nPeople prefer the pursuit of things that are safe and secure.\r\n\r\nThus\
+    \ we continuously try to establish assets that are safe, and to maintain and secure\
+    \ them.\r\n\r\nWhen we first encountered Blockchain, we wondered, \"What type\
+    \ of cryptocurrency shall we make?\"\r\n\r\nDGE developed TMTG (The Midas Touch\
+    \ Gold) in order to expand upon real Gold, a tangible value asset,\r\n\r\ntaking\
+    \ its potential to the next step of unlimited possibilities with cryptocurrency.\r\
+    \n\r\nThe Midas Touch Gold (TMTG) is a Cryptocurrency based on ETH (Ethereum).\
+    \ The Midas Touch Gold means, \"Everything you touch turns to gold.\""
+  technology: There is no technology description for The Midas Touch Gold yet.
+  future: We can not provide any looks into the future for The Midas Touch Gold yet.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2020-01-01'
+  type: unknown
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x10086399dd8c1e3de736724af52587a2044c9fa2
+- https://ethplorer.io/address/0x10086399dd8c1e3de736724af52587a2044c9fa2
+whitepaper:
+  abstract: "The Midas Touch Gold\r\nThe Intersection of Virtual Values and Reality\r\
+    \n\r\nPeople prefer the pursuit of things that are safe and secure.\r\n\r\nThus\
+    \ we continuously try to establish assets that are safe, and to maintain and secure\
+    \ them.\r\n\r\nWhen we first encountered Blockchain, we wondered, \"What type\
+    \ of cryptocurrency shall we make?\"\r\n\r\nDGE developed TMTG (The Midas Touch\
+    \ Gold) in order to expand upon real Gold, a tangible value asset,\r\n\r\ntaking\
+    \ its potential to the next step of unlimited possibilities with cryptocurrency.\r\
+    \n\r\nThe Midas Touch Gold (TMTG) is a Cryptocurrency based on ETH (Ethereum)."
+  file: tmtg-the-midas-touch-gold_whitepaper.pdf
+website:
+  url: https://dgex.io
+video:
+  url: https://www.youtube.com/watch?v=7pdNar58o9w
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/officialtmtg
+  reddit: null
+  twitter: null
+  facebook: https://www.facebook.com/TheMidasTouchGold
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

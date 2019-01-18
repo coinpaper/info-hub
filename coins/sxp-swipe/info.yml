@@ -1,0 +1,179 @@
+id: sxp-swipe
+symbol: SXP
+name: Swipe
+logo: sxp-swipe_logo@512x512.png
+founded: '2019-08-08'
+descriptions:
+  one_sentence: Wallet and Crypto debit card
+  introduction: Swipe is a digital application that offers a Multi-Asset Blockchain
+    Wallet that allows users to store assets securely. The Swipe Wallet has been designed
+    to require Swipe Tokens SXP to perform all functions and utility of the Wallet
+    including to use the services and to make withdraws. Users on the Swipe Wallet
+    can buy, sell, and pay with their cryptocurrencies to fiat directly within the
+    Wallet application as well as purchase Gift Cards and make instant exchanges between
+    all supported assets. Users are able to use their SXP tokens on launch and there
+    are also tiered benefits based on the SXP holding on the Wallet Contract.
+  technology: All Swipe Wallets require a 1 SXP deposit to activate and utilize on-chain
+    functions based on an audited Smart Wallet-Contract to perform its duties. The
+    protocol has been designed and built on Ethereum and destroys 80% of network and
+    transaction fees are and 20% of the fees are retained by the company. Swipe Wallet
+    Ltd is the company behind the project and is based in the United Kingdom. Swipe
+    is founded by Joselito Lizarondo who also serves as the companies CEO. Joselito
+    has been involved in cryptocurrency payment startups over the course of the last
+    3 years all with similar executed plans and visions.
+  future: "Swipe Wallet has already developed it\u2019s MVP wallet application for\
+    \ both iOS and Android and will be releasing it to the full public soon. The Swipe\
+    \ Card which is a Visa Debit Card is issued by a financial institution and program\
+    \ managed by an issuer. Swipe Wallet will be the base application that powers\
+    \ the product line tied into the Ethereum blockchain using our Wallet Smart Contracts\
+    \ and Time Lock Contracts that are open-sourced and available on our GitHub pages.\
+    \ The Swipe Wallet will initially support 20 blockchain assets which will be available\
+    \ to be bought, sold, and paid with through the application.."
+blockchain:
+  consensus: unknown
+  algorithm: unknown
+  issue_date: '2019-08-08'
+  type: coin
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9
+- https://ethplorer.io/address/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9
+whitepaper:
+  abstract: Swipe Token is a utility token designed to be the gas and fuel of the
+    Swipe Wallet and Swipe Card.
+  file: sxp-swipe_whitepaper.pdf
+website:
+  url: https://swipe.io
+video:
+  url: https://www.youtube.com/watch?v=ezFzCkjwrBk
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/Swipe_io
+  twitter: https://twitter.com/swipewallet
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: SwipeWallet
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

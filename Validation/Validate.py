@@ -103,24 +103,6 @@ def oneof(value, argument=None, arguments=None, context=None):
 def url(value, argument=None, arguments=None, context=None):
     if not validators.url(value):
         raise ValueError(f"URL has an invalid format: '{value}'")
-    try:
-        head_request = requests.head(value, headers=headers)
-    except requests.exceptions.ConnectionError:
-        raise ValueError(f"No connection to website could be established, it appears to be offline: '{value}'")
-    status_code = head_request.status_code
-    if status_code != 200:
-        if status_code == 999:
-            return True
-        if status_code == 501:
-            try:
-                get_request = requests.get(value, headers=headers)
-                status_code = get_request.status_code
-            except requests.exceptions.ConnectionError:
-                raise ValueError(f"No connection to website could be established, it appears to be offline: '{value}'")
-            if status_code == 200:
-                return True
-
-        raise ValueError(f"URL did not return status code OK (200) but {status_code}. Maybe it was moved permanently? '{value}'")
     return True
 
 
@@ -205,6 +187,8 @@ def githubuser(value, argument=None, arguments=None, context=None):
     github_request = requests.get(f"https://api.github.com/users/{value}", headers=github_headers).json()
     if github_request.get("message", "") == "Not Found":
         raise ValueError(f"Github user {value} does not exist")
+    if github_request.get("message", "").startswith("API rate limit exceeded"):
+        raise RuntimeError("Github API rate limit exceeded!")
     return True
 
 
@@ -214,6 +198,8 @@ def githubrepo(value, argument=None, arguments=None, context=None):
     github_request = requests.get(f"https://api.github.com/repos/{value}", headers=github_headers).json()
     if github_request.get("message", "") == "Not Found":
         raise ValueError(f"Github user {value} does not exist")
+    if github_request.get("message", "").startswith("API rate limit exceeded"):
+        raise RuntimeError("Github API rate limit exceeded!")
     return True
 
 

@@ -1,0 +1,451 @@
+id: cro-cryptocom-chain
+symbol: CRO
+name: Crypto.com Coin
+logo: cro-cryptocom-chain_logo@512x512.png
+founded: '2018-11-13'
+descriptions:
+  one_sentence: Cryptocurrency payment card
+  introduction: 'Our vision is for Crypto.com Chain to become: "The best way to pay
+    and be paid in crypto, anywhere, any crypto, for free.".'
+  technology: "We strongly believe that decentralisation is an important part of building\
+    \ a better society for everyone and by accelerating the world\u2019s transition\
+    \ to cryptocurrency we are helping the world move in this direction. We will achieve\
+    \ this by building on one side, a network of cryptocurrency projects, and on the\
+    \ other side, focus on developing merchants\u2019 ability to accept crypto as\
+    \ a form of payment."
+  future: We intend that Crypto.com Chain will be a high performing native blockchain
+    solution, which will make the transaction flows between crypto users and merchants
+    accepting crypto seamless, cost-efficient and secure.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-11-13'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b
+- https://ethplorer.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b
+whitepaper:
+  abstract: "Crypto.com Chain will be a privacy preserving payment network that focuses\
+    \ on enabling crypto spending in the real world, powering the future of mobile\
+    \ money.\r\n\r\nEveryone is free to witness and participate in the network. Actors\
+    \ with the adequate staking and compliance requirements can perform validation\
+    \ and settlement activities and get rewarded for it.\r\n\r\nWe will relentlessly\
+    \ iterate our technical design and implementation until Crypto.com Chain is the\
+    \ best way to pay and be paid in crypto, anywhere, any crypto, for free."
+  file: cro-cryptocom-chain_whitepaper.pdf
+website:
+  url: https://crypto.com/en/index.html
+video:
+  url: https://www.youtube.com/watch?v=wHAEGLA3dhE
+team:
+  leader:
+    name: Kris Marszalek
+    imagename: cro-cryptocom-chain_kris_marszalek.png
+    position: CEO
+    description: Seasoned company builder based in Hong Kong, 2x from $0 to $100m
+      in revenue and 2 exits. CEO at Ensogo, Founder at BEECRAZY (sold for US$21mm
+      to iBuy Group in 2013).
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Rafael Melo
+    imagename: cro-cryptocom-chain_rafael_melo.png
+    position: CFO
+    description: "15 years\u2019 experience in finance, deep understanding of risk,\
+      \ compliance and Mobile Payments ecosystem in Asia. Led fundraising efforts\
+      \ as CFO at ASX-listed Ensogo, securing strategic investment from VIPSHOP (NYSE:VIPS)\
+      \ and raising over A$50m from blue chip institutions like Fidelity, Goldman\
+      \ Sachs and BlackRock."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gary Or
+    imagename: cro-cryptocom-chain_gary_or.png
+    position: CTO
+    description: Hacker, Product Designer, Entrepreneur, 9 years of full stack engineering
+      experience (RoR, Elixir, Golang), keen interest in Machine Learning and AI.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bobby Bao
+    imagename: cro-cryptocom-chain_bobby_bao.png
+    position: Head of Corporate Development
+    description: "Extensive experience in investment banking, corporate development,\
+      \ investor relations. Head of Corp. Development at Ensogo, investment banker\
+      \ at China Renaissance (\u534E\u5174), Deloitte, Merrill Lynch. While at China\
+      \ Renaissance he worked on landmark deals, including merger of Didi and Kuaidi\
+      \ (now Didi Chuxing) as well as Strategic Corporate Development Projects for\
+      \ JD.com (Nasdaq: JD)"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Weiyi Zhang
+    imagename: cro-cryptocom-chain_weiyi_zhang.png
+    position: Platform Architect
+    description: 'Formerly Vice President, Quantitative Trading at AP Capital Management
+      in Hong Kong, Weiyi led the development of an algorithmic trading platform and
+      managed the Asian market arbitrage portfolio. Prior to that, Weiyi was Vice
+      President of Electronic Market Making at JP Morgan, where he led volatility
+      trading strategy and arbitrage strategy development in the automated market
+      making business; and Quantitative Trading Strategist of Equity Derivative Trading
+      at Deutsche Bank.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric Anziani
+    imagename: cro-cryptocom-chain_eric_anziani.png
+    position: CSO
+    description: '12 years of experience in strategy, partnerships and innovation
+      in Financial Services, Retail and Technology. Previously at Goldman Sachs, McKinsey,
+      and PayPal in London, Paris, Singapore, and Tokyo. Most recently, Eric led the
+      Strategy team at Global Fashion Group and drove significant cross-regional strategic
+      programs across its 24 markets with over 9000 employees.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jason Lau
+    imagename: cro-cryptocom-chain_jason_lau.png
+    position: CISO
+    description: Jason is a multiple award winning cyber security professional, and
+      former regional Cyber Security Advisor at Microsoft, with over 16 years of experience
+      holding executive roles, advising international clients such as Credit Suisse,
+      Falcon Private Bank, ETH Zurich, Swiss Air Force, Royal Bank of Scotland, Social
+      Security Administration and many more. Jason has completed Executive Programs
+      at both Stanford and Harvard, and holds a double degree.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maggie Ng
+    imagename: cro-cryptocom-chain_maggie_ng.png
+    position: SVP, Head of Marketing
+    description: 'Passionate for driving new channels, product and partnership innovation.
+      Maggie possesses valuable skills from her previous positions as Head of Direct
+      Marketing and Direct to Consumer for FWD Insurance in Thailand and Director
+      of Digital Media for Prudential Corporation Asia at its regional headquarters.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cerulean Hu
+    imagename: cro-cryptocom-chain_cerulean_hu.png
+    position: Lead Blockchain Engineer
+    description: 'Former lead engineer at Equichain, implemented blockchain solutions
+      at FINCOVA, and led finance and trading systems development at ANX. Prior to
+      that, she was responsible for developing trading algorithms at HSBC.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Stefanov
+    imagename: cro-cryptocom-chain_ivan_stefanov.png
+    position: SVP, Risk Management
+    description: 'With more than 11 years of experience in risk management in the
+      online payments ecosystem. At Skrill and NETELLER, he managed teams across multiple
+      markets enhancing fraud prevention and payments setup. Ivan also cofounded NOTOLYTIX,
+      an innovative data processing startup that caters to all aspects of risk management.
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kasim Zorlu
+    imagename: cro-cryptocom-chain_kasim_zorlu.png
+    position: SVP, Head of Growth
+    description: A former VP of Performance Marketing at Rovio Entertainment (maker
+      of Angry Birds and Bad Piggies), Kasim joins Crypto.com with over 11 years experience
+      at leading online gaming companies. His experiences span from building customer
+      acquisition and retention teams, adjusting tech stacks, to scaling user bases
+      and bringing incremental revenue growth. He is a recognized thought leader in
+      the areas of data driven user acquisition, engagement and retention.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brent Diehl
+    imagename: cro-cryptocom-chain_brent_diehl.png
+    position: SVP, International Expansion
+    description: "20 years of experience in international payments, including MD of\
+      \ Alliance Payment Solutions, a payments consultancy; head of Visa\u2019s AP-CEMEA\
+      \ prepaid consultancy division; Western Union, where he led international expansion\
+      \ efforts for prepaid cards; and Home Depot, where he was responsible for its\
+      \ international card portfolios."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erald Ghoos
+    imagename: cro-cryptocom-chain_erald_ghoos.png
+    position: COO
+    description: Previously Chief Operating Officer at Payreto, offering payment solutions
+      to financial institutions. Leadership roles in operations at Funding Circle,AXA
+      Bank, Equa Bank, and Paysafe.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sean Rach
+    imagename: cro-cryptocom-chain_sean_rach.png
+    position: CMO
+    description: 'Former CMO at Prudential Corporation Asia. Led the regional American
+      Express account at Ogilvy, launched the Cathay Pacific AMEX card, and served
+      as MD of OgilvyOne Hong Kong (clients: AMEX, Western Union, BlackRock, SmarTone,and
+      IBM).'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/CryptoComOfficial
+  reddit: https://www.reddit.com/r/Crypto_com
+  twitter: https://twitter.com/cryptocom
+  facebook: https://www.facebook.com/CryptoComOfficial
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: crypto-com
+  main_repository: crypto-com/chain
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
