@@ -39,7 +39,7 @@ team:
         url: https://www.linkedin.com/in/gavin-wood-88843316/
         followers: null
       medium:
-        url: https://gavofyork.medium.com/
+        url: null
         followers: null
       twitter:
         url: https://twitter.com/gavofyork
@@ -50,7 +50,7 @@ socials:
   reddit: https://www.reddit.com/r/dot
   twitter: https://twitter.com/Polkadot
   facebook: https://www.facebook.com/polkadotnetwork/
-  medium: https://gavofyork.medium.com/
+  medium: null
   vimeo: null
   discord: null
 github:
