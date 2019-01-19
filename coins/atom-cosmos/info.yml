@@ -11,7 +11,7 @@ descriptions:
     \ token economy ecosystem."
   technology: Cosmos Hub is the first cross-chain hub of the Cosmos ecosystem, and
     ATOM is the native staking token of Cosmos Hub, which can be used for spam prevention,
-    staking dividends, and community management voting..
+    staking dividends, and community management voting.
   future: We can not provide any looks into the future for Cosmos yet.
 blockchain:
   consensus: Byzantine Fault Tolerance
@@ -43,7 +43,7 @@ team:
     links:
       github:
         url: https://github.com/jaekwon
-        followers: null
+        followers: 306
       linkedin:
         url: https://www.linkedin.com/in/yjkwon
         followers: null
@@ -61,7 +61,7 @@ team:
     links:
       github:
         url: https://github.com/nylira
-        followers: null
+        followers: 204
       linkedin:
         url: https://www.linkedin.com/in/nylira
         followers: null
@@ -78,7 +78,7 @@ team:
     links:
       github:
         url: https://github.com/zmanian
-        followers: null
+        followers: 231
       linkedin:
         url: https://www.linkedin.com/in/zmanian
         followers: null
@@ -207,17 +207,19 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_cost:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: ATOM transactions are subject to a transaction cost of a few cents.
+      is_pro: true
+      is_contra: false
     transaction_speed:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'There are no official figures available, but tokens that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet.'
+      is_pro: false
+      is_contra: true
     security:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: ATOM token is based on the Ethereum blockchain, and offers a similar
+        level of security.
+      is_pro: true
+      is_contra: false
     adoption:
       description: Cosmos has been widely accepted lately, and the community around the project has grown significantly.
       is_pro: true
@@ -228,9 +230,11 @@ manual_reviews:
       is_pro: true
       is_contra: false
     privacy:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'The technology does not offer complete privacy as ATOM is a pseudo anonymous
+        cryptocurrency which means that transactions can be tracked and balances of
+        individual accounts are available for people to see. '
+      is_pro: false
+      is_contra: true
     decentralization:
       description: 'The network is based on POS methodology and is decentralized blockchain technology.'
       is_pro: true
