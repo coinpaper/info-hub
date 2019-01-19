@@ -16,7 +16,7 @@ descriptions:
     bank accounts.
   future: Reserve funds are held with multiple US-based banks. USDC is built on openness
     and accountability, enshrined in the governance and technology standards effort
-    of Centre..
+    of Centre.
 blockchain:
   consensus: Not mineable
   algorithm: None
@@ -49,7 +49,7 @@ team:
     links:
       github:
         url: https://github.com/barmstrong
-        followers: null
+        followers: 255
       linkedin:
         url: https://www.linkedin.com/in/barmstrong
         followers: null
@@ -173,9 +173,9 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transactions_per_second:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'USDC TPS are unknown.'
+      is_pro: false
+      is_contra: true
     transaction_cost:
       description: The exchanges will charge a nominal fee for USDC based transactions.
       is_pro: true
@@ -185,9 +185,9 @@ manual_reviews:
       is_pro: true
       is_contra: false
     security:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'USDC security is unknown'
+      is_pro: false
+      is_contra: true
     adoption:
       description: USDC is one of the most popular stablecoin.
       is_pro: true
