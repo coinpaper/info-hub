@@ -4,10 +4,10 @@ name: Polkadot
 logo: dot-polkadot_logo@512x512.png
 founded: '2016-05-30'
 descriptions:
-  one_sentence: Network protocol that allows disparate data to be transferred across blockchains
-  introduction: We could not find out any information about Polkadot yet.
-  technology: There is no technology description for Polkadot yet.
-  future: We can not provide any looks into the future for Polkadot yet.
+  one_sentence: Allows disparate data to be transferred across blockchains
+  introduction: There are not many cryptocurrencies that have gained so much popularity in such a short span of time as Polkadot. Although the cryptocurrency has been around since past 3 years and was in its development phase for a better period of time, its main net launched recently in August 2020. Polkadot has taken the crypto-markets by storm with the rapid development. The upsurge in its popularity has enabled it to make its way into the top 10 cryptocurrencies by market capital in just a matter of 2 weeks.
+  technology: Polkadot is often dubbed as the mother of all cryptocurrencies, and is sometimes described as the “Ethereum Killer”. Although the founder of Polkadot has put it out openly that it is not a competitor to Ethereum, a closer look into the dynamics of the technology suggests otherwise.
+  future: The technology that Polkadot has brought forward is indeed revolutionary; something which has the potential to change the dynamics of the whole cryptocurrency world.
 blockchain:
   consensus: PoS
   algorithm: Blind Assignment for Blockchain Extension
@@ -33,125 +33,130 @@ team:
     description: Co-Founder of Ethereum. Founded Polkadot.
     links:
       github:
-        url: null
+        url: https://github.com/gavofyork
         followers: null
       linkedin:
-        url: null
+        url: https://www.linkedin.com/in/gavin-wood-88843316/
         followers: null
       medium:
         url: null
         followers: null
       twitter:
-        url: null
+        url: https://twitter.com/gavofyork
         followers: null
   members: []
 socials:
-  telegram: null
+  telegram: https://t.me/polkadotofficial
   reddit: https://www.reddit.com/r/dot
-  twitter: null
-  facebook: null
+  twitter: https://twitter.com/Polkadot
+  facebook: https://www.facebook.com/polkadotnetwork/
   medium: null
   vimeo: null
   discord: null
 github:
   username: null
-  main_repository: null
+  main_repository: paritytech/polkadot
 manual_reviews:
-  available: false
+  available: true
   introduction:
     purpose:
-      description: null
-      score: null
-      references: null
+      description: In the year 2017, there was a surge in the number of available cryptocurrencies as many experienced individuals realized the true potential of cryptocurrencies. As a result, many newer ambitious projects that focused their energies towards the development of a decentralised internet, also known as Web 3.0, came into the limelight. Polkadot is a similar project that seeks to power the future of a decentralised internet. The technology has identified the lack of inter-operation between different cryptocurrencies, and therefore has empowered its own blockchain to be interoperable with other blockchains regardless of whether it was within or outside the cryptocurrency. This is indeed one of the greatest powers of the Polkadot project.
+        Polkadot also provides the relevant infrastructure and technology through its blockchain platform which allows for the creation of smart contracts and even new blockchains built on top of the Polkadot network. The Polkadot technology is built on a modular design and is upgradeable. The network of this futuristic technology is decentralised and is governed by those who hold DOT, the native token of the Polkadot cryptocurrency (Krupka, 2020).
+      score: 4.8
+      references: 'Krupka, D. (2020, August 28). Coin Bureau. Retrieved from Coin Bureau: https://www.coinbureau.com/review/polkadot-dot/'
   current_stand:
     scandals_highlights:
-      description: null
-      score: null
-      references: null
+      description: Polkadot organised its ICO in October 2017 on top of the Ethereum blockchain. The ICO for the DOT cryptocurrency was tremendously successful and managed to raise a huge amount of $145 million USD. During the ICO, 10 million DOTs were sold to the public which is essentially half the supply of the DOT cryptocurrency. Each DOT token was released at a price of $28.80 USD.
+        The main scandal of the DOT history came in two weeks later when after the “Parity Hack,” about 2/3 of these funds were permanently frozen. The cyber-attackers exploited a weakness in the code of the Parity Wallet. Despite this huge loss, the founding team decided to carry on with the project. In order to overcome this loss, another private funding round was organised in 2019. This time, each DOT token was sold at $120 USD, raising a staggering figure of over 60 million USD.
+        The team behind Polkadot delivered the highly anticipated project by launching its main net in August 2020. Soon after the launch, Polkadot price valuation soared up high, making it amongst the top 10 cryptocurrencies by market capital.
+      score: 3.8
+      references: 'O Leary, R. (2017, November 9). Coindesk. Retrieved from Coindesk Website: https://www.coindesk.com/ico-funds-among-millions-frozen-parity-wallets'
     product:
-      description: null
-      score: null
-      references: null
+      description: Polkadot is a revolutionary project whose main aim is to establish a more decentralised internet. As a matter of fact, it is backed by the Web3 Foundation, which is a Swiss-based organisation working actively to realise the dream of free and decentralised internet.
+        The actual product is hard to describe in simple words. Polkadot is easily one of the most complicated cryptocurrencies of this era. To get a deep understanding of the technology, Polkadot Foundation has series of articles dedicated to explaining the technology. However, Polkadot can be visioned as an ecosystem of blockchains. The backbone of the project is the main blockchain known as Relay Chain. The Relay Chain can have Parachains growing out of it which can have their own tokens, protocols, methodologies and mechanisms (Platts, 2019).
+      score: 4.8
+      references: 'Platts, J. (2019, February). Medium. Retrieved from Medium: https://medium.com/polkadot-network/polkadot-the-foundation-of-a-new-internet-e8800ec81c7'
     development:
-      description: null
-      score: null
-      references: null
+      description: The Polkadot Foundation is actively working and solely responsible for the code development of the Polkadot blockchain. Frequent code changes and updates are seen on their Github repository where over 50 contributors are working actively.
+      score: 4.9
+      references: 'Polkadot (2020, August 20). Github. Retrieved from Github Website: https://github.com/paritytech/polkadot'
     partnerships:
-      description: null
-      score: null
-      references: null
+      description: Polkadot has emerged as a complete cryptocurrency which has established itself in each domain which is expected from a good cryptocurrency. It has brought many companies on board, a number of which are cryptocurrency trading exchanges. A comprehensive list of all the Polkadot partners can be found on their official website (Foundervine, Impact Hub Accra, Lend With Care, Hatch Enterprise).
+      score: 4.3
+      references: 'Polkadot (2020, August 20). Polkadot. Retrieved from Polkadotdigital: https://www.polkadotdigital.com/partnerships'
     community:
-      description: null
-      score: null
-      references: null
+      description: Polkadot has also consolidated its community in the previous years. Along with working on its technical infrastructure, the Polkadot team has also worked greatly to build a community around it. Polkadot has massive representation on Twitter, Reddit, Telegram, Github etc.
+      score: 4.6
+      references: 'Polkadot (2020, August 20). Polkadot. Retrieved from Polkadot Website: https://polkadot.network/community/'
     substitutes:
-      description: null
-      score: null
+      description: Polkadot is a cryptocurrency which offers a complete ecosystem to build other blockchains and decentralised applications on top of it. Even though the founder has refused categorically that it is not a competitor to Ethereum, analysts clearly regard it as a substitute of the Ethereum technology.
+      score: 4.5
       references: null
   foresight:
     prediction:
-      description: null
-      score: null
+      description: With the amazing show Polkadot has managed to pull off during the launch of its mainnet, things are looking promising for Polkadot. The technology has reached the top 10 cryptocurrencies based on market capitalization, and it would be interesting to see it competing the likes of Ethereum in the coming days.
+      score: 4.8
       references: null
     projects:
-      description: null
-      score: null
+      description: Polkadot is technically a decentralised organisation which means that it will be governed by its community alone. This also means that the future development and projects will fundamentally be decided by the community at large.
+      score: 4.5
       references: null
     potential:
-      description: null
-      score: null
+      description: Polkadot is a cryptocurrency which checks every box in the list of most revolutionary cryptocurrencies. According to many experienced analysts, Polkadot is just getting started. It has a great potential for growth and could become the biggest platform for smart contracts.
+      score: 5.0
       references: null
   pro_con:
     product_availability:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The main product of Polkadot is based on a futuristic technology which is not easy to understand or comprehend.
+      is_pro: false
+      is_contra: true
     product_usage:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: With Polkadot talking about web decentralisation, chances are in the coming years, a lot of transactions will be done with Polkadot technology.
+      is_pro: true
+      is_contra: false
     transactions_per_second:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Theoretically, the network can handle 1000+ transactions per second, but will of course be limited by the type of hardware in use.
+      is_pro: true
+      is_contra: false
     transaction_cost:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: According to the Polkadot team, the mainnet is capable of reaching 1 million transactions per second.
+      is_pro: true
+      is_contra: false
     transaction_speed:
       description: null
       is_pro: null
       is_contra: null
     security:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The mainnet is secured by a Delegated Proof of Stake algorithm.
+      is_pro: true
+      is_contra: false
     adoption:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Polkadot enjoyed a huge acceptance and adoption rate in year 2020.
+      is_pro: true
+      is_contra: false
     energy_consumption:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Polkadot is not an energy intensive cryptocurrency
+      is_pro: true
+      is_contra: false
     privacy:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Polkadot respects the privacy of its users and completely isolates all the user-specific data.
+      is_pro: true
+      is_contra: false
     decentralization:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Polkadot is completely decentralized.
+      is_pro: true
+      is_contra: false
     exchange_availability:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: DOT is available on almost every renowned cryptocurrency exchange including Kraken, Binance, Huobi and OKEx.
+      is_pro: true
+      is_contra: false
   team:
     founders:
-      description: null
-      score: null
-      references: null
+      description: The founding figure of Poladot is none other than the cryptocurrency sensation, Dr. Gavin Woods. Dr. Woods was one of the pioneers of the Ethereum cryptocurrency and is an experienced individual with over 20 years of experience in the software industry. He has been involved with many blockchain projects including Ethereum, and is also renowned for creating the programming language Solidity (Matinger, 2020).
+        In 2017, Dr, Gavin started working on a new cryptocurrency, which eventually came out as Polkadot and was created to “deliver on the promises which Ethereum could not”.
+      score: 5.0
+      references: 'Matinger, L. (2020, August 20). Cryptoticker. Retrieved from Cryptoticker: https://cryptoticker.io/en/what-is-polkadot/'
     developers:
-      description: null
-      score: null
+      description: Polkadot is surrounded by teams of experienced individuals who are working actively on the cryptocurrency. The founder of the project is Dr. Gavin Woods who is also heading the Polkadot Foundation. The proejct has a great suport from the Web3.0 team as well.
+      score: 4.8
       references: null
