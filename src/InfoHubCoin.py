@@ -1,4 +1,4 @@
-from InfoHub import InfoHub
+from .InfoHub import InfoHub
 
 from utils import APIObject
 
