@@ -1,13 +1,13 @@
 from .InfoHub import InfoHub
 
-from utils import APIObject
+from utils import APICoin
 
 
-class InfoHubCoin(APIObject):
+class InfoHubCoin(APICoin):
     _info_hub = InfoHub()
 
-    def __init__(self, coin_id):
-        self.coin_id = coin_id
+    def __init__(self, coin_id, coin_name, coin_symbol):
+        super().__init__(coin_id, coin_name, coin_symbol)
 
         self._info_hub.clone_or_pull()
         self._yml = InfoHub.readYML(self.coin_id)
