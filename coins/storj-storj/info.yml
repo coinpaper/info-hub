@@ -1,20 +1,13 @@
-# The trading symbol and name of the coin
 id: storj-storj
 symbol: STORJ
 name: Storj
 logo: storj-storj_logo@512x512.png
-
-# Founding of public-release date in the format "23-08-2020"
 founded: '2020-01-01'
-
-# Description about the coin. Should be at most 10 sentences per field.
 descriptions:
   one_sentence: Decentralized cloud storage
-  introduction: "No introduction yet"
-  technology: ""
-  future: ""
-
-# Information about the type of blockchain and its development status
+  introduction: No introduction yet
+  technology: ''
+  future: ''
 blockchain:
   consensus: unknown
   algorithm: unknown
@@ -22,32 +15,21 @@ blockchain:
   type: unknown
   organization_structure: unknown
   development_status: Defunct
-
-# List of URLs to Blockchain explorers such as "https://etherscan.io/".
-explorers: []
-
-# Place the official whitepaper itself as a PDF into /files/whitepaper.pdf
-# The abstract is the first section, mostly written in bold, inside the whitepaper.
+explorers:
+- http://ethplorer.io/address/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
 whitepaper:
   abstract: No whitepaper available
   file: storj-storj_whitepaper.pdf
-
-# URL to the official website.
 website:
   url: https://storj.io/
-
-# Explenation youtube video. Must be in the form "https://www.youtube.com/watch?v=dQw4w9WgXcQ".
 video:
   url: https://www.youtube.com/watch?v=1RTfUgn69DE
-
-# Collective information about the team.
 team:
-  # Representative figure, like "Vitalik Buterin" for Ethereum.
   leader:
     name: Unknown
-    imagename: null   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+    imagename: null
     position: Founder
-    description:  Unknown founder
+    description: Unknown founder
     links:
       github:
         url: null
@@ -61,176 +43,657 @@ team:
       twitter:
         url: null
         followers: null
-
-  # Official members or heavy contributers. The format of each member is
-  # the same as the format of the leader.
-  members: []
-
-# Links to any official or large community driven social media channels.
+  members:
+  - name: Shawn Wilkinson
+    imagename: null
+    position: Co-Founder & Chief Strategy Officer
+    description: null
+    links:
+      github:
+        url: https://github.com/super3
+        followers: 210
+      linkedin:
+        url: https://www.linkedin.com/in/shawn-wilkinson-4b2899b1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/super3?lang=en
+        followers: 5694
+  - name: John Quinn
+    imagename: null
+    position: Co-founder/CRO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johnquinntech
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/storjq?lang=en
+        followers: 871
+  - name: Philip Hutchins
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: https://github.com/phutchins
+        followers: 66
+      linkedin:
+        url: https://www.linkedin.com/in/philip-hutchins-5109a61
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/flipture?lang=en
+        followers: 101
+  - name: JT Olio
+    imagename: null
+    position: Director of Engineering
+    description: null
+    links:
+      github:
+        url: https://github.com/jtolds
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jtolds
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jtolds?lang=en
+        followers: 677
+  - name: Matthew May
+    imagename: null
+    position: CFO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/thetechcpa
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/thetechcpa?lang=en
+        followers: 1315
+  - name: Patrick Gerbes
+    imagename: null
+    position: Lead Data Scientist
+    description: null
+    links:
+      github:
+        url: https://github.com/pgerbes1
+        followers: 13
+      linkedin:
+        url: https://www.linkedin.com/in/pgerbes
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Braydon Fuller
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/braydonf
+        followers: 117
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@braydonf
+        followers: 6
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Leitner
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexander-leitner-4048ab62/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Jens Heimb\xFCrge"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bryan White
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/bryanchriswhite
+        followers: 45
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dylan Lott
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dylanlott
+        followers: 51
+      linkedin:
+        url: https://www.linkedin.com/in/dylanlott
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dylanlott?lang=en
+        followers: 179
+  - name: Maximillian von Briesen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mobyvb/
+        followers: 31
+      linkedin:
+        url: https://www.linkedin.com/in/maximillian-von-briesen-17279379/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Hagans II
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/james-hagans-ii-b6310a39
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Sanderson
+    imagename: null
+    position: VP of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jon-sanderson-17b88a10
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dan Sorensen
+    imagename: null
+    position: PR Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sorensenpower
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sorensenpower
+        followers: 909
+  - name: Jodi Smith
+    imagename: null
+    position: Director of Content
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jodimardesichsmith
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Gleeson
+    imagename: null
+    position: Customer Success Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jggleeson
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nadine Farah
+    imagename: null
+    position: Evangelist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nadinehachouche
+        followers: null
+      medium:
+        url: https://medium.com/@nadinefarah
+        followers: 112
+      twitter:
+        url: null
+        followers: null
+  - name: Faris Huskovic
+    imagename: null
+    position: Customer Support Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Garrett Ransom
+    imagename: null
+    position: Data Analyst
+    description: null
+    links:
+      github:
+        url: https://github.com/g2ransom
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/garrettransom
+        followers: null
+      medium:
+        url: https://medium.com/@g2ransom
+        followers: 286
+      twitter:
+        url: https://twitter.com/g2ransom
+        followers: 228
+  - name: Natalie Villasana
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nat-ventura
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dennis Coyle
+    imagename: null
+    position: Lead Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/coyledennis
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dennismcoyle?lang=en
+        followers: 335
+  - name: Kishore Aligeti
+    imagename: null
+    position: Senior Security Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aligeti/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Bender
+    imagename: null
+    position: Site Reliability Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexander-bender-611a9734
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kaloyan Raev
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/kaloyan-raev
+        followers: 64
+      linkedin:
+        url: https://bg.linkedin.com/in/kaloyanraev
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kaloyanraev?lang=en
+        followers: 361
+  - name: Atikh Bana
+    imagename: null
+    position: UX Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/atikhbana
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bonnie Adams
+    imagename: null
+    position: Head of People & Culture
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bonnieradams
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anand Babu Periasamy
+    imagename: null
+    position: Advisory Board
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/abperiasamy
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/abperiasamy
+        followers: 1713
+  - name: Warren Weber
+    imagename: null
+    position: Advisory Board
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@wew_8484
+        followers: 287
+      twitter:
+        url: null
+        followers: null
+  - name: Bo Shen
+    imagename: null
+    position: Advisory Board
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/boshen1011/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/boshen1011?lang=en
+        followers: 4329
+  - name: Tyler Scriven
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tylerscriven
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tylerscriven?lang=en
+        followers: 1021
+  - name: Michael Cohn
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/michaelcohn
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/cohnhead?lang=en
+        followers: 2490
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/storj
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
-
-# Official github code repository.
 github:
-  username: null
-  main_repository: null   # Repository that represents the blockchain/token
-
-# Manual reviews that influence the Coinpaper score. Please reade the contribution
-# guidelines before commiting changes to this section.
+  username: storj
+  main_repository: null
 manual_reviews:
-
-  # Indicates whether the manual review is ready to be published online
   available: true
-
   introduction:
-
-    # What problem is the coin/token solving?
     purpose:
       description: null
       score: null
       references: null
-
   current_stand:
-
-    # Did the token or its founders go through scandals (scams, false claims..)
-    # or have they achieved something great (collaborations..) in the past?
     scandals_highlights:
       description: null
       score: null
       references: null
-
-    # What is the product around the token. What belongs to the ecosystem?
     product:
       description: null
       score: null
       references: null
-
-    # How is development processing? When will the product be ready to use?
     development:
       description: null
       score: null
       references: null
-
-    # Was the team able to form valuable partnerships?
     partnerships:
       description: null
       score: null
       references: null
-
-    # Does the project have a strong, enthusiastic and supportive communtiy?
     community:
       description: null
       score: null
       references: null
-
-    # Are there any close competitors that might overtake the project?
     substitutes:
       description: null
       score: null
       references: null
   foresight:
-    # How will this project most probably look in a few months/years from now?
-    # THIS IS NOT ABOUT PRICE ACTION!
     prediction:
-      description:  null
+      description: null
       score: null
       references: null
-
-    # Are there any projects that build on top of this technology?
     projects:
       description: null
       score: null
       references: null
-
-    # If the project achieves what they claims, what would the future bring?
     potential:
       description: null
       score: null
       references: null
-
   pro_con:
-    # Is there something ready-to-use yet?
     product_availability:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is anybody even using it?
     product_usage:
       description: null
       is_pro: null
       is_contra: null
-
-    # How fast is the network? Can it scale?
     transactions_per_second:
       description: null
       is_pro: null
       is_contra: null
-
-    # How expensive is it to use the network?
     transaction_cost:
       description: null
       is_pro: null
       is_contra: null
-
-    # How long does it take the network to validate requests?
     transaction_speed:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the security concept proofen?
     security:
       description: null
       is_pro: null
       is_contra: null
-
-    # Did the project find any adoption in its nieche?
     adoption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How much enery is needed to keep the project alive?
     energy_consumption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How prive/pseudonomous is the participation in the network?
     privacy:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the network decentralized, as blockchain is supposed to be?
     decentralization:
       description: null
       is_pro: null
       is_contra: null
-
-    # Can coins/tokens be traded on trusted exchanges?
     exchange_availability:
       description: null
       is_pro: null
       is_contra: null
-
-  # This section focuses on the founding- or lead development team
   team:
-
-    # Who are the founders? Have they achieved something in the past already?
     founders:
       description: null
       score: null
       references: null
-
-    # Who is developing the product? Is it run by the community?
     developers:
       description: null
       score: null
