@@ -9,10 +9,10 @@ descriptions:
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
 explorers: []
@@ -20,7 +20,7 @@ whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.curve.fi/
 video:
   url: null
 team:
@@ -52,7 +52,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: curvefi
   main_repository: null
 manual_reviews:
   available: false
