@@ -5,22 +5,28 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "BCZERO Coin is a platform for the future of funding for all kind\
+    \ of payments to the Truck Racing Community worldwide that is build on Top of\
+    \ the Ethereum blockchain.\r\n\r\nIt will act as a payment platform for payment\
+    \ of Racing Series and Racing Events in China, India, Europe, Asea and South America,\
+    \ as well as for Sponsorships, Merchandising and Racing Fans."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xd45247c07379d94904e0a87b4481f0a1ddfa0c64
+- https://ethplorer.io/address/0xd45247c07379d94904e0a87b4481f0a1ddfa0c64
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://buggyracoinzero.com
 video:
   url: null
 team:
