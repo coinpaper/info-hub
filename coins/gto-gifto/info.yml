@@ -2,32 +2,86 @@ id: gto-gifto
 symbol: GTO
 name: Gifto
 logo: null
-founded: null
+founded: '2017-12-14'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "GIFTO Protocol is a decentralized universal gifting protocol for\
+    \ digital content consumption market.\r\n\r\nIn development - testing starts Q1\
+    \ 2018"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-12-14'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://gifto.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Andy Tian
     imagename: null
-    position: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andytian/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: William H. Nguyen, Ph.D.
+    imagename: null
+    position: Chief Crypto Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dathnguyen/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charles Thach
+    imagename: null
+    position: Chief Crypto Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/charles-thach-466468/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Yeh
+    imagename: null
+    position: Team Member
     description: null
     links:
       github:
@@ -42,17 +96,243 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Minh Thach
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/minhthach/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sean Tao
+    imagename: null
+    position: Project Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/%E6%AC%A3%E4%BA%9A-%E9%99%B6-68a651145/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dylan Park
+    imagename: null
+    position: Head of GIFTO Korea
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dylan-donghwi-park-pmp-50118221/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bo Shen
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/boshen1011/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/boshen1011?lang=en
+        followers: 4329
+  - name: Loi Luu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/loiluu
+        followers: 119
+      linkedin:
+        url: https://sg.linkedin.com/in/loiluu
+        followers: null
+      medium:
+        url: https://medium.com/@loiluu
+        followers: 2394
+      twitter:
+        url: null
+        followers: null
+  - name: Danny Yang
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tom Duterme
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Jin Ho Hur
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hurjinho/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hitters Xu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hitters
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jae Kim
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jae-kim-3b8755146/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Addison Huegel
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/addisonhuegel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Sun
+    imagename: null
+    position: Advisor
+    description: Born in 1990 Masters, University of Pennsylvania, Bachelors, Peking
+      University. Former chief representative at Ripple Labs, Greater China Region.
+      2011 Asia Weekly Cover Person; 2014 Davos Global Shaper, 2015 Forbes China 30
+      Under 30. 2015 CNTV Rising Star of the Year; 2015 only millennial graduate in
+      the first batch of entrepreneurs at Hupan University. Since July 24th, 2018,
+      TRON acquired BitTorrent Inc. which is an Internet technology company based
+      in San Francisco and became its CEO
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sunyuchen
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/justinsuntron?lang=en
+        followers: 2236856
+  - name: Yubo Ruan
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/GIFTO
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: gifto-io
   main_repository: null
 manual_reviews:
   available: false
