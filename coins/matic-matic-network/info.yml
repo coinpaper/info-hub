@@ -5,22 +5,25 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Matic Network brings massive scale to Ethereum using an adapted version
+    of Plasma with PoS based side chains.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
+- https://ethplorer.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://matic.network
 video:
   url: null
 team:
@@ -52,7 +55,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: maticnetwork
   main_repository: null
 manual_reviews:
   available: false
