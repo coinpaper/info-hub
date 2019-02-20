@@ -5,22 +5,26 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: The Ampleforth protocol receives exchange-rate information from trusted
+    oracles, and propagates that to holders of its units (Amples) by proportionally
+    increasing or decreasing the number of tokens each individual holds.
   technology: null
   future: null
 blockchain:
   consensus: null
-  algorithm: null
+  algorithm: ERC20
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161
+- https://ethplorer.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.ampleforth.org
 video:
   url: null
 team:
@@ -45,14 +49,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/ampleforthcrypto
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/ampleforth
   vimeo: null
   discord: null
 github:
-  username: null
+  username: ampleforth
   main_repository: null
 manual_reviews:
   available: false
