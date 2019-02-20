@@ -5,29 +5,33 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Growing Global Prosperity!\r\n\r\nPremine: 1 000 000 coins."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Stake
+  algorithm: POS 2.0
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- http://vitaetoken.io:8181/
+- https://vitae.tokenview.com/en
+- http://de.vit.tips/
+- https://explorer.vitae.co/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.vitaetoken.io
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Diane B Bailey
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
@@ -42,17 +46,102 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Shrage Posen
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mendy Zicherman
+    imagename: null
+    position: CCO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ringo Deloof
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kobe Bicke
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ben Zicherman
+    imagename: null
+    position: CFO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/VitaeTeam
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: VitaeTeam
   main_repository: null
 manual_reviews:
   available: false
