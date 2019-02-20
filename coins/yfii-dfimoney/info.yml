@@ -2,25 +2,25 @@ id: yfii-dfimoney
 symbol: YFII
 name: DFI.Money
 logo: null
-founded: null
+founded: '2020-07-29'
 descriptions:
   one_sentence: null
   introduction: null
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2020-07-29'
+  type: token
   organization_structure: null
-  development_status: null
+  development_status: Working product
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://dfi.money
 video:
   url: null
 team:
