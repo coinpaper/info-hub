@@ -5,22 +5,28 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "GZRO is a decentralized cryptocurrency that offers fast and secure\
+    \ transactions. GZRO utilizes the blockchain and information technology to create\
+    \ the GAME MARKET of its own. By taking advantage of the tools and resources offered\
+    \ by the GZRO GAME MARKET, both players and the game developers will be able to\
+    \ effectively and conveniently be a part of \u2013 and be involved in - everything\
+    \ the online gaming world has to offer."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Work & Proof of Stake
+  algorithm: SHA256
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- http://66.55.133.82/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://gzro.net/
 video:
   url: null
 team:
@@ -45,14 +51,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/GZRO
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: GZR0
   main_repository: null
 manual_reviews:
   available: false
