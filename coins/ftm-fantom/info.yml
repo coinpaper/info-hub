@@ -5,22 +5,27 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "FANTOM is the world\u2019s first DAG based smart contract platform\
+    \ that solves the issue of scalability and confirmation time of the existing blockchain\
+    \ technology."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Importance
+  algorithm: PoI
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870
+- https://explorer.fantom.network
+- https://fantomscan.ovh/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://fantom.foundation/
 video:
   url: null
 team:
@@ -45,14 +50,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/FantomFoundation
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: FantomFoundation
   main_repository: null
 manual_reviews:
   available: false
