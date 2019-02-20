@@ -2,30 +2,36 @@ id: maid-maidsafecoin
 symbol: MAID
 name: MaidSafeCoin
 logo: null
-founded: null
+founded: '2016-08-12'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Blockchain based storage solutions that store a data identifier (e.g.\
+    \ hash) in a blockchain, but store the data 'somewhere else' do not improve the\
+    \ security of our data. That 'somewhere else' still needs to be secured, and if\
+    \ this data can be deleted, or our access denied these 'solutions' are not fit\
+    \ for purpose. The SAFE Network will remove people from the management of our\
+    \ information to protect the world's data.\r\n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2016-08-12'
+  type: token
+  organization_structure: Centralized
+  development_status: Prototype / MVP
+explorers:
+- http://omniexplorer.info/asset/3
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://safenetwork.tech/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: David Irvine
     imagename: null
     position: null
     description: null
@@ -45,14 +51,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/safenetwork
   twitter: null
   facebook: null
-  medium: null
+  medium: https://blog.maidsafe.net/
   vimeo: null
   discord: null
 github:
-  username: null
+  username: maidsafe
   main_repository: null
 manual_reviews:
   available: false
