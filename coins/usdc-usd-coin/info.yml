@@ -32,9 +32,9 @@ whitepaper:
     \ exchange. CENTRE\u2019s technology for fiat-backed stablecoins brings stability\
     \ to crypto. The initial implementation is USD//Coin (USDC), an ERC-20 token creating\
     \ possibilities in payments, lending, investing, trading and trade finance \u2014\
-    \ and the ecosystem will grow as other fiat currency tokens are added.\
-    \ As more goods and services are tokenized, smart contract platforms will become\
-    \ fundamental building blocks of value exchange."
+    \ and the ecosystem will grow as other fiat currency tokens are added. As more\
+    \ goods and services are tokenized, smart contract platforms will become fundamental\
+    \ building blocks of value exchange."
   file: usdc-usd-coin_whitepaper.pdf
 website:
   url: https://www.centre.io
@@ -75,91 +75,96 @@ manual_reviews:
   available: true
   introduction:
     purpose:
-      description: 'After the crypto bull-run of 2017 and the havoc wrecked on the crypto-markets 
-      in early 2018, the crypto-community turned their attention towards the high-volatility issue 
-      of the crypto-currencies. It was high-time something was done to ensure that the markets are 
-      not manipulated in any way and to ensure that some mechanism is there to safeguard it against 
-      the rapid fluctuations in the crypto-markets. As a result, the concept of stablecoins gained 
-      momentum.
-      A USD Coin tries to amalgamate the benefits of the cryptocurrencies with the stability of the 
-      fiat currencies. It lets its users transfer money quickly all around the world while maintaining 
-      its value to $1'
+      description: After the crypto bull-run of 2017 and the havoc wrecked on the
+        crypto-markets in early 2018, the crypto-community turned their attention
+        towards the high-volatility issue of the crypto-currencies. It was high-time
+        something was done to ensure that the markets are not manipulated in any way
+        and to ensure that some mechanism is there to safeguard it against the rapid
+        fluctuations in the crypto-markets. As a result, the concept of stablecoins
+        gained momentum. A USD Coin tries to amalgamate the benefits of the cryptocurrencies
+        with the stability of the fiat currencies. It lets its users transfer money
+        quickly all around the world while maintaining its value to $1
       score: 4.2
-      references: 'Coburn, J. (2019, June 12). Blocksdecoded. Retrieved from Blocksdecoded: 
-      https://blocksdecoded.com/what-is-usd-coin-crypto/'
+      references: 'Coburn, J. (2019, June 12). Blocksdecoded. Retrieved from Blocksdecoded:
+        https://blocksdecoded.com/what-is-usd-coin-crypto/'
   current_stand:
     scandals_highlights:
-      description: 'Talking about the history of USD Coin, it is important to note that it is a 
-      relatively newer and fresher coin of the lot. This stablecoin cryptocurrency was specifically 
-      built to combat the high volatility issues linked with mainstream crypto-tokens while making a 
-      quick and easy transaction possible for the users.
-      USD Coin became an instant hit largely due to the good reputation of its founding companies, 
-      Coinbase and Circle. The technology and the underlying framework were developed by Centre, 
-      while its distribution was first announced by Circle and Coinbase. What USD Coin has practically 
-      done is that it has brought the US Dollar on to the blockchain, allowing the movement of 
-      payments over the cryptocurrency network.'
+      description: Talking about the history of USD Coin, it is important to note
+        that it is a relatively newer and fresher coin of the lot. This stablecoin
+        cryptocurrency was specifically built to combat the high volatility issues
+        linked with mainstream crypto-tokens while making a quick and easy transaction
+        possible for the users. USD Coin became an instant hit largely due to the
+        good reputation of its founding companies, Coinbase and Circle. The technology
+        and the underlying framework were developed by Centre, while its distribution
+        was first announced by Circle and Coinbase. What USD Coin has practically
+        done is that it has brought the US Dollar on to the blockchain, allowing the
+        movement of payments over the cryptocurrency network.
       score: 4.8
       references: null
     product:
-      description: 'The actual product is a crypto-token whose value is backed by the US Dollar. 
-      It is already being offered on different exchanges, including Coinbase. This doesn’t mean 
-      that the tokens are just created out of one’s own will. Rather, every USD token that is 
-      released into the markets must have a US dollar stored in the reserves at the back end. The 
-      reserves must be looked after by the issuing companies and audited frequently. This process 
-      is known as tokenization'
+      description: "The actual product is a crypto-token whose value is backed by\
+        \ the US Dollar. It is already being offered on different exchanges, including\
+        \ Coinbase. This doesn\xE2\u20AC\u2122t mean that the tokens are just created\
+        \ out of one\xE2\u20AC\u2122s own will. Rather, every USD token that is released\
+        \ into the markets must have a US dollar stored in the reserves at the back\
+        \ end. The reserves must be looked after by the issuing companies and audited\
+        \ frequently. This process is known as tokenization"
       score: 4.5
-      references: 'CryptoNews. (2019). CryptoNews. Retrieved from CryptoNews: 
-      https://cryptonews.com/coins/usd-coin/'
+      references: 'CryptoNews. (2019). CryptoNews. Retrieved from CryptoNews: https://cryptonews.com/coins/usd-coin/'
     development:
-      description: 'The technology and the underlying framework for the USD Coin were developed 
-      by Centre. Their stablecoin framework allows fiat currencies, like the US Dollar, to interact 
-      with smart contracts, thus providing a means for the developers to use real-world currencies 
-      in blockchain applications.'
+      description: The technology and the underlying framework for the USD Coin were
+        developed by Centre. Their stablecoin framework allows fiat currencies, like
+        the US Dollar, to interact with smart contracts, thus providing a means for
+        the developers to use real-world currencies in blockchain applications.
       score: 4.2
       references: null
     partnerships:
-      description: 'One of the earliest partnerships the USD Coin made was with Bitmain and Centre. 
-      Back in 2018, Bitmain became a key supporter of Centre’s framework and USDC as it leads a $110 
-      million strategic investment in Circle. 
-      USDC also has several banking partners, including Silvergate bank and US Bankcorp Asset 
-      Management (USBAM). Circle has also partnered with Grant Thornton LLP for a monthly check-up 
-      on the US Dollar reserve balances for the USDC tokens.'
+      description: "One of the earliest partnerships the USD Coin made was with Bitmain\
+        \ and Centre. Back in 2018, Bitmain became a key supporter of Centre\xE2\u20AC\
+        \u2122s framework and USDC as it leads a $110 million strategic investment\
+        \ in Circle. USDC also has several banking partners, including Silvergate\
+        \ bank and US Bankcorp Asset Management (USBAM). Circle has also partnered\
+        \ with Grant Thornton LLP for a monthly check-up on the US Dollar reserve\
+        \ balances for the USDC tokens."
       score: 4.6
-      references: 'Neville, S. (2018, May 15). Circle. Retrieved from Circle: 
-      https://blog.circle.com/2018/05/15/circle-announces-usd-coin-bitmain-partnership-and-new-strategic-financing/'
+      references: 'Neville, S. (2018, May 15). Circle. Retrieved from Circle: https://blog.circle.com/2018/05/15/circle-announces-usd-coin-bitmain-partnership-and-new-strategic-financing/'
     community:
-      description: 'USD Coin has gained serious lot of loyal fans in a very short time, largely because 
-      of its founding companies. The community is visibly active on different social platforms, 
-      publishing and taking forward the useful agenda of the USD Coin.'
+      description: USD Coin has gained serious lot of loyal fans in a very short time,
+        largely because of its founding companies. The community is visibly active
+        on different social platforms, publishing and taking forward the useful agenda
+        of the USD Coin.
       score: 4.4
       references: null
     substitutes:
-      description: 'USD Coin is a stablecoin crypto-token. A large number of stablecoins have been 
-      introduced to the crypto markets ever since 2018. The most popular and controversial stablecoin 
-      project so far is undoubted, Tether (USDT). Other popular stablecoins include Paxos Standar 
-      (PAX), Binance USD (BUSD) and TrueUSD (TUSD).'
+      description: USD Coin is a stablecoin crypto-token. A large number of stablecoins
+        have been introduced to the crypto markets ever since 2018. The most popular
+        and controversial stablecoin project so far is undoubted, Tether (USDT). Other
+        popular stablecoins include Paxos Standar (PAX), Binance USD (BUSD) and TrueUSD
+        (TUSD).
       score: 3.8
       references: null
   foresight:
     prediction:
-      description: 'From the price valuation point of view, USD Coin will not show any variation in 
-      its price, because essentially it is only a reflection of a US Dollar. The price of USD Coin 
-      will, therefore, stay at $1 for years to come. 
-      Commenting on its usage, USD Coin will surely have its popularity increased in the coming years. 
-      This is largely because the crypto-community has seen a trend-shift towards the use of stablecoins 
-      recently.'
+      description: From the price valuation point of view, USD Coin will not show
+        any variation in its price, because essentially it is only a reflection of
+        a US Dollar. The price of USD Coin will, therefore, stay at $1 for years to
+        come. Commenting on its usage, USD Coin will surely have its popularity increased
+        in the coming years. This is largely because the crypto-community has seen
+        a trend-shift towards the use of stablecoins recently.
       score: 3.8
       references: null
     projects:
-      description: 'There are no projects under USD Coin. This is because USD Coin, in itself, is not 
-      an operating company. Circle and Coinbase might announce some development projects to enhance 
-      the working of USD Coin and increase its user-base.'
+      description: There are no projects under USD Coin. This is because USD Coin,
+        in itself, is not an operating company. Circle and Coinbase might announce
+        some development projects to enhance the working of USD Coin and increase
+        its user-base.
       score: 2.8
       references: null
     potential:
-      description: 'USD Coin is limited because it is a stable-coin. It does not hold much potential 
-      in terms of return on investment as its price will stay at $1 US. However, it has the potential 
-      to become the leading stablecoin that will be used in different applications.'
+      description: USD Coin is limited because it is a stable-coin. It does not hold
+        much potential in terms of return on investment as its price will stay at
+        $1 US. However, it has the potential to become the leading stablecoin that
+        will be used in different applications.
       score: 3.0
       references: null
   pro_con:
@@ -168,12 +173,12 @@ manual_reviews:
       is_pro: true
       is_contra: false
     product_usage:
-      description: 'With some powerful companies like Circle, Centre, Coinbase, and Bitmain backing 
-      it up, the amount of users that it can attract is massive.'
+      description: With some powerful companies like Circle, Centre, Coinbase, and
+        Bitmain backing it up, the amount of users that it can attract is massive.
       is_pro: true
       is_contra: false
     transactions_per_second:
-      description: 'USDC TPS are unknown.'
+      description: USDC TPS are unknown.
       is_pro: false
       is_contra: true
     transaction_cost:
@@ -185,7 +190,7 @@ manual_reviews:
       is_pro: true
       is_contra: false
     security:
-      description: 'USDC security is unknown'
+      description: USDC security is unknown
       is_pro: false
       is_contra: true
     adoption:
@@ -193,7 +198,8 @@ manual_reviews:
       is_pro: true
       is_contra: false
     energy_consumption:
-      description: USDC is a stablecoin cryptocurrency and does not require any sort of mining processes.
+      description: USDC is a stablecoin cryptocurrency and does not require any sort
+        of mining processes.
       is_pro: true
       is_contra: false
     privacy:
@@ -201,7 +207,8 @@ manual_reviews:
       is_pro: false
       is_contra: true
     decentralization:
-      description: As is the case with different stablecoins, USDC is backed by a reserve of US Dollars, and is therefore not completely decentralized.
+      description: As is the case with different stablecoins, USDC is backed by a
+        reserve of US Dollars, and is therefore not completely decentralized.
       is_pro: false
       is_contra: true
     exchange_availability:
@@ -210,10 +217,12 @@ manual_reviews:
       is_contra: false
   team:
     founders:
-      description: USD Coin has some leading cryptocurrency giants backing it. It is a joint-venture between Coinbase and Circle.
+      description: USD Coin has some leading cryptocurrency giants backing it. It
+        is a joint-venture between Coinbase and Circle.
       score: 4.7
       references: null
     developers:
-      description: Talking about the underlying development, it is using the stablecoin framework designed and developed by Centre.
+      description: Talking about the underlying development, it is using the stablecoin
+        framework designed and developed by Centre.
       score: 4.0
       references: null
