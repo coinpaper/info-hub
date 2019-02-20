@@ -19,12 +19,12 @@ blockchain:
 explorers:
 - https://gridcoinstats.eu/block
 - https://gridcoin.network/
-- http://www.gridresearchcorp.com/gridcoin/
+- https://www.gridresearchcorp.com/gridcoin/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: http://www.gridcoin.us/
+  url: https://www.gridcoin.us/
 video:
   url: null
 team:

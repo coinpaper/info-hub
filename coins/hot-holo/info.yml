@@ -13,7 +13,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: null
   type: token
   organization_structure: Centralized
@@ -38,25 +38,13 @@ team:
       \ designs for multi-currency systems and his software company has built and\
       \ deployed dozens of those systems. Initially, Arthur put his experience Artificial\
       \ Intelligence to use at GM, Chrysler & Hughes, but shifted his focus to building\
-      \ intelligence into social architectures rather than to computers. He started\
-      \ student-run schools and award-winning, employee-run businesses and discovered\
-      \ the engine that runs these types of organizations involve specific patterns\
-      \ of incentives and feedback. He began to unlock secrets of the Social DNA by\
-      \ which people operate and the critical role of currencies for programming these\
-      \ patterns.\r\n\r\nArthur\u2019s designs include currency systems for: collaborative\
-      \ scientific research, sustainable fishery management, corporate compensation\
-      \ plans, employee stock options, community-based economic development, business\
-      \ barter and exchange, triple-bottom-line trade credits, open source software\
-      \ development, customer loyalty programs, water rights, recirculating gift certificates,\
-      \ community service, employee performance management, arts & culture development,\
-      \ risk-management in the insurance industry, efficient resource sharing & management,\
-      \ and community & environmental impact assessment."
+      \ intelligence into social architectures rather than to computers."
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: https://linkedin.com/in/artbrock/
+        url: https://www.linkedin.com/in/artbrock/
         followers: null
       medium:
         url: null
@@ -73,21 +61,13 @@ team:
       a platform for communities of all scales to design and deploy their own currencies.
       Eric is the co-founder of Glass Bead Software, a provider of peer-to-peer networking
       applications, and of Harris-Braun Enterprises, a freelance software development
-      shop, which has created, among other things, complex data-collection websites
-      for the health-care industry, an Android application for catch monitoring for
-      the fishing industry, and the Online Writing Workshop, which it built and operates.
-      In 1994 he published the Internet Directory (Fawcett Columbine), which sold
-      over 100,000 copies and went on to a second edition in 1996 before being made
-      obsolete by Google. Eric received a B.S. in Computer Science from Yale University.
-      Currently he lives in rural New York, where he is part of a Quaker Intentional
-      community, plays with his two kids, tends a garden, and lives in a straw-bale
-      house.
+      shop.
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: https://linkedin.com/in/zippy/
+        url: https://www.linkedin.com/in/zippy/
         followers: null
       medium:
         url: null
@@ -172,7 +152,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://linkedin.com/in/spinorb/
+        url: https://www.linkedin.com/in/spinorb/
         followers: null
       medium:
         url: null
@@ -206,7 +186,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/saulwainwright
+        url: https://www.linkedin.com/in/saulwainwright
         followers: null
       medium:
         url: null
@@ -240,7 +220,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://twitter.com/emalinus4
+        url: null
         followers: null
       medium:
         url: null
@@ -410,13 +390,13 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://twitter.com/CeladonWave/
+        url: null
         followers: null
       medium:
         url: null
         followers: null
       twitter:
-        url: null
+        url: https://twitter.com/CeladonWave/
         followers: null
   - name: Will Harris-Braun
     imagename: null

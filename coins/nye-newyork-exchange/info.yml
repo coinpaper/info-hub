@@ -16,7 +16,7 @@ blockchain:
   organization_structure: null
   development_status: null
 explorers:
-- http://explorerscan.io
+- https://explorerscan.io
 whitepaper:
   abstract: null
   file: null

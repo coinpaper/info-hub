@@ -12,7 +12,7 @@ descriptions:
   future: We can not provide any looks into the future for Busd yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-09-15'
   type: token
   organization_structure: Centralized

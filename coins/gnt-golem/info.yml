@@ -24,7 +24,7 @@ descriptions:
     \ applications in the Golem network.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2016-11-11'
   type: token
   organization_structure: Centralized

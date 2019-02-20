@@ -21,12 +21,12 @@ blockchain:
   organization_structure: Decentralized
   development_status: Unknown
 explorers:
-- http://bcf.altcoinwarz.com:3003/
+- https://bcf.altcoinwarz.com:3003/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: http://bitcoinfast.co/
+  url: https://bitcoinfast.co/
 video:
   url: null
 team:

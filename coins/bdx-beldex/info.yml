@@ -16,7 +16,7 @@ blockchain:
   organization_structure: null
   development_status: null
 explorers:
-- http://explorer.beldexcoin.com
+- https://explorer.beldexcoin.com
 - https://explorer.beldex.io
 whitepaper:
   abstract: null

@@ -33,7 +33,7 @@ descriptions:
     \ network is an easy and convenient process for everyone involved.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-09-25'
   type: token
   organization_structure: Centralized
@@ -435,7 +435,7 @@ socials:
   reddit: https://www.reddit.com/r/kybernetwork
   twitter: https://twitter.com/kybernetwork
   facebook: null
-  medium: https://blog.kyber.network/
+  medium: null
   vimeo: null
   discord: null
 github:

@@ -21,7 +21,7 @@ blockchain:
   development_status: On-going development
 explorers:
 - https://explorer.xwccore.com/
-- http://explorer.whitecoin.info/chain/Whitecoin
+- https://explorer.whitecoin.info/chain/Whitecoin
 whitepaper:
   abstract: null
   file: null

@@ -16,7 +16,7 @@ blockchain:
   organization_structure: unknown
   development_status: Defunct
 explorers:
-- http://ethplorer.io/address/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
+- https://ethplorer.io/address/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
 whitepaper:
   abstract: No whitepaper available
   file: storj-storj_whitepaper.pdf
@@ -461,7 +461,7 @@ team:
         url: https://github.com/kaloyan-raev
         followers: 64
       linkedin:
-        url: https://bg.linkedin.com/in/kaloyanraev
+        url: https://www.linkedin.com/in/kaloyanraev
         followers: null
       medium:
         url: null

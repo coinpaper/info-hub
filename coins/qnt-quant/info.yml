@@ -32,7 +32,7 @@ descriptions:
     \ providing a meta-gateway.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-06-24'
   type: token
   organization_structure: Centralized

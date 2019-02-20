@@ -26,7 +26,7 @@ descriptions:
     on our token and bank account balances on a month-end basis..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2020-01-01'
   type: token
   organization_structure: Centralized

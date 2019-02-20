@@ -13,10 +13,10 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2020-12-31'
   type: token
-  organization_structure: none
+  organization_structure: null
   development_status: Working product
 explorers:
 - https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6

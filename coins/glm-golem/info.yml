@@ -12,7 +12,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: null
   type: token
   organization_structure: Centralized
@@ -36,7 +36,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://pl.linkedin.com/in/julian-zawistowski-352478
+        url: https://www.linkedin.com/in/julian-zawistowski-352478
         followers: null
       medium:
         url: https://medium.com/@julian_z
@@ -54,7 +54,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://pl.linkedin.com/in/viggith
+        url: https://www.linkedin.com/in/viggith
         followers: null
       medium:
         url: null
@@ -122,7 +122,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://pl.linkedin.com/in/marek-franciszkiewicz-30129a122
+        url: https://www.linkedin.com/in/marek-franciszkiewicz-30129a122
         followers: null
       medium:
         url: null
@@ -173,7 +173,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: "https://pl.linkedin.com/in/\u0142ukasz-foniok-187a714b"
+        url: "https://www.linkedin.com/in/\u0142ukasz-foniok-187a714b"
         followers: null
       medium:
         url: null

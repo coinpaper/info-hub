@@ -12,7 +12,7 @@ descriptions:
   future: We can not provide any looks into the future for Ren yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-02-22'
   type: token
   organization_structure: Centralized

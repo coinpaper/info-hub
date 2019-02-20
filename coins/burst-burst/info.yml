@@ -21,8 +21,8 @@ blockchain:
   development_status: Working product
 explorers:
 - https://explore.burst.cryptoguru.org/
-- http://burstcoin.cc
-- http://x.burstnation.com/
+- https://burstcoin.cc
+- https://x.burstnation.com/
 whitepaper:
   abstract: null
   file: null

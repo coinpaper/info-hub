@@ -24,7 +24,7 @@ descriptions:
     for use with Ethereum smart contracts.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-06-23'
   type: token
   organization_structure: Centralized
@@ -877,7 +877,7 @@ socials:
   reddit: https://www.reddit.com/r/omise_go
   twitter: https://twitter.com/omise_go
   facebook: https://www.facebook.com/OmiseGo/
-  medium: https://blog.omisego.network/
+  medium: null
   vimeo: null
   discord: null
 github:

@@ -17,7 +17,7 @@ descriptions:
     guidance for the entire industry..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-04-02'
   type: coin
   organization_structure: Centralized

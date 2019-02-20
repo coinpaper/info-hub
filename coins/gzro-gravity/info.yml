@@ -21,7 +21,7 @@ blockchain:
   organization_structure: Centralized
   development_status: On-going development
 explorers:
-- http://66.55.133.82/
+- https://66.55.133.82/
 whitepaper:
   abstract: null
   file: null

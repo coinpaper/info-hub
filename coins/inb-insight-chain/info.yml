@@ -11,7 +11,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: null
   type: token
   organization_structure: Centralized
@@ -23,7 +23,7 @@ whitepaper:
   abstract: null
   file: null
 website:
-  url: http://www.insightchain.io
+  url: https://www.insightchain.io
 video:
   url: null
 team:

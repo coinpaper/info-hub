@@ -11,14 +11,14 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-03-25'
   type: token
   organization_structure: Centralized
-  development_status: Only token
+  development_status: Prototype / MVP
 explorers:
 - https://wavesexplorer.com/tx/73Ae1BrVYhz1XLQurdJwrercNthKPw2awGkFU6hMURjQ
-- http://dev.pywaves.org/assets/Dd3ppdB8zuW8gEJK5RamNmNngo4BjcxC9gHM1ZDX2smF
+- https://dev.pywaves.org/assets/Dd3ppdB8zuW8gEJK5RamNmNngo4BjcxC9gHM1ZDX2smF
 whitepaper:
   abstract: null
   file: null
