@@ -5,22 +5,26 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: The Filecoin network achieves staggering economies of scale by allowing
+    anyone worldwide to participate as storage providers. It also makes storage resemble
+    a commodity or utility by decoupling hard-drive space from additional services.
+    On this robust global market the price of storage will be driven by supply and
+    demand.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://filecoin.io/
 video:
   url: null
 team:
@@ -45,14 +49,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/filecoin/
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: filecoin-project
   main_repository: null
 manual_reviews:
   available: false
