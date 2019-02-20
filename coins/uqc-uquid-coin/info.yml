@@ -5,29 +5,31 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: UQC is a decentralized virtual currency based on the ERC20 - token,
+    one of Ethereum Technological trends.  The goal of this blockchain asset is to
+    supplement the development of UQUID Ecosystem.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  type: token
+  organization_structure: Centralized
+  development_status: Unknown
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://uquidcoin.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Tran Hung
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
@@ -42,7 +44,126 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Hristo Margov
+    imagename: null
+    position: CBO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dang Hung
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Amy Randle
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alberto Daniel Hill
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Norbert Radoki
+    imagename: null
+    position: PR Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anh Nguyen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Folling
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
   reddit: null
@@ -52,7 +173,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: uquid
   main_repository: null
 manual_reviews:
   available: false
