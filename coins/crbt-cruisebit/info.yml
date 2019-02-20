@@ -5,22 +5,29 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Cruisebit Coin is crypto currency that represents digital value provided\
+    \ by blockchain technology. At present Cruisebit uses the blockchain of \"proof\
+    \ of work\" for decentralization purposes.\r\n\r\nCruisebit coin offers customers\
+    \ fast and effective transfers on any electronic wallets existing on the platform.\r\
+    \n\r\nCruisebit coin can create online ecosystem where potential investors and\
+    \ customers can quickly and easily verifiably transfer funds."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: Unknown
+explorers:
+- https://etherscan.io/token/0x2cf618c19041d9db330d8222b860a624021f30fb
+- https://etherscan.io/address/0x2cf618c19041d9db330d8222b860a624021f30fb
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.cruisebit.com/
 video:
   url: null
 team:
@@ -52,7 +59,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: cruisebit
   main_repository: null
 manual_reviews:
   available: false
