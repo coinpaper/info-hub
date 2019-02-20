@@ -5,22 +5,31 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "BitBall Treasure (BTRS) describes itself as a treasure coin, a store\
+    \ of value faster than Bitcoin (a fork of Bitball) with more functionality as\
+    \ a Treasure with 1 million maximum supply. BTRS is the only digital currency\
+    \ that can be used to exchange treasure items on the Bitball merchandise Page.\
+    \ \r\n\r\nBTRS has a maximum supply of 1 million, which will be released in small\
+    \ amounts on some occasions. BitBall Treasure will be used for VIP SALE items\
+    \ on its trading platform. Paying through BTRS will save users around 20% on transaction\
+    \ fees."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x2932746414a6766a2b4a472cb3a2624f5667fd83
+- https://ethplorer.io/address/0x2932746414a6766a2b4a472cb3a2624f5667fd83
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.bitball-btb.com
 video:
   url: null
 team:
@@ -52,7 +61,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: BitballErc20
   main_repository: null
 manual_reviews:
   available: false
