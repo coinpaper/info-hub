@@ -2,36 +2,37 @@ id: dfi-defi-chain
 symbol: DFI
 name: DeFi Chain
 logo: null
-founded: null
+founded: '2020-05-11'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: DeFi Blockchain - bringing DeFi to Bitcoin.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
+  consensus: Proof of Stake
+  algorithm: SHA256
+  issue_date: '2020-05-11'
+  type: coin
   organization_structure: null
-  development_status: null
-explorers: []
+  development_status: Working product
+explorers:
+- http://explorer.defichain.io/#/DFI/mainnet/home
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://defichain.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Jeff
     imagename: null
-    position: null
+    position: DeFighter
     description: null
     links:
       github:
-        url: null
+        url: https://github.com/DeFiCh
         followers: null
       linkedin:
         url: null
@@ -45,14 +46,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/defiblockchain/
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: DeFiCh
   main_repository: null
 manual_reviews:
   available: false
