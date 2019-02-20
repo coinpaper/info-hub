@@ -1,20 +1,13 @@
-# The trading symbol and name of the coin
 id: cvt-cybervein
 symbol: CVT
 name: Cybervein
 logo: cvt-cybervein_logo@512x512.png
-
-# Founding of public-release date in the format "23-08-2020"
 founded: '2020-01-01'
-
-# Description about the coin. Should be at most 10 sentences per field.
 descriptions:
   one_sentence: Data management blockchain
-  introduction: "No introduction yet"
-  technology: ""
-  future: ""
-
-# Information about the type of blockchain and its development status
+  introduction: No introduction yet
+  technology: ''
+  future: ''
 blockchain:
   consensus: unknown
   algorithm: unknown
@@ -22,32 +15,22 @@ blockchain:
   type: unknown
   organization_structure: unknown
   development_status: Defunct
-
-# List of URLs to Blockchain explorers such as "https://etherscan.io/".
-explorers: []
-
-# Place the official whitepaper itself as a PDF into /files/whitepaper.pdf
-# The abstract is the first section, mostly written in bold, inside the whitepaper.
+explorers:
+- https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772
+- https://ethplorer.io/address/0xbe428c3867f05dea2a89fc76a102b544eac7f772
 whitepaper:
   abstract: No whitepaper available
   file: cvt-cybervein_whitepaper.pdf
-
-# URL to the official website.
 website:
   url: https://www.cybervein.org/
-
-# Explenation youtube video. Must be in the form "https://www.youtube.com/watch?v=dQw4w9WgXcQ".
 video:
   url: https://www.youtube.com/watch?v=3FLYyWQCfv4
-
-# Collective information about the team.
 team:
-  # Representative figure, like "Vitalik Buterin" for Ethereum.
   leader:
     name: Unknown
-    imagename: null   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+    imagename: null
     position: Founder
-    description:  Unknown founder
+    description: Unknown founder
     links:
       github:
         url: null
@@ -61,12 +44,265 @@ team:
       twitter:
         url: null
         followers: null
-
-  # Official members or heavy contributers. The format of each member is
-  # the same as the format of the leader.
-  members: []
-
-# Links to any official or large community driven social media channels.
+  members:
+  - name: Ansel Ko
+    imagename: null
+    position: Founder
+    description: Ansel achieved a Masters of Management from the University of Reading,
+      UK. He is a serial entrepreneur of social platforms such as Tata website, Precision
+      Advertising and DSP  -Ing Media. Since 2015, he has been involved in finance
+      and investment.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lynn Lin
+    imagename: null
+    position: Founder
+    description: Lynn Lin completed a Bachelor of Business Administration at Xi 'an
+      International Studies University. Lynn is an award-winning marketer with experience
+      as a marketing strategist for a leading listed company. She was an early blockchain
+      community volunteer contributor, Golden Financial columnist, Babbitt compiler,
+      and has published over 20 blockchain related articles on 21st Century Economic
+      Report, Today's Headlines, Sohu Financial and other media. In July 2017, she
+      founded Blockchain Club and successively operated and promoted several domestic
+      and overseas blockchain projects.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sulan-lin-3648b0102/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jerry Ning
+    imagename: null
+    position: Co-Founder & Business Development
+    description: Jerry Ning attended Oregon State University and is a bachelor graduate
+      of the Department of Mathematics, majoring in statistics. He has previously
+      worked as a data analyst for Expedia. He has broad capability across a multitude
+      of professional statistical software including SPSS, sigma, R. He has his own
+      unique views on data analysis.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jerry-ning-6996a0160/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jason Corbett
+    imagename: null
+    position: Co-Founder
+    description: "Dr. Corbett is the founder and Managing Partner of Silk Legal, a\
+      \ law firm with a specialization in fintech and blockchain / distributed ledger\
+      \ technologies\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/drjasoncorbett/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Haoming Xu
+    imagename: null
+    position: Co-Founder
+    description: A global visiting scholar at Carnegie Mellon University and a senior
+      computer PhD at Cambridge university in the United Kingdom. He has served in
+      the Microsoft research and development center of Europe and the communication
+      laboratory of Peking University. The main research areas include machine learning,
+      image processing and bioinformatics. He wrote more than 20 papers that have
+      been published in the journals of SCI and EI. He hosted the 2016 Chengdu social
+      science project "Traffic Jam Prediction Based on Big Data"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yuxiang Zhou
+    imagename: null
+    position: Co-Founder
+    description: Imperial College, London computer science PhD with concentration
+      on Intelligent Behaviour Understanding. After graduation, he was hired by Google's
+      most advanced project, Google Brain. He has published more than ten papers on
+      artificial intelligence, and has deep insights in the field of artificial intelligence.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Giorgi Javrishvili
+    imagename: null
+    position: Technical Project Analyst
+    description: "Giorgi is experienced full stack developer and blockchain enthusiast,\
+      \ he began his journey at Tbilisi State University with the bachelor's degree\
+      \ of informatics & information safety, followed with a Master's in Software\
+      \ Engineering from Beijing Institute of Technology focusing on blockchain technology.\
+      \ Giorgi has a passion for cutting edge technology.\r\n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jack Ge
+    imagename: null
+    position: Overseas Regional Manager
+    description: Tianyang (Jack) Ge, is a postgraduate from Imperial College London,
+      co-founder of multiple successful UK startups, his personal project was honoured
+      as the best smart-home startup by HAX hardware accelerator in 2016.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jack-ge-02159193/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ken Huang
+    imagename: null
+    position: Advisor
+    description: "Ken Huang is a well-known blockchain expert formerly from Huawei,\
+      \ CISSP, Conference Committee Member of ACM Practitioner Board, Chinese Institute\
+      \ of Electronics, Blockchain Expert Committee Member. Before joining Huawei\
+      \ in December 2015, Ken worked for IT and digital consultancy firm, CGI, in\
+      \ the US for 18 years and served as its Director of Cyber Security and Director\
+      \ of Cloud Security.  He established CGI\u2019s Federal Identity Management\
+      \ Practice and consulted to the US Government, financial institutions and utility\
+      \ companies and provided expertise across finance, blockchain and cyber security."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kenhuang8/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Lucas Lu
+    imagename: null
+    position: Advisor
+    description: In 2005, Lucas Lu received a Doctorate in Particle Physics from Southern
+      Methodist University. When he was working for CERN, he was involved in the theory
+      and experimental study of the Higgs boson. Dr. Lucas Lu was the co-founder and
+      Chief Technology Officer of Light In the Box, a listed company on the NYSE.
+      Previously, he was the general manager of Alibaba's Taobao platform. Lucas founded
+      5miles in 2014. In 2017, Lucas created the Cybermiles blockchain project, becoming
+      the first public link on the e-commerce system.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sixwings/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yate
+    imagename: null
+    position: Advisor
+    description: Binhua Wu is a capital founding partner of Kernas and founder of
+      ugChain, with many years experience in the digital space. In 2005, he started
+      "I Want to Get Rich", across media, gaming and e-commerce. And in 2012, he went
+      on to work in the financial investment industry and was involved in bringing
+      several companies to IPO. In 2013, he began investing in bitcoin and related
+      industries of blockchain and started ugChain in March 2015.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Baolong Xu
+    imagename: null
+    position: Advisor
+    description: Longyan blockchain founder, Baolong Xu, graduated from Renmin University
+      of China, Peking University MBA. He has been the Director of the Block Investment
+      Research Center, one of the three major digital currency trading platforms in
+      China. At the beginning of 2016, Dragonshield information security service was
+      established to provide corporate level information security and private security
+      services for China's overseas intelligence companies and multiple security companies.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
   reddit: null
@@ -75,162 +311,104 @@ socials:
   medium: null
   vimeo: null
   discord: null
-
-# Official github code repository.
 github:
-  username: null
-  main_repository: null   # Repository that represents the blockchain/token
-
-# Manual reviews that influence the Coinpaper score. Please reade the contribution
-# guidelines before commiting changes to this section.
+  username: Cyberveinofficial
+  main_repository: null
 manual_reviews:
-
-  # Indicates whether the manual review is ready to be published online
   available: true
-
   introduction:
-
-    # What problem is the coin/token solving?
     purpose:
       description: null
       score: null
       references: null
-
   current_stand:
-
-    # Did the token or its founders go through scandals (scams, false claims..)
-    # or have they achieved something great (collaborations..) in the past?
     scandals_highlights:
       description: null
       score: null
       references: null
-
-    # What is the product around the token. What belongs to the ecosystem?
     product:
       description: null
       score: null
       references: null
-
-    # How is development processing? When will the product be ready to use?
     development:
       description: null
       score: null
       references: null
-
-    # Was the team able to form valuable partnerships?
     partnerships:
       description: null
       score: null
       references: null
-
-    # Does the project have a strong, enthusiastic and supportive communtiy?
     community:
       description: null
       score: null
       references: null
-
-    # Are there any close competitors that might overtake the project?
     substitutes:
       description: null
       score: null
       references: null
   foresight:
-    # How will this project most probably look in a few months/years from now?
-    # THIS IS NOT ABOUT PRICE ACTION!
     prediction:
-      description:  null
+      description: null
       score: null
       references: null
-
-    # Are there any projects that build on top of this technology?
     projects:
       description: null
       score: null
       references: null
-
-    # If the project achieves what they claims, what would the future bring?
     potential:
       description: null
       score: null
       references: null
-
   pro_con:
-    # Is there something ready-to-use yet?
     product_availability:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is anybody even using it?
     product_usage:
       description: null
       is_pro: null
       is_contra: null
-
-    # How fast is the network? Can it scale?
     transactions_per_second:
       description: null
       is_pro: null
       is_contra: null
-
-    # How expensive is it to use the network?
     transaction_cost:
       description: null
       is_pro: null
       is_contra: null
-
-    # How long does it take the network to validate requests?
     transaction_speed:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the security concept proofen?
     security:
       description: null
       is_pro: null
       is_contra: null
-
-    # Did the project find any adoption in its nieche?
     adoption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How much enery is needed to keep the project alive?
     energy_consumption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How prive/pseudonomous is the participation in the network?
     privacy:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the network decentralized, as blockchain is supposed to be?
     decentralization:
       description: null
       is_pro: null
       is_contra: null
-
-    # Can coins/tokens be traded on trusted exchanges?
     exchange_availability:
       description: null
       is_pro: null
       is_contra: null
-
-  # This section focuses on the founding- or lead development team
   team:
-
-    # Who are the founders? Have they achieved something in the past already?
     founders:
       description: null
       score: null
       references: null
-
-    # Who is developing the product? Is it run by the community?
     developers:
       description: null
       score: null
