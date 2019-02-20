@@ -72,7 +72,586 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: IOHK (Grothendieck)
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ETC COOPERATIVE
+    imagename: null
+    position: Finance Support Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ETC LABS
+    imagename: null
+    position: Funding Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ethereum Commonwealth
+    imagename: null
+    position: Support Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Igor Artamonov
+    imagename: null
+    position: Founder & CTO (ETCDEV)
+    description: null
+    links:
+      github:
+        url: https://github.com/splix
+        followers: 138
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/splix
+        followers: 3303
+  - name: Shane Jonas
+    imagename: null
+    position: Javascript Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/shanejonas
+        followers: 59
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/shanejonas
+        followers: 967
+  - name: Yury
+    imagename: null
+    position: Javascript Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/gagarin55
+        followers: 50
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wei Tang
+    imagename: null
+    position: Rust Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/sorpaas
+        followers: 354
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Richard Schumann
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/schumanncombo
+        followers: 1363
+  - name: "Tomasz Zdyba\u0142"
+    imagename: null
+    position: Go Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/tzdybal
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tzdybal
+        followers: 398
+  - name: Isaac Ardis
+    imagename: null
+    position: Go Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/whilei
+        followers: 65
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/isaacardis
+        followers: 304
+  - name: Constantine Kryvomaz
+    imagename: null
+    position: Rust Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/r8d8
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cody Burns
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/realcodywburns
+        followers: 60
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/DontPanicBurns
+        followers: 2456
+  - name: Matthew Mazur
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/snaproII
+        followers: 299
+  - name: Roy Zou
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yates Randall
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Elaine Ou
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/elaineo
+        followers: 120
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/eiaine
+        followers: 31553
+  - name: Dr. Avtar Sehra
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/avtarsehra
+        followers: 2732
+  - name: Alan McSherry
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mcsherrylabs
+        followers: 21
+      linkedin:
+        url: https://ie.linkedin.com/in/alanmcsherry
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mcsherrylabs
+        followers: 253
+  - name: Alan Verbner
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/AlanVerbner
+        followers: 78
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicolas Tallar
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ntallar
+        followers: 6
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lukasz Gasior
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/LukasGasior1
+        followers: 12
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Radek Tkaczyk
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/rtkaczyk
+        followers: 9
+      linkedin:
+        url: https://www.linkedin.com/in/radek-tkaczyk-80644041
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Mirko Jos\xE9 Ali\u0107"
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mirkoAlic
+        followers: 3
+      linkedin:
+        url: https://www.linkedin.com/in/mirkoalic/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mirko_alic
+        followers: 13
+  - name: Christos Loverdos
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/loverdos
+        followers: 33
+      linkedin:
+        url: https://linkedin.com/in/loverdos
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/loverdos
+        followers: 602
+  - name: Konrad Staniec
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/KonradStaniec
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/konradstaniec/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/KonradStaniec
+        followers: 7
+  - name: Kevin Lord
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/developerkevin
+        followers: 9
+      linkedin:
+        url: https://www.linkedin.com/in/kevin-lord-a47004155
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zachary Belford
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/BelfordZ
+        followers: 52
+      linkedin:
+        url: https://www.linkedin.com/in/belfordz
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/belfordz
+        followers: 568
+  - name: ETC Labs Core
+    imagename: null
+    position: Core Team
+    description: null
+    links:
+      github:
+        url: https://github.com/etclabscore
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/etclabscore
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stevan Lohja
+    imagename: null
+    position: Technology Coordinator
+    description: null
+    links:
+      github:
+        url: https://github.com/stevanlohja
+        followers: 21
+      linkedin:
+        url: https://www.linkedin.com/in/stevanlohja/
+        followers: null
+      medium:
+        url: https://medium.com/@stevan.blog
+        followers: 288
+      twitter:
+        url: https://twitter.com/stevanlohja
+        followers: 898
+  - name: Darcy Reno
+    imagename: null
+    position: Program Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/darcyreno/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mike Lubinets
+    imagename: null
+    position: Rust Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mersinvald
+        followers: 31
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Collison
+    imagename: null
+    position: Compilers Engineers
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Donald McIntyre
+    imagename: null
+    position: Business Developer
+    description: Passionate about Ethereum Classic, Bitcoin, and Litecoin, i.e. immutability.
+      Red wine. Red meat. Husband. Father. Lactase Persistent.
+    links:
+      github:
+        url: https://github.com/DonaldMcIntyre
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/notaninja/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/ethclassic
   reddit: https://www.reddit.com/r/EthereumClassic
