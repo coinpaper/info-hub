@@ -5,18 +5,18 @@ logo: ltc-litecoin_logo@512x512.png
 founded: '2011-10-07'
 descriptions:
   one_sentence: Bitcoin copy with faster transaction times
-  introduction: "General Data and Information. The Litecoin software was released\
-    \ on the 7th October 2011 by Charlie Lee, with the network going live roughly\
-    \ a week later on the 13th of October 2011. As a fork of Bitcoin Core, Litecoin\
-    \ featured several improvements upon the original Bitcoin protocol including reduced\
-    \ blocktimes (decreased to 2.5 minutes instead of 10 minutes), increased total\
-    \ supply and a different proof of work algorithm (scrypt vs SHA-256). The adoption\
-    \ of a faster blocktime meant that transactions were quicker to settle and be\
-    \ written into the blockchain, whilst the adoption of the memory intensive scrypt\
-    \ algorithm was intended to defeat the ASIC dominance of mining (due to the added\
-    \ financial costs of producing specialized mining machines with the required extra\
-    \ memory). However, due to the popularity of Litecoin, ASICs have been already\
-    \ developed and deployed that are able to mine the scrypt algorithm."
+  introduction: General Data and Information. The Litecoin software was released on
+    the 7th October 2011 by Charlie Lee, with the network going live roughly a week
+    later on the 13th of October 2011. As a fork of Bitcoin Core, Litecoin featured
+    several improvements upon the original Bitcoin protocol including reduced blocktimes
+    (decreased to 2.5 minutes instead of 10 minutes), increased total supply and a
+    different proof of work algorithm (scrypt vs SHA-256). The adoption of a faster
+    blocktime meant that transactions were quicker to settle and be written into the
+    blockchain, whilst the adoption of the memory intensive scrypt algorithm was intended
+    to defeat the ASIC dominance of mining (due to the added financial costs of producing
+    specialized mining machines with the required extra memory). However, due to the
+    popularity of Litecoin, ASICs have been already developed and deployed that are
+    able to mine the scrypt algorithm.
   technology: 7th October 2011 - Open Source software for Litecoin released. 13th
     October 2011 - Litecoin network goes live. May 2017 - Segregated Witness (SegWit)
     implemented. First Lightning Network transaction completed on the Litecoin network.
