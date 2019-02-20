@@ -5,29 +5,188 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Kin is a cryptocurrency designed to bring people together in a new\
+    \ shared economy.\r\n\r\nKIN is swapping token from ERC-20 Ethereum to KIN blockchain\
+    \ based on Stellar."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: 'Stellar Consensus Protocol '
+  algorithm: Stellar Consensus Protocol
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://kinexplorer.com/
+- https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5
+- https://ethplorer.io/address/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://kin.kik.com
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Ted Livingston
     imagename: null
-    position: null
+    position: Founder & CEO, Kik
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://ca.linkedin.com/in/tedlivingston
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ted_livingston?lang=en
+        followers: 10357
+  members:
+  - name: Peter Heinke
+    imagename: null
+    position: CFO & COO, Kik
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://ca.linkedin.com/in/peter-heinke-08664435
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eran Ben-Ari
+    imagename: null
+    position: CPO, Kik
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://il.linkedin.com/in/eran-ben-ari
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dany Fishel
+    imagename: null
+    position: President, Kik Israel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://il.linkedin.com/in/danyfishel
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eileen Lyon
+    imagename: null
+    position: General Counsel and Chief Compliance Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/eileen-lyon-15ba775
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erin Clift
+    imagename: null
+    position: CMO, Kik
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/erin-clift-2957502
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Noa Kessler
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/noakessler/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yohay Barsky
+    imagename: null
+    position: Technical Domain Owner
+    description: null
+    links:
+      github:
+        url: https://github.com/YohayBar
+        followers: 6
+      linkedin:
+        url: https://il.linkedin.com/in/yohay-barsky-aa7674a
+        followers: null
+      medium:
+        url: https://medium.com/@yohay.barsky
+        followers: 77
+      twitter:
+        url: null
+        followers: null
+  - name: Oren Zakay
+    imagename: null
+    position: Android Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/orenzakay/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aryeh Katz
+    imagename: null
+    position: Developer
     description: null
     links:
       github:
@@ -37,22 +196,310 @@ team:
         url: null
         followers: null
       medium:
+        url: https://medium.com/@akatzio/highlights
+        followers: 1
+      twitter:
+        url: null
+        followers: null
+  - name: Avi
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/avi-kik
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
         url: null
         followers: null
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Avishy Leuchter
+    imagename: null
+    position: QA engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://il.linkedin.com/in/avishy-leuchter-b47058b2
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Berry Ventura Lev
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/berryve
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Bolshoy
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/bolshoy
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Elazar Yifrach
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Elaz
+        followers: 10
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ami Blonder
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/fuzzyami
+        followers: 10
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: gadisr
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/gadisr
+        followers: 9
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lior
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/liorama
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martha Funston
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/marthagf
+        followers: 5
+      linkedin:
+        url: https://il.linkedin.com/in/marthafunston
+        followers: null
+      medium:
+        url: https://medium.com/@marthafunston
+        followers: 3
+      twitter:
+        url: null
+        followers: null
+  - name: Moti David
+    imagename: null
+    position: Data Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/motida
+        followers: 4
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Natan Rolnik
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/natanrolnik
+        followers: 53
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nitzan Tomer
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/nitzantomer
+        followers: 29
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: odednoam
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/odednoam
+        followers: 9
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ory Band
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/oryband
+        followers: 67
+      linkedin:
+        url: http://il.linkedin.com/in/oryband
+        followers: null
+      medium:
+        url: https://medium.com/@oryband
+        followers: 206
+      twitter:
+        url: null
+        followers: null
+  - name: Ron Serruya
+    imagename: null
+    position: QA engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/Ronserruya
+        followers: 10
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tanya Rofman
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://il.linkedin.com/in/tanya-rofman
+        followers: null
+      medium:
+        url: https://medium.com/@tanyar20
+        followers: 187
+      twitter:
+        url: null
+        followers: null
+  - name: Yossi Rizgan
+    imagename: null
+    position: Senior Android Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/yosriz
+        followers: 12
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/KinFoundation
   twitter: null
   facebook: null
   medium: null
-  vimeo: null
+  vimeo: https://vimeo.com/218866968
   discord: null
 github:
-  username: null
+  username: kinecosystem
   main_repository: null
 manual_reviews:
   available: false
