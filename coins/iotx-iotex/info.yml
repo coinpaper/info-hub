@@ -5,29 +5,72 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "IOTX will be a Decentralized Network for Internet of Things\r\n\r\
+    \nPowered by a Privacy-Centric Blockchain"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+- https://ethplorer.io/address/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+- https://iotexscan.io
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://iotex.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Raullen Chai
     imagename: null
-    position: null
+    position: Co-Founder
+    description: Ph.D and Research Scientist in Cryptography at UWaterloo. Head of
+      Crypto R&D at Uber, Security Engineer at Google. 8+ years of experience in cryptography
+      and blockchain.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Qevan Guo
+    imagename: null
+    position: Co-Founder
+    description: Ph.D in Machine Learning and Computer Vision at National University
+      of Singapore. Engineering Manager and Research Scientist at Facebook. Growth
+      Hacker. Startup investor and advisor. 20+ publications / patents.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jing Sun
+    imagename: null
+    position: Co-Founder
     description: null
     links:
       github:
@@ -42,17 +85,271 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Xinxin Fan
+    imagename: null
+    position: Head of Cryptography
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dustin Xie
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhijie Shen
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paddy Kan
+    imagename: null
+    position: Distributed Systems
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhefeng Li
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yutong Pei
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alina Burya
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Larry Pang
+    imagename: null
+    position: Growth & Community
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paul Christopher Campbell
+    imagename: null
+    position: Technical Recruiter
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vincent Vuong
+    imagename: null
+    position: Software Engineer Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hao Cui
+    imagename: null
+    position: Software Engineer Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nick Chen
+    imagename: null
+    position: Full Stack Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vedaad Shakib
+    imagename: null
+    position: Blockchain Engineering Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhen Li
+    imagename: null
+    position: Software Engineer Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jennifer Vuong
+    imagename: null
+    position: Digital Marketing Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/IoTex
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: iotexproject
   main_repository: null
 manual_reviews:
   available: false
