@@ -2,30 +2,85 @@ id: cfi-cofoundit
 symbol: CFI
 name: Cofound.it
 logo: null
-founded: null
+founded: '2017-03-31'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Cofound.it is a platform that connects you to teams that have trained\
+    \ to become serious blockchain businesses\r\n\r\nCofound.it (CFI) token will be\
+    \ used for to build features, both business and tech, CFI token will be used to\
+    \ unlock them (via staking) or pay for them.\r\n\r\nIn development."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Proof of Concept
+  algorithm: Unknown
+  issue_date: '2017-03-31'
+  type: token
+  organization_structure: Centralized
+  development_status: Beta version
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://cofound.it/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Jan Isakovic
+    imagename: null
+    position: Co-founder, Platform and Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Daniel Zakrisson
+    imagename: null
+    position: Co-founder, Evaluations and Mentoring
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zenel Batagelj
+    imagename: null
+    position: Team strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erika Pogorelc
     imagename: null
     position: null
     description: null
@@ -42,10 +97,60 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Anze Voje
+    imagename: null
+    position: null
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Riaan Francois Venter
+    imagename: null
+    position: Smart Contract developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: George Hwang
+    imagename: null
+    position: Cofound.it Taiwan
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/cofoundit
   twitter: null
   facebook: null
   medium: null
