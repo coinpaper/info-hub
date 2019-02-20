@@ -53,7 +53,24 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: 007 dev
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/BCDcommunity
   reddit: https://www.reddit.com/r/BitcoinDiamond
