@@ -5,22 +5,25 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Litecoin descendant - 45 second block - 6 blocks transaction confirmation\
+    \ - 50 minted block maturity - 30 block difficulty retarget - Accelerated diff\
+    \ re-targeting\r\n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Work
+  algorithm: Scrypt
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Unknown
+  development_status: Unknown
+explorers:
+- https://prohashing.com/explorer/Grandcoin/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://grandcoin.info
 video:
   url: null
 team:
@@ -52,7 +55,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: GrandcoinGDC
   main_repository: null
 manual_reviews:
   available: false
