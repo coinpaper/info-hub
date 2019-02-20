@@ -5,22 +5,30 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Bitcoin set the foundation for the construction of a new Internet\
+    \ for the transfer of Value. Both the RSK Smart Contract Network and RIF OS were\
+    \ created as means to move this vision further with the hope that the new Internet\
+    \ of Value will foster prosperity and equality around the world.\r\n\r\nRIF OS.\
+    \ All in one. Easy to use. Open Blockchain Infrastructure Services.\r\n\r\nRIF\
+    \ OS (Root Infrastructure Framework Open Standard)  is a suite of open and decentralized\
+    \ infrastructure protocols that enable faster, easier and scalable development\
+    \ of distributed applications (dApps) within a unified environment."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: CryptoNight
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Unknown
+  development_status: On-going development
+explorers:
+- https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.rifos.org/
 video:
   url: null
 team:
@@ -45,14 +53,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/rifos
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: riflabs
   main_repository: null
 manual_reviews:
   available: false
