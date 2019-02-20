@@ -122,13 +122,13 @@ team:
   - name: Elmond Cong
     imagename: ont-ontology_elmond_cong.png
     position: Senior Architecture Expert
-    description: "Cong studied computer science at Tsinghua University and is a professional\
-      \ in distributed systems and decentralized consensus algorithm design. He previously\
-      \ worked on distributed network protocols and distributed storage systems at\
-      \ Cisco and EMC, and later moved onto blockchain architecture design for large\
-      \ business groups. Cong excels in a range of blockchain structures and protocols,\
-      \ and participated in building the biggest alliance chain (between Union Pay,\
-      \ JD, CMB, and Wanda Group) in China."
+    description: Cong studied computer science at Tsinghua University and is a professional
+      in distributed systems and decentralized consensus algorithm design. He previously
+      worked on distributed network protocols and distributed storage systems at Cisco
+      and EMC, and later moved onto blockchain architecture design for large business
+      groups. Cong excels in a range of blockchain structures and protocols, and participated
+      in building the biggest alliance chain (between Union Pay, JD, CMB, and Wanda
+      Group) in China.
     links:
       github:
         url: null
