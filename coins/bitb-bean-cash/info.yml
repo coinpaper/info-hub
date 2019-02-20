@@ -5,22 +5,32 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: 'Bean Cash (Ticker: BEAN) is a re-brand of the digital currency and
+    network, previously known as BitBean (Ticker: BITB). The BitBean block chain and
+    network began nearly 3 years ago on February 13th., 2015. It was the first ''crypto-currency''
+    to implement a maximum of 20MB block sizes, based on Gavin Andersen''s proposals
+    to fix Bitcoin''s scalability limitations. BitBean was also the first ''crypto-currency''
+    to pioneer the use of static block rewards in a Proof of Bean (PoB) system --
+    which now makes energy wasting PoW (Proof of Work) systems, inefficient, expensive
+    and archaic!'
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Bean
+  algorithm: Unknown
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Decentralized
+  development_status: On-going development
+explorers:
+- https://chainz.cryptoid.info/bitb/
+- https://chainz.cryptoid.info/bean/
+- http://aida.ageleis.de/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://beancash.org/
 video:
   url: null
 team:
@@ -52,7 +62,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: TeamBitBean
   main_repository: null
 manual_reviews:
   available: false
