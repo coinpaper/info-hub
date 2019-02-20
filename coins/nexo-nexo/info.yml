@@ -5,36 +5,44 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Nexo wants to build The World\u2019s First Instant Crypto Overdrafts.\
+    \ Powered by Credissimo - A Leading FinTech Group serving millions of people across\
+    \ Europe for over 10 years."
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: Prototype / MVP
+explorers:
+- https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
+- https://ethplorer.io/address/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://nexo.io
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Kosta Kantchev
     imagename: null
-    position: null
-    description: null
+    position: Co-Founder
+    description: "Kosta is a Co-Founder of Credissimo and the visionary directly responsible\
+      \ for the 10-year-old success story of the whole European FinTech Group. An\
+      \ early adopter of bitcoin, he quickly realized the potential of blockchain\
+      \ technology, prompting him to develop at Credissimo one of the first systems\
+      \ to allow loan repayments in cryptocurrencies worldwide.\r\n\r\n"
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: null
+        url: https://www.linkedin.com/in/kostakantchev/
         followers: null
       medium:
         url: null
@@ -42,17 +50,371 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Georgi Shulev
+    imagename: null
+    position: Co-Founder
+    description: Georgi comes from a background in banking, having gained substantial
+      experience in fields like M&A and Financial Analysis at institutions such as
+      Unicredit Bank Austria, Lehman Brothers, and the European Investment Bank. Overseeing
+      the business development and international expansion of Credissimo has further
+      solidified his FinTech expertise.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/georgi-shulev-5701589/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Antoni Trenchev
+    imagename: null
+    position: Co-Founder
+    description: "Antoni has been a crypto-enthusiast since 2011. As a Member of Parliament\
+      \ and a firm believer in a decentralized approach, he ferociously advocated\
+      \ and passed legislation for blockchain solutions on a variety of e-government\
+      \ services, most notably e-voting. He has been involved in the development of\
+      \ e-commerce platforms and has been Chief Innovations Officer at Credissimo.\r\
+      \n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/antoni-trenchev/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vasil Petrov
+    imagename: null
+    position: CTO
+    description: Vasil is an early blockchain technology adopter and self-starter.
+      He has over 16 years of experience in system administration, back-end development
+      and architecture of high-load and full-cycle projects. His achievements thus
+      far have culminated in co-founding and being the CTO of a US multichannel video
+      & internet service provider and distributor of interactive services for more
+      than 150 000 customers.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/v-v-petrov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kalin Metodiev
+    imagename: null
+    position: Corporate Finance
+    description: Kalin is an investment banker with 20+ years of experience in corporate
+      finance, securities issuance, M&A, private equity and executive management for
+      leading financial institutions in the USA and Europe. His professional focus
+      has always been directed towards company growth and investor wealth maximization.
+      Kalin's extensive track record spans over a wide range of transactions exceeding
+      $1 bln.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kalinmetodiev/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kamen Trendafilov
+    imagename: null
+    position: Finance Director
+    description: Kamen has a vast and diverse background in the financial sector gained
+      throughout his extensive experience working for Ernst&Young, KPMG, and PricewaterhouseCoopers.
+      As a Finance Director of Credissimo, his knowledge and expertise have helped
+      the company become a leading European FinTech Group.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kamen-trendafilov-mba-acca-cia-711b8666/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Savina Cherneva
+    imagename: null
+    position: Compliance
+    description: Savina is a compliance professional with over 10 years of experience
+      in banking and a strong focus on KYC, AML, Sanctions and relevant regulations.
+      She is ACAMS certified and has managed Compliance teams in international banks
+      such as JPMorgan and Barclays. She is passionate about protecting firms, their
+      clients and the industry from illicit funds.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/savina-cherneva-cams-2b027183/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bilyana Christova
+    imagename: null
+    position: Marketing
+    description: Bilyana has been a digital marketing manager in the financial and
+      tech industries for over a decade, and has been the Chief Marketing Officer
+      at Credissimo. She has a penchant for the development of digital strategies,
+      marketing management and results-driven marketing. Bilyana has numerous awards,
+      including one for exceptional development of brand strategies and digital marketing
+      campaigns.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bilyanastancheva/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Plamen Todorov
+    imagename: null
+    position: Blockchain Developer
+    description: "Plamen is an exceptionally talented software architect with more\
+      \ than 15 years of experience building software solutions from scratch. He has\
+      \ hands-on approach in development of complex platforms and cloud-based solutions.\
+      \ Plamen has shifted his attention to blockchain technology in early 2012.\r\
+      \n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ptfly/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Teodora Atanasova
+    imagename: null
+    position: Business Development
+    description: "Teodora is a blockchain advocate with extensive experience in both\
+      \ the legal and the investor side of the crypto-world. Involved in FinTech straight\
+      \ out of university, she has been a driving force in the Business Development\
+      \ of Credissimo, a company that serviced over 1 million customers throughout\
+      \ Europe and issued loans for over $120 million.\r\n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/teodora-p-atanasova/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joro Yordanov
+    imagename: null
+    position: Product Designer
+    description: Joro is a graduated system programmer and an interactive designer
+      for more than 12 years, solving diverse design problems and releasing fully-functional
+      web products. His work has resulted in award-winning campaigns for brands such
+      as Samsung, Heineken and Telenor Group. Joro shares his knowledge and expertise
+      at Technological School Electronic Systems.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yordanoff/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Boris Delev
+    imagename: null
+    position: Technical Lead
+    description: Boris has successfully recognized technological potential before
+      it has become mainstream. He has impressive technical skills that align with
+      his quest for precision. He has more than 15 years of experience with various
+      technological solutions, allowing him to turn creative concepts into complex
+      and reliable web applications and platforms.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/borisdelev/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Kostov
+    imagename: null
+    position: Marketing
+    description: Ivan is a results-driven marketing professional with more than 10
+      years of experience in the field, with a heavy focus on financial services marketing.
+      His trademark is the ability to deliver highly effective and measurable strategies
+      to secure revenue growth for both B2C and B2B. Ivan is always striving to be
+      at the forefront of innovative marketing methods and the results of Credissimo
+      are a testimony to that.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kostovster/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yasen Damyanov
+    imagename: null
+    position: Business Development
+    description: Yasen has been active in business development and project management
+      at several companies for over 10 years now, including Credissimo, Drooble, YouLocal,
+      and SEM Expert. An economist by education he is an entrepreneur at heart, who
+      firmly believes that successful businesses are the constantly evolving ones.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yasendamyanov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mario Krastev
+    imagename: null
+    position: Senior QA Specialist
+    description: "Mario is a QA professional dedicated to perfection and closely monitoring\
+      \ software development trends. He has extensive experience in two of the most\
+      \ competitive areas in digital product development - gaming and social network\
+      \ applications. With the blockchain technology finding mainstream adoption,\
+      \ Mario is contributing to the community with his knowledge and expertise.\r\
+      \n\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mario-krastev-203725aa/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Arrington
+    imagename: null
+    position: Advisor
+    description: "J. Michael Arrington is a serial entrepreneur and the founder of\
+      \ TechCrunch, a blog that covers startups and technology news.\r\n\r\nhttps://uncrunched.com/"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/michaelarrington
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Trevor Koverko
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/trevorkoverko/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paolo Tasca
+    imagename: null
+    position: Advisor
+    description: Paolo is the Executive Director of the UCL Centre for Blockchain
+      Technologies and has held leading academic positions at institutions like London
+      School of Economics (LSE), ETH Zurich, Deutsche Bundesbank, Jiangsu Huaxin Blockchain
+      Institute, Sogang University, University of Cape Town. Paolo is a published
+      author on the socio-economic ramifications of distributed ledger technologies.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ptasca/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/nexo
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: nexofinance
   main_repository: null
 manual_reviews:
   available: false

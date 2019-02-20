@@ -34,7 +34,7 @@ descriptions:
     of crypto..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-05-10'
   type: coin
   organization_structure: Centralized

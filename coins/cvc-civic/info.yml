@@ -2,39 +2,65 @@ id: cvc-civic
 symbol: CVC
 name: Civic
 logo: null
-founded: null
+founded: '2017-06-21'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Civic's identity verification and protection tools give both businesses
+    and individuals the power to control and protect their identities through the
+    blockchain.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
+  issue_date: '2017-06-21'
+  type: token
+  organization_structure: Centralized
   development_status: null
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.civic.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Vinny Lingham
     imagename: null
-    position: null
-    description: null
+    position: CEO & Founder
+    description: Vinny is a serial entrepreneur who previously founded the digital
+      gift card platform, Gyft, which was acquired by First Data Corporation in 2014.
+      After over a decade of experience in e-commerce, he realized that no-one had
+      a universal solution to tackle identity fraud for consumers.
     links:
       github:
         url: null
         followers: null
       linkedin:
+        url: https://www.linkedin.com/in/vinnylingham/
+        followers: null
+      medium:
         url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/VinnyLingham
+        followers: 171230
+  members:
+  - name: Jonathan Smith
+    imagename: null
+    position: CTO & Founder
+    description: Jonathan has more than 15 years of experience in banking and technology
+      advisory. After a successful career in some of the most complex and security-sensitive
+      environments, Jonathan brings his talent for technology leadership, innovation,
+      and delivery to the world of digital identity.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jonathan-smith-2b997a/
         followers: null
       medium:
         url: null
@@ -42,10 +68,179 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Chris Hart
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chrishart1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Juan Pablo Bedoya
+    imagename: null
+    position: VP of Product & Design
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bedoya/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vino Pyata
+    imagename: null
+    position: VP of Engineering
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vinopyata/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Smith
+    imagename: null
+    position: VP of business development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/christopheralansmith/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Chris_Smith_11
+        followers: 381
+  - name: Anna Aubuchon
+    imagename: null
+    position: Director of Business Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leeanna/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Krisan Nichani
+    imagename: null
+    position: Director of Risk & Compliance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/krisan-nichani-00371a20/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mike Marron
+    imagename: null
+    position: Director of Finance & HR
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mike-marron-606b5b13/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Titus Capilnean
+    imagename: null
+    position: Director of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tituscapilnean/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nancy Li
+    imagename: null
+    position: Marketing Coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nancyli1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jordan Fahle
+    imagename: null
+    position: PR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jlfahle/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/civicplatform
   twitter: null
   facebook: null
   medium: null

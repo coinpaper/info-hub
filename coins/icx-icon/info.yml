@@ -51,7 +51,619 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: JH Kim
+    imagename: null
+    position: Foundation Council
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jay Kim
+    imagename: null
+    position: Foundation Council
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hoon Lee
+    imagename: null
+    position: Foundation Council
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Min Kim
+    imagename: null
+    position: Foundation Council
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/minkimd14/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sunghwan Kim
+    imagename: null
+    position: AI Department Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: SH Park
+    imagename: null
+    position: AI Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Seok Heo
+    imagename: null
+    position: AI Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ST Kwon
+    imagename: null
+    position: Data Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: US Byun
+    imagename: null
+    position: UX Design Department Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mingyeong Song
+    imagename: null
+    position: Design Department Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gail Kang
+    imagename: null
+    position: Marketing Department Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kyungmin Chun
+    imagename: null
+    position: Security Department Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joon Heo
+    imagename: null
+    position: Security Department Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ismail Malik
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/Blockchain/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: SY Kim
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: YG Lim
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nathan Kim
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Flora Kim
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Amy Jung
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jiyoung Lee
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Henry Hyunil Lee
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dongok Ryu
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hyunkoo Shin
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ByeongKil Sohn
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jintae Hwang
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Junghwan Ahn
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jungsang Yoo
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chunghyun Kim
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Heizel Kim
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jinho Yoo
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Don Tapscott
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dontapscott
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jason Best
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yiseul Cho
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yiseulcho/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Simon Seojoon Kim
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/simon-seojoon-kim-11b8901b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eddy Travia
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jehan Chu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jehan-chu-637101/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA
   reddit: https://www.reddit.com/r/helloicon/

@@ -2,25 +2,28 @@ id: btcb-bitcoin-bep2
 symbol: BTCB
 name: Bitcoin BEP2
 logo: null
-founded: null
+founded: '2019-06-17'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Bitcoin BEP2 (BTCB) is a token on Binance Chain (BNB) issued by Binance,
+    where the price is pegged to BTC at a rate of 1 BTCB = 1 BTC. BTCB is 100% backed
+    by the same amount of BTC
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2019-06-17'
+  type: token
+  organization_structure: Centralized
+  development_status: Just an Idea
+explorers:
+- https://explorer.binance.org/asset/BTCB-1DE
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.binance.com/en/blog/347360878904684544/Introducing-BitcoinPegged-Token-on-Binance-Chain
 video:
   url: null
 team:

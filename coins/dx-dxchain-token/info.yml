@@ -14,7 +14,7 @@ descriptions:
   future: We can not provide any looks into the future for DxChain Token yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-08-04'
   type: coin
   organization_structure: Centralized
@@ -50,7 +50,228 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: James Li
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jamesli/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tony Wu
+    imagename: null
+    position: Investor Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/%E4%BA%91-%E5%90%B4-6a12a3b4/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Taosheng Shi
+    imagename: null
+    position: Senior Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/taoshengshi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacky Wang
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yanxiang-wang-a6b324108/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric Wang
+    imagename: null
+    position: Full Stack Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wrkevin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Li Lu
+    imagename: null
+    position: Blockchain Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/li-lu-77110715/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maizie Feng
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maizie-feng-b6a0b3a4/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chaowen Li
+    imagename: null
+    position: Public Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/helen-li-48199272/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Claire Yu
+    imagename: null
+    position: Digital Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/claire-yu-6ba151a3/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicole Fan
+    imagename: null
+    position: Digital Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/biran-nicole-fan-9a32b1138/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yan Gong
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Hsu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Leo Wang
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/betashow
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/dxchain
   reddit: null

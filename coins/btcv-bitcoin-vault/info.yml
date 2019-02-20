@@ -2,32 +2,39 @@ id: btcv-bitcoin-vault
 symbol: BTCV
 name: Bitcoin Vault
 logo: null
-founded: null
+founded: '2019-12-12'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Bitcoin Vault is developed to provide an extra level of security based
+    on a three-private-key security structure. It features all the convenience of
+    Bitcoin while adding important features allowing user transparency and freedom.
+    Bitcoin Vault was launched in early December 2019 by a team of crypto enthusiasts
+    based in Poland. The coin is based on the Bitcoin framework, but includes some
+    valuable additions, making it more convenient and safer than other coins on the
+    market.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Work
+  algorithm: SHA256
+  issue_date: '2019-12-12'
+  type: coin
+  organization_structure: Unknown
+  development_status: On-going development
+explorers:
+- https://explorer.bitcoinvault.global/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://bitcoinvault.global/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Kadri Pusat
     imagename: null
-    position: null
+    position: City Developer
     description: null
     links:
       github:
@@ -52,7 +59,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: bitcoinvault
   main_repository: null
 manual_reviews:
   available: false

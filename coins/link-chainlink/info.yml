@@ -19,16 +19,16 @@ descriptions:
     2019 - Partnership with Google announced. Utility. The Link Network provides timely
     and accurate information to smart contracts via a decentralized network of oracles
     (data feeds and APIs).'
-  future: 'The LINK token serves as a payment for smart contracts that utilise the
+  future: The LINK token serves as a payment for smart contracts that utilise the
     data provided by the Link Network, with oracles that provide accurate information
     being rewarded in proportion to their staked LINK. Significant Features. Partnerships
     with major industry players such as SWIFT and Google. Integrations by Ethereum
     sidechains such as Harmony, Celer and Matic. Average blocktime n/a; Total supply
     of 1 Billion LINK ; Oracle Consensus written into Ethereum Blockchain via threshold
-    signatures.'
+    signatures.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-09-22'
   type: coin
   organization_structure: Centralized

@@ -52,7 +52,76 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Billy Markus
+    imagename: null
+    position: Co-Founder
+    description: "Billy Markus is Software Engineer and a creator of original Dogecoin\
+      \ code, co-founded with Jackson Palmer. \r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/billym2k
+        followers: 21260
+  - name: Max K.
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/langerhans
+        followers: 208
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Patrick Lodder
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/patricklodder
+        followers: 117
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ross Nicoll
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/rnicoll
+        followers: 154
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JRossNicoll?lang=en
+        followers: 6857
 socials:
   telegram: https://t.me/TheDogeHouse
   reddit: https://www.reddit.com/r/dogecoin

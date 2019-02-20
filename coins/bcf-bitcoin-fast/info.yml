@@ -5,22 +5,28 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "BitCoinFast is a Decentralized CryptoCurrency that will be used by\
+    \ those that use BitCoin but prefer a faster version. It can take up to an hour\
+    \ sometimes just to complete a BitCoin transaction. BitCoinFast with its 60 \r\
+    \nsecond block times can complete a transaction in a blink of the eye. \r\n\r\n\
+    Attention!\r\nBitcoin Fast is an altcoin, and it's not compatible with Bitcoin\
+    \ (BTC). Please do not send Bitcoin to Bitcoin Fast address, and vice-versa."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Work & Proof of Stake
+  algorithm: Scrypt
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Decentralized
+  development_status: Unknown
+explorers:
+- https://bcf.altcoinwarz.com:3003/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://bitcoinfast.co/
 video:
   url: null
 team:
@@ -52,7 +58,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: Crypto-Currency
   main_repository: null
 manual_reviews:
   available: false

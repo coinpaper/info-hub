@@ -5,29 +5,215 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Holochain is a data integrity engine for distributed applications.
+    It uses a validating DHT (Distributed Hash Table) where every user has their own
+    chain. A transaction is signed and countersigned onto each parties chain and then
+    this information is published to the shared Distributed Hash Table.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+- https://ethplorer.io/address/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://holo.host
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Arthur Brock
     imagename: null
-    position: null
+    position: Co-Founder & Chief Architect
+    description: "Arthur Brock builds targeted currencies which shape the social dynamics\
+      \ of our emerging post-industrial economy. He has created more than a hundred\
+      \ designs for multi-currency systems and his software company has built and\
+      \ deployed dozens of those systems. Initially, Arthur put his experience Artificial\
+      \ Intelligence to use at GM, Chrysler & Hughes, but shifted his focus to building\
+      \ intelligence into social architectures rather than to computers."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/artbrock/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Eric Harris-Braun
+    imagename: null
+    position: Co-Founder & Executive Engineer
+    description: Eric Harris-Braun designs and builds software infrastructure for
+      the new economy. He is a co-founder of the MetaCurrency project, which is creating
+      a platform for communities of all scales to design and deploy their own currencies.
+      Eric is the co-founder of Glass Bead Software, a provider of peer-to-peer networking
+      applications, and of Harris-Braun Enterprises, a freelance software development
+      shop.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zippy/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ferananda Ibarra
+    imagename: null
+    position: Partnership Coordination
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ferananda/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matthew Schutte
+    imagename: null
+    position: Communications Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/matthewschutte/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Atkinson
+    imagename: null
+    position: Finance & Legal Coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/davidcatkinson/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Jean-Fran\xE7ois Noubel"
+    imagename: null
+    position: European Executive Liason
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jfnoubel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jean Russell
+    imagename: null
+    position: Project Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/spinorb/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mickki Langston
+    imagename: null
+    position: Logistics Coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mickki/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Saul Wainwright
+    imagename: null
+    position: Controller
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/saulwainwright
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mary Camacho
+    imagename: null
+    position: US Product & Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maryfcamacho/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Emaline Friedman
+    imagename: null
+    position: Documentation & Research Lead
     description: null
     links:
       github:
@@ -42,17 +228,356 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Nicolas Luck
+    imagename: null
+    position: Core Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicolas-luck-b424b89a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Celestial Hanley
+    imagename: null
+    position: Experience Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/celestialhanley/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jarod Holtz
+    imagename: null
+    position: Project Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jarodholtz/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sami Van Ness
+    imagename: null
+    position: Director of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pixelconversions/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Micah Jefferson
+    imagename: null
+    position: Web Presence & Communications Ninja
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/micahlj/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Laureli Shimayo
+    imagename: null
+    position: People & Culture Coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/laureli-shimayo-7352843
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sam Cooley
+    imagename: null
+    position: Dev Ops
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/samcooley/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robert Best
+    imagename: null
+    position: Data & Analytics Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robest/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mamading Ceesay
+    imagename: null
+    position: Dev Ops
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mamading/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anders Aamodt
+    imagename: null
+    position: Community coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/CeladonWave/
+        followers: null
+  - name: Will Harris-Braun
+    imagename: null
+    position: Support Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/will-harris-braun-aa256b153/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Katie Teague
+    imagename: null
+    position: Video Making
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/katie-teague-002246153/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Greg Schaffer
+    imagename: null
+    position: Community Builder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Connor Turland
+    imagename: null
+    position: Developer Training & Documentation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Philip Beadle
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/philip-beadle-13072087/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Braden
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/david-braden/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sam Rose
+    imagename: null
+    position: Dev Ops & Scaling
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/samrose/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Katie Lucas
+    imagename: null
+    position: Head of People & Culture
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/katie-lucas-40426661/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Damien Dout\xE9"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/doute-d/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paulii Good
+    imagename: null
+    position: Digital Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pauliigood/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/holochain
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: holochain
   main_repository: null
 manual_reviews:
   available: false

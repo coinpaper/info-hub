@@ -16,7 +16,7 @@ descriptions:
   future: We can not provide any looks into the future for Sologenic yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2020-03-02'
   type: unknown
   organization_structure: Semi-centralized
@@ -65,7 +65,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: sologenic
   main_repository: null
 manual_reviews:
   available: false

@@ -49,7 +49,41 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Mance Harmon
+    imagename: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/manceharmon/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ken Anderson
+    imagename: null
+    position: Lead Developer Advocate
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kenthejr/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/hederahashgraph
   reddit: https://www.reddit.com/r/hashgraph
@@ -59,7 +93,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: hashgraph
   main_repository: null
 manual_reviews:
   available: false

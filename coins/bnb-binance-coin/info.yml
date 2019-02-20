@@ -18,11 +18,11 @@ descriptions:
     \ collateral for instant crypto loans. BNB Value & The Burn . You can use BNB\
     \ to pay for any fees on Binance platform, including but not limited to: Exchange\
     \ fees, Listing fees, and any other fee."
-  future: 'All transactions will be on the blockchain. We
-    eventually will destroy 100MM BNB, leaving 100MM BNB  remaining. Decentralized
-    Exchange. On April 23, 2019, Binance has completed the Binance Coin (BNB) mainnet
-    swap. In the future, Binance will build a decentralized exchange, where BNB will
-    be used as one of the key base assets as well as gas to be spent..'
+  future: All transactions will be on the blockchain. We eventually will destroy 100MM
+    BNB, leaving 100MM BNB  remaining. Decentralized Exchange. On April 23, 2019,
+    Binance has completed the Binance Coin (BNB) mainnet swap. In the future, Binance
+    will build a decentralized exchange, where BNB will be used as one of the key
+    base assets as well as gas to be spent..
 blockchain:
   consensus: Byzantine Fault Tolerance
   algorithm: Tendermint (BFT)
@@ -66,9 +66,10 @@ team:
   - name: Yi He
     imagename: bnb-binance-coin_yi_he.png
     position: Co-Founder & CMO
-    description: 'Previous Vice President of Yixia Technology (a comapany with 20billion
-      RMB market value) including Miaopai, Xiaokaxiu, Yizhibo), Previous Co-founder at OKCoin
-      Previous travel TV host One of the most influential females of Chinese Internet Industry'
+    description: Previous Vice President of Yixia Technology (a comapany with 20billion
+      RMB market value) including Miaopai, Xiaokaxiu, Yizhibo), Previous Co-founder
+      at OKCoin Previous travel TV host One of the most influential females of Chinese
+      Internet Industry
     links:
       github:
         url: null
@@ -108,11 +109,11 @@ team:
   - name: Wei Zhou
     imagename: bnb-binance-coin_wei_zhou.png
     position: CFO
-    description: "Mr. Zhou brings over 15 years of executive experience at leading\
-      \ technology, internet and media companies where he has built up particular\
-      \ expertise in financial management and accounting, capital markets and investments,\
-      \ as well as growing and scaling business operations in both China and the United\
-      \ States."
+    description: Mr. Zhou brings over 15 years of executive experience at leading
+      technology, internet and media companies where he has built up particular expertise
+      in financial management and accounting, capital markets and investments, as
+      well as growing and scaling business operations in both China and the United
+      States.
     links:
       github:
         url: null
@@ -129,11 +130,11 @@ team:
   - name: Ella Zhang
     imagename: bnb-binance-coin_ella_zhang.png
     position: CEO of Binance Labs
-    description: "Ella has over 14+ yrs experience in venture capital and high tech.\
-      \ She was the youngest investment director of KPCB, where she was early investor\
-      \ for several successful companies including Rong360 (NYSE: JT) and Ximalaya\
-      \ FM. Prior to KPCB, Ella worked at Google, Tencent and UTStarcom in interdisciplinary\
-      \ roles."
+    description: 'Ella has over 14+ yrs experience in venture capital and high tech.
+      She was the youngest investment director of KPCB, where she was early investor
+      for several successful companies including Rong360 (NYSE: JT) and Ximalaya FM.
+      Prior to KPCB, Ella worked at Google, Tencent and UTStarcom in interdisciplinary
+      roles.'
     links:
       github:
         url: null
@@ -150,10 +151,10 @@ team:
   - name: Helen Hai
     imagename: bnb-binance-coin_helen_hai.png
     position: Head of BCF
-    description: "HAI Helen is head of BCF, she is United Nations Goodwill Ambassador\
-      \ (UNIDO). She was named a 2015 Young Global Leader by World Economic Forum,\
-      \ She received the 2015 African Business Icon Award, and awarded as Officer\
-      \ of the National Order of Lion of Senegal in 2016."
+    description: HAI Helen is head of BCF, she is United Nations Goodwill Ambassador
+      (UNIDO). She was named a 2015 Young Global Leader by World Economic Forum, She
+      received the 2015 African Business Icon Award, and awarded as Officer of the
+      National Order of Lion of Senegal in 2016.
     links:
       github:
         url: null

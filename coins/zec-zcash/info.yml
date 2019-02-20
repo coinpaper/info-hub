@@ -23,7 +23,7 @@ blockchain:
   development_status: Working product
 explorers:
 - https://explorer.zcha.in/
-- http://zcashnetwork.info/
+- https://zcashnetwork.info/
 whitepaper:
   abstract: "Zcash is a decentralized and open-source cryptocurrency that provides\
     \ strong privacy protections. Shielded transactions hide the sender, recipient,\

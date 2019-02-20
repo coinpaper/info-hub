@@ -12,15 +12,17 @@ blockchain:
   consensus: null
   algorithm: null
   issue_date: null
-  type: null
+  type: coin
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://explorer.beldexcoin.com
+- https://explorer.beldex.io
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://beldex.io/
 video:
   url: null
 team:
@@ -52,7 +54,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: Beldex-Coin
   main_repository: null
 manual_reviews:
   available: false

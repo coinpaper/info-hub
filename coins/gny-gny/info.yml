@@ -12,15 +12,17 @@ blockchain:
   consensus: null
   algorithm: null
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://etherscan.io/token/0x247551f2eb3362e222c742e9c788b8957d9bc87e
+- https://ethplorer.io/address/0x247551f2eb3362e222c742e9c788b8957d9bc87e
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.gny.io
 video:
   url: null
 team:
@@ -52,7 +54,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: GNYIO
   main_repository: null
 manual_reviews:
   available: false

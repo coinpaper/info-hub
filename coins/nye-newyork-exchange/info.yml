@@ -10,17 +10,18 @@ descriptions:
   future: null
 blockchain:
   consensus: null
-  algorithm: null
+  algorithm: Scrypt
   issue_date: null
-  type: null
+  type: coin
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://explorerscan.io
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.nyecoin.io
 video:
   url: null
 team:
@@ -52,7 +53,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: nyecoin
   main_repository: null
 manual_reviews:
   available: false

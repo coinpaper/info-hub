@@ -1,20 +1,13 @@
-# The trading symbol and name of the coin
 id: yfi-yearnfinance
 symbol: YFI
 name: Yearn.Finance
 logo: yfi-yearnfinance_logo@512x512.png
-
-# Founding of public-release date in the format "23-08-2020"
 founded: '2020-01-01'
-
-# Description about the coin. Should be at most 10 sentences per field.
 descriptions:
   one_sentence: Capital investment on DeFi platforms
-  introduction: ""
-  technology: ""
-  future: ""
-
-# Information about the type of blockchain and its development status
+  introduction: ''
+  technology: ''
+  future: ''
 blockchain:
   consensus: PoW
   algorithm: unknown
@@ -22,32 +15,20 @@ blockchain:
   type: token
   organization_structure: unknown
   development_status: Alpha version
-
-# List of URLs to Blockchain explorers such as "https://etherscan.io/".
 explorers: []
-
-# Place the official whitepaper itself as a PDF into /files/whitepaper.pdf
-# The abstract is the first section, mostly written in bold, inside the whitepaper.
 whitepaper:
   abstract: No whitepaper available
   file: yfi-yearnfinance_whitepaper.pdf
-
-# URL to the official website.
 website:
   url: https://yearn.finance/
-
-# Explenation youtube video. Must be in the form "https://www.youtube.com/watch?v=dQw4w9WgXcQ".
 video:
   url: https://www.youtube.com/watch?v=qG1goOptZ5w
-
-# Collective information about the team.
 team:
-  # Representative figure, like "Vitalik Buterin" for Ethereum.
   leader:
     name: Unknown
-    imagename: null   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+    imagename: null
     position: Founder
-    description:  Founded Yearn.Finance
+    description: Founded Yearn.Finance
     links:
       github:
         url: null
@@ -61,12 +42,7 @@ team:
       twitter:
         url: null
         followers: null
-
-  # Official members or heavy contributers. The format of each member is
-  # the same as the format of the leader.
   members: []
-
-# Links to any official or large community driven social media channels.
 socials:
   telegram: null
   reddit: null
@@ -75,162 +51,104 @@ socials:
   medium: null
   vimeo: null
   discord: null
-
-# Official github code repository.
 github:
-  username: null
-  main_repository: null   # Repository that represents the blockchain/token
-
-# Manual reviews that influence the Coinpaper score. Please reade the contribution
-# guidelines before commiting changes to this section.
+  username: iearn-finance
+  main_repository: null
 manual_reviews:
-
-  # Indicates whether the manual review is ready to be published online
   available: true
-
   introduction:
-
-    # What problem is the coin/token solving?
     purpose:
       description: null
       score: null
       references: null
-
   current_stand:
-
-    # Did the token or its founders go through scandals (scams, false claims..)
-    # or have they achieved something great (collaborations..) in the past?
     scandals_highlights:
       description: null
       score: null
       references: null
-
-    # What is the product around the token. What belongs to the ecosystem?
     product:
       description: null
       score: null
       references: null
-
-    # How is development processing? When will the product be ready to use?
     development:
       description: null
       score: null
       references: null
-
-    # Was the team able to form valuable partnerships?
     partnerships:
       description: null
       score: null
       references: null
-
-    # Does the project have a strong, enthusiastic and supportive communtiy?
     community:
       description: null
       score: null
       references: null
-
-    # Are there any close competitors that might overtake the project?
     substitutes:
       description: null
       score: null
       references: null
   foresight:
-    # How will this project most probably look in a few months/years from now?
-    # THIS IS NOT ABOUT PRICE ACTION!
     prediction:
-      description:  null
+      description: null
       score: null
       references: null
-
-    # Are there any projects that build on top of this technology?
     projects:
       description: null
       score: null
       references: null
-
-    # If the project achieves what they claims, what would the future bring?
     potential:
       description: null
       score: null
       references: null
-
   pro_con:
-    # Is there something ready-to-use yet?
     product_availability:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is anybody even using it?
     product_usage:
       description: null
       is_pro: null
       is_contra: null
-
-    # How fast is the network? Can it scale?
     transactions_per_second:
       description: null
       is_pro: null
       is_contra: null
-
-    # How expensive is it to use the network?
     transaction_cost:
       description: null
       is_pro: null
       is_contra: null
-
-    # How long does it take the network to validate requests?
     transaction_speed:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the security concept proofen?
     security:
       description: null
       is_pro: null
       is_contra: null
-
-    # Did the project find any adoption in its nieche?
     adoption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How much enery is needed to keep the project alive?
     energy_consumption:
       description: null
       is_pro: null
       is_contra: null
-
-    # How prive/pseudonomous is the participation in the network?
     privacy:
       description: null
       is_pro: null
       is_contra: null
-
-    # Is the network decentralized, as blockchain is supposed to be?
     decentralization:
       description: null
       is_pro: null
       is_contra: null
-
-    # Can coins/tokens be traded on trusted exchanges?
     exchange_availability:
       description: null
       is_pro: null
       is_contra: null
-
-  # This section focuses on the founding- or lead development team
   team:
-
-    # Who are the founders? Have they achieved something in the past already?
     founders:
       description: null
       score: null
       references: null
-
-    # Who is developing the product? Is it run by the community?
     developers:
       description: null
       score: null

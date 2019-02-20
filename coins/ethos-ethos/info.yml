@@ -2,30 +2,54 @@ id: ethos-ethos
 symbol: ETHOS
 name: Ethos
 logo: null
-founded: null
+founded: '2017-06-28'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "The Voyager Token (VGX) is a cryptocurrency broker token created\
+    \ by one of the co-founders of Uber and executives of E*TRADE. Voyager allows\
+    \ customers to trade 30+ crypto assets using USD, earn interest with no lock-ups,\
+    \ and no limits, 100% commission-free. The Voyager Token (VGX) rewards users within\
+    \ the Voyager crypto broker ecosystem. VGX generates interest when held in the\
+    \ Voyager app and will soon offer cash back rewards, and other exclusive features.\r\
+    \n"
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  issue_date: '2017-06-28'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.investvoyager.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Shingo Lavine
+    imagename: null
+    position: CEO & Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shingo-lavine/
+        followers: null
+      medium:
+        url: https://medium.com/@shingolavine
+        followers: 1015
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Yu-Jen Dennis Chen
     imagename: null
     position: null
     description: null
@@ -42,10 +66,383 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Maurice Herlihy
+    imagename: null
+    position: Blockchain & Smart Contract Technology
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maurice-herlihy-1888865/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Lavine
+    imagename: null
+    position: Director Business Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adamlavine/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aiko Nomura
+    imagename: null
+    position: Controller & Head of Corporate Finance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aiko-nomura-lavine-ba57211/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pete Rodgers
+    imagename: null
+    position: IT-Security
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pete-rodgers-8a06/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Meghji
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adammeghji/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stephen Corliss
+    imagename: null
+    position: Global Strategy + Compliance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stephen-corliss-4866ab4/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vishal Karir
+    imagename: null
+    position: CIO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vishalkarir
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tim Simmons
+    imagename: null
+    position: Engineering + Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tsimmons/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Dean Pettit
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kevin-pettit-88409944
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Paterson
+    imagename: null
+    position: Creative + Experience
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ryan-paterson-2b663529/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dan Caley
+    imagename: null
+    position: Director of Portfolio Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/daniel-caley/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christine Mangosing
+    imagename: null
+    position: Senior Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/cmangodesign/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rina Espiritu
+    imagename: null
+    position: Senior Producer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rina-espiritu-358a58a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Derek Barrera
+    imagename: null
+    position: Core Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/derekbarrera/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mia Alexander
+    imagename: null
+    position: Devops Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mia-alexander/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aidan Gordon
+    imagename: null
+    position: Data Analysis & Visualization
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aidan-gordon-70167582/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrew Carpenter
+    imagename: null
+    position: Data Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andrewcarp
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kenley Payne Jr.
+    imagename: null
+    position: Community Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kenleyp/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gloria Feng
+    imagename: null
+    position: UI/UX Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/gloria-feng-405895126/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ellen Jiang
+    imagename: null
+    position: UI/UX Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ellenjiang2020/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Selvam Moorthy
+    imagename: null
+    position: Nominee Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/selvam-moorthy-53361432/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Saechew
+    imagename: null
+    position: Community Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kevin-saechew/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/investvoyager/
   twitter: null
   facebook: null
   medium: null

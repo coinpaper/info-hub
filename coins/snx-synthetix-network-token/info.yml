@@ -2,32 +2,40 @@ id: snx-synthetix-network-token
 symbol: SNX
 name: Synthetix Network Token
 logo: null
-founded: null
+founded: '2018-02-28'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Synthetix Network Token will be a decentralised payment network where\
+    \ users transact directly in a\r\nprice-stable cryptocurrency. Those who use the\
+    \ stablecoin pay fees to those who\r\ncollateralise the network, compensating\
+    \ them for the risks of providing collateral\r\nand stability. Collateral providers\
+    \ control the money supply, and fees are\r\ndistributed in proportion with each\
+    \ individual\u2019s stabilisation performance. Thus,\r\nSynthetix Network Token\
+    \ rewards suppliers of stability and charges those who demand it."
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2018-02-28'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
+- https://ethplorer.io/address/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://synthetix.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Kain Warwick
     imagename: null
-    position: null
+    position: Founder
     description: null
     links:
       github:
@@ -42,17 +50,204 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Justin Moses
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jordan Momtazi
+    imagename: null
+    position: VP Partnerships
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clinton Ennis
+    imagename: null
+    position: Senior Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charlie Karaboga
+    imagename: null
+    position: Head of Product
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mikael Sundelin
+    imagename: null
+    position: VP Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Garth Travers
+    imagename: null
+    position: Communication manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clement Balestrat
+    imagename: null
+    position: Dapp developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Vernon
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roman Mandryk
+    imagename: null
+    position: Dapp developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Kvas
+    imagename: null
+    position: Dapp developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martin Torok
+    imagename: null
+    position: Dapp developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/havven
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: Synthetixio
   main_repository: null
 manual_reviews:
   available: false

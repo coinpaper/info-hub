@@ -2,25 +2,32 @@ id: are-aurei
 symbol: ARE
 name: Aurei
 logo: null
-founded: null
+founded: '2019-11-15'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: 'The AUREI mechanism is a breakthrough innovation that will open a
+    new path in token design for the future, based on a token issuance price function
+    (price increase factor) instead of a token issuance time function (either initially
+    or at a later stage during the life of the token). AUREI Project is a paradigm
+    shift for the concept of token creation. Usually token creation dilutes former
+    investor, here this effect is structurally different thanks to the token design:
+    the price of the token must necessarily rise substantially for a new token issuance
+    to take place.'
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  issue_date: '2019-11-15'
+  type: token
+  organization_structure: Semi-centralized
+  development_status: Working product
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.aurei-crypto.io/
 video:
   url: null
 team:
@@ -52,7 +59,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: AureiProject
   main_repository: null
 manual_reviews:
   available: false
