@@ -2,32 +2,444 @@ id: fun-funfair
 symbol: FUN
 name: FunFair
 logo: null
-founded: null
+founded: '2017-02-01'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "FunFair provides blockchain-powered solutions with the potential\
+    \ to profoundly change the online gaming industry for both the operator and player.\
+    \ Using the latest Ethereum technology, we deliver low cost, high quality, transparent\
+    \ casino experiences that are provably fair.\r\n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-02-01'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://funfair.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Jeremy Longley
     imagename: null
-    position: null
+    position: CTO & Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/jeremy-longley-16827b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Oliver Hopton
+    imagename: null
+    position: Core Developer & Co-founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/oliver-hopton-0387a61?trk=org-employees_mini-profile_title
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Greyling
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/davidgreyling
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jez San Obe
+    imagename: null
+    position: CEO &  Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@aerobatic
+        followers: 642
+      twitter:
+        url: null
+        followers: null
+  - name: Rob Palmer-Hole
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/rob-palmer-hole-a398b210
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Laurence McDonald
+    imagename: null
+    position: Producer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/laurence-mcdonald-0685061
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paul Jackman
+    imagename: null
+    position: Technical Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/paul-jackman-9b116142
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Will Master
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/will-master-4384973
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mark Ridgwell
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://de.linkedin.com/in/mridgwel/de
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Jas Austin '
+    imagename: null
+    position: Games Designer & Programmer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/jas-austin-8ba5323
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/iamxero?lang=en
+        followers: 2522
+  - name: Kim Man
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/kim-man-49521954
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joe Blakeston
+    imagename: null
+    position: 2D Animator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/joe-blakeston-878693b6
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steven Olliffe
+    imagename: null
+    position: 3D Artist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/steveolliffe
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: JOHAN VAN DER MERWE
+    imagename: null
+    position: Web Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/johancontractor
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Krzysztof Krygier
+    imagename: null
+    position: Concept Artist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/krzysztof-krygier-41b40956
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicholas Antill
+    imagename: null
+    position: QA Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/nicholas-antill-9528358
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Grant
+    imagename: null
+    position: Content Creator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/daniel-grant-31277b5b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Harrison
+    imagename: null
+    position: Consultant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/jamesharrison1977
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zuzana Borosova
+    imagename: null
+    position: HR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/zuzanaborosova
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Darren Kenny
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/darrenanthonykenny
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pete Moores
+    imagename: null
+    position: UI Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/pete-moores-6731112b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dimitris Kapagioridis
+    imagename: null
+    position: Animator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/dimitriskapagioridis
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Timo Hanke
+    imagename: null
+    position: Advisor Technical
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/timo-hanke-62079775
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nick Johnson
+    imagename: null
+    position: Advisor Technical
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/nicksdjohnson
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dennis Petersen
+    imagename: null
+    position: Advisor Technical
     description: null
     links:
       github:
@@ -42,17 +454,84 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Jeff Ifrah
+    imagename: null
+    position: Advisor Legal
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jeffifrah
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eitan Jankelewitz
+    imagename: null
+    position: Advisor Legal
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://uk.linkedin.com/in/eitan-jankelewitz-3b1b3154
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/eitanjan?lang=en
+        followers: 321
+  - name: Melissa Blau
+    imagename: null
+    position: Advisor Commercial
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/melissablau
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin De Haan
+    imagename: null
+    position: Advisor Legal
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/FunfairTech
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: funfair-tech
   main_repository: null
 manual_reviews:
   available: false
