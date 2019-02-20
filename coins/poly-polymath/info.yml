@@ -2,39 +2,43 @@ id: poly-polymath
 symbol: POLY
 name: Polymath
 logo: null
-founded: null
+founded: '2017-12-25'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: The Polymath network connects token investors, KYC providers, smart
+    contract developers and legal experts who help form the basis of your securities
+    token.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-12-25'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec
+- https://ethplorer.io/address/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.polymath.network/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Trevor Koverko
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: null
+        url: https://www.linkedin.com/in/trevorkoverko/
         followers: null
       medium:
         url: null
@@ -42,17 +46,461 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Chris Housser
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chris-housser/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tracy Leparulo
+    imagename: null
+    position: Chief Events Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tracyleparulo/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Graeme Moore
+    imagename: null
+    position: VP of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/graemenelsonmoore/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Igor Denisov
+    imagename: null
+    position: M&A and Strategic Partnerships
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: http://www.linkedin.com/in/igordenisov
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kalman Gabriel
+    imagename: null
+    position: Managing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kalman-gabriel-6852641a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pablo Ruiz
+    imagename: null
+    position: VP of Engineering
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pabloruizdotco/detail/photo/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shannon Clarke
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shannonjamalclarke
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Dossa
+    imagename: null
+    position: Solidity Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adam-dossa/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam King
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adam-king-983860b9/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rachel Lam
+    imagename: null
+    position: VP of Regulatory Strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rwklam/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Steven Nerayoff
+    imagename: null
+    position: Advisor
+    description: 'Steven Nerayoff is an investor, founder, venture capitalist and
+      a prolific entrepreneur. His Experience includes the formation and operation
+      of several companies in Silicon Valley as well as New York City. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nerayoff
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/stevennerayoff
+        followers: 17088
+  - name: Patrick Byrne
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stan Miroshnik
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stanmiroshnik/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erik Voorhees
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/erikvoorhees
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ErikVoorhees
+        followers: 416537
+  - name: David Johnston
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/davidajohnston
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anthony Di Iorio
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: http://www.linkedin.com/in/anthonydiiorio1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: http://twitter.com/diiorioanthony
+        followers: 29474
+  - name: Matt Roszak
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/matthewroszak/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gary Rubinoff
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/garyrubinoff/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Perklin
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/perklin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bruce Fenton
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brucefenton/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brad Mills
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bradmillscan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bradmillscan?lang=en
+        followers: 25671
+  - name: Steve Dakh
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/steven-dakh-86a63712/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robby Dermody
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robbydermody/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liam Robertson
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/liam-robertson-cfa-caia-008b69146/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Terpin (BitAngels, Coinagenda)
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/michaelterpin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Simon Dixon
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/simondixonbankingreform/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/polymathnetwork
   twitter: null
   facebook: null
-  medium: null
+  medium: https://blog.polymath.network/
   vimeo: null
   discord: null
 github:
-  username: null
+  username: PolymathNetwork
   main_repository: null
 manual_reviews:
   available: false
