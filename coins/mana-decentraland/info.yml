@@ -58,7 +58,75 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Esteban Ordano
+    imagename: null
+    position: Co-Founder & Tech Lead
+    description: null
+    links:
+      github:
+        url: https://github.com/eordano
+        followers: 269
+      linkedin:
+        url: https://www.linkedin.com/in/eordano/
+        followers: null
+      medium:
+        url: https://medium.com/@eordano
+        followers: 1120
+      twitter:
+        url: https://twitter.com/eordano
+        followers: 6630
+  - name: Jake Brukhman
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jbrukh
+        followers: 18831
+  - name: Luis Cuende
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/luisivancuende/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Giotto De Filippi
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://mt.linkedin.com/in/giottodf
+        followers: null
+      medium:
+        url: https://medium.com/@giottodf
+        followers: 1078
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/dcl_market
   reddit: https://www.reddit.com/r/decentraland
