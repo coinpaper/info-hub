@@ -38,8 +38,8 @@ team:
     name: Jae Kwon
     imagename: atom-cosmos-jae-kwon.png
     position: Founder
-    description: 'Jae Kwon is a blockchain software architect and co-founder of Tendermint, and the 
-    president of the Interchain Foundation.'
+    description: Jae Kwon is a blockchain software architect and co-founder of Tendermint,
+      and the president of the Interchain Foundation.
     links:
       github:
         url: https://github.com/jaekwon
@@ -57,7 +57,7 @@ team:
   - name: Peng Zhong
     imagename: atom-cosmos-peng-zhong.png
     position: CEO
-    description: 'Chief Executive Officer at Tendermint'
+    description: Chief Executive Officer at Tendermint
     links:
       github:
         url: https://github.com/nylira
@@ -74,7 +74,7 @@ team:
   - name: Zaki Manian
     imagename: atom-cosmos-zaki-manian.png
     position: Early contributor
-    description: 'Director of Tendermint Labs at Tendermint'
+    description: Director of Tendermint Labs at Tendermint
     links:
       github:
         url: https://github.com/zmanian
@@ -103,107 +103,116 @@ manual_reviews:
   available: true
   introduction:
     purpose:
-      description: 'The purpose behind Cosmos was a little too demanding for sure. Where other 
-      crypto-technologies are trying to solve one problem at a time, Cosmos revealed that it will 
-      launch a blockchain-based interoperability platform, which will allow all the different 
-      blockchains to interact and work together. It kind of pulls all the blockchains onto one 
-      platform, and as per the latest news of February 2020, it looks like they are getting some 
-      results out of their works.'
+      description: The purpose behind Cosmos was a little too demanding for sure.
+        Where other crypto-technologies are trying to solve one problem at a time,
+        Cosmos revealed that it will launch a blockchain-based interoperability platform,
+        which will allow all the different blockchains to interact and work together.
+        It kind of pulls all the blockchains onto one platform, and as per the latest
+        news of February 2020, it looks like they are getting some results out of
+        their works.
       score: 4.8
       references: null
   current_stand:
     scandals_highlights:
-      description: 'Cosmos was founded with the support of the Interchain Foundation (ICF); a 
-      non-commercial foundation based in Switzerland. Cosmos held the Initial Coin Offering (ICO) 
-      for its ATOM token in 2017. The ICO turned out to be successful, where the team managed to 
-      raise $17 million within the first half an hour of the ICO. A total of 168 million tokens 
-      were sold, while the team kept apart 50 million of the total supply to use for their 
-      financial and strategic goals.
-      Cosmos, with its idea of joining all other blockchains to eliminate the problem of blockchain 
-      scalability, gained massive recognition in the year 2019. The project received countless 
-      investments, so much so that Cosmos became the 25th largest cryptocurrency in terms of market 
-      capitalization. This ranking was revealed by Coinpaper.io. The total market capital that Cosmos 
-      has attracted so far stands at about $300 million, with each token trading at about $2.16.'
+      description: Cosmos was founded with the support of the Interchain Foundation
+        (ICF); a non-commercial foundation based in Switzerland. Cosmos held the Initial
+        Coin Offering (ICO) for its ATOM token in 2017. The ICO turned out to be successful,
+        where the team managed to raise $17 million within the first half an hour
+        of the ICO. A total of 168 million tokens were sold, while the team kept apart
+        50 million of the total supply to use for their financial and strategic goals.
+        Cosmos, with its idea of joining all other blockchains to eliminate the problem
+        of blockchain scalability, gained massive recognition in the year 2019. The
+        project received countless investments, so much so that Cosmos became the
+        25th largest cryptocurrency in terms of market capitalization. This ranking
+        was revealed by Coinpaper.io. The total market capital that Cosmos has attracted
+        so far stands at about $300 million, with each token trading at about $2.16.
       score: 4.4
-      references: 'Rousey, M. (2019, December 4). Changelly. Retrieved from Changelly: 
-      https://changelly.com/blog/why-invest-in-cosmos-atom-cryptocurrency/'
+      references: 'Rousey, M. (2019, December 4). Changelly. Retrieved from Changelly:
+        https://changelly.com/blog/why-invest-in-cosmos-atom-cryptocurrency/'
     product:
-      description: 'Cosmos is a platform that will allow the integration of different blockchains 
-      into one system. The product is a customizable, scalable, powerful and interoperable ecosystem 
-      of connected blockchains. The developers are working on making the Proof-of-Stake consensus 
-      more efficient. ATOM is the native token for the platform, and the delegators and valuators 
-      of a transaction will be rewarded with ATOM tokens '
+      description: 'Cosmos is a platform that will allow the integration of different
+        blockchains into one system. The product is a customizable, scalable, powerful
+        and interoperable ecosystem of connected blockchains. The developers are working
+        on making the Proof-of-Stake consensus more efficient. ATOM is the native
+        token for the platform, and the delegators and valuators of a transaction
+        will be rewarded with ATOM tokens '
       score: 4.6
-      references: 'Walters, S. (2020, February 24). Coin Bureau. Retrieved from Coin Bureau: 
-      https://www.coinbureau.com/review/cosmos-atom/'
+      references: 'Walters, S. (2020, February 24). Coin Bureau. Retrieved from Coin
+        Bureau: https://www.coinbureau.com/review/cosmos-atom/'
     development:
-      description: 'The current activities on Cosmos repositories reveal that the development team 
-      is on a working streak. There are a total of 86 active repositories working on different 
-      aspects of the Cosmos network. The most active repositories on Github have numerous code 
-      commits in the past days. Other than the Cosmos repositories, the project is also expanded 
-      in repositories belonging to Tendermint, which is yet another middleware that will allow the 
-      interoperability of different blockchains.'
+      description: The current activities on Cosmos repositories reveal that the development
+        team is on a working streak. There are a total of 86 active repositories working
+        on different aspects of the Cosmos network. The most active repositories on
+        Github have numerous code commits in the past days. Other than the Cosmos
+        repositories, the project is also expanded in repositories belonging to Tendermint,
+        which is yet another middleware that will allow the interoperability of different
+        blockchains.
       score: 4.8
       references: null
     partnerships:
-      description: 'Cosmos is currently focusing on developing workable algorithms for their network. 
-      Along with that, the team has announced a number of partnerships that will enable the technology 
-      to reach a wider range of users. It is listed on more than 90 crypto trade exchanges, including 
-      Changelly and Binance.
-      It has announced some major memorandum of understandings with different blockchain-based 
-      cryptocurrencies like OmiseGO and ThetaToken. There are a large number of crypto-development 
-      organizations and firms working with Cosmos. Oracle Internal Corporation, DATA chain, IRIS, and 
-      Loom Network are just a few to mention.'
+      description: Cosmos is currently focusing on developing workable algorithms
+        for their network. Along with that, the team has announced a number of partnerships
+        that will enable the technology to reach a wider range of users. It is listed
+        on more than 90 crypto trade exchanges, including Changelly and Binance. It
+        has announced some major memorandum of understandings with different blockchain-based
+        cryptocurrencies like OmiseGO and ThetaToken. There are a large number of
+        crypto-development organizations and firms working with Cosmos. Oracle Internal
+        Corporation, DATA chain, IRIS, and Loom Network are just a few to mention.
       score: 4.5
-      references: 'Paradigm. (2019, March 12). Medium. Retrieved from Medium: 
-      https://medium.com/paradigm-fund/cosmos-network-the-internet-of-blockchains-is-coming-9ce956c7b78'
+      references: 'Paradigm. (2019, March 12). Medium. Retrieved from Medium: https://medium.com/paradigm-fund/cosmos-network-the-internet-of-blockchains-is-coming-9ce956c7b78'
     community:
-      description: 'The community around the Cosmos project has grown exponentially. At first, the 
-      project seemed too ambitious to be actualized. However, the team has delivered steadily and has 
-      some more exciting developments on its roadmap. There is a good representation for Cosmos in 
-      terms of social platform channels, and all are being run by the community members and do not 
-      represent the official Cosmos team. Medium, Twitter, Reddit, and Youtube show good metrics 
-      confirming the involvement of community members.' 
+      description: The community around the Cosmos project has grown exponentially.
+        At first, the project seemed too ambitious to be actualized. However, the
+        team has delivered steadily and has some more exciting developments on its
+        roadmap. There is a good representation for Cosmos in terms of social platform
+        channels, and all are being run by the community members and do not represent
+        the official Cosmos team. Medium, Twitter, Reddit, and Youtube show good metrics
+        confirming the involvement of community members.
       score: 4.6
       references: null
     substitutes:
-      description: 'Several other cryptocurrencies are working to develop a platform for blockchain 
-      interoperability. However, none of them have managed to deliver as much as Cosmos. Among the 
-      similar substitute projects of Cosmos are ARK, ICON, AION, and Wanchain.'
+      description: Several other cryptocurrencies are working to develop a platform
+        for blockchain interoperability. However, none of them have managed to deliver
+        as much as Cosmos. Among the similar substitute projects of Cosmos are ARK,
+        ICON, AION, and Wanchain.
       score: 4.4
       references: null
   foresight:
     prediction:
-      description: 'Cosmos is currently enjoying a good share of its positive developments. 
-      The token, ATOM, is also performing well on the market charts. According to analysts, ATOM may 
-      spike up to $8-$9 by the end of the year 2022.'
+      description: Cosmos is currently enjoying a good share of its positive developments.
+        The token, ATOM, is also performing well on the market charts. According to
+        analysts, ATOM may spike up to $8-$9 by the end of the year 2022.
       score: 4.4
       references: null
     projects:
-      description: 'There are a number of projects that have been announced by Cosmos on its roadmap 
-      for 2020. Among the most anticipated projects are the development of a consensus algorithm, 
-      middlewares for the mainnet, and a wallet to store ATOM tokens.'
+      description: There are a number of projects that have been announced by Cosmos
+        on its roadmap for 2020. Among the most anticipated projects are the development
+        of a consensus algorithm, middlewares for the mainnet, and a wallet to store
+        ATOM tokens.
       score: 4.6
       references: null
     potential:
-      description: 'Cosmos has a lot of potentials as the project does not seem like a scam and has 
-      a trusted team working selflessly towards the development of the project. The confidence people 
-      have in the project can be deduced by its growth in the year 2019.'
+      description: Cosmos has a lot of potentials as the project does not seem like
+        a scam and has a trusted team working selflessly towards the development of
+        the project. The confidence people have in the project can be deduced by its
+        growth in the year 2019.
       score: 4.6
       references: null
   pro_con:
     product_availability:
-      description: The mainnet has not gone live yet and is in its development phase currently.
+      description: The mainnet has not gone live yet and is in its development phase
+        currently.
       is_pro: false
       is_contra: true
     product_usage:
-      description: The Cosmos network targets a large number of people as it will be bringing many different blockchains on a single platform.
+      description: The Cosmos network targets a large number of people as it will
+        be bringing many different blockchains on a single platform.
       is_pro: true
       is_contra: false
     transactions_per_second:
-      description: 'Cosmos is practically trying to solve the scalability issues faced by other 
-      blockchains. Therefore, once put into its working state, the network must have a faster 
-      transaction speed.'
+      description: Cosmos is practically trying to solve the scalability issues faced
+        by other blockchains. Therefore, once put into its working state, the network
+        must have a faster transaction speed.
       is_pro: true
       is_contra: false
     transaction_cost:
@@ -211,8 +220,8 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_speed:
-      description: 'There are no official figures available, but tokens that are built
-        upon Ethereum Blockchain cannot exceed its transaction speed yet.'
+      description: There are no official figures available, but tokens that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet.
       is_pro: false
       is_contra: true
     security:
@@ -221,22 +230,25 @@ manual_reviews:
       is_pro: true
       is_contra: false
     adoption:
-      description: Cosmos has been widely accepted lately, and the community around the project has grown significantly.
+      description: Cosmos has been widely accepted lately, and the community around
+        the project has grown significantly.
       is_pro: true
       is_contra: false
     energy_consumption:
-      description: 'The technology does not rely on mining processes to carry out financial 
-      transactions and for that reason it can be counted as an energy-efficient technology.'
+      description: The technology does not rely on mining processes to carry out financial
+        transactions and for that reason it can be counted as an energy-efficient
+        technology.
       is_pro: true
       is_contra: false
     privacy:
-      description: 'The technology does not offer complete privacy as ATOM is a pseudo anonymous
-        cryptocurrency which means that transactions can be tracked and balances of
-        individual accounts are available for people to see. '
+      description: 'The technology does not offer complete privacy as ATOM is a pseudo
+        anonymous cryptocurrency which means that transactions can be tracked and
+        balances of individual accounts are available for people to see. '
       is_pro: false
       is_contra: true
     decentralization:
-      description: 'The network is based on POS methodology and is decentralized blockchain technology.'
+      description: The network is based on POS methodology and is decentralized blockchain
+        technology.
       is_pro: true
       is_contra: false
     exchange_availability:
@@ -245,11 +257,11 @@ manual_reviews:
       is_contra: false
   team:
     founders:
-      description: 'The Interchain Foundation is in charge of its development work. The lead project 
-      manager is Jae Kwon, serving as the CTO of Cosmos Network.'
+      description: The Interchain Foundation is in charge of its development work.
+        The lead project manager is Jae Kwon, serving as the CTO of Cosmos Network.
       score: 4.6
       references: null
     developers:
-      description: 'Another notable lead developer on the team is Ethan Buchman.'
+      description: Another notable lead developer on the team is Ethan Buchman.
       score: 4.6
       references: null
