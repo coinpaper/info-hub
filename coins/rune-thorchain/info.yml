@@ -5,22 +5,23 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: A lightning fast liquidity network protocol.
   technology: null
   future: null
 blockchain:
   consensus: null
   algorithm: null
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://explorer.binance.org/asset/RUNE-B1A
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://thorchain.org
 video:
   url: null
 team:
@@ -45,14 +46,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://reddit.com/r/thorchain
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/thorchain
   vimeo: null
   discord: null
 github:
-  username: null
+  username: thorchain
   main_repository: null
 manual_reviews:
   available: false
