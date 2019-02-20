@@ -5,8 +5,8 @@ logo: abbc-alibabacoin_logo@512x512.png
 founded: '2020-01-01'
 descriptions:
   one_sentence: Bitcoin copy - not related to the onlineshop
-  introduction: "ABBC is a technology optimized for distribution, finance, shopping,\
-    \ security"
+  introduction: ABBC is a technology optimized for distribution, finance, shopping,
+    security
   technology: There is no technology description for ABBC Coin yet.
   future: We can not provide any looks into the future for ABBC Coin yet.
 blockchain:
@@ -16,10 +16,12 @@ blockchain:
   type: unknown
   organization_structure: Centralized
   development_status: On-going development
-explorers: []
+explorers:
+- http://45.55.242.48:3001/
+- https://abbcblockchainexplorer.com
 whitepaper:
-  abstract: "ABBC is a technology optimized for distribution, finance, shopping, security,\
-    \ using blockchain technology."
+  abstract: ABBC is a technology optimized for distribution, finance, shopping, security,
+    using blockchain technology.
   file: abbc-alibabacoin_whitepaper.pdf
 website:
   url: https://www.abbcfoundation.com
@@ -54,7 +56,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: alibabacoin
   main_repository: null
 manual_reviews:
   available: false
