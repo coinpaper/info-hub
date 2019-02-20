@@ -2,32 +2,103 @@ id: xvg-verge
 symbol: XVG
 name: Verge
 logo: null
-founded: null
+founded: '2014-10-09'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Verge is a cryptocurrency.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Work
+  algorithm: Multiple
+  issue_date: '2014-10-09'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://xvg.tokenview.com
+- https://verge-blockchain.info/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://vergecurrency.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Justin E Valo
     imagename: null
-    position: null
+    position: Founder and lead developer
+    description: null
+    links:
+      github:
+        url: https://github.com/justinvforvendetta
+        followers: 412
+      linkedin:
+        url: https://www.linkedin.com/in/justin-vendetta-3568455a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/justinvendetta
+        followers: 38383
+  members:
+  - name: Stan Faas
+    imagename: null
+    position: Website Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stanfaas/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Winfred K. Mandela
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/winfred-k-mandela-03b234101/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Byron Hanby
+    imagename: null
+    position: Video Producer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johnbyronhanby/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Swen van Zanten
+    imagename: null
+    position: ios developmet
     description: null
     links:
       github:
@@ -42,17 +113,101 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: mapme
+    imagename: null
+    position: desktop and ledger development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: manuel cabras
+    imagename: null
+    position: android development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/CabrasManuel
+        followers: 1277
+  - name: crypto rekt
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mihael Radoslovic
+    imagename: null
+    position: Core Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Mihael_CM
+        followers: 3199
+  - name: crypto girl
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/vergecurrency
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: vergecurrency
   main_repository: null
 manual_reviews:
   available: false
