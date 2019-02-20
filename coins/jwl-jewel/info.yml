@@ -52,14 +52,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/jewelpay
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: jeveldev
   main_repository: null
 manual_reviews:
   available: false
