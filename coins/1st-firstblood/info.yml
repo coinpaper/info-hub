@@ -2,32 +2,33 @@ id: 1st-firstblood
 symbol: 1ST
 name: FirstBlood
 logo: null
-founded: null
+founded: '2016-07-09'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: A platform that lets esports players challenge the field and win rewards.
+    Made possible by smart contracts and oracles in the blockchain.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2016-07-09'
+  type: token
+  organization_structure: Centralized
   development_status: null
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://firstblood.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Marco Cuesta
     imagename: null
-    position: null
+    position: Head of Bizdev
     description: null
     links:
       github:
@@ -42,13 +43,81 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Joe Zhou
+    imagename: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zack Coburn
+    imagename: null
+    position: Chief Blockchain Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dan Temkin
+    imagename: null
+    position: Head of Legal Dept.
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anik Dang
+    imagename: null
+    position: Managing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
   reddit: null
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/@firstbloodio
   vimeo: null
   discord: null
 github:
