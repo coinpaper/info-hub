@@ -8,7 +8,7 @@ idna==2.10
 numpy==1.19.5
 Pillow==8.1.0
 pydash==4.9.2
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.24.0
 six==1.15.0
 smmap==3.0.5
