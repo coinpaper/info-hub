@@ -315,7 +315,7 @@ github:
   username: null
   main_repository: null
 manual_reviews:
-  available: true
+  available: false
   introduction:
     purpose:
       description: null
