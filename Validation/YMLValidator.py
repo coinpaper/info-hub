@@ -113,6 +113,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("test-testing-coin")
-    v.validate_no_unnecessary_files()
+    v = YMLValidator("miota-iota")
+    v.validate()
 

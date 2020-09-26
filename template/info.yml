@@ -17,7 +17,7 @@ descriptions:
 # Information about the type of blockchain and its development status
 blockchain:
   consensus: null
-  algortihm: null
+  algorithm: null
   issue_date: null
   type: null
   organization_structure: null
@@ -64,7 +64,24 @@ team:
 
   # Official members or heavy contributers. The format of each member is
   # the same as the format of the leader.
-  members: []
+  members:
+    - name: null
+      imagename: member@512x512.png   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+      position: null
+      description:  null
+      links:
+        github:
+          url: null
+          followers: null
+        linkedin:
+          url: null
+          followers: null
+        medium:
+          url: null
+          followers: null
+        twitter:
+          url: null
+          followers: null
 
 # Links to any official or large community driven social media channels.
 socials:
@@ -84,6 +101,10 @@ github:
 # Manual reviews that influence the Coinpaper score. Please reade the contribution
 # guidelines before commiting changes to this section.
 manual_reviews:
+
+  # Indicates whether the manual review is ready to be published online
+  available: true
+
   introduction:
 
     # What problem is the coin/token solving?
