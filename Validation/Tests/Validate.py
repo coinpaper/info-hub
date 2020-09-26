@@ -42,7 +42,7 @@ class TestValidate(unittest.TestCase):
         self.assertTrue(Validate.boolean(True))
         self.assertTrue(Validate.boolean(False))
 
-        # Invalid inptus
+        # Invalid inputs
         self.assertRaises(ValueError, Validate.boolean, "True")
         self.assertRaises(ValueError, Validate.boolean, "False")
 
