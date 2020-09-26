@@ -16,6 +16,7 @@ class YMLValidator:
         self.__validate_structure()
         self.__validate_fields()
         self.__validate_no_unnecessary_files()
+        return True
 
     def __validate_fields(self):
         context = {
