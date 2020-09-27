@@ -107,10 +107,20 @@ def url(value, argument=None, arguments=None, context=None):
         head_request = requests.head(value, headers=headers)
     except requests.exceptions.ConnectionError:
         raise ValueError(f"No connection to website could be established, it appears to be offline: '{value}'")
-    if head_request.status_code != 200:
-        if value.startswith("https://www.linkedin.com/"):
+    status_code = head_request.status_code
+    if status_code != 200:
+        if status_code == 999:
             return True
-        raise ValueError(f"URL did not return status code OK. Maybe it was moved permanently? '{value}'")
+        if status_code == 501:
+            try:
+                get_request = requests.get(value, headers=headers)
+                status_code = get_request.status_code
+            except requests.exceptions.ConnectionError:
+                raise ValueError(f"No connection to website could be established, it appears to be offline: '{value}'")
+            if status_code == 200:
+                return True
+
+        raise ValueError(f"URL did not return status code OK (200) but {status_code}. Maybe it was moved permanently? '{value}'")
     return True
 
 
@@ -244,4 +254,4 @@ def resolve_validation_function(validation):
 
 
 if __name__ == "__main__":
-    print(requests.get("https://api.github.com/rate_limit", headers=github_headers).json())
+    print(requests.head("https://www.facebook.com/iotatoken", headers=headers).status_code)
