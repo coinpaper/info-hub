@@ -113,6 +113,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("miota-iota")
+    v = YMLValidator("nano-nano")
     v.validate()
 
