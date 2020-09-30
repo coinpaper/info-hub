@@ -6,7 +6,7 @@ All information on [coinpaper.io](https://coinpaper.io) has one of two sources:
 - Numerical Data-Source (Github API, Reddit API, Coinpaprika API, ...)
 - Text Research (Official Website, Documentation, Wiki, News Articles, ...)
 
-While numeric datas ources always bring us hard-truth like "number of commits on github", the text research
+While numeric data sources always bring us hard-truth like "number of commits on github", the text research
 part is more subjective and may get outdated quickly. 
 
 Coinpaper.io does an excellent job in fetching numeric data from different APIs to bring beautiful statistics to you. 
