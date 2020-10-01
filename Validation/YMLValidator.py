@@ -113,6 +113,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("nano-nano")
+    v = YMLValidator("eth-ethereum")
     v.validate()
 
