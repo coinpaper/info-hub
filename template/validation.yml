@@ -13,7 +13,7 @@ blockchain:
   algorithm: text|max(60)
   issue_date: date
   type: oneof(token,coin,unknown)
-  organization_structure: oneof(Centralized,Semi-centralized,Decentalized,unknown)
+  organization_structure: oneof(Centralized,Semi-centralized,Decentralized,unknown)
   development_status: oneof(Defunct,Alpha version,Just an Idea,Beta version,On-going development,Working product)
 explorers: foreach(url)
 whitepaper:
