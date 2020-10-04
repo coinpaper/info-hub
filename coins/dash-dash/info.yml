@@ -1,0 +1,1116 @@
+id: dash-dash
+symbol: DASH
+name: Dash
+logo: dash-dash_logo@512x512.png
+founded: '2014-01-18'
+descriptions:
+  one_sentence: Global transactions with very low fees
+  introduction: Dash is an open source peer-to-peer cryptocurrency with a strong focus
+    on the payments industry. Dash offers a form of money that is anonymous, portable,
+    inexpensive and fast.
+  technology: It can be spent securely both online and in person with only minimal
+    transaction fees. Based on the Bitcoin project, Dash aims to be the most user-friendly
+    and scalable payments system in the world.
+  future: In addition to Bitcoin's feature set, Dash currently also includes a second-layer
+    network of masternodes to facilitate instant transactions (InstantSend), private
+    transactions (PrivateSend) and governance functions to create a self-governing
+    and self-funding network capable of paying individuals and businesses for work
+    that adds value to Dash. This decentralized governance and budgeting system makes
+    it one of the first ever successful decentralized autonomous organizations (DAO)..
+blockchain:
+  consensus: Proof of Work
+  algorithm: X11
+  issue_date: '2014-01-18'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://insight.dash.org/insight/
+- https://explorer.dash.org/insight/
+- https://chainz.cryptoid.info/dash/
+whitepaper:
+  abstract: A cryptocurrency based on Bitcoin, the work of Satoshi Nakamoto, with
+    various improvements such as a two-tier incentivized network, known as the masternode
+    network. Included are other improvements such as PrivateSend, for increasing fungibility,
+    and InstantSend, which allows instant transaction confirmation without a centralized
+    authority.
+  file: dash-dash_whitepaper.pdf
+website:
+  url: https://dashnews.org
+video:
+  url: https://www.youtube.com/watch?v=XAwrBuY45vQ
+team:
+  leader:
+    name: 'Ryan Taylor '
+    imagename: dash-dash_ryan_taylor_.png
+    position: CEO
+    description: "Ryan Taylor is the founder of dash."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ryan-taylor-764b3b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rtaylor05?lang=en
+        followers: 6716
+  members:
+  - name: Glenn Austin
+    imagename: dash-dash_glenn_austin.png
+    position: CFO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/glenn-austin-116327/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robert Wiecko
+    imagename: dash-dash_robert_wiecko.png
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robertwiecko
+        followers: 1311
+  - name: Fernando Gutierrez
+    imagename: dash-dash_fernando_gutierrez.png
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/fernando
+        followers: 3979
+  - name: Holger Schinzel
+    imagename: dash-dash_holger_schinzel.png
+    position: Quality Assurance, Automation, Testing
+    description: null
+    links:
+      github:
+        url: https://github.com/schinzelh
+        followers: 29
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/schinzelh
+        followers: 400
+  - name: Andy Freer
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: udjinm6
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/UdjinM6
+        followers: 110
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/UdjinM6
+        followers: 577
+  - name: Philipp Engelhorn
+    imagename: null
+    position: PR / Press
+    description: null
+    links:
+      github:
+        url: https://github.com/tungfa
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Evan Duffield
+    imagename: null
+    position: Strategy Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/evan-duffield-98645515
+        followers: null
+      medium:
+        url: https://medium.com/@eduffield222
+        followers: 475
+      twitter:
+        url: https://twitter.com/eduffield44?lang=en
+        followers: 1385
+  - name: Kelly Kopp-Schuetz
+    imagename: null
+    position: Human Resources
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kkopphr
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bradley Zastrow
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bradley-zastrow
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/zastrowbradley
+        followers: 823
+  - name: Nathan Marley
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/nmarley
+        followers: 45
+      linkedin:
+        url: https://www.linkedin.com/in/nmarley
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ngmarley
+        followers: 417
+  - name: Chaepil Lim
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/chaeplin
+        followers: 98
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/chaeplin
+        followers: 669
+  - name: Charles C Williams Jr
+    imagename: null
+    position: Head of UX & Design
+    description: null
+    links:
+      github:
+        url: https://github.com/chuckwilliams37
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/chuckwilliams37
+        followers: 1883
+  - name: Thelazier Yip
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/thelazier
+        followers: 10
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/YipThelazier
+        followers: 42
+  - name: Pascal Meyer
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/cofresi
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: quantumexplorer
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tomasz Ludek
+    imagename: null
+    position: Android Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/tomasz-ludek
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/TomaszLudek
+        followers: 84
+  - name: Alex Werner
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Alex-Werner
+        followers: 91
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/obusco
+        followers: 1430
+  - name: Joshua Seigler
+    imagename: null
+    position: Front-end Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/seigler
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: akhavr
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/akhavr
+        followers: 25
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Darren Tapp
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: https://github.com/DarrenTapp
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/darren-tapp-281a7071
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bob Carroll
+    imagename: null
+    position: "Chief Technology Of\uFB01cer"
+    description: Business executive with 30 years of experience in high-growth, technology
+      dependent companies from start-up to multi-billion dollar corporations.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bobcarrollcto/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Chopan
+    imagename: null
+    position: Head of Strategy
+    description: null
+    links:
+      github:
+        url: https://github.com/alexanderchopan
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/alexanderchopan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/alexanderchopan
+        followers: 732
+  - name: Cofresi
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/cofresi
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pierre Van Rooyen
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pierre-van-rooyen-7113802/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/PierreVanRooyen
+        followers: 68
+  - name: Alexander Block
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/codablock
+        followers: 38
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/codablock
+        followers: 286
+  - name: Kamuela Franco
+    imagename: null
+    position: Backend Developer
+    description: Node.js, React, Python fanatic with a love for serverless and blockchain
+      technologies.
+    links:
+      github:
+        url: https://github.com/kamuelafranco
+        followers: 48
+      linkedin:
+        url: https://www.linkedin.com/in/kamuela/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kamuela
+        followers: 494
+  - name: David Rey
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dreyacosta
+        followers: 95
+      linkedin:
+        url: https://www.linkedin.com/in/dreyacosta/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dreyacosta
+        followers: 992
+  - name: Ivan Shumkov
+    imagename: null
+    position: Senior Software Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/shumkov
+        followers: 63
+      linkedin:
+        url: https://www.linkedin.com/in/shumkov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/shumkov
+        followers: 71
+  - name: Anton Suprunchuk
+    imagename: null
+    position: Backend Developer
+    description: Full Stack Javascript Developer experienced in building high load
+      backend services for mobile applications and sites. Works with Node.js/React.js.
+    links:
+      github:
+        url: https://github.com/antouhou
+        followers: 30
+      linkedin:
+        url: https://www.linkedin.com/in/anton-suprunchuk-787286103/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Samuel Barbosa
+    imagename: null
+    position: Android Developer
+    description: Android Developer with 5+ years of experience, published several
+      apps to Google Play with millions of downloads and 4+ star rating.
+    links:
+      github:
+        url: https://github.com/sambarboza
+        followers: 24
+      linkedin:
+        url: https://www.linkedin.com/in/sambarboza/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sambarboza
+        followers: 777
+  - name: 'Guilemon Villemin '
+    imagename: null
+    position: Backend Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrew Podkovyrin
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/podkovyrin
+        followers: 33
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/podkovyr
+        followers: 29
+  - name: Suba Radhakrishnan
+    imagename: null
+    position: UX/UI Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/subakumaran/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/subakumaran
+        followers: 62
+  - name: Dana Alibrandi
+    imagename: null
+    position: Product Owner
+    description: Dana Alibrandi is a product manager with over 5 years of experience
+      building web and mobile products.
+    links:
+      github:
+        url: https://github.com/dalibran
+        followers: 14
+      linkedin:
+        url: https://www.linkedin.com/in/dalibran/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kreshnik Alidema
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kreshnikalidema/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Borovkov
+    imagename: null
+    position: Infrastructure Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charif el Mamouni
+    imagename: null
+    position: Head of Infrastructure
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Janusz Piasecki
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/janusz-piasecki-56141b4/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Olga Gnezdyonova
+    imagename: null
+    position: Quality Assurance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/olga-gnezdyonova-54823111/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Profiler2011
+        followers: 13
+  - name: Kira Bronskaia
+    imagename: null
+    position: Quality Assurance Lead
+    description: null
+    links:
+      github:
+        url: https://github.com/vyacheslavna
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/kira-bronskaia-a18390103/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pablo Lema
+    imagename: null
+    position: Head of Service Desk
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/pablolema85
+        followers: 106
+  - name: Michael Seitz
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/michaelseitz
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sdseitz
+        followers: 2727
+  - name: Omar Hamwi
+    imagename: null
+    position: Business Development
+    description: Currently the regional manager (North America and Canada) of Dash
+      - one of the leading global cryptocurrencies and a premier payments solution.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/omarhamwi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ernesto Contreras Escalona
+    imagename: null
+    position: Business Development
+    description: Marketing manager with 12 years of experience in technology and consumer
+      products experienced in business growth within Latin American markets.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/contrerasernesto/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Kindel
+    imagename: null
+    position: Integrations Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/snogcel
+        followers: 16
+      linkedin:
+        url: https://www.linkedin.com/in/jonkindel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Elizabeth Robuck
+    imagename: null
+    position: Product Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/elizabeth-robuck-32590733/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lizrobuck
+        followers: 403
+  - name: Perry Woodin
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/perry-woodin-83276/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/PerryWoodin
+        followers: 586
+  - name: Alexandre Devilliers
+    imagename: null
+    position: Testing & Deployment
+    description: null
+    links:
+      github:
+        url: https://github.com/elbereth
+        followers: 27
+      linkedin:
+        url: https://www.linkedin.com/in/adevilliers/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/elberethzone
+        followers: 31
+socials:
+  telegram: https://t.me/dash_chat
+  reddit: https://www.reddit.com/r/dashpay
+  twitter: https://twitter.com/dashpay
+  facebook: https://www.facebook.com/DashPay/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: dashpay
+  main_repository: dashpay/dash
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Ever since Bitcoin\u2019s value crossed a major barrier of $1000\
+        \ at the end of 2016, ridiculous amount of attention and investments have\
+        \ been poured into the cryptocurrency market. Even though Bitcoin remains\
+        \ the industry\u2019s giant and influences the price valuation of other cryptocurrencies,\
+        \ there remain some fundamental flaws in the technology that would perhaps\
+        \ never allow it to become a practical currency of choice. To address these\
+        \ issues, many altcoins have emerged on the scenes, and Dash is one of them.<br\
+        \ />\r\nDash was purposely built, or rather forked off (copied) from Bitcoin,\
+        \ to be an easy to use cryptocurrency for mass adoption (Walters, 2019). It\
+        \ has been built from the basics of blockchain technology to enable it to\
+        \ become the simplest cryptocurrency buyers and merchants can use for their\
+        \ daily transactions without going into much hassle or any stress. Dash has\
+        \ reduced the transaction charges to such an extent that it could now be used\
+        \ for micro-transactions, unlike Bitcoin. The fees for a normal transaction\
+        \ is around $0.01. However, users are also given an option to make instant\
+        \ transactions (InstantSend) or private transactions (PrivateSend) for additional\
+        \ charges (Evan Duffield, 2018).<br />\r\n"
+      score: 4.5
+      references: "Walters, S. (2019, October 05). Coinbureau. Retrieved from Coinbureau\
+        \ Website: https://www.coinbureau.com/review/dash-coin/<br />\r\nEvan Duffield,\
+        \ D. D. (2018, Aug 23). Github. Retrieved from Github Website: https://github.com/dashpay/dash/wiki/Whitepaper"
+  current_stand:
+    scandals_highlights:
+      description: "The beginning of Dash, or Xcoin, is marked with it forking off\
+        \ the Bitcoin network. Its founder, Evan, initially programmed it in such\
+        \ a way that only Linux systems were allowed to mine it. The history of Dash\
+        \ gives rise to many suspicions, particularly because of its mining bugs.\
+        \ According to Evan, a bug was introduced into the network code, which made\
+        \ the so-called \u2018instamine\u2019 possible. Through this \u2018instamine\u2019\
+        \ process, the team mined 2 million coins out of the 84 million total coins\
+        \ within 24 hours, using 127 computers. It was later found out that 100 of\
+        \ these computers were rented cloud computers that someone set up. Interestingly,\
+        \ the cryptocurrency was not even functional back then, so this might actually\
+        \ be an insider job. 2 million of 84 million tokens make 2.38% of the supply,\
+        \ however, Evan changed the total supply from 84 Million to 18.9 Million,\
+        \ without changing the existing supply in the same proportion. The instamined\
+        \ coins were then 10.58% (2.38% before the supply change) of the total supply\
+        \ which made these instamined coins more valuable. These same coins are used\
+        \ to make master nodes, which means they are still generating Dash rewards\
+        \ for their owners (Smooth, 2015). <br />\r\nDash has a history of deceitful\
+        \ and not-so-trustworthy marketing. They were once involved in a marketing\
+        \ scam where they claimed that KFC Venezuela was accepting Dash as a form\
+        \ of payment. However, it was later discovered to be a false advertisement\
+        \ (Berman, 2018). <br />\r\nIn early 2018, it was revealed that Dash has serious\
+        \ centralization issues and this raised many concerns. It was later gathered\
+        \ that two entities, whether they be people or companies, are controlling\
+        \ around 80% of Dash mining. This makes it vulnerable to serious network issues\
+        \ even if one of them creates any problem.<br />\r\n"
+      score: 1.5
+      references: "Smooth. (2015). Bitcointalk.org. Retrieved from Bitcointalk: https://bitcointalk.org/index.php?topic=999886.0<br\
+        \ />\r\nBerman, A. (2018, December 12). Cointelegraph. Retrieved from Cointelegraph:\
+        \ https://cointelegraph.com/news/kfc-venezuela-denies-accepting-dash-payments<br\
+        \ />\r\n"
+    product:
+      description: "The current Dash product is stable, as coins can be sent through\
+        \ the network that is controlled by masternodes. The fees are relatively small\
+        \ as costs can be as low as $0.01. By paying additional fees it\u2019s possible\
+        \ for a sender to make an instant transaction and/or a private transaction,\
+        \ but around 13% of these private transactions are traceable to their origin."
+      score: 3.5
+      references: null
+    development:
+      description: The code is being developed under the technical leadership of Evan.
+        The team is currently working on security measures and protocols, to stop
+        51% of mining attacks on the network using chain locks (Block, 2018). This
+        is essential at this stage, as already a substantial amount of mining process
+        is being controlled by only two parties (Tungfa, 2019).
+      score: 4.6
+      references: "Block, A. (2018, November 29). Dash. Retrieved from Dash Website:\
+        \ https://blog.dash.org/mitigating-51-attacks-with-llmq-based-chainlocks-7266aa648ec9<br\
+        \ />\r\nTungfa. (2019, July 02). Dash. Retrieved from Dash Website: https://www.dash.org/2019/07/02/dash-chainlocks-in-now-active/"
+    partnerships:
+      description: "Dash has been very popular in Venezuela based on the partnerships\
+        \ they had previously formed. More than 2500 businesses have started accepting\
+        \ Dash as a form of payment. A notable example is of Church\u2019s Chicken\
+        \ which has nine separate locations and only accepts cash and Dash coin (Dash\
+        \ Venezuela, 2018). <br />\r\nIn March 2019, CheapAir started accepting Dash\
+        \ as a means of payment, along with other cryptocurrencies like Bitcoin, Litecoin\
+        \ and Bitcoin Cash (CheapAir, 2018). Later on, in the same year, another partnership\
+        \ was unveiled. Dash partnered with Blucon, which is a payment processing\
+        \ company, in an attempt to maximize its adoption as a means of payment in\
+        \ Thailand (Vora, 2019).<br />\r\n"
+      score: 3.7
+      references: "Dash Venezuela. (2018, December 12). Dashhelpme. Retrieved from\
+        \ Dashhelpme: https://www.dashhelpme.io/chicken-restaurant-chain-churchs-accepts-dash-in-10-venezuelan-locations/\
+        \ <br />\r\nCheapAir. (2018, May 23). CheapAir. Retrieved from CheapAir Website:\
+        \ https://www.cheapair.com/press/releases/cheapair-com-first-online-travel-agency-to-accept-litecoin-bitcoin-cash-and-dash/\
+        \ <br />\r\nVora, R. (2019, May 06). Cryptonewsz. Retrieved from Cryptonewsz:\
+        \ https://www.cryptonewsz.com/dash-and-blucon-unite-to-develop-exo-platform/17810/<br\
+        \ />\r\n"
+    community:
+      description: 'Initially, Dash managed to gain popularity and wide acceptance
+        in the cryptocurrencies community. It received a warm welcome from the Reddit
+        community and the Dash subscribers surged in the initial days. However, many
+        of them withdrew their support in disappointment as deadlines were not being
+        met and the Dash team was frequently in the news for issues pertaining to
+        fraudulent activities. Currently, only a small circle of loyal active users
+        are still supporting the technology and defending it against the critics. '
+      score: 1.5
+      references: null
+    substitutes:
+      description: A lot of already existing cryptocurrencies are better options and
+        alternatives in comparison to Dash, which means that the competition is quite
+        high. Many altcoins offer much better solutions for scalability, privacy,
+        and speed of the network. Monero, for example, is a very popular option in
+        context of privacy. Likewise, Nano outshines all other altcoins with regard
+        to transaction fees and speed.
+      score: 1.0
+      references: null
+  foresight:
+    prediction:
+      description: The Dash team has a huge sum invested in the self-sustaining system.
+        This could help to pay for partnerships and marketing, but the general codebase
+        seems not to be ready for what the Dash coin should be used for. Many people
+        in Venezuela might have heard of Dash, but people who live in poverty will
+        rather buy food for their children instead of spending their money on a risky
+        investment.
+      score: 2.7
+      references: null
+    projects:
+      description: A much-anticipated project has been announced by the Dash team.
+        They plan on introducing a platform where local stores would be easily connected
+        with local buyers through a decentralized Dash API. This could boost the sales
+        of businesses, while creating ease for buyers, thus putting Dash in a win-win
+        situation.
+      score: 3.5
+      references: null
+    potential:
+      description: Dash could attain an incredible height of success if it somehow
+        manages to overcome technical obstacles and centralization risks facing it
+        at the moment. The users can be easily attracted due to its easy-to-use nature
+        and minimal fee charges.
+      score: 4.7
+      references: null
+  pro_con:
+    product_availability:
+      description: The product is already available.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: 'It can handle many more transactions per second compared to other
+        cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: The normal transaction fees are as low as $0.01, which is very
+        less in comparison to most cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'The transaction speed is much higher compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    security:
+      description: The security of the network has not been tested vigorously and
+        the team is developing security protocols to enhance its performance.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: 'The coin had a very high acceptance rate initially, but it has
+        lost a lot of trusted users, hence acceptance rate has remarkably slowed down. '
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: 'The energy consumption is low compared to other cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Dash provides an option to create a partially anonymous transaction.
+      is_pro: true
+      is_contra: false
+    decentralization:
+      description: The coin is highly centralized.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: The coin is available on the major trusted exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: 'The founder of Dash is Evan Duffield, and he equally serves as
+        the lead developer. He released Dash originally as XCoin in January 2014,
+        later renaming it to DarkCoin. Obviously, this name created issues and was
+        not warmly welcomed by the general public which eventually led to its rebranding
+        to Dash (short for Digital Cash) in March 2015. There is not much information
+        about the relevant past experience and endeavours of Evan Duffield.  '
+      score: 2.5
+      references: null
+    developers:
+      description: The development team is headed by Evan Duffield, who also happens
+        to be the co-founder of Dash. The current team consists of 30 developers who
+        are all working actively towards enhancing the network. The development progress
+        and history can be tracked on their GitHub repository.
+      score: 4.2
+      references: null
