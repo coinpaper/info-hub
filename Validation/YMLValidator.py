@@ -22,7 +22,7 @@ class YMLValidator:
         self.validate_no_unnecessary_files()
         if len(self.structure_errors + self.field_errors + self.file_errors) == 0:
             return True
-        error_str = ""
+        error_str = "\n"
         error_types = {
             "Structure Errors": self.structure_errors,
             "Field Errors": self.field_errors,
@@ -30,7 +30,7 @@ class YMLValidator:
         }
         for error_name, error_list in error_types.items():
             if len(error_list) > 0:
-                error_str += f"*{error_name}*\n"
+                error_str += f"*** {error_name} ***\n"
                 for error in error_list:
                     error_str += f"- {error}\n"
         raise ValueError(error_str)
