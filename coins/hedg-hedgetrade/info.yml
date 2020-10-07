@@ -1,0 +1,163 @@
+id: hedg-hedgetrade
+symbol: HEDG
+name: HedgeTrade
+logo: hedg-hedgetrade_logo@512x512.png
+founded: '2020-01-01'
+descriptions:
+  one_sentence: Hedge instruments for the cryptocurrency market
+  introduction: "HedgeTrade is a platform where the world\u2019s best traders share\
+    \ their knowledge. Traders post predictions into a smart contract-powered Blueprint\
+    \ that users can purchase or unlock in order to access. Traders are rewarded if\
+    \ the Blueprint is correct, otherwise the users purchase is refunded."
+  technology: There is no technology description for HedgeTrade yet.
+  future: We can not provide any looks into the future for HedgeTrade yet.
+blockchain:
+  consensus: Not mineable
+  algorithm: unknown
+  issue_date: '2020-01-01'
+  type: unknown
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x3363d570f6df3c74d486bb8785d3ebfb9e2347d3
+- https://ethplorer.io/address/0x3363d570f6df3c74d486bb8785d3ebfb9e2347d3
+whitepaper:
+  abstract: "HedgeTrade is a platform where the world\u2019s best traders share their\
+    \ knowledge. Traders post predictions into a smart contract-powered Blueprint\
+    \ that users can purchase or unlock in order to access. Traders are rewarded if\
+    \ the Blueprint is correct, otherwise the users purchase is refunded."
+  file: hedg-hedgetrade_whitepaper.pdf
+website:
+  url: https://hedgetrade.com
+video:
+  url: https://www.youtube.com/watch?v=bCiTvxImQ9w
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: null
+  reddit: null
+  twitter: null
+  facebook: https://www.facebook.com/hedgetradehq
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
