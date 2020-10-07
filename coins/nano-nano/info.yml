@@ -1,0 +1,520 @@
+id: nano-nano
+symbol: NANO
+name: Nano
+logo: nano-nano_logo@512x512.png
+founded: '2015-10-05'
+descriptions:
+  one_sentence: Fast, scalable, feeless and ecofriendly transactions
+  introduction: Nano is a decentralized, sustainable, and secure next-generation digital
+    currency focused on addressing the inefficiencies present in existing cryptocurrencies.
+    Nano provides an intuitive experience that feels like digital currency should
+    - no fuss, no fees, no waiting.
+  technology: Designed to solve peer to peer transfer of value, Nano aims to revolutionize
+    the world economy through an ultrafast, fee-less and decentralized network that
+    is open and accessible to everyone. The efficient and lightweight nature of Nano
+    allows everyone, including individuals in emerging countries to easily participate
+    in local and global economies with a low barrier of entry.
+  future: The speed of Nano transactions provides broad utility across a wide spectrum
+    of financial applications. With a fully distributed supply, bridging opportunities
+    such as foreign exchange transactions and fast cross-border transfers can be confidently
+    facilitated over a decentralized network..
+blockchain:
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
+  issue_date: '2015-10-04'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://nanocrawler.cc/
+- https://nanowat.ch/
+- https://nanocrawler.cc/
+- https://nano.org/en/explore/
+whitepaper:
+  abstract: Recently, high demand and limited scalability have increased the average
+    transaction times and fees in popular cryptocurrencies, yielding an unsatisfactory
+    experience. Here we introduce Nano, a cryptocurrency with a novel block-lattice
+    architecture where each account has its own blockchain, delivering near instantaneous
+    transaction speed and unlimited scalability.
+  file: nano-nano_whitepaper.pdf
+website:
+  url: https://nano.org
+video:
+  url: https://www.youtube.com/watch?v=dlRhUwLQWXc
+team:
+  leader:
+    name: Colin Lemahieu
+    imagename: nano-nano_colin_lemahieu.png
+    position: Creator & Lead Developer
+    description: A software developer for the last 10 years, Colin founded RaiBlocks,
+      now Nano, in 2014. He moved to the project full time in 2017 and is spearheading
+      development of the core protocol. His interests include space technology, physics,
+      and environmental sustainability.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/clemahieu
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ColinLeMahieu
+        followers: 14282
+  members:
+  - name: Guilherme Lawless
+    imagename: nano-nano_guilherme_lawless.png
+    position: Developer
+    description: 'Guilherme works on protocol development, documentation efforts,
+      technical coordination, and continued evaluation and testing of development
+      on the beta network.
+
+
+      He brings a unique set of technical and personal skills and is a tremendous
+      technical bridge between the Nano Foundation and the community, improving collaboration
+      and transparency across the board.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zach Hyatt
+    imagename: nano-nano_zach_hyatt.png
+    position: Project Manager
+    description: "Zach works closely with both the development and communications\
+      \ teams in a project management role, helping to coordinate and extract the\
+      \ best work from all members of the team.  \n\nWorking out of Austin, TX, Zach\
+      \ has broad experience in project management, development, creative writing\
+      \ and helping non-profit organizations better make use of technology. He has\
+      \ also been an active contributor to the Nano ecosystem, building a proof-of-concept\
+      \ paywall for WordPress and working on various Nano Center projects including\
+      \ NanoQuake. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wesley Shillingford
+    imagename: nano-nano_wesley_shillingford.png
+    position: Protocol Developer
+    description: 'Wesley has worked on 3D CAD/CAM programs, safety-critical testing
+      tools, compilers, video games, websites, and various desktop & mobile apps. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Marko \u0160abec"
+    imagename: "nano-nano_marko_\u0161abec.png"
+    position: Full Stack Engineer
+    description: "Marko\u2019s primary responsibilities will are helping secure, maintain,\
+      \ and expand the various web properties managed by the Nano Foundation. Marko\
+      \ also provides additional coverage for infrastructure and internal tools and\
+      \ will be helping with other necessary development activities for the network."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Johnson
+    imagename: nano-nano_andy_johnson.png
+    position: Communications Manager
+    description: During the last year, Andy has been pivotal in building some of the
+      most visible projects in the Nano ecosystem and as a founding member of The
+      Nano Center, brings a vast knowledge of Nano and its community. Andy leads the
+      Nano Foundations Communications team.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: George Coxon
+    imagename: nano-nano_george_coxon.png
+    position: Chief Operating Officer
+    description: George manages global operations and partnerships for the Nano Foundation.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/georgecoxonnano/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Devin Alexander Torres
+    imagename: nano-nano_devin_alexander_torres.png
+    position: Desktop Developer
+    description: A software developer with over a decade of experience building highly
+      reliable software solutions for the publishing, travel, insurance, and e-commerce
+      industries. He loves building fault-tolerant distributed systems and karaoke.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/devinus?lang=en
+        followers: 1000
+  - name: Russel Waters
+    imagename: nano-nano_russel_waters.png
+    position: Build and Test Infrastructure Development Lead
+    description: An experienced C++ developer who began working in cryptocurrency
+      in 2013, Russel is responsible for GitHub maintenance, continuous integration,
+      node builds and package management.
+    links:
+      github:
+        url: https://github.com/argakiig
+        followers: 10
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/argakiig
+        followers: 224
+  - name: Roy Keene
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mica Busch
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/IcarusGlider
+        followers: 6552
+  - name: Austin Ramsdale
+    imagename: null
+    position: Community Management and Support
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/aramsdale
+        followers: 651
+  - name: Troy Retzer
+    imagename: null
+    position: Community & Public Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/troyretzer
+        followers: 3079
+  - name: Josh Kleiman
+    imagename: null
+    position: Legal Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@joshkleiman
+        followers: 28
+      twitter:
+        url: null
+        followers: null
+  - name: Brian Pugh
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/briannpugh/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/nanocurrency
+  reddit: https://www.reddit.com/r/nanocurrency
+  twitter: https://twitter.com/nano
+  facebook: https://www.facebook.com/nanofoundation/
+  medium: https://medium.com/nanocurrency
+  vimeo: https://vimeo.com/253563861
+  discord: null
+github:
+  username: nanocurrency
+  main_repository: nanocurrency/nano-node
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "The amount of hype the leading giant of cryptocurrency, Bitcoin,\
+        \ has garnered over the years has opened new ways for innovation and success\
+        \ and has single-handedly started an industry of its own. However, there are\
+        \ many shortcomings with Bitcoin and not many people are aware of these limitations.\
+        \ To address these hurdles, many altcoins have emerged on the scenes with\
+        \ promises of bridging these gaps and solving these issues. Nano, being one\
+        \ of them, tries to resolve the network speed issue of the crypto-coins.<br\
+        \ />\r\nNano was built from scratch and the technology is based on Proof-of-stake\
+        \ and Proof-of-work algorithms. The main purpose of the technology is to make\
+        \ it easier for transaction to be processed as quickly as possible and to\
+        \ bring transactional times down to 0.5 seconds and doing all these without\
+        \ charging any fees or necessarily requiring the need to use much electricity,\
+        \ all while still maintaining decentralization. These incentives make the\
+        \ altcoin the best possible solution for micro-transactions and quick transfers\
+        \ (BitDegree, 2019)."
+      score: 5.0
+      references: 'BitDegree. (2019, September 17). BitDegree. Retrieved from BitDegree
+        Website: https://www.bitdegree.org/tutorials/nano-coin/'
+  current_stand:
+    scandals_highlights:
+      description: "In Feb 2018, Nano made it into the headlines after an Italian\
+        \ cryptocurrency exchange Bitgrail was attacked. The exchange disclosed that\
+        \ Nano tokens were stolen from their exchange and the damages amounted to\
+        \ $150 million. The stolen assets couldn\u2019t be recovered which caused\
+        \ a sell-off. <br />\r\nSoon after, in an interesting turn of events, it was\
+        \ revealed that it was not Nano\u2019s code that was compromised, but Bitgrail\
+        \ exchange\u2019s code that had introduced vulnerabilities in the working\
+        \ of the network and was the reason behind the loss. The owner of the exchange\
+        \ Francesco Firano was ordered to pay the damages to the Nano investors (Hatmaker,\
+        \ 2018).<br />\r\n"
+      score: 2.0
+      references: 'Hatmaker, T. (2018, February 12). Techcrunch. Retrieved from Techcrunch
+        Website: https://techcrunch.com/2018/02/12/bitgrail-hack-nano/'
+    product:
+      description: 'The main idea Nano is selling as a product is a blockchain network
+        that supports astonishingly fast transactions. To double the treat, the fast
+        speeds are paired with less energy consumption of the transactional processes
+        and minimal fee charges, all while maintaining decentralization(LeMahieu,
+        2017). '
+      score: 4.8
+      references: 'LeMahieu, C. (2017). Nano. Retrieved from Nano Website: https://nano.org/en/whitepaper'
+    development:
+      description: The code is being maintained by the Nano team that remains a very
+        small entity. It is claimed that only around 9 devoted developers are handling
+        the whole project. The team is constantly working on developing the network
+        to achieve faster speeds and a more secure network. Current transactions are
+        mostly processed within two seconds.
+      score: 5.0
+      references: 'SilverStar194, S. (2019). Nano. Retrieved from NanoSpeed Website:
+        https://nanospeed.live/Results'
+    partnerships:
+      description: "The marketing strategy Nano is using is not yet a successful and\
+        \ there is no widespread adoption of Nano cryptocurrency that has been witnessed\
+        \ to this day. Nano\u2019s success story is just based off the word of mouth\
+        \ for now. The means of partnership as we define it is the acceptance of businesses\
+        \ or people who use Nano to transfer funds to and from each other\u2019s accounts.<br\
+        \ />\r\nNano\u2019s success heavily depend upon its active users making transactions\
+        \ using the network and making these transactions using the Nano coin, or\
+        \ when businesses recognize and start accepting Nano as an alternative to\
+        \ cash. What is stopping businesses from accepting Nano and integrating it\
+        \ into their payment systems is that Nano is not a typical blockchain; rather\
+        \ it is based on a Directed Acyclic Graph (DAG) algorithm. This makes it harder\
+        \ to implement unlike other mainstream cryptocurrencies. <br />\r\n"
+      score: 3.3
+      references: null
+    community:
+      description: "Nano\u2019s community strengthened within a short while, especially\
+        \ during the days when its price valuation recorded an increase. Developers\
+        \ started developing applications that could enable the use of Nano in stores\
+        \ and small businesses, but its popularity experienced a serious setback after\
+        \ the cyber theft attacks on Bitgrail\u2019s cryptocurrency exchange. An estimated\
+        \ $150 million of Nano tokens were stolen from the exchange."
+      score: 4.5
+      references: null
+    substitutes:
+      description: There are some altcoins that compete with Nano in terms of what
+        they offer or promise to offer. Several cryptocurrencies are available in
+        the market that offers fast speeds like Nano, however, most of them are based
+        on a centralized network.
+      score: 4.8
+      references: null
+  foresight:
+    prediction:
+      description: 'Nano technology holds important incentives that could promote
+        the growth of cryptocurrencies. The transactions are very fast and cheap on
+        the Nano network. Each node on the network still has to compute some calculations
+        as part of the process, but the number and complexity of calculations are
+        much less when compared to other blockchain-based cryptocurrencies. Since
+        the release of version 19 a constant transactional time of fewer than 2 seconds
+        has been recorded. '
+      score: 4.7
+      references: null
+    projects:
+      description: The Nano team makes efforts to keep their community abreast about
+        the progress of the Nano technology. The team posts weekly updates in their
+        subreddit. The upcoming projects are Nano wallets and an optimized upgraded
+        version of the network.
+      score: 4.6
+      references: null
+    potential:
+      description: 'The potential for Nano is massive. Its unmatchable speed and scalability
+        make it the best solution for daily transactions and quick funds transfer,
+        currently. If executed correctly, Nano could gain worldwide recognition and
+        become accepted and become a globally used currency. '
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: 'The product is already available and is already in its working
+        phase. '
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Nano network can handle many more transactions per second compared
+        to other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: The transaction fees are much lower on the Nano network as compared
+        to other blockchains.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much higher compared to other cryptocurrencies.
+        Nano boasts of being one of the fastest networks among other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    security:
+      description: 'The security of the Nano network has not yet been tested because
+        it is relatively new, hence, it has not been established. '
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: Despite its advanced technology, Nano still has not been accepted
+        widely.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: Nano has decreased the energy requirements for its blockchain.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with Nano are pseudonymous and can be traced.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: 'The Nano network is decentralized. '
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Nano is not available on the major trusted exchanges.
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: Nano was originally known as Raiblocks, but it was later rebranded
+        to its current name to attract more users. Nano, or Raiblocks, was founded
+        by Colin LeMahieu in 2014. It was a side project at the time, but in the course
+        of working on it, he grew so passionate about the technology that he devoted
+        all his energy towards the development of the coin and has been coding endlessly
+        since 2014 (Walters, 2019).
+      score: 4.8
+      references: 'Walters, S. (2019, October 14). Coinbureau. Retrieved from Coinbureau
+        Website: https://www.coinbureau.com/review/nano/'
+    developers:
+      description: The Nano team has been revealed to be a small group of developers
+        who constantly works towards the improvement of the Nano network. Colin LeMahieu
+        is the team leader and has been working on the project since 2014. He has
+        successfully gathered a team of competent developers to optimize the Nano
+        algorithm.
+      score: 4.5
+      references: 'LeMahieu, C. (2019). Nano. Retrieved from Nano Website: https://nano.org/en/team/'
