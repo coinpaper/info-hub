@@ -1,0 +1,754 @@
+id: xlm-stellar
+symbol: XLM
+name: Stellar
+logo: xlm-stellar_logo@512x512.png
+founded: '2013-07-19'
+descriptions:
+  one_sentence: Global transactions with very low fees
+  introduction: General Data and Information. Launched in 2014 by Jed McCaleb (formerly
+    of Ripple) and David Mazieres, Stellar is a decentralized open-source network
+    for the exchange of over 500+ assets (including tokens and fiat) via the Stellar
+    Consensus Protocol. As the global remittance market was worth nearly 600 billion
+    US dollars in 2016 (with small cross border transactions attracting comparatively
+    high fees and slow service), easing the friction on these remittance payments
+    would help Stellar capture a significant share of this underserved and antiquated
+    market. In the Stellar network, users make payments (in any acceptable currency,
+    fiat, gold, XLM) with other users, with the debts between trusted users being
+    recorded on the decentralized ledger. When the payments are finalized the balance
+    of the users are recorded upon the ledger.
+  technology: 31st July 2014 - Stellar Network launched. Non-Profit Stellar Development
+    Foundation created to assist with development. 31st July 2014 - 3 million USD
+    in seed funding from Stripe. August 2014 - First exchange utilising Stellar Network
+    (Mercado Bitcoin) annouced. November 2015 - New Consensus algorithm (SCP) goes
+    live. May 2017 - Lightyear.io (for-profit arm of Stellar, now known as Interstellar)
+    launched. Steptember 2017 - Stellar Partnership Grant Program announces grants
+    for development on Stellar Network. Utility. Stellar Lumens (XLM) is the native
+    currency of the Stellar blockchains and has several uses. The first use case is  as
+    a token for establishing your account, it is a minimal amount (1 XLM), to prevent
+    network spamming. The second use case is for payments to establish trustlines
+    from one payment node (account) to another account. Payment fees (0.00001 XLM)
+    are another use case for the native currency, and larger users will also be required
+    to use Stellar Lumens to be able to issue assets on the Stellar blockchain. The
+    last use of Stellar Lumens is as a bridging currency and liquidity provider between
+    users and chains who have no common currency to complete exchanges.
+  future: "As all the participants are transacting on the Stellar Network, XLM is\
+    \ the common currency for the blockchain. Thus, any \u201Cmissing\u201D assets\
+    \ required for a chain of exchanges can be substituted for the native Lumens.\
+    \ Significant Features. Transactions are pseduo-anonymous. Funds are sent address\
+    \ to address, but an owner identity can eventually attributed to an address given\
+    \ enough data and analysis. Low energy usage and high network speed using Stellar\
+    \ Consensus Protocol. Total Supply uncapped. Peer to peer currency exchanges,\
+    \ tokens and fiat. All users are able to  issue tokens on the Stellar Network.\
+    \ Open-source and highly decentralized. References: .."
+blockchain:
+  consensus: 'Stellar Consensus Protocol '
+  algorithm: Stellar Consensus Protocol
+  issue_date: '2014-08-01'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://steexp.com/
+- https://stellar.expert/explorer/public/
+- https://dashboard.stellar.org/
+whitepaper:
+  abstract: "The paper introduces a new model for consensus called federated Byzantine\
+    \ agreement (FBA). FBA achieves<br />\r\nrobustness through quorum slices\u2014\
+    individual trust decisions made by each node that together determine<br />\r\n\
+    system-level quorums. "
+  file: xlm-stellar_whitepaper.pdf
+website:
+  url: https://www.stellar.org
+video:
+  url: https://www.youtube.com/watch?v=pMBLUCxzTUM
+team:
+  leader:
+    name: Jed McCaleb
+    imagename: xlm-stellar_jed_mccaleb.png
+    position: Founder
+    description: Jed McCaleb is a co-founder of Stellar Development Foundation. Previously,
+      he created eDonkey2000 which became one of the largest file-sharing networks
+      in its time
+    links:
+      github:
+        url: https://github.com/jedmccaleb
+        followers: 638
+      linkedin:
+        url: https://www.linkedin.com/in/jed-mccaleb-4052a4
+        followers: null
+      medium:
+        url: https://medium.com/@jedmccaleb
+        followers: 100
+      twitter:
+        url: https://twitter.com/jedmccaleb
+        followers: 30494
+  members:
+  - name: Zachary Freundt
+    imagename: xlm-stellar_zachary_freundt.png
+    position: Community
+    description: Zac is a digital strategist that is focused on educating and building
+      communities. Zac previously directed content, lead strategy, and art for a large
+      variety of different scale organizations. In his free time, Zac writes on future
+      technology, free and open-source software, and decentralized internet.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Scott Fleckenstein
+    imagename: xlm-stellar_scott_fleckenstein.png
+    position: Developer
+    description: Scott has been writing code professionally since graduating from
+      high school. Prior to Stellar, he worked as Lead Developer at Couchsurfing,
+      Lead Engineer and Chief Architect at OpenFeint (acquired by GREE) and was Lead
+      Engineer and on the founding team for Get Satisfaction.
+    links:
+      github:
+        url: https://github.com/nullstyle
+        followers: 158
+      linkedin:
+        url: https://www.linkedin.com/in/nullstyle
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nullstyle
+        followers: 319
+  - name: Tom Llewellyn-Smith
+    imagename: xlm-stellar_tom_llewellyn-smith.png
+    position: Systems Architect
+    description: Tom Llewellyn-Smith is a systems architect specialising in highly
+      available, large scale distributed systems, configuration management and systems
+      security. Prior to Stellar Tom designed and managed infrastructure within the
+      gaming, science and fintech sectors.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Rafal Malinowski"
+    imagename: xlm-stellar_rafal_malinowski.png
+    position: Developer
+    description: "Rafa\u0142 is a software developer with great passion for C++.\n\
+      In free time he works on two open source projects \u2013 Kadu and Injeqt. When\
+      \ the weather is right he likes to ride a bike and fly a glider."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rafal-malinowski-2ba54a1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bartek Nowotarski
+    imagename: xlm-stellar_bartek_nowotarski.png
+    position: Developer
+    description: Bartek Nowotarski is a software engineer focusing on web applications
+      security. He has a masters in computer science from Jagiellonian University.
+      Before joining Stellar, Bartek worked as a lead developer and security consultant,
+      and he has found vulnerabilities in high-profile sites such as Facebook and
+      Yahoo.
+    links:
+      github:
+        url: https://github.com/bartekn
+        followers: 214
+      linkedin:
+        url: https://www.linkedin.com/in/bartlomiejnowotarski
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bartn_?lang=en
+        followers: 2017
+  - name: Marta Lokhava
+    imagename: xlm-stellar_marta_lokhava.png
+    position: Developer
+    description: Marta is passionate about software, cosmology and tennis. She graduated
+      with a degree in Computer Science from UC Berkeley, where she also helped teach
+      Computer Architecture class. Before coming to Stellar, Marta worked on building
+      music ingestion pipelines at Pandora Media.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lisa Nestor
+    imagename: xlm-stellar_lisa_nestor.png
+    position: Partnerships
+    description: "Lisa is researcher and business strategist with a passion for financial\
+      \ empowerment. Prior to joining Stellar Lisa was a business development volunteer\
+      \ with the Peace Corps (Mauritania \u201907-\u201909), led operations and partnerships\
+      \ for a portfolio of research studies at the Centre for Micorfinance (India)\
+      \ and most recently led product marketing and growth at Payoff. Lisa holds an\
+      \ MBA from UCLA Anderson."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lisacnestor/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nestorious828
+        followers: 2739
+  - name: Lisa Kinard
+    imagename: xlm-stellar_lisa_kinard.png
+    position: Operations
+    description: "Lisa is an ops and hr manager with over 15 years experience helping\
+      \ build great companies. She holds an MA in International Policy Studies, led\
+      \ art tours in Venice, made phone books in Yemen, and once mistook Clint Eastwood\
+      \ for a 5\u20194\u2033 Belgian."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Johnny Goodnow
+    imagename: xlm-stellar_johnny_goodnow.png
+    position: Developer Relations
+    description: "Johnny Goodnow\u2019s focus is to create the best developer experience\
+      \ when building on Stellar. He\u2019s been creating, fixing, and gluing together\
+      \ software and systems for the past decade in Silicon Valley, where he previously\
+      \ worked at Asana and Palantir. In his spare time he can be found delving into\
+      \ music, or bike camping in the wilderness."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicolas Barry
+    imagename: xlm-stellar_nicolas_barry.png
+    position: CTO
+    description: Nicolas is excited by turning potential technology into something
+      practical that benefits most. He likes to tinker with software and tackle hard
+      distributed problems.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicolas-barry
+        followers: null
+      medium:
+        url: https://medium.com/@nicolassf
+        followers: 24
+      twitter:
+        url: https://twitter.com/nicolassf
+        followers: 173
+  - name: "David Mazieres"
+    imagename: xlm-stellar_david_mazieres.png
+    position: Chief Scientist
+    description: "David Mazieres is a professor of Computer Science at Stanford\
+      \ University, where he leads the Secure Computer Systems Group. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/david-mazi\xE8res-20a92924"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dmazieres?lang=en
+        followers: 1648
+  - name: Boris Reznikov
+    imagename: null
+    position: Director of partnership
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/borisreznikov
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/breznikov7?lang=en
+        followers: 718
+  - name: Keith Rabois
+    imagename: null
+    position: Board Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rabois
+        followers: 196112
+  - name: Shivani Siroya
+    imagename: null
+    position: Board Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/shivsiroya
+        followers: 13444
+  - name: Greg Brockman
+    imagename: null
+    position: Board Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/thegdb
+        followers: 1
+  - name: Adrian E. Martinez
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Jove
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Patrick Collison
+    imagename: null
+    position: Advisor
+    description: "Patrick is cofounder and CEO of Stripe. He also serves on Y Combinator\u2019\
+      s board of overseers and studied math at MIT."
+    links:
+      github:
+        url: https://github.com/pc
+        followers: 928
+      linkedin:
+        url: https://www.linkedin.com/in/patrickcollison/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Greg Stein
+    imagename: null
+    position: Advisor
+    description: Greg is an avid open-software advocate, developer, and lecturer.
+      Member of the Python Software Foundation and a founding member of the Subversion
+      Project.
+    links:
+      github:
+        url: https://github.com/gstein
+        followers: 34
+      linkedin:
+        url: https://www.linkedin.com/in/gstein/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Mullenweg
+    imagename: null
+    position: Advisor
+    description: Matt is the founder and CEO of Automattic, the company behind WordPress.com.
+      He is also a social media entrepreneur, developer, lecturer and musician.
+    links:
+      github:
+        url: https://github.com/m
+        followers: 878
+      linkedin:
+        url: https://www.linkedin.com/in/mattm/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/photomatt
+        followers: 117613
+  - name: Naval Ravikant
+    imagename: null
+    position: Advisor
+    description: Naval is the CEO and a co-founder of AngelList. He previously co-founded
+      Epinions (which went public as part of Shopping.com) and Vast.com.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/navalr/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ronaldo Lemos
+    imagename: null
+    position: Advisor
+    description: Ronaldo is a board member to the Mozilla Foundation and AccessNow.
+      Ronaldo received an LL.M. from Harvard Law School and a Doctorate of Law from
+      University of Sao Paulo.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ronaldolemos/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lemos_ronaldo
+        followers: 28989
+  - name: Sam Altman
+    imagename: null
+    position: Advisor
+    description: Sam is an entrepreneur, venture capitalist, developer, and blogger.
+      He is president of Y Combinator and former CEO and Co-Founder of Loopt, which
+      was acquired by Greendot Corporation.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sama
+        followers: 730104
+  - name: Dan Kaminsky
+    imagename: null
+    position: Advisor
+    description: A technical advisor to Stellar, Dan is a security researcher. The
+      Chief Scientist at White Ops, he has worked with Cisco, Avaya, and IOActive
+      as Director of Penetration Testing.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dakaminsky/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dakami
+        followers: 90028
+  - name: Bhagwan Chowdhry
+    imagename: null
+    position: Advisor
+    description: Professor of Finance Bhagwan Chowdhry has been teaching at UCLA Anderson
+      since 1988. His research interests are in international finance and corporate
+      finance and strategy.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bhagwanucla/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bhagwanUCLA
+        followers: 2410
+socials:
+  telegram: https://t.me/StellarLumens
+  reddit: https://www.reddit.com/r/stellar
+  twitter: https://twitter.com/stellarorg
+  facebook: https://www.facebook.com/stellarfoundation/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: stellar
+  main_repository: stellar/stellar-core
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Stellar (XLM) is a public distributed payment system that belongs\
+        \ to the Stellar Development Foundation. The coin has retained its position\
+        \ among the top ten most popular cryptocurrencies in the world. The interesting\
+        \ thing about the technology is that while other altcoins follow the prices\
+        \ of Bitcoin and Ethereum, Stellar (XLM) often shows signs of growth.<br />\r\
+        \nStellar\u2019s main vision is to establish a decentralized banking system.\
+        \ It seeks to make its coin Stellar Lumens a global currency that would be\
+        \ globally recognized and accepted which will result in its being used for\
+        \ daily transactions. A user can pay a bank some fiat currency (e.g. USD,\
+        \ Euro \u2026) and the receiver could collect the payment in another fiat\
+        \ currency, in the same way, Stellar Lumen will be used as an intermediate\
+        \ technology (Mazieres, 2019). The transaction will take much lesser time\
+        \ and cut down heavily on the transaction charges as compared to conventional\
+        \ banking (Applicature, 2018).<br />\r\nSince the network aims to provide\
+        \ freedom in terms of currency dealing, it is essential that it should have\
+        \ access to huge amounts of different fiat currency reserves. This would be\
+        \ achieved by working hand in hand with banks. However, banks are not showing\
+        \ interest in adopting the technology as they would lose a major portion of\
+        \ their revenue stream, should they partner with the technology. "
+      score: 2.5
+      references: "Applicature. (2018, December 21). Medium. Retrieved from Medium\
+        \ Website: https://medium.com/applicature/stellar-cryptocurrency-review-xlm-b64df8fe6beb<br\
+        \ />\r\nMazieres, D. (2019). Stellar. Retrieved from Stellar Website: https://www.stellar.org/papers/stellar-consensus-protocol.pdf<br\
+        \ />\r\n"
+  current_stand:
+    scandals_highlights:
+      description: "A highly anticipated project named Stellar Lightning was scheduled\
+        \ to be released on 1 December 2018. However, due to some undisclosed events,\
+        \ the deadline was missed and there\u2019s no update regarding the project\
+        \ lately (Stellar Development Foundation, 2018).<br />\r\nStellar team has\
+        \ only distributed a mere 20% of all its Lumen coins among its users. It plans\
+        \ on distributing the rest of the 80% in the next 10 years. However, not every\
+        \ user will be getting the Stellar Lumens airdrops. Only those user accounts\
+        \ who would have at least 0.05% of all votes would receive the distributed\
+        \ amount. A large share of the cryptocurrency will be retained by the Stellar\
+        \ team. When 20 Billion Lumens were distributed among bitcoin holders, only\
+        \ 2 Billion Lumens were claimed and the Stellar Development Foundation took\
+        \ the remaining 18 Billion Lumens."
+      score: 2.0
+      references: "Stellar Development Foundation. (2018, March 19). Stellar. Retrieved\
+        \ from Stellar Website: https://www.stellar.org/developers/blog/lightning-on-stellar-roadmap/<br\
+        \ />\r\nStellar Subreddit. (2018). Stellar. Retrieved from Reddit Website:\
+        \ https://www.reddit.com/r/Stellar/comments/7xhj9h/stellar_distribution_concerns/"
+    product:
+      description: "The actual product the Stellar network aims to offer is to serve\
+        \ as a distributed platform where a user could send a currency of choice and\
+        \ the receiver could receive the payment in a currency of choice. The platform\
+        \ has not been built yet, however, it is a work in progress. <br />\r\nThe\
+        \ main project is facing some hurdles in its implementation. The foundation\
+        \ has shifted its focus to another project to create a platform where developers\
+        \ could develop their own DApps. There is a chance that Stellar (XLM) might\
+        \ be successful in delivering the project.<br />\r\n"
+      score: 3.5
+      references: null
+    development:
+      description: The Stellar Development Foundation is an entity solely devoted
+        to the development of the Stellar network. They are working on multiple projects.
+        Frequent code changes and updates are seen on their GitHub repository where
+        over 50 contributors are working actively.
+      score: 4.5
+      references: 'Team Stellar. (2019, November 18). GitHub. Retrieved from GitHub
+        Website: https://github.com/stellar'
+    partnerships:
+      description: "Stellar (XLM) is focusing on bringing the payment processing companies\
+        \ on board for the successful implementation of the Stellar network. One of\
+        \ the advisors of Stellar is the current CEO of Stripe, which is a well-established\
+        \ online payment processing company.<br />\r\nAlso, Stellar is in discussions\
+        \ with IBM to create a new blockchain that will be user-centric and will promote\
+        \ the usage of IBM services and Stellar\u2019s technology (Iqbal, 2019).<br\
+        \ />\r\n<br />\r\n"
+      score: 4.0
+      references: 'Iqbal, N. (2019, June 2017). Tronweekly. Retrieved from Tronweekly
+        Website: https://www.tronweekly.com/stellar-ibm-partnership-might-end-as-jesse-lund-departs/'
+    community:
+      description: Stellar (XLM) has consolidated its community over the years. It
+        has more than 100,000 subscribers on the official Stellar (XLM) page on Reddit.
+        It also has become the fifth largest cryptocurrency in terms of market capitalization.
+      score: 4.5
+      references: null
+    substitutes:
+      description: Perhaps Stellar (XLM) biggest competition is Ripple (XRP). Ripple
+        is the parent technology of Stellar (XLM) and wants to achieve the same goals.
+      score: 3.5
+      references: null
+  foresight:
+    prediction:
+      description: 'From how things are going, it would not be deceitful to say that
+        Stellar (XLM) might successfully achieve worldwide recognition as an intermediate
+        mode of payment in the banking sector. However, there are many obstacles to
+        clear before that can be achieved. '
+      score: 3.5
+      references: null
+    projects:
+      description: 'The main project that Stellar Development Foundation is working
+        on is building a platform that would enable its users to send and receive
+        payments in any currency of their choice. The foundation is also working on
+        the development of an ICO platform of their own so that new altcoins could
+        be built on top of the Stellar Network. '
+      score: 4.0
+      references: null
+    potential:
+      description: 'The main hurdle in the successful implementation of the Stellar
+        network seemingly is the possibility that banks would not be in favour of
+        it as it could render them obsolete and affect their stream of revenue. If
+        Stellar (XLM) could somehow get banks to collaborate with them on their network,
+        it could potentially become the most influential intermediary for global transactions. '
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The main goal of Stellar is to build a platform for intercurrency
+        transactions and this platform is not built yet.
+      is_pro: false
+      is_contra: true
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: 'Theoretically, the Stellar network can handle 1000+ transactions
+        per second, but will, of course, be limited by the type of hardware in use. '
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: According to the official information, a meagre $0.01 will be enough
+        to make 300,000 transactions.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: Transactions on the Stellar network take 3-5 seconds typically.
+      is_pro: true
+      is_contra: false
+    security:
+      description: Stellar (XLM) offers the same level of security as other ERC-20
+        tokens.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: 'Stellar (XLM) is no stranger in the cryptocurrency community and
+        has not only being accepted but has also made its mark. '
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: Stellar (XLM) does not rely on mining and is therefore not an energy-intensive
+        cryptocurrency.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Stellar Lumen transactions are not anonymous. They are pseudonymous,
+        which means that someone who knows your address can easily analyse all your
+        transactions.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Stellar (XLM) is not completely decentralized. It has few nodes
+        that verify the network.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: Stellar (XLM) is available on many reputable exchanges
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: 'The founding figures of the Stellar network are Jed McCaleb and
+        Joyce Kim. McCaleb is a well-known expert in his field. He founded eDonkey2000,
+        a file-sharing program. However, the company was put down soon after its release
+        and the company had to pay 30 Billion Dollars in compensation for copyright
+        violations. McCaleb created another website known as MtGox which he later
+        sold, while still holding shares of the platform (McCormack, 2019). He co-founded
+        Ripple in 2012/2013 and left the team in 2014 to create his own cryptocurrency
+        Stellar Lumen off a Ripple fork. His ethical values might have not always
+        been good and he could be a possible risk factor. '
+      score: 2.0
+      references: 'McCormack, P. (2019, March 28). Hackernoon. Retrieved from Hackernoon
+        Website: https://hackernoon.com/jed-mccaleb-on-the-creation-of-mt-gox-85645521eabf'
+    developers:
+      description: 'The main lead of the Stellar Lumen is Jed McCaleb who is an experienced
+        individual with a vast amount of knowledge and business skills. There are
+        around 50 active contributors who tirelessly work to develop and enhance the
+        Stellar network and its products. '
+      score: 2.5
+      references: null
