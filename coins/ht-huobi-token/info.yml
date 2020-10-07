@@ -1,0 +1,439 @@
+id: ht-huobi-token
+symbol: HT
+name: Huobi Token
+logo: ht-huobi-token_logo@512x512.png
+founded: '2018-01-24'
+descriptions:
+  one_sentence: Payment token for the Huobi exchange
+  introduction: A Truly Global Exchange. Empowering millions of users across over
+    130 countries trading over $1 billion in assets. 24/7/365 customer access and
+    support. A trusted world-class operation designed specifically for knowledgeable
+    crypto-investors. SMART-Chain Evaluation Model.
+  technology: Sophisticated model providing analysis for the entire blockchain asset
+    ecosystem. Strategic insights based on research, trends, and 50+ unique indicators
+    to properly evaluate investment potential and risk. One-stop source for in-depth,
+    comprehensive information on 190+ cryptocurrencies. Safe. Stable.
+  future: Secure. Advanced distributed system architecture built to protect against
+    DDoS and other potential threats. More than 98% of digital assets stored in multi-signature,
+    cold wallets. Security protocols are fully aligned and compliant with industry
+    best practices. 4 years of safe, stable infrastructure operations, giving customers
+    100% confidence..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-01-24'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161
+whitepaper:
+  abstract: No whitepaper exists for Huobi Token
+  file: ht-huobi-token_whitepaper.pdf
+website:
+  url: https://www.huobi.com/en-us/
+video:
+  url: https://www.youtube.com/watch?v=01fZLH5EiQs
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Leon LI
+    imagename: null
+    position: Founder & CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leon-li-13621bb8/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u6731\u5609\u4F1F"
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/\u5609\u4F1F-\u6731-78052314b/"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Lee
+    imagename: null
+    position: CFO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chrislee6112/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric Zhu
+    imagename: null
+    position: CEO of Shenzhen Branch at Huobi Global
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/etcola/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Ted Que (\u9619\u5C0F\u8015)"
+    imagename: null
+    position: Founder of huobi labs
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/ted-que-\u9619\u5C0F\u8015-6aa1a74/"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aaron Zhang
+    imagename: null
+    position: Vice President
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aaron-zhang-2b892410/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sangwook LEE
+    imagename: null
+    position: Huobi Korea Chief Financial Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sangwook-lee-087b54119/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shawn Lau
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shawn-lau-bb606478/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qing Xu
+    imagename: null
+    position: Operations Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/qing-xu-33510672/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tianqi Huang
+    imagename: null
+    position: Investment Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tianqihuang/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/huobiglobalofficial
+  reddit: https://www.reddit.com/r/HuobiGlobal
+  twitter: null
+  facebook: https://www.facebook.com/huobiglobalofficial
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "The world of cryptocurrencies is expanding at an undying rate.\
+        \ Amidst the ever-increasing popularity and growth of the crypto-universe,\
+        \ many new alternatives are storming the market, and they are making waves.\
+        \ Similarly, the popular cryptocurrency exchanges have started to roll out\
+        \ their own crypto-coins in order to attract and maintain their user base\
+        \ and reward their old users at the same time. One of such coins is Huobi\
+        \ Token, which was launched by Huobi, the third-largest cryptocurrency exchange\
+        \ in the world.<br />\r\nHuobi token is a proprietary cryptocurrency that\
+        \ was issued by Huobi exchange in January 2018. This coin was introduced with\
+        \ the sole aim of maintaining the user network of Huobi exchange by offering\
+        \ them some incentives and allowing them to gain rewards by being active on\
+        \ their exchange. Huobi token is based on the Ethereum Blockchain, and within\
+        \ itself does not offer many innovative revolutionary developments, but as\
+        \ a means to reward loyalty of the exchange users. Huobi Token can be used\
+        \ internally on the Huobi environment and enables users to carry out transactions\
+        \ with lowered fees (The Analyst Team, 2018).<br />\r\n"
+      score: 4.3
+      references: 'The Analyst Team. (2018, November 17). Cryptobriefing. Retrieved
+        from Cryptobriefing Website: https://cryptobriefing.com/what-is-huobi-chain-introduction-to-huobi-token/'
+  current_stand:
+    scandals_highlights:
+      description: "Huobi Token is a very recent entrant of the crypto-world as it\
+        \ was introduced into the market in January 2018. Since then, the coin has\
+        \ garnered positive developments and not much has happened in its short life\
+        \ span. Huobi token was initially launched as a loyalty-building token for\
+        \ the Huobi exchange. Since China\u2019s ban on cryptocurrency in 2017, the\
+        \ markets experienced very low user activity and the future of cryptocurrency\
+        \ was being questioned. In order to combat this issue, Huobi launched the\
+        \ token to gain user attention and give new life to the crypto-exchange. The\
+        \ token rewards its users with lowered transaction fees and also serves as\
+        \ an investment tool by being tradable with other cryptocurrencies as well\
+        \ (Garner, 2018).<br />\r\nHuobi Token was distributed among Huobi Pro members\
+        \ in its initial distribution phase. 60% of the total Huobi Token supply was\
+        \ offered in the 15-day long runs that spanned from January 24 to February\
+        \ 7, 2018. 20% of the supply was reserved for user rewards and platform operations\
+        \ while 20% is retained for the team working on the project. The results of\
+        \ launching a token of its own were very welcoming for the Huobi Group. Leon\
+        \ Li, the CEO of the company, released a public statement recently, citing\
+        \ the figures of company\u2019s performance which showed that the user engagement\
+        \ had really boosted after Huobi Token\u2019s launch. The trends also indicated\
+        \ the revival of the company\u2019s diminishing popularity and better acknowledgements\
+        \ of its product line (Kuhn, 2019).\t<br />\r\nStarting from April 2018, the\
+        \ company has organized eight separate token burning events. What the company\
+        \ does is that it buys back some of the circulating tokens and destroys them.\
+        \ This helps in stabilizing the coin and also maximizes profit for the investors.\
+        \ The investors also see a reason to hold the currency to maximize their returns.\
+        \ Around 21,356,800Huobi Tokens (HT) of the circulating 310,318,300HT have\
+        \ been destroyed by the exchange. Huobi Group has been involved in different\
+        \ projects that might support the use of Huobi Token in the future. The year\
+        \ 2020 will decide what other products Huobi Group reveals (Walters, 2018).<br\
+        \ />\r\n"
+      score: 4.0
+      references: "Garner, B. (2018, July 25). Coin Central . Retrieved from Coin\
+        \ Central Website: https://coincentral.com/huobi-token-ht-worth-it-an-in-depth-guide/<br\
+        \ />\r\nKuhn, D. (2019, July 16). Coin desk. Retrieved from Coin desk website:\
+        \ https://www.coindesk.com/huobis-burns-116-percent-more-tokens-amid-quarterly-revenue-gains<br\
+        \ />\r\nWalters, S. (2018, July 11). Coin Bureau. Retrieved from Coin Bureau:\
+        \ coinbureau.com/review/huobi-token-ht/"
+    product:
+      description: Huobi Token is an Ethereum based ERC-20 token. The actual product
+        is very easy to understand. In essence, it is simply a token that can be used
+        to carry out discounted transactions on the Huobi ecosystem. There are other
+        use cases for this cryptocurrency. It provides early access to products that
+        will trade on Huobi exchange and confers survey and voting rights to the Huobi
+        Token owners.
+      score: 4.4
+      references: null
+    development:
+      description: "Huobi Token\u2019s code is solely built by the Huobi Group and\
+        \ is not open-source, which means we can\u2019t see it. The backbone of the\
+        \ network is Ethereum Blockchain, and Huobi Token is also compatible with\
+        \ ERC-20 exchanges and wallets. The company has also developed Huobi Chain\
+        \ that will allow users a reliable infrastructure for self-finance. Huobi\
+        \ Token might also get updated and shifted to the new network."
+      score: 2.0
+      references: null
+    partnerships:
+      description: 'Huobi Token has a competitive advantage in the market, all thanks
+        to its parent exchange, Huobi, which is the third-largest exchange in the
+        world. Huobi Group has a number of partners some of which utilize Huobi Token
+        and allow users to perform transactions using the same cryptocurrency. Recently
+        a new partnership with FomoHunt, a cryptocurrency based marketplace where
+        users can buy anything from art, tickets, grocery, clothes, etc. was announced
+        (Libertas, 2019). '
+      score: 3.2
+      references: 'Libertas, A. (2019, August 22). The daily chain. Retrieved from
+        The daily chain website: https://www.thedailychain.com/fomohunt-partner-with-huobi-exchange-to-utilise-ht-token/'
+    community:
+      description: "The cryptocurrency\u2019s community mainly comprises of the regular\
+        \ users of the Huobi exchange. They are representing the digital asset on\
+        \ many different forums to regularly update the general public about the latest\
+        \ developments and news regarding the cryptocurrency. Also, they maintain\
+        \ user engagement by publicising the benefits and positive forecasts regarding\
+        \ the coin. "
+      score: 3.4
+      references: null
+    substitutes:
+      description: Since Huobi Token is primarily a loyalty-building coin, it can
+        be considered a replacement for other loyalty-building tokens. Exchange coins
+        like BNB, which was launched by Binance, and Kucoin a proprietary coin of
+        lesser-known exchange Kucoin can be considered substitutes of Huobi Token.
+      score: 3.2
+      references: null
+  foresight:
+    prediction:
+      description: 'Huobi is the world third-largest crypto-exchange and since China
+        has begun to treat cryptocurrencies with less hostility; there is the possibility
+        that Huobi could see massive growth in its user base. This will result in
+        much higher usage of the Huobi Token on the Huobi exchange. '
+      score: 4.5
+      references: null
+    projects:
+      description: Huobi Group has initiated a number of projects, and the most important
+        of them all is perhaps the introduction of a Blockchain network of its own.
+        Huobi Group is persistent about launching Huobi Chain that will allow many
+        more products to walk out from under the umbrella of Huobi Group.
+      score: 3.7
+      references: null
+    potential:
+      description: "Strictly speaking, the potential of Huobi Token depends greatly\
+        \ on the performance and reputation of the parent company Huobi Group. The\
+        \ usage of the token is limited to the exchange\u2019s ecosystem and its growth\
+        \ is directly depended upon the popularity of the company\u2019s and its partner\u2019\
+        s products. However, among the loyalty-building coins, it remains one of the\
+        \ better options that provide users with multiple benefits."
+      score: 4.5
+      references: null
+  pro_con:
+    product_availability:
+      description: 'Huobi Token was launched in 2018 and is a fully working exchange-token
+        of Huobi Group. '
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Huobi Token can handle much fewer transactions per second compared
+        to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: 'Transaction costs are very minimal. Also, on the plus side, the
+        users get extra discounts for carrying out transactions using the Huobi Token. '
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much lower compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: 'The acceptance of the coin has been limited to the Huobi exchange
+        ecosystem. '
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'There is no official data that reveals the energy consumption
+        of the Huobi Token network. But since the technology is based on the Ethereum
+        network, there is no mining process involved, which makes it energy-friendly. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Currently, Huobi Token matches the decentralisation level of Ethereum.
+        Huobi Group is adamant to roll out its Huobi Finance Chain that will maintain
+        the decentralization quality of its token.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Huobi Token is a loyalty-building coin which means it is prevalently
+        available on Huobi Global Exchange only. Some lesser-known exchanges like
+        DragonEx, Bit-Z, and Gate.io also offer Huobi token.
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: Huobi exchange was founded by Leon Li in 2013 as a cryptocurrency
+        exchange. After the ban imposed on cryptocurrencies in China, the exchange
+        expanded its subsidiaries in Singapore, South Korea, and Japan. In 2018, Huobi
+        Group, the Mother company of the third-largest exchange in the world, launched
+        its own loyalty-building token known as Huobi Token (Garner, 2018).
+      score: 4.4
+      references: 'Garner, B. (2018, July 25). Coin Central . Retrieved from Coin
+        Central Website: https://coincentral.com/huobi-token-ht-worth-it-an-in-depth-guide/'
+    developers:
+      description: The development team features many experts of Blockchain technology
+        hailing from different countries like China, Singapore, South Korea, and Japan.
+        The team basically involves the p working for the parent company Huobi Group.
+      score: 4.2
+      references: null

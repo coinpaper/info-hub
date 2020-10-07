@@ -1,0 +1,183 @@
+id: hex-hex
+symbol: HEX
+name: Hex
+logo: hex-hex_logo@512x512.png
+founded: '2019-12-02'
+descriptions:
+  one_sentence: Has almost all the signs of a classical pyramid scheme
+  introduction: 'I have great respect for what Binance has achieved in such a short
+    time, and am truly amazed. I''d love to see Binance claim HEX free for its users
+    with its cold wallet. HEX is 23 days old. We have been the #1-#3 app by transactions
+    on Ethereum since launch. Over $1 billion of BTC has FreeClaimed HEX so far. 24,134
+    addresses, 154,285 BTC. 68,805 stakes are active. Average stake length is 1,275
+    days. 23,865 emails, 7,000 real users in telegram. I have 100k followers across
+    YouTube and Twitter.'
+  technology: '47,506 ETH has been transformed into HEX. https://HEXstat.com is the
+    best HEX stats site. Tons of user made sites and initiatives have appeared, listed
+    at bottom. ERC20. First blockchain Certificate of deposit (Time deposit.) Free
+    Claimable via BTC sig. The Binance cold wallet can claim. Inflates 3.69% a year
+    after day 353 to pay those who stake their HEX.  Monetizes time. First crypto
+    with a chart of future circulating supply and total supply.  Audited by Chainsecurity
+    and Coinfabrik. Snapshot was Dec 2, 00:00:00, 2019. Founded by Richard Heart (me):
+    https://YouTube.com/RichardHeart | https://Twitter.com/RichardHeartWin | https://t.me/RichardHeart
+    Richard''s favorite charity is https://SENS.org.'
+  future: 'Community made sites in last 21 days: https://hexstat.com | https://HEXviz.xyz
+    | https://twitter.com/WhaleHEX | https://t.me/HEXwinBot | https://radio.hex.onl/stream-info.
+    Telegram channels:. Reddit:. It''s on 10 exchanges, of which perhaps Bitcoin.com
+    has the best reputation (though little volume.) Currently the highest volume is
+    on Bidesk.com It''s being integrated into Monarch wallet currently. Chrome desktop
+    with metamask is currently the best experience at https://go.hex.win. We also
+    have atomic cross swaps via https://atomicswapwallet.io/. The amount the community
+    has created in 21 days is impressive. Sincerely,. Richard Heart. Please message
+    me at https://t.me/RichardHeart for a fast response..'
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2019-12-02'
+  type: token
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39
+whitepaper:
+  abstract: "HEX is an ERC20 token designed and launched by Richard Heart on 2 December\
+    \ 2019 on the Ethereum network. HEX is designed to be a store of value to replace\
+    \ the Certificate of Deposit as the blockchain counterpart of that financial product\
+    \ used in traditional financial markets. HEX is also designed to leverage off\
+    \ the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within\
+    \ the Ethereum network."
+  file: hex-hex_whitepaper.pdf
+website:
+  url: https://hex.com/?from=1dapp.news
+video:
+  url: https://www.youtube.com/watch?v=v3bIsJ6vTYg
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/HEXcrypto
+  reddit: https://www.reddit.com/r/HEXcrypto/
+  twitter: https://twitter.com/RichardHeartWin
+  facebook: https://www.facebook.com/HEXcrypto
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

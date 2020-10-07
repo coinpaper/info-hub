@@ -1,0 +1,1060 @@
+id: omg-omisego
+symbol: OMG
+name: OmiseGO
+logo: omg-omisego_logo@512x512.png
+founded: '2017-06-23'
+descriptions:
+  one_sentence: Global transactions with low fees
+  introduction: OmiseGO is building a decentralized exchange, liquidity provider mechanism,
+    clearinghouse messaging network, and asset-backed blockchain gateway. OmiseGO
+    is not owned by any single one party. Instead, it is an open distributed network
+    of validators which enforce behavior of all participants.
+  technology: It uses the mechanism of a protocol token to create a proof-of-stake
+    blockchain to enable enforcement of market activity amongst participants. This
+    high-performant distributed network enforces exchange across asset classes, from
+    . at-backed issuers to fully decentralized blockchain tokens (ERC-20 style and
+    native cryptocurrencies). Unlike nearly all other decentralized exchange platforms,
+    this allows for the decentralized exchange of other blockchains and between multiple
+    blockchains directly without a trusted gateway token.
+  future: Markets may be able to signi. cantly reduce spreads and encourage market
+    assurance via decentralizing custody and increased transparency of market activity.
+    This is achieved using smart contracts, protocol tokens enforcing correct market
+    behavior of order book matching, a new construction of Ethereum bonded external
+    enforcement of clearinghouse activity and commitments to historical exchange data
+    for use with Ethereum smart contracts.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-06-23'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers: []
+whitepaper:
+  abstract: OmiseGO is building a decentralized exchange, liquidity provider mechanism,
+    clearinghouse messaging network, and asset-backed blockchain gateway. OmiseGO
+    is not owned by any single one party. Instead, it is an open distributed network
+    of validators which enforce behavior of all participants.
+  file: omg-omisego_whitepaper.pdf
+website:
+  url: https://omg.network/
+video:
+  url: https://www.youtube.com/watch?v=2L2gb35TUjM
+team:
+  leader:
+    name: Jeremy Lam
+    imagename: omg-omisego_jeremy_lam.png
+    position: Product Lead at OmiseGO
+    description: Jeremy is the product lead for OmiseGO. Jeremy has delivered solutions
+      as an independent consultant in the investment banking industry for over a decade
+      in Tokyo, Europe, Singapore and Australia.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/venndjeremy
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Frederico Araujo
+    imagename: omg-omisego_frederico_araujo.png
+    position: CIO
+    description: an operations specialist focused on Cloud, security, scalability,
+      high performance payment data related problems and PCI DSS compliance for Omise
+      payment gateway. Overseeing a team of professionals in Devops and Security.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jun Hasegawa
+    imagename: null
+    position: CEO / Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/junhase
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Donnie Harinsut
+    imagename: null
+    position: COO / Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ezra-don-harinsut-18530a77
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ruxperience?lang=en
+        followers: 7777
+  - name: Wendell Davis
+    imagename: null
+    position: Product Development Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Thomas Greco
+    imagename: null
+    position: Special Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vansa Chatikavanij
+    imagename: null
+    position: Managing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vansa-chatikavanij-5270a930
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robin Clart
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robinclart/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robinclart
+        followers: 260
+  - name: Piotr Dobaczewski
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/piotr-dobaczewski-98b92421
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Knott
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@davidlknott
+        followers: 397
+      twitter:
+        url: https://twitter.com/davidlknott
+        followers: 1545
+  - name: Thibault Denizet
+    imagename: null
+    position: Lead Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/T-Dnzt
+        followers: 79
+      linkedin:
+        url: https://www.linkedin.com/in/thibaultdenizet
+        followers: null
+      medium:
+        url: https://medium.com/@thibaultdenizet
+        followers: 180
+      twitter:
+        url: https://twitter.com/t_dnzt
+        followers: 568
+  - name: "Pawe\u0142 Peregud"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/paulperegud
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kridsada Thanabulpong
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/sirn
+        followers: 78
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mederic Petit
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/medericpetit
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Unnawut Leepaisalsuwanna
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/unnawut
+        followers: 61
+      linkedin:
+        url: https://www.linkedin.com/in/unnawut/
+        followers: null
+      medium:
+        url: https://medium.com/@unnawut
+        followers: 273
+      twitter:
+        url: null
+        followers: null
+  - name: Phuchit Sirimongkolsathien
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/ripzery
+        followers: 24
+      linkedin:
+        url: https://www.linkedin.com/in/phuchit-sirimongkolsathien
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kanchan Desai
+    imagename: null
+    position: Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@kanchandesai89
+        followers: 4
+      twitter:
+        url: null
+        followers: null
+  - name: Jitthip Suthammanuwat
+    imagename: null
+    position: Human Resources
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jitthip
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Apirak Panatkool
+    imagename: null
+    position: Design
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/apirak
+        followers: null
+      medium:
+        url: https://medium.com/@apirak
+        followers: 2534
+      twitter:
+        url: https://twitter.com/apirak?lang=en
+        followers: 1234
+  - name: Hitoshi Kakizawa
+    imagename: null
+    position: Business Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hitoshi-kakizawa-69415346
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Naoko Akari
+    imagename: null
+    position: Business Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sutthiporn Mekhaaphira
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Xu
+    imagename: null
+    position: Product
+    description: null
+    links:
+      github:
+        url: https://github.com/imkevinxu
+        followers: 103
+      linkedin:
+        url: https://www.linkedin.com/in/imkevinxu
+        followers: null
+      medium:
+        url: https://medium.com/@imkevinxu
+        followers: 1805
+      twitter:
+        url: https://twitter.com/imkevinxu?lang=en
+        followers: 2759
+  - name: Chattanika Klinkaew
+    imagename: null
+    position: Recruitment
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yuyie-chattanika-klinkaew-64991bab
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/yuyie_chkk
+        followers: 6
+  - name: Kelvin Fichter
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/kfichter
+        followers: 266
+      linkedin:
+        url: https://www.linkedin.com/in/kelv-in
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Althea Allen
+    imagename: null
+    position: Ecosystem Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Lee
+    imagename: null
+    position: Finance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/justin-lee-9a285b40
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pawel Gebal
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/pawelwgebal
+        followers: 42
+  - name: Tayanee Sriyotha
+    imagename: null
+    position: UI/UX
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tayanee-sriyotha-35925a128
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eva Beylin
+    imagename: null
+    position: Strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/evabeylin
+        followers: null
+      medium:
+        url: https://medium.com/@eva.beylin
+        followers: 586
+      twitter:
+        url: https://twitter.com/evabeylin?lang=en
+        followers: 5271
+  - name: Pawel Thomalla
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tim Jones
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joseph Poon
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/josephpoon
+        followers: 276
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jcp?lang=en
+        followers: 14883
+  - name: Vitalik Buterin
+    imagename: null
+    position: Advisor
+    description: Vitalik is the creator of Ethereum. He first discovered blockchain
+      and cryptocurrency technologies through Bitcoin in 2011, and was immediately
+      excited by the technology and its potential. He cofounded Bitcoin Magazine in
+      September 2011, and after two and a half years looking at what the existing
+      blockchain technology and applications had to offer, wrote the Ethereum white
+      paper in November 2013. He now leads Ethereum's research team, working on future
+      versions of the Ethereum protocol.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7566
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 37310
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 939888
+  - name: Dr. Gavin Wood
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/gavofyork
+        followers: 1481
+      linkedin:
+        url: https://www.linkedin.com/in/gavin-wood-88843316
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/gavofyork?lang=en
+        followers: 54503
+  - name: Jae Kwon
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yjkwon
+        followers: null
+      medium:
+        url: https://medium.com/@jaekwon
+        followers: 519
+      twitter:
+        url: https://twitter.com/jaekwon
+        followers: 782
+  - name: Vlad Zamfir
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/vladzamfir
+        followers: 339
+      linkedin:
+        url: https://www.linkedin.com/in/vlad-zamfir/
+        followers: null
+      medium:
+        url: https://medium.com/@Vlad_Zamfir
+        followers: 5704
+      twitter:
+        url: null
+        followers: null
+  - name: Karl Floersch
+    imagename: null
+    position: Advisor
+    description: "Karl Floersch specializes in the development of blockchain systems,\
+      \ focusing on Ethereum. His experience prior to blockchain had him engineering\
+      \ software for clients including Macy\u2019s and SC Johnson, and working full\
+      \ time with Citibank and Riverbed Technology."
+    links:
+      github:
+        url: https://github.com/karlfloersch
+        followers: 376
+      linkedin:
+        url: https://www.linkedin.com/in/karlfloersch
+        followers: null
+      medium:
+        url: https://medium.com/@karl_dot_tech
+        followers: 1037
+      twitter:
+        url: https://twitter.com/karl_dot_tech?lang=en
+        followers: 14348
+  - name: Martin Becze
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/wanderer
+        followers: 627
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Julian Zawistowski
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/julian-zawistowski-352478
+        followers: null
+      medium:
+        url: https://medium.com/@julian_z
+        followers: 961
+      twitter:
+        url: null
+        followers: null
+  - name: Aya Miyaguchi
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/amiyaguchi
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mi_ayako?lang=en
+        followers: 10611
+  - name: Pandia Jiang
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ash Han
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ash-han-seunghwan-a08551124
+        followers: null
+      medium:
+        url: https://medium.com/@ashhan8904
+        followers: 95
+      twitter:
+        url: null
+        followers: null
+  - name: Roger Ver
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rogerver
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rogerkver
+        followers: 603401
+  - name: Stephen McNamara
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stephenmcnamara
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/smcnamara
+        followers: 563
+  - name: Prof. David Lee Kuo Chuen
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/davidkchuenlee
+        followers: 1631
+  - name: Luke Cheng
+    imagename: null
+    position: Chief Financial officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/luke-cheng-a8b5a72/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jarindr Thitadilaka
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/jarindr
+        followers: 20
+      linkedin:
+        url: https://www.linkedin.com/in/jarindr/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/omisego
+  reddit: https://www.reddit.com/r/omise_go
+  twitter: https://twitter.com/omise_go
+  facebook: https://www.facebook.com/OmiseGo/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: omisego
+  main_repository: omisego/elixir-omg
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Storming the market to compete with the other altcoins, OmiseGO\
+        \ comes with the aim of becoming an exchange, asset-backed blockchain and\
+        \ most importantly a decentralized bank that could be used to make payments\
+        \ to anyone anywhere around the world. The network gives you the freedom to\
+        \ work with both cryptocurrencies and fiat (USD, EUR \u2026) currencies as\
+        \ well. The marketing strategy of OmiseGo targets people who are not already\
+        \ using banks for transaction, and their focus areas include, India, Japan,\
+        \ and China.<br />\r\nOmiseGo defines its goal as trying to become a \u2018\
+        \u2019preeminent high-value exchange and a settlement platform\u2019\u2019\
+        . The purpose behind its advent was to build a user-friendly platform that\
+        \ could connect different methods of payment, be it in the form of some cryptocurrency\
+        \ or any fiat currency. Now, this vision is not something new and has been\
+        \ expressed by many crypto-technologies before. OmiseGo takes the lead with\
+        \ its new technology called Minimal Viable Plasma, which is built upon the\
+        \ Ethereum Network. This technology aims to multiply the available throughput\
+        \ of transactions per second (Poon, 2017). "
+      score: 3.5
+      references: 'Poon, J. (2017, June 17). Omise. Retrieved from Omise Website:
+        https://cdn.omise.co/omg/whitepaper.pdf'
+  current_stand:
+    scandals_highlights:
+      description: "OmiseGo has remained an unpopular coin for a long time largely\
+        \ because of its not-so-impressive marketing strategy. It has not been around\
+        \ much in the news and no major scandal has hit the coin, whether good or\
+        \ bad. The main setback that the project is facing is that the Plasma Network\
+        \ has not yet been developed. Timely development and execution of the plasma\
+        \ network will likely be a future project. Lately, rumours have been circulating\
+        \ in the market that OmiseGo has appointed a new CEO because the former CEO\
+        \ couldn\u2019t meet up with deadlines and delivery of the important projects.\
+        \ The new CEO has been identified as Vansa, but there is no information available\
+        \ to the public concerning her. <br />\r\nThe technology has been developed\
+        \ under the advisory supervision of Vitalik, the founder of Ethereum. People\
+        \ are hopeful about the technology partly due to his involvement in its development\
+        \ (Pandorasbox, 2017). "
+      score: 3.5
+      references: 'Pandorasbox. (2017). Steemit. Retrieved from Steemit Website: https://steemit.com/cryptocurrency/@pandorasbox/ethereum-omisego-plasma-coming-soon-vitalik-posts-minimal-viable-plasma-implementation'
+    product:
+      description: 'The actual product of the OmiseGo blockchain is aimed at achieving
+        the execution of the Minimal Viable Plasma network that will render it to
+        generate high throughput rates. However, the technology is not developed fully
+        and there are still some major hurdles to overcome for its smooth integration
+        and execution. The initial deployment and testing phase of OmiseGo commenced
+        in February 2019 (Crypto Index, 2018). '
+      score: 3.4
+      references: 'Crypto Index. (2018, Dec 31). Medium. Retrieved from Medium Website:
+        https://medium.com/cryptoindex-io/omisego-review-december-2018-8571ac85b9ce'
+    development:
+      description: 'Despite the fact that OmiseGO is a project being developed under
+        a very competent team, the mainnet (official live version) of the blockchain
+        has still not being delivered even after two years. The GitHub repository
+        shows a very slow development history. There is not much code commits each
+        day, a large number of which are also simple minimal changes which should
+        not be considered as upgrades of considerable importance. '
+      score: 2.5
+      references: 'OmiseGo Team. (2019, November 23). GitHub. Retrieved from GitHub
+        Website: https://github.com/omisego'
+    partnerships:
+      description: "OmiseGo has not entered into any major partnerships, mainly because\
+        \ the team has not completed its work on the development of the mainnet. The\
+        \ blockchain\u2019s connections with the Omise Company will prove to be substantial\
+        \ for its widespread acceptance and what it intends to achieve in the near\
+        \ future."
+      score: 2.5
+      references: null
+    community:
+      description: OmiseGo has managed to maintain a huge and somewhat reliable community.
+        OmiseGo was launched and marketed as OMG in September 2017.
+      score: 3.8
+      references: null
+    substitutes:
+      description: "The vision to become a decentralized bank has been shared by many\
+        \ other altcoins. As it stands, OmiseGo\u2019s biggest competitions are Ripple\
+        \ and Stellar Lumens. OmiseGo is focusing on people who do not have easy access\
+        \ to banks and is providing them with a platform to send and receive funds\
+        \ using its network."
+      score: 2.5
+      references: null
+  foresight:
+    prediction:
+      description: "The prediction for OmiseGo is very straightforward. Its success\
+        \ depends greatly on whether the team successfully completes the development\
+        \ of the Plasma technology in time. If for some reason they lag behind, there\
+        \ is the possibility that it will die down as other several altcoins. By the\
+        \ recent progress of the team, it doesn\u2019t look like the development will\
+        \ take place in time. "
+      score: 3.0
+      references: null
+    projects:
+      description: "The main project that hyped up the arrival of OmiseGO was the\
+        \ minimum viable plasma technology. It will allow the Ethereum-based blockchain\
+        \ network to generate maximum data through adding rates to enable fast cross-payments.<br\
+        \ />\r\nAnother project that the Omise team has announced is that they are\
+        \ trying to establish a cryptocurrency exchange of their own. The exchange\
+        \ will be known as GO.Exchange.<br />\r\n"
+      score: 3.0
+      references: null
+    potential:
+      description: 'The potential is huge and the time is short. Many altcoins are
+        working on a technology that could connect banks and online transfers to their
+        blockchain network. Whoever builds the technology first will be successful
+        in capturing the market and will lead the race on global dominance. '
+      score: 4.8
+      references: null
+  pro_con:
+    product_availability:
+      description: 'The prototype is not yet available, and there seems not to be
+        too much progress lately. '
+      is_pro: false
+      is_contra: true
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: The plasma technology aims to maximize the throughput which will
+        allow many more transactions to be processed every second. The Plasma technology
+        isn't developed yet.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: 'The transaction costs are similar to that of the Ethereum network. '
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: "Bound to the Ethereum network or the Plasma technology, that\u2019\
+        s not developed yet"
+      is_pro: false
+      is_contra: true
+    security:
+      description: OmiseGo is an ERC-20 token and is security-wise strong because
+        of the Ethereum blockchain.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: The acceptance rate is low as no official partnership has been
+        announced.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'OmiseGo is based on the Ethereum network, therefore, its energy
+        requirements are low as compared to other major cryptocurrencies. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: 'Transactions with OmiseGo are pseudonymous and can be tracked. '
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: OmiseGo is a decentralized ERC-20 Token.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: The coin is available on the major trusted exchanges.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "OmiseGo is a blockchain-based product of the Omise Company. The\
+        \ CEO of Omise is Jun Hasegawa. Jun founded the project with Donnie Harinsut\
+        \ when they both worked for the Ethereum blockchain. In fact, Ethereum\u2019\
+        s founder Vitalik Buterin has been one of the prominent advisors for the OmiseGo\
+        \ blockchain cryptocurrency. "
+      score: 4.3
+      references: 'Icorating. (2019, November 23). Icorating. Retrieved from Icorating
+        Website: https://icorating.com/people/vitalik-buterin/'
+    developers:
+      description: OmiseGo team is headed by Jun Hasewaga and Donnie Harinsut. Another
+        major contributor to the Minimal Viable Plasma technology is Vitalik Buterin,
+        the founder of Ethereum.
+      score: 3.4
+      references: null
