@@ -2,7 +2,7 @@ id: leo-leo-token
 symbol: LEO
 name: LEO Token
 logo: leo-leo-token_logo@512x512.png
-founded: null
+founded: '2019-05-10'
 descriptions:
   one_sentence: Payment token for Bitfinex exchange
   introduction: "iFinex started its operations in 2012, initially operating under\
@@ -42,7 +42,6 @@ blockchain:
 explorers:
 - https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
 - https://ethplorer.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
-- https://eospark.com/account/bitfinexleo1
 whitepaper:
   abstract: iFinex Inc. (iFinex), a privately-held financial technology company incorporated
     in the British Virgin Islands, operates virtual currency trading platforms under
@@ -76,9 +75,9 @@ team:
   members: []
 socials:
   telegram: https://t.me/bfxtelegram
-  reddit: https://reddit.com/r/bitfinex
+  reddit: https://www.reddit.com/r/bitfinex/
   twitter: null
-  facebook: https://www.facebook.com/1672189753001072
+  facebook: https://www.facebook.com/bitfinex1/
   medium: null
   vimeo: null
   discord: null
