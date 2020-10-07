@@ -1,0 +1,713 @@
+id: zec-zcash
+symbol: ZEC
+name: Zcash
+logo: zec-zcash_logo@512x512.png
+founded: '2016-10-28'
+descriptions:
+  one_sentence: Bitcoin copy with privacy feature
+  introduction: ZCash is a privacy driven cryptocurrency.
+  technology: It uses the Equihash as an algorithm, which is an asymmetric memory-hard
+    Proof of Work algorithm based on the generalized birthday problem. It relies on
+    high RAM requirements to bottleneck the generation of proofs and making ASIC development
+    unfeasible. ZCash uses zero-knowledge Succinct Non-interactive Arguments of Knowledge
+    (zk-SNARKs) to ensure that all information (sender, receiver, amount) is encrypted,
+    without the possibility of double-spending.
+  future: The only information that is revealed regarding transactions is the time
+    in which they take place..
+blockchain:
+  consensus: Proof of Work
+  algorithm: Equihash
+  issue_date: '2016-10-28'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://explorer.zcha.in/
+- http://zcashnetwork.info/
+whitepaper:
+  abstract: "Zcash is a decentralized and open-source cryptocurrency that provides\
+    \ strong privacy protections. Shielded transactions hide the sender, recipient,\
+    \ and value on the blockchain. If Bitcoin is like http for money, Zcash is https\u2014\
+    a secure transport layer.\r\n\r\nFor the first 4 years, Zcash's founders get 20%\
+    \ of the block rewards, effectively making 10% of total supply (2.1 million ZEC)."
+  file: zec-zcash_whitepaper.pdf
+website:
+  url: https://z.cash
+video:
+  url: https://www.youtube.com/watch?v=Qs4ZqVYY-DA
+team:
+  leader:
+    name: Zooko Wilcox
+    imagename: zec-zcash_zooko_wilcox.png
+    position: Founder and CEO
+    description: "Zooko has more than 20 years of experience in open, decentralized\
+      \ systems, cryptography and information security, and startups. He is recognized\
+      \ for his work on DigiCash, Mojo Nation, ZRTP, \u201CZooko's Triangle\u201D\
+      , Tahoe-LAFS, BLAKE2, and SPHINCS. He is also the Founder of Least Authority."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zookow
+        followers: null
+      medium:
+        url: https://medium.com/@zooko_25893
+        followers: 88
+      twitter:
+        url: https://twitter.com/zooko
+        followers: 58142
+  members:
+  - name: Nathan Wilcox
+    imagename: zec-zcash_nathan_wilcox.png
+    position: CTO
+    description: Nathan is dedicated to open, secure technologies and has over 10
+      years of experience in software development, performance analysis, and security
+      audits. Prior to Zcash, he managed development at Least Authority, where he
+      led security audits for Ethereum, SpiderOak, Cryptocat, GlobaLeaks, and other
+      projects. For fun, he enjoys developing tools for Python, Rust, and Ethereum.
+    links:
+      github:
+        url: https://github.com/nathan-at-least
+        followers: 23
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Murray
+    imagename: zec-zcash_andy_murray.png
+    position: CFO
+    description: "Andy Murray has 2 current jobs as CFO at Zcash and SVP & CFO at\
+      \ Swiftpage.\nAndy has been the Chief Financial Officer for multiple technology\
+      \ companies including six software companies comprised of 4 enterprise licensing\
+      \ models and 2 Software as a Service models. Andy completed a successful IPO\
+      \ as the CFO at SignalSoft Inc. going public on NASDAQ and later executed the\
+      \ sale of SignalSoft to Openwave Systems. Over the years, he has raised capital\
+      \ of over $135+ M in debt and equity. \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jack Gavigan
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JackGavigan
+        followers: 4347
+  - name: Eli Ben-Sasson
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: https://github.com/elibensasson
+        followers: 110
+      linkedin:
+        url: https://www.linkedin.com/in/eli-ben-sasson-9b7959
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christina Garman
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/cryptogps
+        followers: 547
+  - name: Alessandro Chiesa
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matthew Green
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ian Miers
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/secparam
+        followers: 7045
+  - name: Eran Tromer
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: https://github.com/tromer
+        followers: 77
+      linkedin:
+        url: https://www.linkedin.com/in/tromer
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Madars Virza
+    imagename: null
+    position: Scientist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/madarsv
+        followers: 3293
+  - name: Daira Hopwood
+    imagename: null
+    position: Engineer & Protocol Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/feministplt
+        followers: 2095
+  - name: Sean Bowe
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/ebfull
+        followers: 205
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jack Grigg
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/str4d
+        followers: 2271
+  - name: Jay Graber
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/arcalinea
+        followers: 7549
+  - name: Ariel Gabizon
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Simon Liu
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paige Peterson
+    imagename: null
+    position: Community Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ioptio
+        followers: 4899
+  - name: Jonathas Carrijo
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Linda Naeun Lee
+    imagename: null
+    position: User Experiance, Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zirui Zhang
+    imagename: null
+    position: Asia Community & Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Taylor.
+    imagename: null
+    position: Web Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/adjyleak
+        followers: 557
+  - name: Hugh Khan
+    imagename: null
+    position: Engineering Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gavin Andresen
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/gavinandresen
+        followers: 1735
+      linkedin:
+        url: https://www.linkedin.com/in/gavin-andresen-6987971
+        followers: null
+      medium:
+        url: https://medium.com/@gavinandresen
+        followers: 10249
+      twitter:
+        url: https://twitter.com/gavinandresen
+        followers: 153108
+  - name: Vitalik Buterin
+    imagename: null
+    position: Advisor
+    description: Vitalik is the creator of Ethereum. He first discovered blockchain
+      and cryptocurrency technologies through Bitcoin in 2011, and was immediately
+      excited by the technology and its potential. He cofounded Bitcoin Magazine in
+      September 2011, and after two and a half years looking at what the existing
+      blockchain technology and applications had to offer, wrote the Ethereum white
+      paper in November 2013. He now leads Ethereum's research team, working on future
+      versions of the Ethereum protocol.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7566
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 37310
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 939888
+  - name: Arthur Breitman
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/murbard
+        followers: 195
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joseph Bonneau
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/josephbonneau
+        followers: 4695
+  - name: Brian Warner
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lotharrr
+        followers: 1117
+  - name: Dana Syracuse
+    imagename: null
+    position: Cryptocurrency and Financial Regulation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dana-syracuse-6038b7113
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marcia Hofmann
+    imagename: null
+    position: Encryption and Internet Civil Rights
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marciahofmann
+        followers: null
+      medium:
+        url: https://medium.com/@marciahofmann
+        followers: 2333
+      twitter:
+        url: https://twitter.com/marciahofmann
+        followers: 17028
+  - name: Brian Klein
+    imagename: null
+    position: Legal Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brian-klein-a6a1667
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/brianeklein
+        followers: 5647
+  - name: Chris Hazlitt
+    imagename: null
+    position: Corporate Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chrishazlitt
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/ZCashco
+  reddit: https://www.reddit.com/r/zec/
+  twitter: https://twitter.com/zcashco
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: https://discord.com/invite/PXHqXV2
+github:
+  username: zcash
+  main_repository: zcash/zcash
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
