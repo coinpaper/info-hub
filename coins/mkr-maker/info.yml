@@ -1,0 +1,1112 @@
+id: mkr-maker
+symbol: MKR
+name: Maker
+logo: mkr-maker_logo@512x512.png
+founded: '2015-08-15'
+descriptions:
+  one_sentence: Backbone of asset backed stablecoin DAI
+  introduction: The Dai Stablecoin is a collateral-backed cryptocurrency whose value
+    is stable relative to the US Dollar. We believe that stable digital assets like
+    Dai Stablecoin are essential to realizing the full potential of blockchain technology.
+  technology: Maker is a smart contract platform on Ethereum that backs and stabilizes
+    the value of Dai through a dynamic system of Collateralized Debt Positions (CDPs),
+    autonomous feedback mechanisms, and appropriately incentivized external actors.
+    Maker enables anyone to leverage their Ethereum assets to generate Dai on the
+    Maker Platform.
+  future: 'Once generated, Dai can be used in the same manner as any other cryptocurrency:
+    it can be freely sent to others, used as payments for goods and services, or held
+    as long-term savings. Importantly, the generation of Dai also creates the components
+    needed for a robust decentralized margin trading platform..'
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-01-30'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers: []
+whitepaper:
+  abstract: Maker (MKR) is a utility token, governance token and recapitalization
+    resource of the Maker system.
+  file: mkr-maker_whitepaper.pdf
+website:
+  url: https://makerdao.com
+video:
+  url: https://www.youtube.com/watch?v=BrXmWQeteWE
+team:
+  leader:
+    name: Rune Christensen
+    imagename: mkr-maker_rune_christensen.png
+    position: CEO
+    description: Chief Executive Officer and Cofounder of MakerDAO. Since 2015, he
+      has focused on establishing the vision and organizational structure of the Maker
+      Decentralized Autonomous Organization and the economic foundations of the Dai
+      stable digital currency. Previously, he served as co-founder of Try China, a
+      company providing international recruiting.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rune-christensen-5b5220ab/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/runekek?lang=en
+        followers: 8112
+  members:
+  - name: Greg Diprisco
+    imagename: mkr-maker_greg_diprisco.png
+    position: Head of Business Development
+    description: Greg graduated from Villanova University, he is a partner of Distributed
+      Capital Partners as well as CEO of EtherIndex.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/gregory-diprisco-0672a9125
+        followers: null
+      medium:
+        url: https://medium.com/@greg_10160
+        followers: 798
+      twitter:
+        url: null
+        followers: null
+  - name: Soren Peter Nielsen
+    imagename: mkr-maker_soren_peter_nielsen.png
+    position: Head of Product
+    description: 'He is an experienced Engineer and Software Architect. good at analyzing
+      complex matters, and then finding and delivering new and untraditional solutions
+      in an agile manner.
+
+      Industries: Manufacturing, Energy, Semiconductor, Consumer Electronics, Travel
+      & Transportation, SMB, Banking, Insurance, Petroleum, News & Media, Public Sector '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sorenp
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sorenp
+        followers: 919
+  - name: Steven Becker
+    imagename: mkr-maker_steven_becker.png
+    position: President & COO
+    description: "Steven has graduated from the University of Cape Town as the first\
+      \ Class. \nDesign and implement an operational framework to support the supply\
+      \ of stable coin into the blockchain ecosystem."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Milenius
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andy-milenius-919922123/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bartek Kiepuszewski
+    imagename: null
+    position: Head of Product
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lev Livnev
+    imagename: null
+    position: Economic Research Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wouter Kampmann
+    imagename: null
+    position: Integrations PM
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Coulter Mulligan
+    imagename: null
+    position: Head of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/coultermulligan
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Henry Doe
+    imagename: null
+    position: Head of UX & Design
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mariano Conti
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/nanexcool
+        followers: 83
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nanexcool?lang=en
+        followers: 8921
+  - name: Mike Porcaro
+    imagename: null
+    position: Head of Communications
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mikeporcaro/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacek Czarnecki
+    imagename: null
+    position: General Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jacekczarnecki
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brian Avello
+    imagename: null
+    position: General Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brian-avello-35915b1b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Katie Ryan
+    imagename: null
+    position: Operations Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Reidy
+    imagename: null
+    position: Sysadmin and Liquidity Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martin GS
+    imagename: null
+    position: Keeper Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Brockman
+    imagename: null
+    position: Smart Contracts Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dbrock
+        followers: 110
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mikael Brockman
+    imagename: null
+    position: Smart Contracts Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mbrock
+        followers: 61
+      linkedin:
+        url: https://www.linkedin.com/in/mikael-brockman-b55a565a
+        followers: null
+      medium:
+        url: https://medium.com/@mbrock
+        followers: 64
+      twitter:
+        url: null
+        followers: null
+  - name: Mariano Di Pietrantonio
+    imagename: null
+    position: Community Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@marianodp
+        followers: 80
+      twitter:
+        url: https://twitter.com/Mariandipietra
+        followers: 3856
+  - name: "Jakub W\u0142odarczyk"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kuba-wlodarczyk/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gonzalo Balabasquer
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/gbalabasquer
+        followers: 20
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Casey
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Thomas Pulber
+    imagename: null
+    position: Front End Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Georgi Georgiev
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fernando Tiberti
+    imagename: null
+    position: Front End Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Richard Brown
+    imagename: null
+    position: Technical Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robert Horvath
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ashleigh Schapp
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Niklas Kunkel
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sean Brennan
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tyler Sorensen
+    imagename: null
+    position: Technical Account Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shannon Wu
+    imagename: null
+    position: Marketing Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael McDonald
+    imagename: null
+    position: Analytics
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jack Ek
+    imagename: null
+    position: Formal Verification Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Denis Erfurt
+    imagename: null
+    position: Formal Verification Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martin Lundfall
+    imagename: null
+    position: Formal Verification Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jessica Salomon
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ethan Bennett
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jordan Jackson
+    imagename: null
+    position: Testing & Usability Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lawrence Wang
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lawrencewang/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ian Harvey
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joshua Levine
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael Elliot
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lorenzo Manacorda
+    imagename: null
+    position: Technical Operations Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lorenzomanacorda/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michael McKain
+    imagename: null
+    position: Product Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/michael-mckain/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Bradbury
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chris-bradbury-b7354246/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: George Niculae
+    imagename: null
+    position: DevOps
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jennifer Senhaji
+    imagename: null
+    position: Account Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jsenhaji/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joseph Quintillian
+    imagename: null
+    position: Accounting
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vamsi Alluri
+    imagename: null
+    position: Technical Account Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peter Ujvari
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Edvard H\xFCbinette"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nikolai Mushegian
+    imagename: null
+    position: Chief Scientist (nChain)
+    description: null
+    links:
+      github:
+        url: https://github.com/nmushegian
+        followers: 122
+      linkedin:
+        url: https://www.linkedin.com/in/nikolai-mushegian-a8276423
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Padovano
+    imagename: null
+    position: Company Counsel
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/christopherpadovano
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qijun
+    imagename: null
+    position: China Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/MakerdaoMKR
+  reddit: https://www.reddit.com/r/MakerDAO
+  twitter: https://twitter.com/MakerDAO
+  facebook: null
+  medium: null
+  vimeo: https://vimeo.com/247715549
+  discord: null
+github:
+  username: makerdao
+  main_repository: makerdao/awesome-makerdao
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
