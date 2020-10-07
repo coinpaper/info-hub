@@ -1,0 +1,163 @@
+id: cel-celsius
+symbol: CEL
+name: Celsius
+logo: cel-celsius_logo@512x512.png
+founded: '2019-01-01'
+descriptions:
+  one_sentence: Crypto staking and loans
+  introduction: The Celsius Network will be the next generation of lending and borrowing
+    for the cryptocurrency community. We are proud to be comprised of a team of experienced
+    entrepreneurs who know how to take a concept from ideation to full execution on
+    a global scale.
+  technology: There is no technology description for Celsius yet.
+  future: We can not provide any looks into the future for Celsius yet.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2019-01-01'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d
+- https://ethplorer.io/address/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d
+whitepaper:
+  abstract: The Celsius Network will be the next generation of lending and borrowing
+    for the cryptocurrency community. We are proud to be comprised of a team of experienced
+    entrepreneurs who know how to take a concept from ideation to full execution on
+    a global scale.
+  file: cel-celsius_whitepaper.pdf
+website:
+  url: https://celsius.network
+video:
+  url: https://www.youtube.com/watch?v=ZZYRFrhzUdU
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/celsiusnetwork
+  reddit: null
+  twitter: null
+  facebook: https://www.facebook.com/CelsiusNetwork/
+  medium: https://medium.com/@CelsiusNetwork
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
