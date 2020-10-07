@@ -1,0 +1,185 @@
+id: etc-ethereum-classic
+symbol: ETC
+name: Ethereum Classic
+logo: etc-ethereum-classic_logo@512x512.png
+founded: '2016-07-20'
+descriptions:
+  one_sentence: Ethereum copy with uncensored/unsecured possibilities
+  introduction: Ethereum Classic is an open-source, public, blockchain-based distributed
+    computing platform featuring smart contract (scripting) functionality. It provides
+    a decentralized Turing-complete virtual machine, the Ethereum Virtual Machine
+    (EVM), which can execute scripts using an international network of public nodes.
+    Ethereum Classic also provides a value token called "classic ether", which can
+    be transferred between participants, stored in a cryptocurrency wallet and is
+    used to compensate participant nodes for computations performed. The classic ether
+    token is traded on cryptocurrency exchanges under the ticker symbol ETC. Gas,
+    an internal transaction pricing mechanism, is used to prevent spam on the network
+    and allocate resources proportionally to the incentive offered by the request.
+  technology: 'The Ethereum platform has been forked into two versions: "Ethereum
+    Classic" (ETC) and "Ethereum" (ETH). Prior to the fork, the token had been called
+    Ethereum. After the fork, the new tokens kept the name Ethereum (ETH), and the
+    old tokens were renamed Ethereum Classic (ETC). Ethereum Classic appeared as a
+    result of a disagreement with the Ethereum Foundation regarding The DAO Hard Fork.
+    It united members of the Ethereum community who rejected the hard fork on philosophical
+    grounds.'
+  future: Users that owned ETH before the DAO hard fork (block 1920000) own an equal
+    amount of ETC after the fork. Ethereum Classic passed a technical hard fork to
+    adjust the internal prices for various opcodes of the Ethereum Virtual Machine
+    (EVM) on October 25, 2016, similar to the hard fork committed by Ethereum a week
+    previously. The purpose of the hard fork was a more rational distribution of payments
+    for resource-intensive calculations, which led to the elimination of the favorable
+    conditions for attacks that were previously conducted on ETH and ETC. A hard fork
+    held at the beginning of 2017 successfully delayed the "bomb complexity" that
+    was added to the Ethereum code in September 2015 with a view of exponentially
+    increasing the complexity of mining and the process of calculation of new network
+    units. In late 2017, a hard fork occurred which changed the monetary policy with
+    unlimited emissions to a system similar to Bitcoin..
+blockchain:
+  consensus: Proof of Work
+  algorithm: Ethash
+  issue_date: '2016-07-23'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://blockscout.com/etc/mainnet/
+whitepaper:
+  abstract: "Ethereum Classic is an open-source, public, blockchain-based distributed\
+    \ computing platform featuring smart contract functionality.\r\nEthereum Classic\
+    \ is a continuation of the original Ethereum blockchain - the classic version\
+    \ preserving untampered history."
+  file: etc-ethereum-classic_whitepaper.pdf
+website:
+  url: https://ethereumclassic.org
+video:
+  url: https://www.youtube.com/watch?v=7lwKClbkXYI
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/ethclassic
+  reddit: https://www.reddit.com/r/EthereumClassic
+  twitter: https://twitter.com/eth_classic
+  facebook: https://www.facebook.com/ethereumclassic/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: ethereumclassic
+  main_repository: ethereumclassic/ethereumclassic.github.io
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
