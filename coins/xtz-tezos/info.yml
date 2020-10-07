@@ -1,0 +1,506 @@
+id: xtz-tezos
+symbol: XTZ
+name: Tezos
+logo: xtz-tezos_logo@512x512.png
+founded: '2017-07-01'
+descriptions:
+  one_sentence: Smart contracts with advanced protocol
+  introduction: Tezos is a self-amending blockchain that can evolve by upgrading itself.
+    Stakeholders vote on amendments to the protocol, including amendments to the voting
+    procedure itself, to reach social consensus on proposals. Tezos supports smart
+    contracts and offers a platform to build decentralized applications.
+  technology: On-Chain Governance. The Tezos protocol offers a formal process through
+    which stakeholders can efficiently govern the protocol and implement future innovations.
+    Security.
+  future: "The Tezos blockchain was designed to facilitate formal verification, which\
+    \ helps secure smart contracts and avoid buggy code. Proof-of-Stake. Tezos\u2019\
+    \ unique proof-of-stake consensus algorithm gives every stakeholder the opportunity\
+    \ to participate in the validation of transactions on the network and be rewarded\
+    \ by the protocol for doing so."
+blockchain:
+  consensus: Liquid Proof of Stake
+  algorithm: LPOS
+  issue_date: '2018-06-30'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers: []
+whitepaper:
+  abstract: 'Tezos, a generic and self-amending crypto-ledger. Tezos can instantiate
+    any blockchain based ledger. The operations of a regular blockchain are implemented
+    as a purely functional module abstracted into a shell responsible for network
+    operations. Bitcoin, Ethereum, Cryptonote, etc. can all be represented within
+    Tezos by implementing the proper interface to the network layer. Most importantly,
+    Tezos supports meta upgrades: the protocols can evolve by amending their own code.'
+  file: xtz-tezos_whitepaper.pdf
+website:
+  url: https://tezos.com
+video:
+  url: https://www.youtube.com/watch?v=It96bIBPXZ0
+team:
+  leader:
+    name: Kathleen Breitman
+    imagename: xtz-tezos_kathleen_breitman.png
+    position: CEO & Co-founder
+    description: 'Kathleen Breitman is the CEO of Tezos, a blockchain-based smart
+      contract platform with an on-chain governance mechanism to coordinate and push
+      upgrades to its network. Prior to Tezos, Kathleen was a senior strategy associate
+      for R3, a blockchain consortium of more than 70 financial firms. She has also
+      worked at Accenture, Bridgewater Associates,...
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/breitwoman/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/breitwoman
+        followers: 15084
+  members:
+  - name: Arthur Breitman
+    imagename: null
+    position: CEO & Co-Founder
+    description: null
+    links:
+      github:
+        url: https://github.com/murbard
+        followers: 195
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vincent Bernardoff
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vbmithr/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Bozman \xC7a\u011Fda\u015F"
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/cago/
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/cbozman/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Benjamin Canou
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/klakplok
+        followers: 59
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pierre Chambart
+    imagename: null
+    position: Senior R&D Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/chambart
+        followers: 78
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Gr\xE9goire Henry"
+    imagename: null
+    position: Senior R&D Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/hnrgrgr
+        followers: 57
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mohamed Iguernlala
+    imagename: null
+    position: Senior R&D Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: 10
+      linkedin:
+        url: https://www.linkedin.com/in/mohamed-iguernlala-71515979/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fabrice Le Fessant
+    imagename: null
+    position: Scientific Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/lefessan
+        followers: 83
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Guillem Rieu
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/venator
+        followers: 22
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alain Mebsout
+    imagename: null
+    position: R&D Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/mebsout
+        followers: 10
+      linkedin:
+        url: https://www.linkedin.com/in/mebsout
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrew Miller
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/socrates1024
+        followers: 16012
+  - name: "Emin G\xFCn Sirer"
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/emin-gun-sirer-0a921a4
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/el33th4xor
+        followers: 84737
+  - name: Zooko Wilcox
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zookow
+        followers: null
+      medium:
+        url: https://medium.com/@zooko_25893
+        followers: 88
+      twitter:
+        url: https://twitter.com/zooko
+        followers: 58142
+socials:
+  telegram: https://t.me/TezosAnnouncements
+  reddit: https://www.reddit.com/r/tezos
+  twitter: https://twitter.com/tezos
+  facebook: null
+  medium: https://medium.com/tezos
+  vimeo: null
+  discord: null
+github:
+  username: tezos
+  main_repository: tezos/tezos
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "Tezos is a \u2018decentralized Blockchain that governs itself\
+        \ by establishing a digital commonwealth and facilitates formal verification\u2019\
+        , according to its official website. Unlike Bitcoin and other cryptocurrencies,\
+        \ Tezos does not solely rely on mining of Tezos (XTZ) tokens to process its\
+        \ transactions, rather, it makes use of the proof-of-stake methodology.<br\
+        \ />\r\nThe main purpose of launching Tezos was to cause a revolution in the\
+        \ cryptocurrency technology, by redefining the building blocks of the transaction\
+        \ process in order to facilitate an upgrade so that it would be replaced in\
+        \ a modular way. The intention was to create a cryptocurrency that can be\
+        \ governed decentral. The company stated that Tezos\u2019 goal was to become\
+        \ \u201Cthe last cryptocurrency\u201D in the sense that all the innovative\
+        \ changes of competing technologies could be readily accepted and incorporated\
+        \ in the Tezos Blockchain. For this, Tezos will always be updated and bear\
+        \ the latest version of Blockchain technology (Frankenfield, 2019). <br />\r\
+        \n"
+      score: 4.6
+      references: 'Frankenfield, J. (2019, June 25). Investopedia. Retrieved from
+        Investopedia Website: https://www.investopedia.com/terms/t/tezos.asp'
+  current_stand:
+    scandals_highlights:
+      description: "After Dynamic Ledger Systems (DLS) announced their adamant vision\
+        \ of developing a technology of the sort of Tezos in 2014, the cryptocurrency\
+        \ much to people\u2019s surprise was dormant in the market, but as it turned\
+        \ out, a lot was happening behind the scenes rather than on its marketing.\
+        \ The team spent quite a time developing the ledger system of Tezos and then\
+        \ finally in 2017, DLS butted heads with Tezos Foundation to hold its first-ever\
+        \ Initial Coin Offering (ICO) event.<br />\r\nTezos Foundation, under Johann\
+        \ Gavers, drew a massive hype and brought a lot of attention to Tezos cryptocurrency\
+        \ in their first ICO which began on 1 July 2017. In a record-breaking event,\
+        \ Tezos managed to raise $232 million which showcased the belief and trust\
+        \ the users put in the technology (Frankenfield, 2019).<br />\r\nHowever,\
+        \ things went downhill for both Tezos Foundation and DLS soon after their\
+        \ successful ICO launch. It was revealed that Arthur Breitman, a former employee\
+        \ of Morgan Stanley, had not disclosed his involvement in DLS and had built\
+        \ Tezos architecture while still working at Morgan Stanley. He was, for this\
+        \ reason, fined $20,000 by FINRA and suspended from associating himself with\
+        \ any broker-dealer firms (The Analyst Team, 2018).<br />\r\nIn a turn of\
+        \ events, a public squabble between the Breitmans, who owned the intellectual\
+        \ rights of Tezos, and Johann Gavers, the head of Tezos Foundation, broke\
+        \ out. Gavers refused to release the funds generated through the ICO to DLS.\
+        \ As a result of the dispute, the launch of the Tezos platform was delayed\
+        \ and it led to mayhem within the Tezos community. After being in the news\
+        \ for the bad reason, Gavers decided to step down from Tezos Foundation. He\
+        \ left the company with a severing amount of $400,000 and a broken image of\
+        \ the Foundation. However, since then, the developments regarding Tezos have\
+        \ streamlined and things are getting back into shape (Mitra, 2019).<br />\r\
+        \nThough no official statistics are available, it is believed that Tezos Blockchain\
+        \ will generate a whopping 10 billion Tezos Tokens. This might create inflation\
+        \ issues.<br />\r\n"
+      score: 1.5
+      references: "Frankenfield, J. (2019, June 25). Investopedia. Retrieved from\
+        \ Investopedia Website: https://www.investopedia.com/terms/t/tezos.asp<br\
+        \ />\r\nThe Analyst Team. (2018, August 15). Crypto Briefing. Retrieved from\
+        \ Crypto Briefing Website: https://cryptobriefing.com/what-is-tezos-introduction-xtz/<br\
+        \ />\r\nMitra, R. (2019, April 12). Blockgeeks. Retrieved from Blockgeeks\
+        \ Website: https://blockgeeks.com/guides/what-is-tezos/<br />\r\n"
+    product:
+      description: "Tezos is a distributed ledger-based on Blockchain technology,\
+        \ just like Bitcoin and Ethereum. Its consensus mechanism is a Proof-of-Work\
+        \ system and it makes use of \u2018smart contracts\u2019. There is more to\
+        \ its good qualities as what it does in a rather revolutionary development,\
+        \ is that it takes the concept of smart contracts one step further, by \u201C\
+        letting the participants directly control the rules of the network\u201D.\
+        \ The modular architecture of Tezos gives it a competitive edge as flexibility\
+        \ and scalability are two major issues that have halted Bitcoin from growing.\
+        \ The project is far from being finished (Smith, 2018)."
+      score: 2.0
+      references: 'Smith, R. (2018, August 20). Coin Central. Retrieved from Coin
+        Central Website: https://blockgeeks.com/guides/what-is-tezos/'
+    development:
+      description: Tezos network has been developed by Dynamic Ledger Systems (DLS)
+        under the technical leadership of CTO Arthur Breitman. The code is placed
+        under the MIT Open Source License and all development works happen on GitLab.
+        Code development is solid.
+      score: 3.8
+      references: null
+    partnerships:
+      description: "Tezos has finally put down their foot in the market and is building\
+        \ partnerships with notable firms. In a recent development, Tezos Foundation\
+        \ has announced in a public statement that they have signed MoU worth $1 billion\
+        \ with Brazil\u2019s largest investment bank, Banco BTG Pactual and a Dalma\
+        \ Capital, a Dubai based asset management firm (Vitaris, 2019). Other partnerships\
+        \ were built with two research groups."
+      score: 4.1
+      references: 'Vitaris, B. (2019, July 04). Crypto Potato. Retrieved from Crypto
+        Potato Website: https://cryptopotato.com/tezos-announces-partnership-with-brazils-largest-investment-bank-xtz-price-spikes-20/'
+    community:
+      description: 'Tezos has recently made its way into the mainstream media and
+        has become the talk of the town in a positive light, because before that,
+        it was not well-represented within its community and in the eyes of the general
+        cryptocurrency users at large. However, this trend is changing and Tezos is
+        beginning to be talked about in better representation in various platforms
+        and forums. '
+      score: 3.2
+      references: null
+    substitutes:
+      description: Tezos is considered to be the latest technology among several cryptocurrencies.
+        As defined in its goal, it aims to become a type of tool that is considered
+        sufficient for everything, by adopting and upgrading its own network to compete
+        with all other cryptocurrencies. If everything works out as planned, it will
+        be able to substitute every other cryptocurrency including Bitcoin and Ethereum.
+      score: 3.5
+      references: null
+  foresight:
+    prediction:
+      description: "Since the recent positive press began to emerge for Tezos, things\
+        \ have been changing for the best and plans are moving toward the right direction,\
+        \ but technical hurdles might break this project\u2019s neck. The crypto revolution\
+        \ might have to wait for a longer time than it anticipated."
+      score: 2.7
+      references: null
+    projects:
+      description: Just like Ethereum, Tezos offers a Blockchain platform that allows
+        users to develop their own DApps and software protocols. According to the
+        official website, more than 1000 different developers are working on different
+        projects. Some of the notable projects listed by the official website are
+        Tezos Agora, TZ Hunt, Tezsure and Pocket Network.
+      score: 4.4
+      references: null
+    potential:
+      description: Tezos holds a lot of potentials. The modular approach that it suggests,
+        gives a whole new meaning to the development of Blockchain technology. If
+        Tezos manages to get its breakthrough, it could render most cryptocurrencies
+        obsolete.
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The technology (still in beta-phase) has been launched in May 2019.
+        There are other products in the form of DApps as well. However, a little time
+        is required so that the test performance situation would become clear.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Tezos has achieved a TPS of around 40 on its Mainnet (live network).
+        However, the Tezos foundation claims that its theoretical limit is much higher
+        than this.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: There are virtually zero transaction fees on the Tezos network.
+        Contrarily, the users are rewarded for their involvement in the transactional
+        process.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: The transaction speed is much lower compared to other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: Tezos has returned to the mainstream media after being dormant
+        for some dormant years. As compared to previous years, it is being greatly
+        accepted by the general public and developers are giving the Tezos network
+        a shot as some are building their DApps on top of the Tezos network.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: Tezos Blockchain is not based on mining procedures and for that
+        reason, it is not energy-intensive.
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: At the core of Tezos Blockchain is an improved decentralized network.
+        It allows users better participation in the process while maintaining a high
+        level of decentralization of the network. Tezos is basically cleaning the
+        concept of decentralization from tyrannical remnants.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: 'Tezos is available on the top exchanges. '
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "Tezos was founded by Arthur Breitman and Kathleen Breitman in\
+        \ 2014. With a team of core developers, the two started working on the technology\
+        \ with their headquarters located in Switzerland. Arthur and his wife control\
+        \ the founding company Dynamic Ledger Solutions (DLS) and own the intellectual\
+        \ property rights of the Tezos technology. The token\u2019s ICO was organized\
+        \ by Tezos Foundation which is headed by Johann Gavers (The Analyst Team,\
+        \ 2018)."
+      score: 1.9
+      references: 'The Analyst Team. (2018, August 15). Crypto Briefing. Retrieved
+        from Crypto Breifing Website: https://cryptobriefing.com/what-is-tezos-introduction-xtz/'
+    developers:
+      description: Tezos is looked after by the Tezos Foundation. There is a team
+        of advisors and developers who constantly work towards the better development
+        and representation of the cryptocurrency. Among this development team are
+        Arthur Breitman, Kathleen Breitman, and Vincent Bernardoff. The advisors include
+        Andrew Miller, Emin Gun Sirer and Zooko Wilcox.
+      score: 2.5
+      references: null

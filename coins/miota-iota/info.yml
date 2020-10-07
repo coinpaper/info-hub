@@ -1,0 +1,737 @@
+id: miota-iota
+symbol: MIOTA
+name: IOTA
+logo: miota-iota_logo@512x512.png
+founded: '2017-07-01'
+descriptions:
+  one_sentence: Machine to machine micro transactions
+  introduction: "IOTA is an open-source distributed ledger protocol that goes 'beyond\
+    \ blockchain' through its core invention of the blockless \u2018Tangle\u2019."
+  technology: The IOTA Tangle is a quantum-proof Directed Acyclic Graph, with no fees
+    on transactions & no fixed limit on how many transactions can be confirmed per
+    second in the network. Instead, throughput grows in conjunction with activity
+    in the network; the more activity, the faster the network. Unlike blockchain architecture,
+    IOTA has no separation between users and validators; rather, validation is an
+    intrinsic property of using the ledger, thus avoiding centralization.
+  future: IOTA is initially focused on serving as the backbone of the emerging Internet-of-Things
+    (IoT)..
+blockchain:
+  consensus: Tangle
+  algorithm: Kerl
+  issue_date: '2017-07-23'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Beta version
+explorers:
+- https://iotasear.ch/
+- https://thetangle.org/
+whitepaper:
+  abstract: "In this paper we analyze the mathematical foundations of IOTA, a cryptocurrency\
+    \ for the Internet-of-Things (IoT) industry. The main feature of this novel cryptocurrency\
+    \ is the tangle, a directed acyclic graph (DAG) for storing transactions. The\
+    \ tangle naturally succeeds the blockchain as its next evolutionary step, and\
+    \ offers features that are required to establish a machineto-machine micropayment\
+    \ system.<br />\r\n"
+  file: miota-iota_whitepaper.pdf
+website:
+  url: https://www.iota.org
+video:
+  url: https://www.youtube.com/watch?v=CZxH1V_zoug
+team:
+  leader:
+    name: Sergey Ivancheglo
+    imagename: miota-iota_sergey_ivancheglo.png
+    position: MEMBER BOARD OF DIRECTORS & FOUNDER
+    description: He holds a Bachelor of Science with specialization in electronics
+      and artificial intelligence. He has been working as a software engineer for
+      more than 20 years, and since 2011 he has been primarily focused on Distributed
+      Ledger Technology. Since childhood, he has been interested in the development
+      of computer games, which later transformed into an interest in Massively Multiplayer
+      Online Games and Virtual / Augmented Reality.
+    links:
+      github:
+        url: https://github.com/Come-from-Beyond
+        followers: 3
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@comefrombeyond
+        followers: 797
+      twitter:
+        url: https://twitter.com/c___f___b
+        followers: 8081
+  members:
+  - name: Dominik Schiener
+    imagename: miota-iota_dominik_schiener.png
+    position: CO-CHAIRMAN OF THE BOARD OF DIRECTORS & FOUNDER
+    description: Dominik is an entrepreneur from Italy, with a passion to drive change
+      in society and business.
+    links:
+      github:
+        url: https://github.com/domschiener
+        followers: 530
+      linkedin:
+        url: https://www.linkedin.com/in/schiener/
+        followers: null
+      medium:
+        url: https://medium.com/@domschiener
+        followers: 7951
+      twitter:
+        url: https://twitter.com/domschiener
+        followers: 40599
+  - name: David Sonstebo
+    imagename: miota-iota_david_sonstebo.png
+    position: CO-CHAIRMAN OF THE BOARD OF DIRECTORS & FOUNDER
+    description: David is a serial entrepreneur with a passion for any kind of technology
+      that can push human progress forward.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@DavidSonstebo
+        followers: 12322
+      twitter:
+        url: https://twitter.com/davidsonstebo
+        followers: 39348
+  - name: Ralf Rottmann
+    imagename: miota-iota_ralf_rottmann.png
+    position: MEMBER BOARD OF DIRECTORS
+    description: Ralf is a serial entrepreneur who sold his last company to Alcatel-Lucent
+      and is the co-founder of grandcentrix, Germany's leading SI for end-to-end Internet
+      of Things productions.
+    links:
+      github:
+        url: https://github.com/ralfr
+        followers: 26
+      linkedin:
+        url: https://www.linkedin.com/in/rottmann/de
+        followers: null
+      medium:
+        url: https://medium.com/@ralf
+        followers: 2857
+      twitter:
+        url: https://twitter.com/ralf
+        followers: 14865
+  - name: Serguei Popov
+    imagename: miota-iota_serguei_popov.png
+    position: MEMBER BOARD OF DIRECTORS & FOUNDER
+    description: Professor of Mathematics with focus in Probability Theory. Also a
+      mountain climber, chess enthusiast and heavy metal lover.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/serguei-popov-631bb762/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Licciardello
+    imagename: miota-iota_john_licciardello.png
+    position: MANAGING DIRECTOR, ECOSYSTEM DEVELOPMENT FUND
+    description: John spent many years working in FinTech and holds degrees in Engineering,
+      Economics, and Finance. The convergence of these fields in DLTs makes for an
+      ideal home. He spearheaded the integration of the technology with over 2,000
+      points of sale across Mexico, and played a leading role in closing a $10 million
+      Series-A financing round.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johndlicciardello/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/J0hndom
+        followers: 437
+  - name: "Janine H\xE4rtel"
+    imagename: "miota-iota_janine_h\xE4rtel.png"
+    position: SENIOR PRODUCT MANAGER
+    description: 'Janine has worked in several strategic automotive projects with
+      a strong focus on new business models in MaaS applications and OTA services.
+      Janine studied communication engineering with a major in mechanical engineering
+      at the Research University RWTH located in Aachen. Janine started her career
+      in a spin off company from The Institute for Industrial Management (FIR) at
+      RWTH Aachen, in the field of production engineering. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/janine-h%C3%A4rtel-715761a4/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rihards Gravis
+    imagename: miota-iota_rihards_gravis.png
+    position: SOFTWARE ENGINEER
+    description: Rihards Gravis is the lead developer of the Trinity desktop wallet
+      and long standing member of the IOTA community. After graduating from The Vidzeme
+      University of Applied Sciences he has been gaining development-related experience
+      over the past 10 years. He started as a front-end developer and recently led
+      the technical team of an award winning digital agency. For the past three years
+      he was the technical co-founder of a web design communication platform.
+    links:
+      github:
+        url: https://github.com/rihardsgravis
+        followers: 18
+      linkedin:
+        url: https://www.linkedin.com/in/rihardsgravis
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sabri Goldberg
+    imagename: miota-iota_sabri_goldberg.png
+    position: CREATIVE DIRECTOR
+    description: Sabri is a well-known passionated graphic designer / illustrator
+      in the altcoin scene, who has been interested in cryptocurrency since the early
+      days. During his Communication Design studies at HTGW Konstanz, he deployed
+      his first online store.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sabri-goldberg-805a37b2
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sabrigoldberg
+        followers: 5286
+  - name: Paulo Finardi
+    imagename: miota-iota_paulo_finardi.png
+    position: RESEARCH SCIENTIST
+    description: "Paulo Finardi is a Computer Science student at the University of\
+      \ Campinas. His focus is on the game theory applied on topological structures\
+      \ of type Directed Acyclic Graph (DAG). The main goal of his research is develop\
+      \ a new tip selection algorithm based on theory of the Nash equilibrium strategies.\n\
+      Prior he was at University of Campinas\u200A\u2014\u200Awhere completed a M.Sc.\
+      \ in Applied Mathematics on numerical analysis to find path plans in heterogeneous\
+      \ domains."
+    links:
+      github:
+        url: https://github.com/finardi
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Dukakis
+    imagename: miota-iota_chris_dukakis.png
+    position: SOFTWARE ENGINEER
+    description: Chris Dukakis is a software engineer with experience in a variety
+      of web technologies. His constant preoccupation with software development started
+      at a young age, almost a decade ago. He is primarily focused on exploring and
+      building decentralized systems, being conscious about security and online privacy.
+    links:
+      github:
+        url: https://github.com/chrisdukakis
+        followers: 104
+      linkedin:
+        url: https://www.linkedin.com/in/chris-dukakis-b1138588/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paul Douglas
+    imagename: miota-iota_paul_douglas.png
+    position: SENIOR SOFTWARE ENGINEER
+    description: "Paul Handy is deeply interested in the science of things, he has\
+      \ been involved in a number of interesting projects ranging from industrial\
+      \ equipment and scientific instruments to microfluidic stereolithography to\
+      \ learning systems, control systems, and more. He holds a Bachelor\u2019s of\
+      \ Science degree in Electrical Engineering. Paul is passionate about electronics,\
+      \ physics, mathematics, cryptography, and peer-to-peer networks."
+    links:
+      github:
+        url: https://github.com/paulhandy/
+        followers: 60
+      linkedin:
+        url: https://www.linkedin.com/in/paul-handy/
+        followers: null
+      medium:
+        url: https://medium.com/@noctlos
+        followers: 256
+      twitter:
+        url: https://twitter.com/paul___douglas
+        followers: 181
+  - name: Vassil Dimitrov
+    imagename: miota-iota_vassil_dimitrov.png
+    position: SENIOR RESEARCH SCIENTIST
+    description: Professor Vassil Dimitrov holds a PhD degree in Applied Mathematics
+      from the Mathematical Institute of the Bulgarian Academy of Sciences in 1995.
+      At the moment he is a Full Professor at the Department of Computer Engineering,
+      University of Calgary, Canada. His research interests include implementation
+      of encryption algorithms, discrete mathematics, image processing, digital watermarking
+      and related topics.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vassil-dimitrov-85a44874/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sam Chen
+    imagename: miota-iota_sam_chen.png
+    position: SENIOR SOFTWARE ENGINEER
+    description: Sam Chen is a software engineer based in Taiwan, with experience
+      in embedded systems, the Android framework, and software integration. He holds
+      a Bachelor of Science with specialization in computer science and studied electronic
+      engineering in industrial high school. Sam has helped IC design companies to
+      develop smart-TVs, set-top boxes and media players and has been dedicated to
+      software architecture and performance analysis for 10 years.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aaron Alsop
+    imagename: miota-iota_aaron_alsop.png
+    position: PRODUCT OWNER
+    description: "Aaron Alsop lives in Vancouver, BC Canada and has been in the technology\
+      \ sector for over seventeen years. He has worked as a web developer, system\
+      \ administrator, project manager, and senior leader in Fortune 50 organizations.\
+      \ Previous to the IOTA Foundation, Aaron was the co-founder and CTO of Finaeo\
+      \ Inc.\u200A\u2014\u200Aa company focused on building technology for Financial\
+      \ Advisors."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aaronalsop/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/aaronalsop
+        followers: 742
+  - name: Wilfried Pimenta De Miranda
+    imagename: miota-iota_wilfried_pimenta_de_miranda.png
+    position: DIRECTOR OF BUSINESS DEVELOPMENT
+    description: Will is a senior strategist, business model innovator & business
+      development manager. He brings international experience from startups and incumbents
+      across various industries. Wilfried graduated from INSEAD with a Global Executive
+      MBA in 2013 spent in France, Singapore and Abu Dhabi. Back in 2001, he finalized
+      an international double Msc engineering degree from Ecole Centrale de Lyon,
+      France and NTNU, Norway.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wilfriedpimenta/
+        followers: null
+      medium:
+        url: https://medium.com/@wilfried.pimenta
+        followers: 425
+      twitter:
+        url: https://twitter.com/wilfriedpimenta
+        followers: 2335
+  - name: Julie Maupin
+    imagename: miota-iota_julie_maupin.png
+    position: DIRECTOR OF SOCIAL IMPACT & PUBLIC REGULATORY AFFAIRS
+    description: Julie is a world-leading expert on the regulatory implications and
+      public sector use cases of DLTs, cryptocurrencies, smart contracts, artificial
+      intelligence and IoT technologies. Expert in international economic law (investment,
+      trade, financial and monetary law), experimental governance, cross-border regulatory
+      cooperation, and global economic governance regimes.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/julie-maupin-606aa4
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/juliemaupin?lang=en
+        followers: 3547
+  - name: Alisa Maas
+    imagename: miota-iota_alisa_maas.png
+    position: HEAD OF MOBILITY & AUTOMOTIVE
+    description: Since early 2010, Alisa has been active in the fields of mobility,
+      IoT and fleet management, gaining extensive topic expertise on digital business
+      models and product development. In her role as Senior Product and Marketing
+      Manager at Daimler FleetBoard GmbH, she successfully led several projects and
+      product launches focused on Internet-of-Things and telematics-based services.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alisa-maas-am
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jens Munch Lund-Nielsen
+    imagename: miota-iota_jens_munch_lund-nielsen.png
+    position: HEAD OF GLOBAL TRADE & SUPPLY CHAINS
+    description: "He has graduated in civil engineering and a master in Philosophy\
+      \ and holds an MBA from INSEAD. For the last 8 years he has taken up different\
+      \ roles within A.P. Moller\u200A-\u200AMaersk including launching a new e-trade\
+      \ platform for Africa, forged a partnership with a large bank to develop financial\
+      \ trade services with focus on emerging markets, co-founder of a public-private\
+      \ partnership with focus on trade facilitation including five governments, the\
+      \ ICC and the World Economic Forum."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jens-munch-lund-nielsen
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JensLundNielsen
+        followers: 475
+  - name: "Holger K\xF6ther"
+    imagename: "miota-iota_holger_k\xF6ther.png"
+    position: DIRECTOR OF PARTNERSHIPS
+    description: Holger has driven projects & IT services at multinational corporates
+      over the last 15 years. At the IF he manages the interfaces between the foundation,
+      partners and integrators. Holger has extensive know-how in project-, program-
+      and people management and has managed Atos-owned software products and global
+      IT services to improve monitoring, application performance and business service
+      management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/koether/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/iotatangle
+  reddit: https://www.reddit.com/r/Iota
+  twitter: https://twitter.com/iotatoken
+  facebook: https://www.facebook.com/iotatoken
+  medium: null
+  vimeo: null
+  discord: https://discord.com/invite/7Gu2mG5
+github:
+  username: iotaledger
+  main_repository: iotaledger/iri
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "IOTA is short for Internet of Things Application, and it provides\
+        \ seamless transactions between the devices present on the Internet of Things\
+        \ (Garner, 2018).<br />\r\nIOTA (MIOTA) attempts to become the main currency\
+        \ for all transactions of the Internet of Things (IoT). For this to happen\
+        \ Iota needs to solve the current problems of scalability, transaction speed,\
+        \ and centralization that has kept other cryptocurrencies on their toes. IOTA\
+        \ (MIOTA), is a cryptocurrency, specifically designed to process financial\
+        \ transactions that are faster, safer, cheaper, smaller and scalable (IOTA\
+        \ Support, 2018). This technology addresses the major concerns of scalability\
+        \ and transaction fees linked with other cryptocurrencies. IOTA offers a unique\
+        \ technique of facilitating transactions by eliminating the need for blockchains.\
+        \ Unlike many other cryptocurrencies, it uses distributed ledgers. This enables\
+        \ it to delete the \u2018miners,\u2019 and serve the purpose of faster and\
+        \ cheaper transactions using a mathematical concept of Directed Acyclic Graphs.\
+        \ This is the main essence of the IOTA technology which separates IOTA with\
+        \ every other cryptocurrency out there (Everything Tangle, 2017).<br />\r\n"
+      score: 4.7
+      references: "Garner, B. (2018, October 29). Coin Central. Retrieved from Coin\
+        \ Central Website: https://coincentral.com/what-is-iota-cryptocurrency-coin/<br\
+        \ />\r\nIOTA Support. (2018). IOTA Support. Retrieved September 10, 2019,\
+        \ from IOTA Support Website: https://iotasupport.com/whatisiota.shtml<br />\r\
+        \nEverything Tangle. (2017, December 5). IOTA explained in 2 minutes! Canada.\
+        \ Retrieved from https://www.youtube.com/watch?v=ivWqqfzunhI"
+  current_stand:
+    scandals_highlights:
+      description: "IOTA undoubtedly has an unmatched potential to be used as a major\
+        \ means of transaction in many real-world scenarios. Recent developments have\
+        \ occurred which are all in favor of the technology. Among them is the acceptance\
+        \ of IOTA as a technology of the future that will lead the IoT industry. To\
+        \ advance this purpose, S\xFCddeutsche Zeitung, one of Germany\u2019s biggest\
+        \ newspaper, held its annual summit in 2018. At the summit, Dominik Schiener\
+        \ (IOTA\u2019s co-founder) met and held a panel discussion with Helge Braun,\
+        \ Head of the Chancellery & Federal Minister for Special Affairs for Germany.\
+        \ The summit also featured Angela Merkel (German Chancellor), Jean-Claude\
+        \ Juncker (President of the EU Commission), and several ministers of the German\
+        \ government. Among the attendees were the top administration of many high-ranking\
+        \ German companies (Mueller, 2018).<br />\r\nThe team behind IOTA, at IOTA\
+        \ Foundation is reportedly working with Deutsche Telekom, Europe\u2019s largest\
+        \ telecommunication providers, and Deutsche Bahn, world\u2019s second-largest\
+        \ transport company to adopt IOTA and contribute to the IOTA\u2019s Data Marketplace\
+        \ (Mueller, 2018). Adding to this, Jaguar Land Rover, which is one of the\
+        \ leading automobile manufacturers in Europe, is working on a project that\
+        \ will reward its drivers with IOTA cryptocurrency in exchange for sharing\
+        \ data related to their location, road quality, car health, navigation, etc.\
+        \ (Chavez-Dreyfuss, 2019). All these developments regarding IOTA technology\
+        \ shows how serious and impactful this cryptocurrency can be.<br />\r\nIn\
+        \ January 2018, a wave of IOTA thefts swept the internet. A conman set up\
+        \ a website that claimed to guide the masses with the basics of IOTA and provided\
+        \ them with services like seed generation for their IOTA wallets. Deep down\
+        \ the otherwise seemingly safe website lied the scam of stealing IOTA coins\
+        \ from the user\u2019s wallets. Fortunately, Europol with the help of German\
+        \ and British authorities, and the support of the IOTA\u2019s active community\
+        \ was able to track down and arrest the man behind the notorious scam (Cimpanu,\
+        \ 2019). <br />\r\nAdditionally, what is considered the biggest achievement\
+        \ and the latest development regarding IOTA is that it is set to become standardized.\
+        \ According to Richard Soley, CEO of Object Management Group (OMG), the IOTA\
+        \ technology will be standardized by the International Organization for Standardization\
+        \ (ISO) by the end of the next year (Jain, 2019). After standardization, new\
+        \ horizons will open up for IOTA; it will become open-sourced, widely recognized\
+        \ and adopted, resulting in a boom in the IOTA\u2019s market capital share.<br\
+        \ />\r\n"
+      score: 4.9
+      references: "Mueller, C. (2018, September 4). Hello IOTA. Retrieved from Hello\
+        \ IOTA Website: https://helloiota.com/iota-co-founder-dominik-schiener-will-be-speaking-to-germanys-minister-of-the-chancellery/<br\
+        \ />\r\nChavez-Dreyfuss, G. (2019, April 29). Reuters. Retrieved from Reuters\
+        \ Website: https://www.reuters.com/article/us-crypto-currencies-jaguar-idUSKCN1S40UD<br\
+        \ />\r\nCimpanu, C. (2019, January 23). CBS Interactive. Retrieved from CBS\
+        \ Interactive Website: https://www.zdnet.com/article/europol-arrests-uk-man-for-stealing-eur10-million-worth-of-iota-cryptocurrency/<br\
+        \ />\r\nJain, T. (2019, August 1). OBN. Retrieved from OBN Website: https://ourbitcoinnews.com/crypto-technology-iota-to-become-officially-standardised/<br\
+        \ />\r\n"
+    product:
+      description: "The actual goal of IOTA is to provide a seamless transaction which\
+        \ is both faster and cheaper. In order to do this, IOTA has replaced the blockchain\
+        \ technology with its own technology knows as Tangle (IOTA Foundation, 2018).\
+        \ Tangle is a system of interlinked and individual transactions that are stored\
+        \ across the decentralized network of users. When a transaction is initiated,\
+        \ it needs to verify two previous random transactions, meaning each user plays\
+        \ the role of a miner by processing the previous transactions. <br />\r\n\
+        However, it is difficult to process transactions on a decentralized network\
+        \ like Tangle, as the data that needs to be obtained comes from outside the\
+        \ execution environment. To address this problem, IOTA has developed its own\
+        \ protocol, known as Qubic, which provides the solution in the form of quorum\
+        \ based computing (IOTA, 2018). In layman terms, Qubic offers support to the\
+        \ Tangle technology in form of multiprocessing capabilities.<br />\r\n"
+      score: 3.7
+      references: "IOTA Foundation. (2018, January 20). IOTA Foundation. Retrieved\
+        \ from IOTA Foundation Website: https://www.iota.org/research/meet-the-tangle<br\
+        \ />\r\nIOTA. (2018, February 1). IOTA Foundation. Retrieved from IOTA.org:\
+        \ https://qubic.iota.org/intro"
+    development:
+      description: "The IOTA Foundation is the main body representing and developing\
+        \ the IOTA technology. Under their hood, they have many projects which aim\
+        \ at renewing, updating and developing the code frequently.<br />\r\nAs mentioned\
+        \ earlier, Tangle is the technology that enables the IOTA currency to become\
+        \ a decentralized asset, unlike all other cryptocurrencies which are based\
+        \ on blockchain technology. In December 2018, IOTA Foundation in partnership\
+        \ with Cybercrypt A/S developed a lightweight trinary cryptographic hash function\
+        \ that is designed to provide security against all known cyber and crypt-based\
+        \ attacks. The hash function has been named Troika (Harbor, 2018).<br />\r\
+        \n<br />\r\n"
+      score: 4.8
+      references: "Harbor, C. (2018, Decembre 20). IOTA Foundation. Retrieved from\
+        \ IOTA Foundation Website: https://blog.iota.org/iota-and-cybercrypt-announce-new-lightweight-trinary-cryptographic-hash-function-678e741315e8<br\
+        \ />\r\nhttps://github.com/iotaledger"
+    partnerships:
+      description: "IOTA has already partnered with many industrial giants and is\
+        \ working on many different projects at the moment. The Foundations has developed\
+        \ the IOTA Data Marketplace in partnership with Bosch (Bosch Connected Devices\
+        \ and Solutions GmbH, 2019), is working on an innovative parking app with\
+        \ Edag (Lange, 2019). A smart city project is in the testing phase in collaboration\
+        \ with Fujitsu and Samsung (Paradigm, 2019). <br />\r\nAlso, IOTA Foundation\
+        \ is looking to generate seed funds with the start-up studio Nova for entrepreneurs\
+        \ that aim to contribute to the decentralized ledger technology (O'Brien,\
+        \ 2019).<br />\r\n<br />\r\n"
+      score: 5.0
+      references: "Bosch Connected Devices and Solutions GmbH. (2019, March 5). Bosch\
+        \ Connected Devices and Solutions GmbH. Retrieved from Bosch Connected Devices\
+        \ and Solutions GmbH Website: https://www.bosch-connectivity.com/newsroom/blog/xdk2mam/<br\
+        \ />\r\n<br />\r\nLange, G. (2019, August 21). Block-Builders GmbH. Retrieved\
+        \ from Block-Builders GmbH Website: https://block-builders.de/iota-als-schluesseltechnologie-fuer-innovative-parkplatz-app/<br\
+        \ />\r\n<br />\r\nParadigm. (2019, March 22). A Medium Corporation. Retrieved\
+        \ from A Medium Corporation Website: https://medium.com/paradigm-fund/iota-area-codes-trinity-update-new-untangled-episode-on-smart-cities-payments-app-zeux-adds-2d718dab6ec6<br\
+        \ />\r\n<br />\r\nO'Brien, C. (2019, February 18). Venture Beat. Retrieved\
+        \ from Venture Beat Website: https://venturebeat.com/2019/08/21/steam-disables-argentinian-currency/"
+    community:
+      description: The IOTA Foundation, together with the IOTA User community is working
+        continually with the aim of developing and improving the IOTA technology.
+        Recently, the IOTA Foundation has announced $5 million in grants to research
+        that aims to develop, optimize and facilitates in improving the IOTA technology
+        (Greve, 2019).
+      score: 4.5
+      references: 'Greve, A. (2019, July 25). A Mediums Corporation. Retrieved from
+        A Mediums Corporation Website: https://blog.iota.org/iota-announces-5-million-in-grants-for-coordicide-related-research-e586547cc948'
+    substitutes:
+      description: "IOTA was created with the sole purpose of making the financial\
+        \ transactions faster and more secure while cutting down on the processing\
+        \ fees. It uses a decentralized technology known as Tangle, as opposed to\
+        \ the blockchain concept that all other cryptocurrencies perform on. It solves\
+        \ the problem with apparently zero- processing fees while allowing for much\
+        \ smaller transactions. The technology was developed for the \u2018Internet\
+        \ of Things\u2019 devices and is, therefore, the technology of the future.\
+        \ Keeping these facts under consideration, it would not be wrong to say that\
+        \ there is no other substitute for IOTA. <br />\r\n"
+      score: 5.0
+      references: null
+  foresight:
+    prediction:
+      description: 'With the industry talking about the Industrial Revolution 4.0
+        and the paradigm shift to the Internet of Things, IOTA offers a strong and
+        impactful resource in its core. The possibility that IOTA could eliminate
+        all middlemen from the financial transactions and make transactions more scalable
+        further affirms that it is certainly the technology of the future if the IOTA
+        foundation manages to breach the chains of the trilemma by integrating the
+        Coordicide. '
+      score: 4.6
+      references: null
+    projects:
+      description: "Coordicide, which is being named as the next step in IOTA\u2019\
+        s evolution, is a project that eliminates all the coordinators and middle\
+        \ parties from the financial transaction, rendering IOTA a long-term decentralized\
+        \ platform (Markus, 2019). <br />\r\nAnother project supporting the IOTA technology\
+        \ is the Trinity Wallet being launched by the IOTA Foundation that is designed\
+        \ specifically for IOTA cryptocurrency.<br />\r\n"
+      score: 4.8
+      references: 'Markus. (2019, Febraury 25). A Mediums Corporation. Retrieved from
+        A Mediums Corporation Website: https://medium.com/@markusgebhardt/a-simple-explanation-of-the-iota-coordicide-8c9362472188'
+    potential:
+      description: 'IOTA technology has seemingly many real-world applications. With
+        the developments towards IoT, the use of IOTA increases day by day. The technology
+        has massive potential of proving itself to be technology of the future. '
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: IOTA exists in an actual product form. It is being used in many
+        applications, while many industrial giants are making use of the technology
+        to incorporate it into their IoT projects.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: "IOTA technology is much quicker than other cryptocurrencies. To\
+        \ put things in perspective, IOTA can process 500-800 transactions per second\
+        \ as compared to bitcoin\u2019s 7 transactions per second."
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: IOTA, apparently, does not charge any processing fees. Its transaction
+        cost is zero.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: "Since part of the IOTA transaction process requires verification\
+        \ from other users; the speed depends upon the number of active users present\
+        \ on the network. At present, people have demonstrated IOTA\u2019s transaction\
+        \ speeds which take up to 4-5 minutes to send and receive IOTA coins. More\
+        \ participants in the network will result in faster transaction times. "
+      is_pro: false
+      is_contra: true
+    security:
+      description: 'The developers of IOTA and its hash function Troika boasts the
+        security of their technology which does not work with blockchains. In fact,
+        the IOTA Foundation has announced that they are willing to give shares worth
+        up to $220,000 to anyone who can find loopholes in their technology. '
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: With IoT in its initial phases, the use of IOTA is limited. We
+        can say the technology is a little ahead of its time and is currently premature.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: "As IOTA is not based upon blockchains, it does not require mining.\
+        \ Therefore, IOTA is very energy-friendly. Since the validation process of\
+        \ IOTA\u2019s transaction does not involve heavy computations, it is not energy-intensive.\
+        \ All it requires is a minimal amount of energy from the devices of its users."
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: IOTA technology complies with the rules and regulations of the
+        EU General Data Protection Regulation, which means it secures the transactional
+        data of its users.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: The coin is centralized though the Coordinator. Coordicide has
+        not been implemented yet!
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: While some exchanges offer IOTA, including Binance, Coinone, Trade.io,
+        it is not available on many known exchanges like Coinbase and Bittrex.
+      is_pro: false
+      is_contra: true
+  team:
+    founders:
+      description: "IOTA was founded by David S\xF8nsteb\xF8, Sergey Ivancheglo, Dominik\
+        \ Schiener, and Dr. Serguei Popov in 2015 (IOTA Support , 2018). Dr. Serguei\
+        \ Popov, a Ph.D. in mathematics, developed the mathematical model of the technology\
+        \ they call \u2018Tangle\u2019, while it was transformed into code form by\
+        \ the software geniuses Sergey Ivancheglo and Dominik Schiener. The whole\
+        \ project is headed by David S\xF8nsteb\xF8 who is said to be an excellent\
+        \ businessman and equally talented in technology. The team is well reliable\
+        \ and trustworthy, owing to the fact that they have all been in the Crypto\
+        \ industry for a considerable time in their career.  "
+      score: 4.6
+      references: "IOTA Support.. (2018). IOTA Support.. Retrieved from IOTA Support\
+        \ Website: https://iotasupport.com/foundation.shtml<br />\r\n"
+    developers:
+      description: "The team behind IOTA is the IOTA Foundation led by David S\xF8\
+        nsteb\xF8. Among the founders are Sergey Ivancheglo, Dominik Schiener, and\
+        \ Dr. Serguei Popov. The supervisory team is led by Richard Soley, while the\
+        \ executive members all possess top-notch resumes and have ample experience\
+        \ in the relevant field (IOTA Support , 2018)."
+      score: 4.8
+      references: 'IOTA Support.. (2018). IOTA Support.. Retrieved from IOTA Support
+        Website: https://iotasupport.com/foundation.shtml'
