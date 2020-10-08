@@ -1,0 +1,170 @@
+id: thr-thorecoin
+symbol: THR
+name: ThoreCoin
+logo: thr-thorecoin_logo@512x512.png
+founded: '2020-01-01'
+descriptions:
+  one_sentence: Thore exchange token
+  introduction: "ThoreCoin is a standard ERC20 token, so you can hold it and transfer\
+    \ it & sell IT.\r\n\r\nThorecoin transparently offers investors no value.THR represents\
+    \ a basket of top-traded high-demand coins Simply put, it\u2019s a Basket of Multiple\
+    \ cryptocurrencies in which you can invest by buying  tokens, without the need\
+    \ to buy each cryptocurrency separately. It\u2019s an opportunity to easily participate\
+    \ in the growth of cryptocurrencies. It\u2019s a simple and comprehensible solution.\
+    \ You need to monitor only one price \u2013 the price of the #THR Token. \r\n\
+    By buying a Token, you get a share in this portfolio, THR token is traded as any\
+    \ other coin 24/7. Simply and quickly. "
+  technology: There is no technology description for ThoreCoin yet.
+  future: We can not provide any looks into the future for ThoreCoin yet.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2020-01-01'
+  type: unknown
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa
+- https://ethplorer.io/address/0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa
+whitepaper:
+  abstract: "ThoreCoin is a standard ERC20 token, so you can hold it and transfer\
+    \ it & sell IT.\r\n\r\nThorecoin transparently offers investors no value.THR represents\
+    \ a basket of top-traded high-demand coins Simply put, it\u2019s a Basket of Multiple\
+    \ cryptocurrencies in which you can invest by buying  tokens, without the need\
+    \ to buy each cryptocurrency separately. It\u2019s an opportunity to easily participate\
+    \ in the growth of cryptocurrencies."
+  file: thr-thorecoin_whitepaper.pdf
+website:
+  url: https://thorecoin.com/
+video:
+  url: https://www.youtube.com/watch?v=bko7Ai9GaEc
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/joinchat/Hvav4RB5dJeFxdV_KvG27Q
+  reddit: null
+  twitter: null
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
