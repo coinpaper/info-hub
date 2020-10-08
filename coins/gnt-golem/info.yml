@@ -1,0 +1,721 @@
+id: gnt-golem
+symbol: GNT
+name: Golem
+logo: gnt-golem_logo@512x512.png
+founded: '2016-11-11'
+descriptions:
+  one_sentence: Decentralized computing power
+  introduction: "Golem is a global, open source, decentralized supercomputer that\
+    \ anyone can access. It is made up of the combined power of users\u2019 machines,\
+    \ from PCs to entire data centers. Golem is capable of computing a wide variety\
+    \ of tasks, from CGI rendering, through machine learning to scientific computing."
+  technology: "Golem\u2019s limitations are only defined by our developer community\u2019\
+    s creativity. Golem creates a decentralized sharing economy of computing power\
+    \ and supplies software developers with a flexible, reliable and cheap source\
+    \ of computing power. Golem enables users and applications (requestors) to rent\
+    \ out cycles of other users\u2019 (providers) machines. Any user ranging from\
+    \ a single PC owner to a large data center can share resources through Golem and\
+    \ get paid in GNT (Golem Network Tokens) by requestors."
+  future: "Golem utilizes an Ethereum-based transaction system to settle payments\
+    \ between providers, requestors and software developers. All computations take\
+    \ place in sandbox environments and are fully isolated from the host\u2019s system.\
+    \ Software developers are in the center of Golem\u2019s ecosystem: Our Application\
+    \ Registry and Transaction Framework enable anyone to deploy, distribute and monetize\
+    \ applications in the Golem network.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2016-11-11'
+  type: token
+  organization_structure: Centralized
+  development_status: Beta version
+explorers: []
+whitepaper:
+  abstract: "Golem is a global, open source, decentralized supercomputer that anyone\
+    \ can access. It is made up of the combined power of users\u2019 machines, from\
+    \ PCs to entire data centers."
+  file: gnt-golem_whitepaper.pdf
+website:
+  url: https://golem.network
+video:
+  url: https://www.youtube.com/watch?v=NGOvAs6z-kc
+team:
+  leader:
+    name: Julian Zawistowski
+    imagename: gnt-golem_julian_zawistowski.png
+    position: CEO, founder
+    description: 'Leader and entrepreneur, willing to change the world for the better. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/julian-zawistowski-352478
+        followers: null
+      medium:
+        url: https://medium.com/@julian_z
+        followers: 961
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: "Aleksandra Skrzypczak\u200B,"
+    imagename: gnt-golem_aleksandra_skrzypczak.png
+    position: Lead Software Engineer
+    description: Hungry for new challenges, Aleksandra decided to join imapp more
+      than two years ago, and was the first to work full-time on the Golem Project,
+      doing R&D and generally planning the project.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/pub/aleksandra-skrzypczak/8a/16a/570
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Piotr \u2018Viggith\u2019 Janiuk\u200B,"
+    imagename: gnt-golem_piotr_viggith_janiuk.png
+    position: CTO, co-founder
+    description: 'Piotr is an experienced computer programmer interested in bleeding
+      edge technologies, and keen on bringing innovative, ground breaking (in the
+      field) projects which bring these technologies to life. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/viggith
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Andrzej Regulski\u200B,"
+    imagename: gnt-golem_andrzej_regulski.png
+    position: ' COO, co-founder'
+    description: 'He devoted his professional life to running a successful consulting
+      company focused on advising public authorities in their attempts to support
+      innovative enterprises. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/pub/andrzej-regulski/18/8a8/529
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Pawe\u0142 \u2018chfast\u2019 Bylica"
+    imagename: null
+    position: Lead Ethereum Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pawelbylica
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marek Franciszkiewicz
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marek-franciszkiewicz-30129a122
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Muhammed Tanr\u0131kulu"
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/muhammedtanrikulu/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dariusz Rybi
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dariusz-rybi-88a29a2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u0141ukasz Foniok"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Grzegorz Nowakowski
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/grzegorznowakowski/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anna Sawicka
+    imagename: null
+    position: Office Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u0141ukasz Gle\u0144"
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Elena Steiner
+    imagename: null
+    position: Office Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/elena-steiner-zaglubotskaia-7b619a34/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Mizerski
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Igor Adamski
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/igor-adamski/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gert-Jan  Rebel
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Chris Wac\u0142awek"
+    imagename: null
+    position: Business & Strategy & Partnerships
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chriswaclawek/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Magdalena Szyd\u0142owska"
+    imagename: null
+    position: Software Tester
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Anka Go\u0142\u0119biowska"
+    imagename: null
+    position: HR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Piotr Chromiec
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/piotrchromiec/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Przemys\u0142aw Idzkiewicz"
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Karol Tomala
+    imagename: null
+    position: DevOps
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/karol-tomala-883446a5/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Jacek Muszy\u0144ski"
+    imagename: null
+    position: UX/UI Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Horne
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Mar\xEDa Paula Fern\xE1ndez"
+    imagename: null
+    position: External Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mar%C3%ADa-paula-fern%C3%A1ndez-a96a8034/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Wierzbicki
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/adam-wierzbicki-8a0abbab/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Micha\u0142 Szostakiewicz"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mszostakiewicz/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Witold Dzi\u0119cio\u0142"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Przemys\u0142aw Rekucki"
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Natalia Mroszczyk
+    imagename: null
+    position: UX/UI Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/natalia-mroszczyk-92a286b5/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Magdalena Stasiewicz
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/magdalena-stasiewicz-998180108/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aleksandra  Mohandass
+    imagename: null
+    position: Executive Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marcin Benke
+    imagename: null
+    position: R&D Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marcin-benke-0a8263/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/GolemProject
+  reddit: https://www.reddit.com/r/GolemProject
+  twitter: https://twitter.com/golemproject
+  facebook: https://www.facebook.com/golemproject/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: golemfactory
+  main_repository: golemfactory/golem
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
