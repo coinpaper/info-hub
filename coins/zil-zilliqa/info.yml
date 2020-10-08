@@ -1,0 +1,1011 @@
+id: zil-zilliqa
+symbol: ZIL
+name: Zilliqa
+logo: zil-zilliqa_logo@512x512.png
+founded: '2017-11-06'
+descriptions:
+  one_sentence: Global transactions with low fees
+  introduction: Zilliqa is a new public blockchain platform for high-throughput applications.
+    It brings the theory of sharding to practice with its novel protocol that increases
+    transaction rates as its network expands. The latest experimental results demonstrate
+    a throughput of more than 2,800 transactions per second, which is over 200 times
+    higher than that of today's popular blockchains. In addition to its scalability,
+    Zilliqa provides a secure and efficient smart contract language called Scilla
+    to enable security-by-design smart contract programming and verification. The
+    Zilliqa blockchain platform is tailored towards enabling high-throughput data-driven
+    decentralized apps, designed to meet the scaling requirements of applications
+    in areas such as digital marketing, payment, shared economy and rights management.
+    Zilliqa is backed by a team of tech entrepreneurs, academics, senior engineers,
+    venture capitalists, and more.
+  technology: "The underlying technology has been first incubated in a research lab\
+    \ at the National University of Singapore, and then developed for commercial trials,\
+    \ before being applied to Zilliqa\u2019s public blockchain platform. - Roadmap:.\
+    \    + 31st Jan 2019: Mainnet Launch.    + Q1, 2019: Token Swap, Anchor Dapps.\
+    \    + Q2, 2019: Zilliqa core protocol enhancements .    + Q3, 2019: Core protocol\
+    \ refactoring, Scilla enhancements .    + Q4, 2019: Support for higher-level languages.\
+    \ Latest news  Zilliqa and MaiCoin have teamed up with investment platform Fundnel\
+    \ to create a private investment exchange Hg Exchange in Singapore."
+  future: "Hg Exchange will be the first \u201Cmember-driven exchange\u201D in Southeast\
+    \ Asia and unites leading financial intermediaries and emerging technology innovators\
+    \ in a collaborative industry effort to underpin the issuance and trading of private\
+    \ company shares. The exchange is an alliance of leading capital market intermediaries.\
+    \ Hg Exchange has signed a memorandum of intent with Phillip Securities, PrimePartners,.\
+    \ RHT Capital and Fundnel, which thereafter will become the first four members\
+    \ of the. exchange. Press release .."
+blockchain:
+  consensus: Proof of Work
+  algorithm: Ethash
+  issue_date: '2018-01-25'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://viewblock.io/zilliqa
+whitepaper:
+  abstract: "Zilliqa will be the world's first high-throughput public blockchain platform\
+    \ - designed to scale to thousands \u200Bof transactions per second.\r\n\r\nZilliqa\
+    \ brings the theory of sharding to practice with its novel protocol that increases\
+    \ transaction rates as its network expands. The platform is tailored towards enabling\
+    \ secure data-driven decentralised apps, designed to meet the scaling requirements\
+    \ of machine learning and financial algorithms. \r\n\r\n\u200BZilliqa has been\
+    \ under research and development for two years, and powered several ground-breaking\
+    \ deployments commercially."
+  file: zil-zilliqa_whitepaper.pdf
+website:
+  url: https://www.zilliqa.com
+video:
+  url: https://www.youtube.com/watch?v=ynPGLn5Ye4I
+team:
+  leader:
+    name: Dr. Xinshu Dong
+    imagename: null
+    position: Chief Executive Officer
+    description: "Xinshu is a scientist and practitioner in building secure systems,\
+      \ ranging from blockchains to web browsers and applications. He was a technical\
+      \ lead for several national cybersecurity projects. More recently, he led the\
+      \ research and development of Anquan\u2019s proprietary scalable and secure\
+      \ blockchain, deployed for financial and ecommerce applications. He is currently\
+      \ leading the Zilliqa team for developing a new public blockchain Zilliqa for\
+      \ high-throughput applications."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: En Hui Ong
+    imagename: zil-zilliqa_en_hui_ong.png
+    position: Head of Business Development
+    description: En Hui heads up business development at Zilliqa. She has extensive
+      sales and distribution experience in financial services. Her prior roles include
+      sales and distribution of ETFs and investment funds at BlackRock where she worked
+      with asset managers and banks in the Southeast Asian market, and subsequently
+      at JPMorgan Asset Management working with pension funds, insurance companies
+      and banks in the region. En Hui speaks fluent Chinese and Japanese.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Edison Lim
+    imagename: zil-zilliqa_edison_lim.png
+    position: Application Lead
+    description: 'Edison is a software engineer with specialization in blockchain
+      application development, web development and cyber-forensics. Before joining
+      Zilliqa, he wrote his graduate thesis paper titled "Security Analysis of Permissioned
+      Blockchain Systems". Edison is also trained in cyber-forensics and incident
+      response by US-CERT while he was pursuing his graduate studies in the US. He
+      is a recipient of the National Infocomm Scholarship from Singapore. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/edisonljh/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ian Tan
+    imagename: zil-zilliqa_ian_tan.png
+    position: Full Stack Developer
+    description: 'Ian is a full stack engineer with a keen interest in developer tooling
+      and smart contracts. With a background in law, he is particularly fascinated
+      by the immense potential of smart contracts and blockchain technology in the
+      realms of trade finance and international commerce.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ian-tan-001129156/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vaivaswatha Nagaraj
+    imagename: zil-zilliqa_vaivaswatha_nagaraj.png
+    position: "\u200BCompiler Developer"
+    description: 'Vaivaswatha is a compiler developer with experience working on multiple
+      production compilers, with the latest being LLVM. His focus is on data flow
+      analysis and machine independent optimizations, with a special interest in optimizing
+      loop nests. His interests, outside of technology include Indian classical music
+      and trekking the Himalayas.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vaivaswatha/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clark Yang
+    imagename: zil-zilliqa_clark_yang.png
+    position: Core Developer
+    description: "\u200B\u200BClark has over 10 years of experience in software development,\
+      \ with a focus on cryptographic engineering and multi-threaded embedded systems.\
+      \ During his former role at MediaTek (a semiconductor company), he has built\
+      \ solutions for large-scale commercial software in cooperation with Google,\
+      \ Microsoft, and Amazon. Clark also has experience in Digital Rights Management\
+      \ (DRM) development on Trusted Execution Environment (TEE), with focus on ARMv7/ARMv8\
+      \ OP-TEE platforms. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yangck/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sheng Guang Xiao
+    imagename: zil-zilliqa_sheng_guang_xiao.png
+    position: Core Developer
+    description: 'Sheng Guang has over 9 years of experience in software development,
+      with a focus on language parser, signal processing, image processing and multi-threaded
+      software systems. During his former role at Keysight technologies, he developed
+      language parsers for ICL and PDL and also developed automatic test generator
+      for IEEE 1687 standard. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shengguang-xiao-342a056b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jun Hao Tan
+    imagename: zil-zilliqa_jun_hao_tan.png
+    position: "\u200BCore Developer"
+    description: 'Jun Hao is a practitioner in various areas in the Computer Science
+      domain including blockchain, web security, trusted computing and program analysis.
+      He was also awarded the National Infocomm Scholarship and graduated from the
+      National University of Singapore (NUS) with a bachelor degree in computing science
+      with specialisation in information security. At NUS, he co-founded NUS Greyhats,
+      a cybersecurity interest group, which has won numerous cybersecurity events. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tjunhao/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mrgermskiller
+        followers: 979
+  - name: Kaustubh Shamshery
+    imagename: zil-zilliqa_kaustubh_shamshery.png
+    position: "\u200BCore Developer"
+    description: 'Kaustubh is a software developer working in area of computational
+      intelligence and network security. He has priorly been involved in reviewing
+      blockchain companies and also has been a part of international blockchain projects.
+      His research interests include NLP, deep learning and blockchain scalability.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kaustubh-shamshery-8b2a76148/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Antonio Nicolas Nunez
+    imagename: zil-zilliqa_antonio_nicolas_nunez.png
+    position: Core Developer
+    description: 'Antonio has bachelor degrees in Physics and Computer Engineering
+      from Ateneo de Manila University, as well as a diploma in R&D Management from
+      University of the Philippines Open University. He has over 10 years experience
+      as a software engineer, deploying industry-grade solutions for multiple sectors.
+      His programming interests include efficient C++ coding as well as build and
+      test automation.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/antonionicolasnunez/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Haichuan Liu
+    imagename: zil-zilliqa_haichuan_liu.png
+    position: Core Developer
+    description: 'Haichuan is a winner of Singapore Enterprise Scholarship and an
+      AWS Certified Solution Architect, and currently finishing his master degree
+      in Computer Control & Automation from Nanyang Technological University. In his
+      last position, he was involved in an autonomous vehicle project, and in charged
+      of the development of Mobility on Demand system from A to Z using C++, also
+      led the grounding of DevOps. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/liu-haichuan-b820a477/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sandip Bhoir
+    imagename: zil-zilliqa_sandip_bhoir.png
+    position: Core Developer
+    description: Have over 12 years of experience in software development across multiple
+      domains like ATM domain, Retail banking and Investment banking. Has been involved
+      in development of various distributed systems using C++ with the focus on the
+      reliability, scalability and throughput.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sandipbhoir/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Ilya Sergey
+    imagename: null
+    position: Lead Language Designer
+    description: Dr. Ilya Sergey does research in the area of programming languages,
+      program analysis, and formal verification. Prior to joining academia, Ilya has
+      spent a part of his career in industry, working in JetBrains Inc., a world-leading
+      company in creating integrated development environments for software developers.
+      His joint research efforts with the members of Zilliqa team have already resulted
+      in the inception of Scilla, a programming language for mechanically verified
+      smart contracts.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u200B\u200BJasmine Song"
+    imagename: zil-zilliqa_jasmine_song.png
+    position: Finance and Operations Executive
+    description: Jasmine has previously worked in various industries such as banking,
+      IT, logistics and trading. Accounting reconciliation, audit and tax computation,
+      business case writing and analysis are just one of the many skills she has as
+      a Finance and Operations Executive. Being a self starter, Jasmine has run several
+      successful initiatives over the years, and is constantly seeking to bring the
+      same success by spearheading new initiatives at Zilliqa.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/song-qian-min-jasmine-96190b117/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Han Wen
+    imagename: zil-zilliqa_han_wen.png
+    position: Grants Manager
+    description: Han Wen is an idealistic libertarian seeking to help build a community
+      of active developers on Zilliqa. He was an active member in the mining community
+      during the early days. He previously worked in the Aerospace industry designing
+      military drones and passenger-to-freighter solutions. His other interests include
+      3D printing, geopolitics and progaming.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/han-wen-chua-03a97198/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Saiba Kataruka
+    imagename: zil-zilliqa_saiba_kataruka.png
+    position: Developer Marketing Lead
+    description: Saiba Kataruka has earlier worked with IBM as a consultant for five
+      years, in the payment technology field, in Asia and Europe. He then left the
+      company to pursue an MBA degree from the University of Oxford. He loves reading,
+      writing, public speaking and traveling. He is most interested in the decentralization
+      aspect of the Blockchain technology and in the ways that it can improve the
+      current social and financial structures.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/saiba-kataruka-10b7184
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sophia Fang
+    imagename: zil-zilliqa_sophia_fang.png
+    position: Head of Business Development
+    description: Sophia has extensive experience in business & technology consulting
+      and has led design and multinational rollout of large scale and complex technology
+      initiatives across a broad array of sectors. With strong understanding of business
+      operations and deep knowledge in technology, Sophia has displayed consistent
+      abilities of identifying unique business opportunities, facilitating strategy
+      planning and delivering successful implementation of solutions.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sophia-fang-yanxin-69533434/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Addison Huegel
+    imagename: zil-zilliqa_addison_huegel.png
+    position: Head of Communications
+    description: Addison Huegel is a new technology communications and marketing specialist
+      with extensive experience building communities around blockchain, B2B, and B2C
+      applications. In 2015, he served as a communications consultant to the Ethereum
+      Foundation and DEVCON1.  Before entering into marketing and PR, Addison worked
+      in the field of Condensed Matter Physics and has published a number of scientific,
+      peer-reviewed papers.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/addisonhuegel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Max Kantelia
+    imagename: zil-zilliqa_max_kantelia.png
+    position: Chief Evangelist
+    description: "Max is a financial services entrepreneur with 25 years\u2019 experience\
+      \ of building professional services and technology firms in Europe, the US and\
+      \ Asia. He is a Co-Founder of Anquan Capital in Singapore and is on the board\
+      \ of Aeriandi (Oxford) and untapt (New York), both fast growth deep technology\
+      \ company in the areas of voice technology and aritifcal intelligence. Max is\
+      \ an engineering graduate and started his career at GEC Marconi designing airborne\
+      \ radar systems."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maxkantelia/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/MaxKantelia
+        followers: 1693
+  - name: Dr. Juzar Motiwalla
+    imagename: zil-zilliqa_dr._juzar_motiwalla.png
+    position: Chief Strategist
+    description: Juzar Motiwalla has investment and board-level experience with global
+      technology startups. He was a venture capitalist responsible for investments
+      in Asia and Silicon Valley. M&A exits with leading US and Japanese companies
+      were secured for companies he was involved with. Prior to his venture capital
+      journey he was the CEO of a 350-person computer science research lab in Singapore.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Prateek Saxena
+    imagename: zil-zilliqa_dr._prateek_saxena.png
+    position: Chief Scientific Advisor
+    description: Prateek Saxena is a research professor in computer science at National
+      University of Singapore, and has a PhD in Computer Science from UC Berkeley.
+      He works on blockchains and computer security. His research has influenced the
+      design of browser platforms, web standards and app stores widely used today.
+      He has received several premier awards such as the Top 10 Innovators under 35
+      (MIT TR35 Asia) in 2017.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yiling Ding
+    imagename: zil-zilliqa_yiling_ding.png
+    position: Chief Marketing Officer
+    description: Yiling leads marketing for Zilliqa. She has extensive experience
+      in technology marketing. Her prior roles include heading up APAC marketing for
+      Google Pay, where she helped launch the Google Pay brand across the region and
+      launched its first large-scale brand campaign in Japan. Yiling speaks fluent
+      English, Mandarin, and Japanese.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yilingding/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Yaoqi Jia
+    imagename: null
+    position: Chief Technology Officer
+    description: Yaoqi is the Chief Technology Officer of Zilliqa Research. His prior
+      experience focuses on building secure and privacy-preserving web and distributed
+      systems with cryptographic mechanisms. His research work has been published
+      in top international conferences, such as CCS, USENIX Security, PETS, RAID,
+      ESORICS. He has received the Best Paper Award in W2SP (2014) and ICECCS (2014).
+      His work was acknowledged by Google and Apple (CVE-2014-7948 for Chrome and
+      CVE-2015-5907 for Safari).
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Amrit Kumar
+    imagename: zil-zilliqa_dr._amrit_kumar.png
+    position: President and Chief Scientific Officer
+    description: "Amrit is the President and Chief Scientific Officer of Zilliqa Research.\
+      \ He holds a PhD from Universit\xE9 Grenoble-Alpes, France and was hosted at\
+      \ Inria's Grenoble center. Prior to his PhD, he obtained an Engineer's diploma\
+      \ from Ecole Polytechnique, France, where he studied Computer Science and Mathematics.\
+      \ His research interests broadly span security, privacy and applied cryptography."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xinshu Dong
+    imagename: zil-zilliqa_dr._xinshu_dong.png
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/xinshudong/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/xinshudong
+        followers: 4275
+  - name: Yaoqi Jia
+    imagename: zil-zilliqa_dr._yaoqi_jia.png
+    position: Head of Technology
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jia-yaoqi-7588a347/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jiayaoqi
+        followers: 1879
+  - name: Amrit Kumar
+    imagename: null
+    position: Head of Research
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/amrit-kumar-6aa66151/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u200BOng En Hui"
+    imagename: null
+    position: Head of Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/enhuiong/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Prateek Saxena
+    imagename: null
+    position: Chief Scientific Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/prateek-saxena-8b241347
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/prateekatcs
+        followers: 736
+  - name: Juzar Motiwalla
+    imagename: null
+    position: Chief Strategist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/juzar-motiwalla-6a583a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/juzarm
+        followers: 117
+  - name: Ilya Sergey
+    imagename: zil-zilliqa_dr._ilya_sergey.png
+    position: Lead Language Designer
+    description: null
+    links:
+      github:
+        url: https://github.com/ilyasergey
+        followers: 133
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ilyasergey
+        followers: 2213
+  - name: Deli Gong
+    imagename: null
+    position: Core Developer
+    description: Deli is a practitioner in building distributed and network systems
+      using trusted hardware, e.g., Intel SGX.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/deli-gong-a872aa92/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Gnnng1
+        followers: 45
+  - name: Jacob Johannsen
+    imagename: null
+    position: Compiler Developer
+    description: Jacob specializes in programming language semantics and compiler
+      implementation.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jacob-johannsen-6439411/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Siddhartha Sahai
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/siddharthasahai/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sidthekidder
+        followers: 140
+  - name: "\u200BEvan Cheng"
+    imagename: null
+    position: Advisor
+    description: https://angel.co/evan-cheng
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chengevan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\u200BAquinas Hobor"
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aquinas-hobor-574b862/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Lipton
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexander-lipton-aa2256bb/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Loi Luu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/loiluu
+        followers: 117
+      linkedin:
+        url: https://www.linkedin.com/in/loiluu
+        followers: null
+      medium:
+        url: https://medium.com/@loiluu
+        followers: 2359
+      twitter:
+        url: null
+        followers: null
+  - name: Nicolai Oster
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nicolaioster/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stuart Prior
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stuart-prior-13294456/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christel Quek
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/christelquek/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ladyxtel
+        followers: 37387
+  - name: Vincent Zhou
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shuojizhou/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/zilliqachat
+  reddit: https://www.reddit.com/r/zilliqa
+  twitter: https://twitter.com/zilliqa
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: Zilliqa
+  main_repository: Zilliqa/Zilliqa
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
