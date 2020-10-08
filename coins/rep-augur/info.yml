@@ -1,0 +1,708 @@
+id: rep-augur
+symbol: REP
+name: Augur
+logo: rep-augur_logo@512x512.png
+founded: '2016-10-04'
+descriptions:
+  one_sentence: Decentralized prediction market
+  introduction: Prediction markets are widely considered the best forecasting tool.
+    Augur is an open, global platform where anyone anywhere can create, monitor or
+    trade in prediction markets about any topic. Think of it as an "Early Warning
+    System'' with the most accurate event forecasts, a potential "Google Search",
+    "Bloomberg Terminal" or "Reuters Terminal" for crowdsourced event forecasts.
+  technology: The system plans to use the "Wisdom of Crowds'' ("collective intelligence'')
+    via market incentives, "Long Tail'' dynamics and blockchain technology to securely
+    generate a more accurate, robust and unfiltered array of dynamic event forecasts
+    than any alternative can match. Augur is decentralized, self-regulating, pseudonymous
+    and autonomous. It offers the promise of markets without exposure to counterparty
+    risk, principal-agent problems or central points of control, failure or censorship.
+  future: "No person is ever in direct control of someone else\u2019s funds or in\
+    \ a position to single-handedly threaten the system\u2019s integrity. The software\
+    \ is comprised of smart contracts perpetually deployed on a blockchain network,\
+    \ which enables applications deployed to be immune to local outages while benefiting\
+    \ from the entire community's security. All interactions with markets are communicated\
+    \ as database transactions between unique accounts powered by immutable software\
+    \ instructions.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2016-10-04'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers: []
+whitepaper:
+  abstract: Augur is a decentralized prediction market built on the Ethereum blockchain.
+    It allows you to forecast events and be rewarded for predicting them correctly.
+  file: rep-augur_whitepaper.pdf
+website:
+  url: https://www.augur.net
+video:
+  url: https://www.youtube.com/watch?v=yegyih591Jo
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Jack Peterson
+    imagename: null
+    position: Core Developer & Co-founder
+    description: null
+    links:
+      github:
+        url: https://github.com/tinybike
+        followers: 303
+      linkedin:
+        url: https://www.linkedin.com/pub/jack-peterson/58/b02/420
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tensorjack
+        followers: 5535
+  - name: Joey Krug
+    imagename: null
+    position: Core Developer & Co-founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joeykrug
+        followers: null
+      medium:
+        url: https://medium.com/@joeykrug
+        followers: 323
+      twitter:
+        url: https://twitter.com/joeykrug?lang=en
+        followers: 26920
+  - name: Paul Gebheim
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/pgebheim
+        followers: 30
+      linkedin:
+        url: https://www.linkedin.com/in/pgebheim
+        followers: null
+      medium:
+        url: https://medium.com/@paulgebheim
+        followers: 195
+      twitter:
+        url: https://twitter.com/paulgebheim?lang=en
+        followers: 152
+  - name: Serena Randolph
+    imagename: null
+    position: Front-end Developer
+    description: "I am a senior Wordpress developer with over six years of experience\
+      \ building successful websites and web applications. I understand that the success\
+      \ of a project rests not only on solid code but on clear communication, leveraging\
+      \ team skills, and developing a \"big picture\" view of the project \u2014 both\
+      \ in terms of project goals and code architecture \u2014 from the outset.\r\n\
+      \r\nA strong team player who loves the richness of collaboration, I am also\
+      \ very self-directed and happy to work independently."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/serena-randolph-8244058a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Chapman
+    imagename: null
+    position: Senior Backend Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/iheartsemicolons
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aaron Drake
+    imagename: null
+    position: Senior Backend Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/aaron-drake-0a7b672/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Scott Bigelow
+    imagename: null
+    position: Back End Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/smbigelow
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stephen Sprinkle
+    imagename: null
+    position: UI Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stephensprinkle/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Danz
+    imagename: null
+    position: Front End Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/johndanz/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Barry
+    imagename: null
+    position: Front End Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/justinbarry
+        followers: 13
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tom Haile
+    imagename: null
+    position: Software Engineer
+    description: "Specialties: Software Development, Technical Collaboration, Task\
+      \ Tracking and workload balancing, conveying status.\r\n"
+    links:
+      github:
+        url: https://github.com/bthaile
+        followers: 11
+      linkedin:
+        url: https://www.linkedin.com/in/tom-haile-765994/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peter Hicks
+    imagename: null
+    position: Senior Devops Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Bullock
+    imagename: null
+    position: Senior Product Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Austin Williams
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/austin-williams-9ba56b5b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tom Kysar
+    imagename: null
+    position: Operations
+    description: null
+    links:
+      github:
+        url: https://github.com/tomkysar
+        followers: 7
+      linkedin:
+        url: https://www.linkedin.com/in/kysar
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tomkysar
+        followers: 1898
+  - name: Steph Alexander
+    imagename: null
+    position: Technical Writer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peronet Despeignes
+    imagename: null
+    position: Special Ops
+    description: Perry is involved in special operations for Augur, including strategic
+      initiatives involving the financial sector, artificial intelligence, business
+      outreach outside the US and project documentation. He worked as an economics
+      correspondent for the Financial Times, Fortune and Investors Business Daily
+      after majoring in economics at Harvard.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/peronetdespeignes/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Petric
+    imagename: null
+    position: Marketeer
+    description: 'Entrepreneur, Marketeer @AugurProject , @blockchain enthusiast,
+      @bitcoin mining '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ivanpetricsp?lang=en
+        followers: 469
+  - name: Vitalik Buterin
+    imagename: null
+    position: Advisor
+    description: Vitalik is the creator of Ethereum. He first discovered blockchain
+      and cryptocurrency technologies through Bitcoin in 2011, and was immediately
+      excited by the technology and its potential. He cofounded Bitcoin Magazine in
+      September 2011, and after two and a half years looking at what the existing
+      blockchain technology and applications had to offer, wrote the Ethereum white
+      paper in November 2013.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7566
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 37310
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 939888
+  - name: Ron Bernstein
+    imagename: null
+    position: Advisor
+    description: "Ron has traded options on commodity futures in more than 20 markets\
+      \ for over 25 years on the old-school trading floors in New York and London.\
+      \ Fascinated with the convergence of the internet, peer-to-peer trading, sports\
+      \ betting and prediction markets, he founded Intrade in 2000, and Tradesports\
+      \ in 2003. Intrade went on become the world\u2019s leading prediction marketplace\
+      \ until the platform's closure in 2015."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ronbernstein/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joe Costello
+    imagename: null
+    position: Advisor
+    description: "Joe has been a tech executive and CEO for the last 25 years. He\
+      \ became CEO of Cadence Design Systems in 1987 and over the next decade grew\
+      \ the company from $10M to $1B to become the leader in electronic design automation\
+      \ (EDA) \u2013 the software used to design all electronic circuits today."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joe-costello-566ab53/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Robin Hanson
+    imagename: null
+    position: Advisor
+    description: "Dr. Hanson is the godfather of prediction markets and is considered\
+      \ to be responsible for many of the ideas implemented in Augur.\r\n\r\nRobin\
+      \ Dale Hanson (born August 28, 1959[1]) is an associate professor of economics\
+      \ at George Mason University[2] and a research associate at the Future of Humanity\
+      \ Institute of Oxford University.[3] He is known as an expert on idea futures\
+      \ and markets, and he was involved in the creation of the Foresight Institute's\
+      \ Foresight Exchange and DARPA's FutureMAP project."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robin-hanson-5156b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr. Abe Othman
+    imagename: null
+    position: Advisor
+    description: "Wharton visiting scholar, USGBC scientist-in-residence (2015 Forbes\
+      \ \"30 under 30\" in Energy), Building Robotics co-founder, PhD CMU CS, AB Harvard\
+      \ Applied Math\r\n\r\n\r\nhttps://angel.co/abraham-othman\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Houman Shadab
+    imagename: null
+    position: Advisor
+    description: "Co-founder @Clause and professor at New York Law School focusing\
+      \ on the intersection of law, business, and technology.\r\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/houmanshadab/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/houmanshadab
+        followers: 4413
+  - name: Elizabeth Stark
+    imagename: null
+    position: Advisor
+    description: Elizabeth is a huge fan of open source, decentralized protocols.
+      She taught at Stanford and Yale where her students studied peer-to-peer technology,
+      privacy, open source software, and memes. She has been an active contributor
+      to the bitcoin community, an advisor to startups in areas ranging from cryptocurrency
+      to decentralized technology to AI, and is a fellow at Coin Center.
+    links:
+      github:
+        url: https://github.com/starkness
+        followers: 175
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/starkness
+        followers: 102670
+  - name: Pawel Maciulewski
+    imagename: null
+    position: Full Stack Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maciul/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paul Mokbel
+    imagename: null
+    position: Chairman of the Board
+    description: "An entrepreneur and technologist at heart. I have over 15 years\
+      \ of enterprise quality web-app architecture and development experience in the\
+      \ private sector.\r\n\r\nI was introduced to computers at an early age and learned\
+      \ to use DOS before I could fully read and write English.\r\n\r\nAt the age\
+      \ of 13 - before the general availability of the internet - I was heavily involved\
+      \ in the Toronto BBS community, and had my own local BBS system (with a single\
+      \ phone line), as well as a local computer repair business."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mokbel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Olivier Giner
+    imagename: null
+    position: Investor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/olivier-giner-5200398/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nick Smith
+    imagename: null
+    position: Full Stack Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nick-smith-863a0781/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/augur
+  twitter: https://twitter.com/AugurProject
+  facebook: https://www.facebook.com/augurproject/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: AugurProject
+  main_repository: AugurProject/augur
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
