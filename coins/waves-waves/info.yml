@@ -1,0 +1,417 @@
+id: waves-waves
+symbol: WAVES
+name: Waves
+logo: waves-waves_logo@512x512.png
+founded: '2016-04-12'
+descriptions:
+  one_sentence: Decentralized exchange
+  introduction: "Waves Platform is an open network and decentralized environment for\
+    \ Web3 applications and custom decentralized solutions, with a wide range of purpose-designed\
+    \ tools for making the process of developing and running dApps easy and accessible.\
+    \ Launched in 2016, Waves has since released numerous successful blockchain-based\
+    \ solutions and has steadily developed into a rich and constantly-growing technological\
+    \ platform. Waves\u2019 technology is designed to address the needs of developers\
+    \ and companies that want to leverage the properties of blockchain systems \u2013\
+    \ including their security, auditability, verifiability and the trustless execution\
+    \ of transactions and business logic."
+  technology: Waves Platform provides everything required to support the backend of
+    Web 3.0 services. In 2017, Waves successfully launched its mainnet with LPoS,
+    pioneer decentralized exchange DEX and later the Waves-NG protocol. In 2018, the
+    Waves development team delivered the first implementation of smart contracts.
+  future: 'This was followed by the release of the RIDE programming language in 2019,
+    a simple and powerful language for programming logic. Moreover, in June 2019 the
+    mainnet of Waves Enterprise, a global private blockchain solution, was launched.
+    All of this is complemented with a broad infrastructure: an IDE for sandbox development,
+    tools, SDKs, libraries, frameworks and protocols for convenient and easy integrations..'
+blockchain:
+  consensus: Leased Proof of Stake
+  algorithm: LPoS
+  issue_date: '2016-05-31'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://wavesgo.com/
+- https://wavesexplorer.com/
+whitepaper:
+  abstract: "Waves is an open-source blockchain platform, developed, marketed, and\
+    \ operated by Waves Platform AG, that allows users to launch their own custom\
+    \ cryptocurrency tokens. \r\nUsers can create, transfer and exchange blockchain\
+    \ tokens on a peer-to-peer basis, paying transaction fees in the native WAVES\
+    \ token."
+  file: waves-waves_whitepaper.pdf
+website:
+  url: https://waves.tech/
+video:
+  url: https://www.youtube.com/watch?v=aRQ_Ttnrllo
+team:
+  leader:
+    name: Aleksandr Ivanov
+    imagename: waves-waves_aleksandr_ivanov.png
+    position: CEO
+    description: Since founding Waves Platform in 2016, Alexander Ivanov, a physicist
+      by training, has emerged as one of the most prominent, respected and influential
+      people in the blockchain space. Under his leadership, Waves has grown to become
+      one of the foremost companies in the blockchain industry.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Sasha Ivanov
+    imagename: null
+    position: Founder and CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sasha35625/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/sasha35625
+        followers: 101454
+  - name: Maxim Pertsovskiy
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maxim-pertsovskiy-b322714a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexey Kofman
+    imagename: null
+    position: Development Team Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ilya Smagin
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ismagin
+        followers: 107
+      linkedin:
+        url: https://www.linkedin.com/in/ilya-smagin-5821583b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexey Koloskov
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Phil Filippak
+    imagename: null
+    position: Lead Front-End Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/xenohunter
+        followers: 110
+      linkedin:
+        url: https://www.linkedin.com/in/xenohunter
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/xenohuntero
+        followers: 824
+  - name: 'Sergey Tolmachev '
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/Tolsi
+        followers: 167
+      linkedin:
+        url: https://www.linkedin.com/in/tolsi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/tolsi12
+        followers: 163
+  - name: Leonid Matveev
+    imagename: null
+    position: Head of Project
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leonid-matveev-4a020067/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Philipp Eryushev
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/philipp-eryushev-10192b73/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sasha K
+    imagename: null
+    position: Communications Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sashakolupaev/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Artem Kalikhov
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/artem-kalikhov-16229576/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Evgeny Zaykov
+    imagename: null
+    position: Project Analyst
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zaykove/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yuriy Naydenov
+    imagename: null
+    position: Scala Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ynaydenov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Shmidt
+    imagename: null
+    position: Web Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ivan-shmidt/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/Wavescommunity
+  reddit: https://www.reddit.com/r/Wavesplatform
+  twitter: https://twitter.com/wavesplatform
+  facebook: https://www.facebook.com/wavesplatform/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: wavesplatform
+  main_repository: wavesplatform/Waves
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
