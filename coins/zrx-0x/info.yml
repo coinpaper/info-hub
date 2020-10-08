@@ -1,0 +1,525 @@
+id: zrx-0x
+symbol: ZRX
+name: 0x
+logo: zrx-0x_logo@512x512.png
+founded: '2017-08-15'
+descriptions:
+  one_sentence: Decentralized exchange for ERC-20 tokens
+  introduction: 0x is an open protocol that facilitates the decentralized exchange
+    of Ethereum-based tokens and assets.
+  technology: Developers can use 0x to build their own custom exchange apps with a
+    wide variety of user-facing applications i.e. 0x OTC, a decentralized application
+    that facilitates trustless over-the-counter trading of Ethereum-based tokens.
+    The 0x token (ZRX) is used by Makers and Takers to pay transaction fees to Relayers
+    (entities that host and maintain public order books).
+  future: "ZRX tokens are also used for decentralized governance over 0x protocol\u2019\
+    s update mechanism which allows its underlying smart contracts to be replaced\
+    \ and improved over time.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-08-17'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers: []
+whitepaper:
+  abstract: "An Open Protocol For Decentralized Exchange On The Ethereum Blockchain\r\
+    \n0x is an open, permissionless protocol allowing for ERC20 tokens to be traded\
+    \ on the Ethereum blockchain.\r\n"
+  file: zrx-0x_whitepaper.pdf
+website:
+  url: https://0x.org
+video:
+  url: https://www.youtube.com/watch?v=xlLkssXtCWQ
+team:
+  leader:
+    name: Will Warren
+    imagename: zrx-0x_will_warren.png
+    position: CO-FOUNDER & CEO
+    description: Smart contract R&D. Previously applied physics at Los Alamos Nat
+      Lab. Mechanical engineering at UC San Diego. PhD dropout.
+    links:
+      github:
+        url: https://github.com/willwarren89
+        followers: 56
+      linkedin:
+        url: https://www.linkedin.com/in/will-warren-92aab62b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Amir Bandeali
+    imagename: zrx-0x_amir_bandeali.png
+    position: CO-FOUNDER & CTO
+    description: Smart contract R&D. Previously fixed income trader at DRW. Finance
+      at University of Illinois, Urbana-Champaign.
+    links:
+      github:
+        url: https://github.com/abandeali1
+        followers: 111
+      linkedin:
+        url: https://www.linkedin.com/in/abandeali1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fabio Berger
+    imagename: null
+    position: Senior Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/fabioberger
+        followers: 123
+      linkedin:
+        url: https://www.linkedin.com/in/fabio-berger-03ab261a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Xu
+    imagename: null
+    position: Director of Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alex-xu/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Leonid Logvinov
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/LogvinovLeon
+        followers: 130
+      linkedin:
+        url: https://www.linkedin.com/in/leonidlogvinov/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ben Burns
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ben-burns-30170478/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brandon Millman
+    imagename: null
+    position: Senior Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/BMillman19
+        followers: 54
+      linkedin:
+        url: https://www.linkedin.com/in/brandon-millman-b093a022/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tom Schmidt
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/tomhschmidt
+        followers: 55
+      linkedin:
+        url: https://www.linkedin.com/in/tomhschmidt/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacob Evans
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/dekz
+        followers: 156
+      linkedin:
+        url: https://www.linkedin.com/in/dekzter/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Blake Henderson
+    imagename: null
+    position: Operations Associate
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/blakerhenderson/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zack Skelly
+    imagename: null
+    position: Lead Recruiter
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zackaryskelly/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Greg Hysen
+    imagename: null
+    position: Blockchain Engineer
+    description: Smart contract R&D. Previously lead distributed systems engineer
+      at Hivemapper. Computer Science at University of Waterloo.
+    links:
+      github:
+        url: https://github.com/hysz
+        followers: 19
+      linkedin:
+        url: https://www.linkedin.com/in/hyszskies/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Francesco Agosti
+    imagename: null
+    position: Engineer
+    description: Full-stack engineer. Previously senior software engineer at Yelp.
+      Computer Science at Duke.
+    links:
+      github:
+        url: https://github.com/fragosti
+        followers: 27
+      linkedin:
+        url: https://www.linkedin.com/in/fragosti/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mel Oberto
+    imagename: null
+    position: Executive Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/melanieoberto/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Browne
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/albrow
+        followers: 157
+      linkedin:
+        url: https://www.linkedin.com/in/stephenalexbrowne/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Kalani
+    imagename: null
+    position: Director of design
+    description: null
+    links:
+      github:
+        url: https://github.com/chriskalani
+        followers: 21
+      linkedin:
+        url: https://www.linkedin.com/in/chriskalani/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clay Robbins
+    imagename: null
+    position: Business Development Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robbinsclay/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Taylor
+    imagename: null
+    position: Marketing Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mattytay/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fred Ehrsam
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/fredehrsam/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/FEhrsam
+        followers: 94190
+  - name: Olaf Carlson-Wee
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/olafcw/
+        followers: null
+      medium:
+        url: https://medium.com/@olaf
+        followers: 278
+      twitter:
+        url: null
+        followers: null
+  - name: Joey Krug
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joeykrug
+        followers: null
+      medium:
+        url: https://medium.com/@joeykrug
+        followers: 323
+      twitter:
+        url: https://twitter.com/joeykrug?lang=en
+        followers: 26920
+  - name: Linda Xie
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lindaxie/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/ljxie
+        followers: 63652
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/0xProject
+  twitter: https://twitter.com/0xproject
+  facebook: https://www.facebook.com/0xProject/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: 0xProject
+  main_repository: 0xProject/0x-monorepo
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
