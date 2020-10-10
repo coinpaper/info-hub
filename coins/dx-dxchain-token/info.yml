@@ -1,0 +1,163 @@
+id: dx-dxchain-token
+symbol: DX
+name: DxChain Token
+logo: dx-dxchain-token_logo@512x512.png
+founded: '2018-08-04'
+descriptions:
+  one_sentence: Machine Learning Network
+  introduction: DxChain is a big data and machine learning network powered by a computation-centric
+    blockchain with a native protocol token (DX).
+  technology: "With a number of significant innovations, especially the revolutionary\
+    \ \u201CChains-on-chain\u201D architecture design, DxChain provides a comprehensive\
+    \ solution for running machine learning algorithms and businesses intelligence\
+    \ on big data and keeping data secure and private.."
+  future: We can not provide any looks into the future for DxChain Token yet.
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-08-04'
+  type: coin
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x973e52691176d36453868D9d86572788d27041A9
+whitepaper:
+  abstract: "DxChain is the world\u2019s first decentralized big data and machine\
+    \ learning network powered by a computing-centric blockchain. In other words,\
+    \ DxChain is a public chain, aims to design a platform to solve computation of\
+    \ big data in a decentralized environment."
+  file: dx-dxchain-token_whitepaper.pdf
+website:
+  url: https://dxchain.com
+video:
+  url: https://www.youtube.com/watch?v=o8ApzJ8BhJA
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/dxchain
+  reddit: null
+  twitter: https://twitter.com/DxChainNetwork
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: DxChainNetwork
+  main_repository: DxChainNetwork/godx
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
