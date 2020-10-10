@@ -1,0 +1,542 @@
+id: knc-kyber-network
+symbol: KNC
+name: Kyber Network
+logo: knc-kyber-network_logo@512x512.png
+founded: '2017-08-01'
+descriptions:
+  one_sentence: Enables inter-token transactions
+  introduction: 'Kyber is building the Decentralized Liquidity Network that powers
+    instant and seamless inter-token transactions between platforms, ecosystems and
+    other use cases. By allowing open contribution of liquidity from token holders
+    and easy integration by DApps and projects to leverage the contributed liquidity
+    pool, we enable a more connected tokenized world where tokens are liquid and useful.
+    How does it work?. Entities Powered by Kyber: Kyber''s Decentralized Liquidity
+    Network allows anyone to tap into for a wide variety of inter-token use cases.'
+  technology: 'For example, vendors are able to accept payments in multiple tokens
+    on their e-commerce platforms yet receive in their preferred token. In addition,
+    DApps can allow users who are not their token holders to utilize their platform
+    and services with other tokens, and decentralized financial projects have the
+    means to rebalance their portfolios instantly. Liquidity Contributors: Liquidity
+    is facilitated through an open reserve architecture that allows anyone to contribute
+    their idle token assets to our decentralized central liquidity pool and earn from
+    the spread in every transaction. These tokens become available for use across
+    any platform that taps into the network, making them instantly more liquid and
+    useful.'
+  future: "To operate and provide token liquidity, 3rd party token reserves are required\
+    \ to purchase Kyber Network Crystals (KNC) to pay for their operation in the network.\
+    \ Kyber Network charges transaction fees, in KNC, from these reserves. There are\
+    \ 4 interfaces that can be used to tap into our decentralized liquidity network,\
+    \ each one focused on a different user segment\u200A\u2014\u200AKyberSwap for\
+    \ mainstream individuals, KyberDeveloper for businesses, projects or DApps, KyberReserve\
+    \ for token holders with substantial assets, and KyberGO for token sale contributors,\
+    \ teams and advisory firms. Together, they ensure that interacting with our liquidity\
+    \ network is an easy and convenient process for everyone involved.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-09-25'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers: []
+whitepaper:
+  abstract: "Kyber Network is on-chain, instant and liquid platform for exchange and\
+    \ payment service\r\nThe next generation of Exchange & Payment Service."
+  file: knc-kyber-network_whitepaper.pdf
+website:
+  url: https://coinpaper.io/coin/knc-kyber-network
+video:
+  url: https://www.youtube.com/watch?v=5Zw1fU5BPRg
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Loi Luu
+    imagename: null
+    position: CEO & Cofounder
+    description: null
+    links:
+      github:
+        url: https://github.com/loiluu
+        followers: 117
+      linkedin:
+        url: https://www.linkedin.com/in/loiluu
+        followers: null
+      medium:
+        url: https://medium.com/@loiluu
+        followers: 2359
+      twitter:
+        url: null
+        followers: null
+  - name: Yaron Velner
+    imagename: null
+    position: CTO & Cofounder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yaron-velner-7a8aa4107
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/yaron_velner
+        followers: 164
+  - name: Victor Tran
+    imagename: null
+    position: Lead Engineer & CoFounder
+    description: null
+    links:
+      github:
+        url: https://github.com/tranvictor
+        followers: 132
+      linkedin:
+        url: https://www.linkedin.com/in/vutranhuy/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/vutran54
+        followers: 387
+  - name: Joseph Lee
+    imagename: null
+    position: Lead Trading Platform
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lee Tsun Ngai
+    imagename: null
+    position: Head of Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leetsunngai/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Phuong Vu
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/phuongvu11
+        followers: null
+      medium:
+        url: https://medium.com/@sandravu
+        followers: 122
+      twitter:
+        url: null
+        followers: null
+  - name: Andrew Nguyen
+    imagename: null
+    position: Web Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/andrewsource
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/andrew-nguyen-696490a1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Spyros Vrettos
+    imagename: null
+    position: Trading Analyst
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vrettos
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nam Nguyen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tuan Nguyen
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/edwardEvans094
+        followers: 14
+      linkedin:
+        url: https://www.linkedin.com/in/tuanpvfc
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huy Tran
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/huy-tran-van
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Duc Tran
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ilan Doron
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ilan-doron-30a98616
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ha Hoang
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/halink0803
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/halink0803
+        followers: 211
+  - name: Wong Lee Hong
+    imagename: null
+    position: Executive Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lee-hong-wong-0601b8120
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vitalik Buterin
+    imagename: null
+    position: Advisor
+    description: Vitalik is the creator of Ethereum. He first discovered blockchain
+      and cryptocurrency technologies through Bitcoin in 2011, and was immediately
+      excited by the technology and its potential. He cofounded Bitcoin Magazine in
+      September 2011, and after two and a half years looking at what the existing
+      blockchain technology and applications had to offer, wrote the Ethereum white
+      paper in November 2013. He now leads Ethereum's research team, working on future
+      versions of the Ethereum protocol.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7566
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 37310
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 939888
+  - name: Leng Hoe Lon
+    imagename: null
+    position: Executive Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lenghoelon
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chionh Chye Kit
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chionhchyekit
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kenneth Oh
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kenneth-oh-3187a111a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Prateek Saxena
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/prateek-saxena-8b241347
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/prateekatcs
+        followers: 736
+  - name: 'Pandia Jiang '
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/kybernetwork
+  reddit: https://www.reddit.com/r/kybernetwork
+  twitter: https://twitter.com/kybernetwork
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: KyberNetwork
+  main_repository: KyberNetwork/KyberWallet
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
