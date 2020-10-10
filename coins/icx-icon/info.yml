@@ -1,0 +1,164 @@
+id: icx-icon
+symbol: ICX
+name: ICON
+logo: icx-icon_logo@512x512.png
+founded: '2017-10-28'
+descriptions:
+  one_sentence: Bridge between blockchains
+  introduction: ICON is an interchain blockchain that connects various blockchains
+    such as Bitcoin, Ethereum, and Qtum.
+  technology: First, ICX is used as an intermediary cryptocurrency. ICX enables transactions
+    among different cryptocurrencies by determining the exchange rate through DEX
+    Reserve. Second, ICX can be used as for DApp tokens U-coin, which is a DAPP developed
+    by our blockchain team for Korean University Consortium, can be one of these use
+    cases already in development.
+  future: Another example - ICX can be a token for ICO platform like ERC-20..
+blockchain:
+  consensus: Loop Fault Tolerance
+  algorithm: Loop Fault Tolerance
+  issue_date: '2017-10-28'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://tracker.icon.foundation/
+- https://iconwat.ch/
+whitepaper:
+  abstract: "ICON wants to be one of the largest blockchain networks in the world.\
+    \ ICON will boast independent blockchains comprised of reputable institutions\
+    \ in major industries.\r\n\r\n"
+  file: icx-icon_whitepaper.pdf
+website:
+  url: https://icon.foundation/?lang=en
+video:
+  url: https://www.youtube.com/watch?v=015t8_-yvos
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA
+  reddit: https://www.reddit.com/r/helloicon/
+  twitter: https://twitter.com/@helloiconworld
+  facebook: https://www.facebook.com/helloicon
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: icon-project
+  main_repository: icon-project/loopchain
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
