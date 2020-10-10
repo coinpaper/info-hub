@@ -1,0 +1,411 @@
+id: btm-bytom
+symbol: BTM
+name: Bytom
+logo: btm-bytom_logo@512x512.png
+founded: '2017-06-20'
+descriptions:
+  one_sentence: Smart contracts for asset management
+  introduction: Bytom Blockchain Protocol (hereinafter referred as Bytom) is an interactive
+    protocol of multiple byteassets. Heterogeneous byte-assets (indigenous digital
+    currency, digital assets) that operate in different forms on the Bytom Blockchain
+    and atomic assets (warrants, securities, dividends, bonds, intelligence information,
+    forecasting information and other information that exist in the physical world)
+    can be registered, exchanged, gambled and engaged in other more complicated and
+    contract-based interoperations via Bytom. The protocol connects the atomic world
+    and the byteworld to promote the interaction and circulation of assets between
+    the two worlds.
+  technology: 'Bytom adopts three-layer architecture: application layer, contract
+    layer and data transmission layer. The application layer is friendly to mobile
+    and other terminals and convenient for developers to develop asset management
+    applications. The contract layer use genesis contract and control contracts for
+    asset issuance and management, supporting scalable BUTXO of UTXO model at the
+    bottom layer, optimizing EVM and using introspection mechanism to prevent deadlock
+    in Turing complete.'
+  future: The data transmission layer adopts DLT technology to achieve asset issuance,
+    spending, transfer and other operations. The consensus mechanism uses POW algorithm
+    that are friendly to AI ASIC chips. Matrix and convolution calculation is introduced
+    into the hashing process so that the miners can be used for AI hardware acceleration
+    services, generating additional social benefits..
+blockchain:
+  consensus: Proof of Work
+  algorithm: Tensority
+  issue_date: '2017-06-20'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://btm.tokenview.com/
+- https://blockmeta.com/
+whitepaper:
+  abstract: Bytom is an interactive protocol of multiple byte assets. Heterogeneous
+    byte-assets (indigenous digital currency, digital assets) that operate in different
+    forms on the Bytom Blockchain and atomic assets (warrants, securities, dividends,
+    bonds, intelligence information, forecasting information and other information
+    that exist in the physical world) can be registered, exchanged, gambled and engaged
+    in other more complicated and contract-based interoperations via Bytom.
+  file: btm-bytom_whitepaper.pdf
+website:
+  url: https://bytom.io/en/
+video:
+  url: https://www.youtube.com/watch?v=aavqAi--Z7k
+team:
+  leader:
+    name: Duan Xinxing
+    imagename: btm-bytom_duan_xinxing.png
+    position: Founder and CEO of Bytom
+    description: 'Former Vice President of OKCoin which is the largest bitcoin exchange
+      over the world. Successfully lead R&D and operation teams of several blockchain
+      products like OKCoin, OKLink, Bytom etc.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/duan-xinxing-a6482a11
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Li Zongcheng
+    imagename: btm-bytom_li_zongcheng.png
+    position: CFO of Bytom
+    description: "Worked at Zhejiang International Business Group Co,ltd and Codi\
+      \ Capital Group. Joined 8btc in 2017. Years of experience in investment and\
+      \ financing. \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jin Lei
+    imagename: btm-bytom_jin_lei.png
+    position: Co-CTO of Bytom
+    description: 'Graduated from University of Pittsburgh with Ph.D. degree in Computer
+      Science, senior software engineer at Facebook, founding member of the ads team
+      at Pinterest.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lang Yu
+    imagename: btm-bytom_lang_yu.png
+    position: CTO of Bytom
+    description: 'Former Alipay senior system engineer. Joined 8btc in 2014 to develop
+      a bitcoin data-centered system, Blockmeta.com and responsible for 1st Chinese
+      bitcoin crowdfunding site: https://bizhongchou.com/
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Iris Shen
+    imagename: btm-bytom_iris_shen.png
+    position: Overseas BD Manager
+    description: 8 years in international trading business, 3 years in life Insurance
+      business, familiar with both international Project developing and consultant
+      marketing (SPIN Selling). Was a KA manager working with major retailers in the
+      world, leading projects in the US and the UK markets.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ma Qianli
+    imagename: btm-bytom_ma_qianli.png
+    position: Operation Director
+    description: "Responsible for the scenario realization of asset migrating onto\
+      \ Bytom Blockchain. Served as the head of Investment in Codi Capital Group.\
+      \ Former Securities Affairs in V\xF6hringer with extensive experience in IPO,\
+      \ M&A and Asset Securitization."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhu Yiqi
+    imagename: btm-bytom_zhu_yiqi.png
+    position: Senior blockchain specialist
+    description: Core developer of Bytom team. Designer and developer of big data
+      and distributed game systems at Magmic Inc. Developed hybrid digital wallet
+      for Android in 2013. Joined 8btc in 2014, responsible for the development of
+      Blockmeta and Bytom Virtual Machine.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Du Chao
+    imagename: btm-bytom_du_chao.png
+    position: Operation Director
+    description: With 10 years of experience in Internet, finance, investment and
+      financing, and entrepreneurship of his own business. held important positions
+      in investment and financing enterprises. And successfully funded tens of millions
+      of dollars of angel investment for three times.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qu Zhaoxiang
+    imagename: btm-bytom_qu_zhaoxiang.png
+    position: COO
+    description: Joined 8btc in 2014 as COO. Published Digital Currency Development
+      Report in 2014-2015 as one of the writters. Responsible for general marketing
+      and operations, also leads the blockchain hardware product evaluation laboratory
+      project.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ma Qianli
+    imagename: null
+    position: Bytom Operation Director
+    description: "Responsible for the scenario realization of asset migrating onto\
+      \ Bytom Blockchain. Served as the head of Investment in Codi Capital Group.\
+      \ Former Securities Affairs in V\xF6hringer with extensive experience in IPO,\
+      \ M&A and Asset Securitization.\n\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Du Chao
+    imagename: null
+    position: Operation Director of Bytom
+    description: 'With 10 years of experience in Internet, finance, investment and
+      financing, and entrepreneurship of his own business. held important positions
+      in investment and financing enterprises. And successfully funded tens of millions
+      of dollars of angel investment for three times.
+
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chang Jia
+    imagename: btm-bytom_chang_jia.png
+    position: Founder of 8btc
+    description: "Founder of 8btc and Bytom famous sci-fi writer, proponent of the\
+      \ concept of \u201Cimpossible triangle\u201D in blockchain, published the first\
+      \ Bitcoin monograph in China Received China\u2019s Sci-fi Highest Award \u201C\
+      Galaxy Award\u201D three times.\n\n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/bytominternational
+  reddit: https://www.reddit.com/r/BytomBlockchain
+  twitter: https://twitter.com/Bytom_Official
+  facebook: https://www.facebook.com/bytomofficial/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: Bytom
+  main_repository: Bytom/bytom
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
