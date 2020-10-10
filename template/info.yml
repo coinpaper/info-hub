@@ -2,7 +2,7 @@
 id: null
 symbol: null
 name: null
-logo: id_logo@512x512.png
+logo: null
 
 # Founding of public-release date in the format "23-08-2020"
 founded: null
@@ -30,7 +30,7 @@ explorers: []
 # The abstract is the first section, mostly written in bold, inside the whitepaper.
 whitepaper:
   abstract: null
-  file: id_whitepaper.pdf
+  file: null
 
 # URL to the official website.
 website:
@@ -45,7 +45,7 @@ team:
   # Representative figure, like "Vitalik Buterin" for Ethereum.
   leader:
     name: null
-    imagename: member@512x512.png   # Place the 512x512 pixel image in the images/ folder and specify the image name here
+    imagename: null   # Place the 512x512 pixel image in the images/ folder and specify the image name here
     position: null
     description:  null
     links:
