@@ -1,0 +1,966 @@
+id: dcr-decred
+symbol: DCR
+name: Decred
+logo: dcr-decred_logo@512x512.png
+founded: '2015-12-15'
+descriptions:
+  one_sentence: Bitcoin copy with faster transaction times
+  introduction: Decred is a community-directed digital currency designed to be a superior
+    store of value for generations to come.
+  technology: "Decred uses a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus\
+    \ mechanism designed to keep PoW miners\u2019 power in in check and ensure no\
+    \ group can make consensus rule changes without the consent of the community.\
+    \ Development is self-funded, with 10% of the block reward going to the project\
+    \ Decred Treasury and the remaining split between PoW miners (60%) and stakeholders\
+    \ (30%)."
+  future: "Decred\u2019s on-chain governance is supplemented by Politeia, a Reddit-style\
+    \ web-based platform where stakeholders vote on proposed changes to Decred\u2019\
+    s governance and proposals to spend treasury funds.."
+blockchain:
+  consensus: Proof of Work & Proof of Stake
+  algorithm: BLAKE256
+  issue_date: '2016-02-09'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://dcrdata.decred.org/
+- https://explorer.dcrdata.org/
+whitepaper:
+  abstract: Decred is an autonomous digital currency. With a hybrid consensus system,
+    it is built to be a decentralized, sustainable, and self-ruling currency where
+    stakeholders make the rules.
+  file: dcr-decred_whitepaper.pdf
+website:
+  url: https://www.decred.org
+video:
+  url: https://www.youtube.com/watch?v=PIToIO6xHw4
+team:
+  leader:
+    name: Jake Yocom-Piatt
+    imagename: null
+    position: Project Lead
+    description: Decred project lead
+    links:
+      github:
+        url: https://github.com/behindtext
+        followers: 62
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/behindtext?lang=en
+        followers: 1752
+  members:
+  - name: Zubair Zia
+    imagename: null
+    position: Research And Outreach
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Richard Red
+    imagename: null
+    position: Research And Strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Zeppettini
+    imagename: null
+    position: International Ops Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jz_bz
+        followers: 7258
+  - name: Seth Benton
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Josh Rickmar
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jrick
+        followers: 147
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/joshrickmar
+        followers: 260
+  - name: David Hill
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dajohi
+        followers: 131
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/dajohi
+        followers: 343
+  - name: Alex Yocom-Piatt
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/alexlyp
+        followers: 94
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/_alyp_
+        followers: 224
+  - name: Dave Collins
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/davecgh
+        followers: 401
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marco Peereboom
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/marcopeereboom
+        followers: 83
+      linkedin:
+        url: https://www.linkedin.com/in/marco-peereboom-9a32b6137
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/marco_peereboom?lang=en
+        followers: 3586
+  - name: John Vernaleo
+    imagename: null
+    position: Senior Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jcvernaleo
+        followers: 113
+      linkedin:
+        url: https://www.linkedin.com/in/jcvernaleo
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jcvernaleo?lang=en
+        followers: 409
+  - name: Donald Adu-Poku
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dnldd
+        followers: 41
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fernando Abolafio
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/fernandoabolafio
+        followers: 20
+      linkedin:
+        url: https://www.linkedin.com/in/fernandoabolafio
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Holger Klein
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/karamble
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/karamblez
+        followers: 290
+  - name: Jamie Holdstock
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jholdstock
+        followers: 32
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jolan Luff
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jolan
+        followers: 39
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Chappelow
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/chappjc
+        followers: 48
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/chappjc
+        followers: 392
+  - name: Matheus Degiovani
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/matheusd
+        followers: 72
+      linkedin:
+        url: https://www.linkedin.com/in/matheus-degiovani-69ab0166
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peter Banik
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/peterzen
+        followers: 26
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sean Durkin
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/sndurkin
+        followers: 31
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tiago Alves
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/tiagoalvesdulce
+        followers: 20
+      linkedin:
+        url: https://www.linkedin.com/in/tiagoalvesdulce
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sebastien Bramille
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/oktapodia
+        followers: 57
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Victor Oliveira
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/vctt94
+        followers: 19
+      linkedin:
+        url: https://www.linkedin.com/in/victor-oliveira-3a9b8675
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Denys Zayets
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/denyszayets
+        followers: 2845
+  - name: Kyle Chivers
+    imagename: null
+    position: Video & Animation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/company/27009401/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marcelo Lustosa
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/marcelolustosa
+        followers: 386
+  - name: Bernardo Brites
+    imagename: null
+    position: Marketing & Partnership
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bebrites
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bebrites
+        followers: 388
+  - name: Henrique Giron
+    imagename: null
+    position: Decred TV Brazil Host
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gustavo Ferrari
+    imagename: null
+    position: Decred TV Brazil Host
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joshua Buirski
+    imagename: null
+    position: Asia Pacific Outreach
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joshuambuirski
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luke Powell
+    imagename: null
+    position: Decred Roundtable Host
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lukebp_
+        followers: 1216
+  - name: Namkyun Kim
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nkplasma
+        followers: 21
+  - name: Nick Boariu
+    imagename: null
+    position: Docs and Analytics
+    description: null
+    links:
+      github:
+        url: https://github.com/nickboariu
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nbdeagle
+        followers: 327
+  - name: Noah Pierau
+    imagename: null
+    position: Community coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jure Kralj
+    imagename: null
+    position: Reddit manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Scott Christian
+    imagename: null
+    position: Facebook Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/scottrchristian
+        followers: 300
+  - name: Trace Trebilco
+    imagename: null
+    position: Decred Assembly Host
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Phillip Conrad
+    imagename: null
+    position: Strategic Communications Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Abubakar Suleiman
+    imagename: null
+    position: Mobile Development
+    description: null
+    links:
+      github:
+        url: https://github.com/macsleven
+        followers: 7
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/macsleven
+        followers: 99
+  - name: Collins Olanrewaju
+    imagename: null
+    position: Mobile Development
+    description: null
+    links:
+      github:
+        url: https://github.com/C-ollins
+        followers: 14
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cruz Molina
+    imagename: null
+    position: Dcrdata Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/freethinkingaway
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Macaulay Davies
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/McEdward
+        followers: 12
+      linkedin:
+        url: https://www.linkedin.com/in/macaulay-davies-6436b4139/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mc_edward_
+        followers: 41
+  - name: Migwi Ndung'u
+    imagename: null
+    position: Dcrdata Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/dmigwi
+        followers: 14
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mike Fullmann
+    imagename: null
+    position: Dcrdata Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/papacarp
+        followers: 22
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Mykolas Rai\u017Eys"
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mykolasraizys/
+        followers: null
+      medium:
+        url: https://medium.com/@rmykolas
+        followers: null
+      twitter:
+        url: https://twitter.com/rmykolas
+        followers: 35
+  - name: Oluwandabira Alawode
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/RogueElement
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Philipp Maluta
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ensoreus
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rohit Nagori
+    imagename: null
+    position: iOS Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ktr09
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/decred
+  reddit: https://www.reddit.com/r/decred
+  twitter: https://twitter.com/decredproject
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: https://discord.com/invite/GJ2GXfz
+github:
+  username: decred
+  main_repository: decred/dcrd
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
