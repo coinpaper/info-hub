@@ -1,0 +1,165 @@
+id: doge-dogecoin
+symbol: DOGE
+name: Dogecoin
+logo: doge-dogecoin_logo@512x512.png
+founded: '2013-12-06'
+descriptions:
+  one_sentence: Litecoin copy, gag-/ meme-coin
+  introduction: A Bitcoin clone that has reached success through clever marketing.
+  technology: Over the past year well over a hundred new cryptocurrencies have been
+    created but not many have instantly carved out a niche. Dogecoin has sponsored
+    multiple high profile events such as Nascar teams and the winter Olympics - even
+    so, there are few locations to use the coin - and instead, it has become a de
+    facto internet tipping currency.
+  future: The coin has produced 100 billion units by the end of 2015 and is now producing
+    roughly 5 billion units per year.
+blockchain:
+  consensus: Proof of Work
+  algorithm: Scrypt
+  issue_date: '2013-12-12'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://dogechain.info/chain/Dogecoin
+- https://blockchair.com/dogecoin
+- https://doge.tokenview.com
+whitepaper:
+  abstract: "Dogecoin is an open source peer-to-peer digital currency, favored by\
+    \ Shiba Inus worldwide.\r\nIntroduced as a \"joke currency\" on 6 December 2013,\
+    \ Dogecoin quickly developed its own online community."
+  file: doge-dogecoin_whitepaper.pdf
+website:
+  url: https://dogecoin.com
+video:
+  url: https://www.youtube.com/watch?v=_KVZmS_UO5I
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/TheDogeHouse
+  reddit: https://www.reddit.com/r/dogecoin
+  twitter: null
+  facebook: https://www.facebook.com/OfficialDogecoin/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: dogecoin
+  main_repository: dogecoin/dogecoin
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
