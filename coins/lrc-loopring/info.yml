@@ -1,0 +1,710 @@
+id: lrc-loopring
+symbol: LRC
+name: Loopring
+logo: lrc-loopring_logo@512x512.png
+founded: '2016-08-06'
+descriptions:
+  one_sentence: Trade protocol for exchanges
+  introduction: Loopring is an open protocol for scalable, non-custodial exchanges.
+    Loopring 3.0 is our newest, fastest, and most forward-looking protocol.
+  technology: Loopring 3.0 can settle up to 1,400 trades per second while guaranteeing
+    the same level of security as the underlying Ethereum blockchain. This is made
+    possible by using a construction called zkRollup, and a feature called On-Chain
+    Data Availability, or OCDA. If OCDA is disabled, Loopring throughput becomes as
+    high as 10,500 trades per second, but security reduces to that of the consortium
+    which maintains said data. The average settlement cost for each trade with Loopring
+    3.0 is as low as $0.002 USD, which covers the gas for Ethereum transactions and
+    the cost of proof generation on cloud computing platforms.
+  future: DEXes can further lower the settlement cost by using cheaper servers in
+    the cloud and GPU-based algorithms. To put things in perspective, most brokers'
+    stock trading fees in the US are in the range of $2 to $7 USD per trade..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-08-31'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers: []
+whitepaper:
+  abstract: "Loopring is not only a protocol but also a decentralized automated execution\
+    \ system that trades across the crypto-token exchanges, shielding users from counterparty\
+    \ risk and reducing the cost of trading. By pooling the liquidity of cryptocurrencies,\
+    \ we are building the financial system of the future.\r\n"
+  file: lrc-loopring_whitepaper.pdf
+website:
+  url: https://loopring.org
+video:
+  url: https://www.youtube.com/watch?v=6X7Au93x-qg
+team:
+  leader:
+    name: Daniel Wang
+    imagename: lrc-loopring_daniel_wang.png
+    position: CEO
+    description: 'Daniel Wang is the creator of Loopring Protocol, founder and chairman
+      of Loopring Foundation. He used to work as a senior software engineer and tech-lead
+      at Google Mountain View, a senior director of engineering at JD.com, and a senior
+      director at Zhongan Insurance. He is also a cofounder of Hygene Inc. and a cofounder
+      of Yunrang (Beijing) Information Technology Limited. '
+    links:
+      github:
+        url: https://github.com/dong77
+        followers: 114
+      linkedin:
+        url: https://www.linkedin.com/in/dong77/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Matthew Finestone
+    imagename: lrc-loopring_matthew_finestone.png
+    position: Director of Business Development
+    description: "Matthew studied at McGill University, he is also a CFA Charterholder.\
+      \ After working 6 years in traditional finance institutions. Matthew joined\
+      \ Loopring team and in charge of business development.  \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Johnston Chen
+    imagename: lrc-loopring_johnston_chen.png
+    position: COO
+    description: "Johnston Chen is Loopring's COO-extraordinaire. Before joining Loopring,\
+      \ he was the Chief Information Officer for 3NOD, a digital tech company and\
+      \ a product expert in the finance industry. He brings a lot of experience to\
+      \ the table in these domains, which is crucial to Loopring\u2019s success."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jay Zhou
+    imagename: lrc-loopring_jay_zhou.png
+    position: CMO
+    description: "Jay is a co-founder of Loopring and board of Looping Foundation.\
+      \ He has extensive skills across online payment &amp;amp;amp;amp; financial\
+      \ operation with a particular focus on risk management and innovative solution.\
+      \ Prior to Jay\u2019s work in the cross-border payment at PayPal, he worked\
+      \ in a spectrum of different industry sectors including; Risk&amp;amp;amp;amp;Compliance\
+      \ at Ernst&amp;amp;amp;amp;Young and a member at Global Shapers Community. Mentor\
+      \ for class CS359B at Stanford University. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jay-zhou-36997b5a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chunming Liu
+    imagename: null
+    position: Senior Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/chunming_liu
+        followers: 935
+  - name: Freeman Zhong
+    imagename: null
+    position: Senior Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Leon Wang
+    imagename: null
+    position: Senior Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shuhong Chang
+    imagename: null
+    position: UI Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Baixiang Liu
+    imagename: null
+    position: Senior Supervisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Weichao Li
+    imagename: null
+    position: Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiaolu Wu
+    imagename: null
+    position: Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jie Wen
+    imagename: null
+    position: Cryptographer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Li Yang
+    imagename: null
+    position: Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xuefeng Li
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hongfei Da
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dahongfei
+        followers: null
+      medium:
+        url: https://medium.com/@dahongfei
+        followers: 113
+      twitter:
+        url: https://twitter.com/dahongfei?lang=en
+        followers: 44602
+  - name: Hitters Xu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hitters
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Cheng
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Simon Zhu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bai Shuo
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jing Cao
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yan Cao
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nian Duan
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Guo Xiaohu
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yipeng Guo
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Juxie
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Haibin Gan
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kelvin Long
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ' Xiang Jiangxu'
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huaxia Xia
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Xiao Jun '
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Yu Wei '
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mingcheng Zhang
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/loopring_en
+  reddit: https://www.reddit.com/r/loopringorg
+  twitter: https://twitter.com/loopringorg
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: Loopring
+  main_repository: Loopring/protocol
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
