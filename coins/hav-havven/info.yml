@@ -1,0 +1,385 @@
+id: hav-havven
+symbol: SNX
+name: Synthetix Network Token
+logo: hav-havven_logo@512x512.png
+founded: '2018-02-28'
+descriptions:
+  one_sentence: Bitcoin copy
+  introduction: Synthetix is a crypto-backed synthetic asset platform that provides
+    on-chain exposure to real-world currencies, commodities, stocks, and indices.
+  technology: Our synthetic assets (Synths) are backed by Synthetix Network Tokens
+    (SNX) locked into a smart contract as collateral. Synths track the prices of real-world
+    assets, allowing crypto-native or unbanked individuals to access the values of
+    non-crypto assets. They can be used as stable mediums of exchange or traded at
+    Synthetix Exchange.
+  future: All Synth trades and transfers generate fees, which are distributed to SNX
+    holders as reward for providing collateral..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-03-12'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://ethplorer.io/address/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
+- https://etherscan.io/token/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
+whitepaper:
+  abstract: "Havven will be a decentralised payment network where users transact directly\
+    \ in a\r\nprice-stable cryptocurrency. Those who use the stablecoin pay fees to\
+    \ those who\r\ncollateralise the network, compensating them for the risks of providing\
+    \ collateral\r\nand stability. Collateral providers control the money supply,\
+    \ and fees are\r\ndistributed in proportion with each individual\u2019s stabilisation\
+    \ performance. Thus,\r\nHavven rewards suppliers of stability and charges those\
+    \ who demand it."
+  file: hav-havven_whitepaper.pdf
+website:
+  url: https://blog.havven.io/
+video:
+  url: https://www.youtube.com/watch?v=jB9YC4GBMb8
+team:
+  leader:
+    name: Kain Warwick
+    imagename: hav-havven_kain_warwick.png
+    position: Founder
+    description: Before launching Havven, Kain built the largest cryptocurrency payment
+      platform in Australia, with tens of millions in transaction volume. He run two
+      payments startups; Havven is a decentralised payment network built on Ethereum
+      and blueshyft is a network of over 1200 retail locations that enable cash transactions
+      for digital services. Essentially a vertically integrated system for converting
+      'real' money into magic internet money.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Martin Torok
+    imagename: hav-havven_martin_torok.png
+    position: dApp Engineer
+    description: Martin is a software engineer with a strong full-stack development
+      background. He has a high level of expertise in working with various technology
+      stacks.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Kvas
+    imagename: hav-havven_david_kvas.png
+    position: dApp Engineer
+    description: David is a full-stack developer with 15 years experience ranging
+      from development for start-ups to large-scale governmental projects. He is proficient
+      in React JS & Native, Node.JS, Redux, MobX and blockchain tech.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roman Mandryk
+    imagename: hav-havven_roman_mandryk.png
+    position: dApp Engineer
+    description: Roman has built software products for European stock exchange Deutsche
+      Borse and several startups in Australia, focusing on fintech, blockchain and
+      cloud innovation.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clement Balestrat
+    imagename: hav-havven_clement_balestrat.png
+    position: dApp Engineer
+    description: Clement completed his Masters in Maths and Computer Science before
+      finding his passion in the start-up world. He has a strong background in full-stack
+      engineering and crypto.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Garth Travers
+    imagename: hav-havven_garth_travers.png
+    position: Communications Manager
+    description: He graduated in Communications from the University of Sydney and
+      has experience managing a national payments network.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mikael Sundelin
+    imagename: hav-havven_mikael_sundelin.png
+    position: VP Operations
+    description: Mikael has over ten years of experience managing strategy, regulator
+      relationships and communications for top-tier gambling firms Unibet and myLotto24.
+      With a passion for customer experience and client value, He has lead and delivered
+      a number of projects from scratch within a multinational stakeholder-driven
+      domain. He has also worked within a multi-brand environment and know the challenges
+      and opportunities very well.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charlie Karaboga
+    imagename: hav-havven_charlie_karaboga.png
+    position: Head of Product
+    description: Charlie has over 10 years experience in leading product and delivery
+      teams in Europe and Australia. He has managed several international launches
+      for products with millions of users.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Clinton Ennis
+    imagename: hav-havven_clinton_ennis.png
+    position: Senior Architect
+    description: Clinton has 18 years experience with internet application software
+      architecture and engineering, technical and business analysis and management
+      of software engineering lifecycle using XP and Agile methodologies and is a
+      former Architect Lead at JPMorgan Chase in trading technology.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jordan Momtazi
+    imagename: hav-havven_jordan_momtazi.png
+    position: VP Partnerships
+    description: Jordan has extensive experience in sales and business development
+      in online payments, he structured numerous enterprise deals while at Paypal.
+      He is deeply interested in blockchain technology and it's ability to change
+      business and social structures. Understanding human behaviour and social psychology
+      is a key interest which plays out in his focus on finding value through partnerships.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Moses
+    imagename: hav-havven_justin_moses.png
+    position: CTO
+    description: Justin is a former Director of Engineering at MongoDB and has significant
+      experience designing and deploying high availability systems at scale.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Vernon
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/havven_official2
+  reddit: https://www.reddit.com/r/havven
+  twitter: https://twitter.com/synthetix_io
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: Synthetixio
+  main_repository: Synthetixio/synthetix
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
