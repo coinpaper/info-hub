@@ -187,6 +187,8 @@ def githubuser(value, argument=None, arguments=None, context=None):
     github_request = requests.get(f"https://api.github.com/users/{value}", headers=github_headers).json()
     if github_request.get("message", "") == "Not Found":
         raise ValueError(f"Github user {value} does not exist")
+    if github_request.get("message", "").startswith("API rate limit exceeded"):
+        raise RuntimeError("Github API rate limit exceeded!")
     return True
 
 
@@ -196,6 +198,8 @@ def githubrepo(value, argument=None, arguments=None, context=None):
     github_request = requests.get(f"https://api.github.com/repos/{value}", headers=github_headers).json()
     if github_request.get("message", "") == "Not Found":
         raise ValueError(f"Github user {value} does not exist")
+    if github_request.get("message", "").startswith("API rate limit exceeded"):
+        raise RuntimeError("Github API rate limit exceeded!")
     return True
 
 
