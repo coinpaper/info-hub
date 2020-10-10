@@ -1,0 +1,576 @@
+id: qtum-qtum
+symbol: QTUM
+name: Qtum
+logo: qtum-qtum_logo@512x512.png
+founded: '2016-12-19'
+descriptions:
+  one_sentence: Platform for decentralized apps and smart contracts
+  introduction: Qtum is an open source Blockchain project that is developed by the
+    Singapore-based Qtum Foundation. Qtum is a hybrid blockchain application platform.
+  technology: "Qtum\u2019s core technology combines a fork of bitcoin core, an Account\
+    \ Abstraction Layer allowing for multiple Virtual Machines including the Ethereum\
+    \ Virtual Machine (EVM) and Proof-of-Stake consensus aimed at tackling industry\
+    \ use cases. We believe this will allow Smart Contracts and Decentralized Applications\
+    \ to run on a familiar foundation while offering a robust environment for developers."
+  future: "The underlying technology uses an \u201CAccount Abstract Layer\u201D, which\
+    \ acts as a bridge between the EVM and the Unspent Transaction Output model of\
+    \ Bitcoin Core. There will be Oracles and Datafeed functionality, allowing developers\
+    \ to create Smart Contracts built around trusted sources of information.."
+blockchain:
+  consensus: Qtum Consensus (PoS)
+  algorithm: POS 3.0
+  issue_date: '2017-03-16'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://qtum.info/
+whitepaper:
+  abstract: "Combining a modified Bitcoin Core infrastructure with an intercompatible\
+    \ version of the Ethereum Virtual Machine (EVM), Qtum merges the reliability of\
+    \ Bitcoin\u2019s unfailing blockchain with the endless possibilities provided\
+    \ by smart contracts. \r\n"
+  file: qtum-qtum_whitepaper.pdf
+website:
+  url: https://qtum.org/en
+video:
+  url: https://www.youtube.com/watch?v=u6N7CjR4-Gw
+team:
+  leader:
+    name: Patrick Dai
+    imagename: qtum-qtum_patrick_dai.png
+    position: Founder
+    description: "Forbes China\u2019s 30 under 30 2017.\nPatrick discovered blockchain\
+      \ technology while doing research for his Ph.D. in Communications and Information\
+      \ Systems at China Academy of Sciences since 2012.\nAs the Founder of Qtum,\
+      \ one of the leading Blockchain Platform in Asia. He\u2019s one of the earliest\
+      \ and the most esteemed pioneers of blockchain technology in China, and was\
+      \ also invited as blockchain expert by many media, such as China Global Television\
+      \ Network, CNBC, People\u2019s daily & Nasdaq\u3002"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Miguel Palencia
+    imagename: qtum-qtum_miguel_palencia.png
+    position: Chief Information Officer
+    description: Systems engineer. He has 5 years experience in blockchain technology
+      and 16 years experience in server administration, linux development. His blockchain
+      experience has allowed him to take part conferences and meetings all over the
+      world with medium and large companies. Miguel has developed block explorers
+      & mining pools among many proof of concepts blockchain platforms and tools over
+      the years.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Neil Mahi
+    imagename: qtum-qtum_neil_mahi.png
+    position: Co-Founder & CTO
+    description: "Neil has 20 years experience developing software and has four years\
+      \ experience in the blockchain space. Neil has Master\u2019s degree in Business\
+      \ Administration from ISCAE, but later specialized in computer science. Neil\
+      \ was also a professional poker player and speaks four languages."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jordan Earls
+    imagename: qtum-qtum_jordan_earls.png
+    position: Co-founder & Lead Developer
+    description: Jordan is a trusted and well-known member of the cryptocurrency community
+      and has been developing software since he was thirteen. Jordan has reviewed
+      over 100 altcoins and identified multiple exploits in coins.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yunqi "Caspa" Ouyang
+    imagename: null
+    position: Qtum Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Dulub
+    imagename: null
+    position: Qtum Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dulub
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Time Markov
+    imagename: null
+    position: Qtum Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mike Palencia
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brett
+    imagename: null
+    position: PR / Community
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Scianna
+    imagename: null
+    position: PR / Press
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ibai Basabe
+    imagename: null
+    position: PhD Product Manager/Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Carry Shen
+    imagename: null
+    position: PricewaterhouseCoopers (PWC) process control
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiaolong Xu
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Weiyu Qi
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jun Chen
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huaming He
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wenbin Zhong
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexei
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anzhy
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexandra
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Jaenson
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stella Kung
+    imagename: null
+    position: Head of Marketing & PR
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/stella-kung-b81799a7
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brett Fincaryk
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brett-fincaryk-35942b7a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jeffrey Wernick
+    imagename: null
+    position: Advisor
+    description: "Jeffrey is a veteran investor with over 40 years\u2019 experience.\
+      \ Jeffrey started his career trading options and futures on the CBOE, CBOT and\
+      \ the CME."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw
+  reddit: https://www.reddit.com/r/Qtum
+  twitter: https://twitter.com/QtumOfficial
+  facebook: https://www.facebook.com/QtumOfficial/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: qtumproject
+  main_repository: qtumproject/qtum
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
