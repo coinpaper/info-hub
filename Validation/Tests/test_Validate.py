@@ -162,7 +162,6 @@ class TestValidate(unittest.TestCase):
 
         # Invalid inptus
         self.assertRaises(ValueError, Validate.url, "https://polygon-/.ch")
-        self.assertRaises(ValueError, Validate.url, "https://polygon-design.ch")
 
     def test_foreach(self):
         """
