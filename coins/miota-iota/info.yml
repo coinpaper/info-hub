@@ -39,28 +39,24 @@ video:
   url: https://www.youtube.com/watch?v=CZxH1V_zoug
 team:
   leader:
-    name: Sergey Ivancheglo
-    imagename: miota-iota_sergey_ivancheglo.png
-    position: MEMBER BOARD OF DIRECTORS & FOUNDER
-    description: He holds a Bachelor of Science with specialization in electronics
-      and artificial intelligence. He has been working as a software engineer for
-      more than 20 years, and since 2011 he has been primarily focused on Distributed
-      Ledger Technology. Since childhood, he has been interested in the development
-      of computer games, which later transformed into an interest in Massively Multiplayer
-      Online Games and Virtual / Augmented Reality.
+    name: David Sonstebo
+    imagename: miota-iota_david_sonstebo.png
+    position: CO-CHAIRMAN OF THE BOARD OF DIRECTORS & FOUNDER
+    description: David is a serial entrepreneur with a passion for any kind of technology
+      that can push human progress forward.
     links:
       github:
-        url: https://github.com/Come-from-Beyond
-        followers: 3
+        url: null
+        followers: null
       linkedin:
         url: null
         followers: null
       medium:
-        url: https://medium.com/@comefrombeyond
-        followers: 797
+        url: https://medium.com/@DavidSonstebo
+        followers: 12322
       twitter:
-        url: https://twitter.com/c___f___b
-        followers: 8081
+        url: https://twitter.com/davidsonstebo
+        followers: 39348
   members:
   - name: Dominik Schiener
     imagename: miota-iota_dominik_schiener.png
@@ -80,24 +76,6 @@ team:
       twitter:
         url: https://twitter.com/domschiener
         followers: 40599
-  - name: David Sonstebo
-    imagename: miota-iota_david_sonstebo.png
-    position: CO-CHAIRMAN OF THE BOARD OF DIRECTORS & FOUNDER
-    description: David is a serial entrepreneur with a passion for any kind of technology
-      that can push human progress forward.
-    links:
-      github:
-        url: null
-        followers: null
-      linkedin:
-        url: null
-        followers: null
-      medium:
-        url: https://medium.com/@DavidSonstebo
-        followers: 12322
-      twitter:
-        url: https://twitter.com/davidsonstebo
-        followers: 39348
   - name: Ralf Rottmann
     imagename: miota-iota_ralf_rottmann.png
     position: MEMBER BOARD OF DIRECTORS
