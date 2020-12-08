@@ -80,7 +80,7 @@ socials:
   discord: null
 github:
   username: oceanprotocol
-  main_repository: oceanprotocol/keeper-contracts
+  main_repository: oceanprotocol/market
 manual_reviews:
   available: false
   introduction:
