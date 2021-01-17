@@ -180,8 +180,7 @@ manual_reviews:
       is_pro: true
       is_contra: false
     energy_consumption:
-      description: The technology does not rely on mining processes to carry out financial transactions
-      and for that reason, it can be counted as an energy-efficient technology.
+      description: The technology does not rely on mining processes to carry out financial transactions and for that reason, it can be counted as an energy-efficient technology.
       is_pro: true
       is_contra: false
     privacy:
