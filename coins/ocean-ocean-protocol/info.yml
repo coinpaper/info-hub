@@ -1,0 +1,182 @@
+id: ocean-ocean-protocol
+symbol: OCEAN
+name: Ocean Protocol
+logo: ocean-ocean-protocol_logo@512x512.png
+founded: '2019-04-22'
+descriptions:
+  one_sentence: Ecosystem for the data economy
+  introduction: A Decentralized Data Exchange Protocol to Unlock Data for AI. Ocean
+    Protocol is kickstarting a Data Economy by breaking down data silos and equalizing
+    access to data for all. An ecosystem for the data economy and associated services,
+    with a tokenized service layer that securely exposes data, storage, compute and
+    algorithms for consumption. Trustful Data Sharing. We bring together decentralized
+    technology, a trust framework, and an ecosystem for data and related services.
+    This allows for data to be shared while guaranteeing traceability, transparency,
+    and privacy to enable data owners to maintain control of their data assets and
+    access a wide range of marketplaces and services.
+  technology: "A Tokenized Service Layer. The Ocean protocol provides a tokenized\
+    \ service layer that offers data, storage, compute and algorithms for consumption\
+    \ with a set of deterministic proofs on availability and integrity that serve\
+    \ as verifiable service agreements. There is staking on services to signal quality,\
+    \ reputation and ward against Sybil Attacks. Discovery is facilitated by storing\
+    \ and promoting metadata, linking assets and services, and providing a licensing\
+    \ framework with pricing. 1001 Marketplaces. Any data marketplace can hook into\
+    \ Ocean to provide \u201Clast mile\u201D services, connecting data providers and\
+    \ consumers."
+  future: The Ocean protocol is designed so that data owners control each dataset
+    and cannot be locked into any single marketplace. The Mission to Unlock Data.
+    Society is becoming increasingly reliant on data, especially with the advent of
+    AI. However, a small handful of organizations with both massive data assets and
+    AI capabilities attained worrying levels of control which is a danger to a free
+    and open society. We aim to unlock data, for more equitable outcomes for users
+    of data, using a thoughtful application of both technology and governance. Our
+    team and community is committed to kick-starting a New Data Economy that reaches
+    every single person, company and device, giving power back to data owners and
+    enabling people to capture value from data to better our world..
+blockchain:
+  consensus: unknown
+  algorithm: unknown
+  issue_date: '2019-04-22'
+  type: coin
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://etherscan.io/token/0x985dd3d42de1e256d09e1c10f112bccb8015ad41
+- https://ethplorer.io/address/0x985dd3d42de1e256d09e1c10f112bccb8015ad41
+whitepaper:
+  abstract: No whitepaper available
+  file: ocean-ocean-protocol_whitepaper.pdf
+website:
+  url: https://oceanprotocol.com
+video:
+  url: https://www.youtube.com/watch?v=FEeicvNSyk4
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/OceanProtocol_Community
+  reddit: https://www.reddit.com/r/oceanprotocol
+  twitter: https://twitter.com/oceanprotocol
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: oceanprotocol
+  main_repository: oceanprotocol/market
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

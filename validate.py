@@ -15,6 +15,7 @@ if __name__ == "__main__":
     coins = get_coins()
     print(coins)
     for coin in coins:
+        print(f"*** {coin} ***")
         validator = YMLValidator(coin)
         validator.validate()
 

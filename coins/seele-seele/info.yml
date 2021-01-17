@@ -1,0 +1,170 @@
+id: seele-seele
+symbol: SEELE
+name: Seele
+logo: seele-seele_logo@512x512.png
+founded: '2018-01-25'
+descriptions:
+  one_sentence: Bitcoin copy
+  introduction: As the epitome of underlying public chains tailored to the industrial
+    applications, Seele aims to facilitate the development of various industries and
+    provide services for multiple businesses.
+  technology: Seele is a pioneer in translating blockchain technology into practical
+    application value. The novel Neural Consensus Algorithm, Heterogeneous Forest
+    Network, Value Transport Protocol (VTP), and other ground-breaking technologies
+    have been proposed by Seele.
+  future: Moreover, Seele is publishing a series of Yellow Papers in research areas
+    like cryptology, consensus algorithm, and network transmission, etc., to provide
+    guidance for the entire industry..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-04-02'
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0
+- https://ethplorer.io/address/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0
+- https://seeleview.net/#/
+whitepaper:
+  abstract: "Seele created \"Neural Consensus Algorithm\". It transforms the consensus\
+    \ problem into an asynchronous request, processing and sorting data in a large-scale\
+    \ environment based on \"micro-real numbers\". It will not only ensure safety\
+    \ and low energy consumption, but it will also ensure strong linear augmenting\
+    \ ability. The performance is linearly accelerated as the node size increases\
+    \ to satisfy business requirements.\r\n"
+  file: seele-seele_whitepaper.pdf
+website:
+  url: https://seelen.pro/
+video:
+  url: https://www.youtube.com/watch?v=CbtrvvFj78g
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/AWARECn
+  reddit: https://www.reddit.com/r/SeeleOfficial
+  twitter: https://twitter.com/SeeleTech
+  facebook: https://www.facebook.com/seeletech
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: seeleteam
+  main_repository: seeleteam/go-seele
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

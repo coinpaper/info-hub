@@ -1,0 +1,162 @@
+id: hbar-hedera-hashgraph
+symbol: HBAR
+name: Hedera
+logo: hbar-hedera-hashgraph_logo@512x512.png
+founded: '2019-09-16'
+descriptions:
+  one_sentence: Create blockchain applications
+  introduction: "Hedera is a decentralized public network for you to make your digital\
+    \ world exactly as it should be \u2013 yours."
+  technology: Whether you're a startup or enterprise, a creator or a consumer, Hedera
+    goes beyond blockchain for developers to create the next era of fast, fair, and
+    secure applications..
+  future: We can not provide any looks into the future for Hedera yet.
+blockchain:
+  consensus: Asynchronous Byzantine Fault Tolerance
+  algorithm: aBFT
+  issue_date: '2019-09-16'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://hash-hash.info
+whitepaper:
+  abstract: "Hedera is a decentralized public network for you to make your digital\
+    \ world exactly as it should be \u2013 yours. Whether you're a startup or enterprise,\
+    \ a creator or a consumer, Hedera goes beyond blockchain for developers to create\
+    \ the next era of fast, fair, and secure applications."
+  file: hbar-hedera-hashgraph_whitepaper.pdf
+website:
+  url: https://www.hedera.com
+video:
+  url: https://www.youtube.com/watch?v=cje1vuVKhwY
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/hederahashgraph
+  reddit: https://www.reddit.com/r/hashgraph
+  twitter: null
+  facebook: https://www.facebook.com/hashgraph
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: null
+  main_repository: null
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

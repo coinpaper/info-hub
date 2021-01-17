@@ -1,0 +1,601 @@
+id: bat-basic-attention-token
+symbol: BAT
+name: Basic Attention Token
+logo: bat-basic-attention-token_logo@512x512.png
+founded: '2017-05-31'
+descriptions:
+  one_sentence: Advertisements in the Brave Browser
+  introduction: BAT (Basic Attention Token), a token for a decentralized ad exchange.
+  technology: It compensates the browser user for attention while protecting privacy.
+    BAT connects advertisers, publishers, and users and is denominated by relevant
+    user attention, while removing social and economic costs associated with existing
+    ad networks, e.g., fraud, privacy violations, and malvertising. BAT is a payment
+    system that rewards and protects the user while giving better conversion to advertisers
+    and higher yield to publishers.
+  future: We see BAT and associated technologies as a future part of web standards,
+    solving the important problem of monetizing publisher content while protecting
+    user privacy..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-05-31'
+  type: token
+  organization_structure: Centralized
+  development_status: Beta version
+explorers: []
+whitepaper:
+  abstract: The solution for current online advertising problems is a decentralized,
+    transparent digital ad exchange based on Blockchain. The first component is Brave,
+    a fast, open source, privacy-focused browser that blocks third party ads and trackers,
+    and builds in a ledger system that measures user attention to reward publishers
+    accordingly.
+  file: bat-basic-attention-token_whitepaper.pdf
+website:
+  url: https://basicattentiontoken.org
+video:
+  url: https://www.youtube.com/watch?v=7p5cxCaUwm4
+team:
+  leader:
+    name: Brendan Eich
+    imagename: bat-basic-attention-token_brendan_eich.png
+    position: Founder, Vision, Strategy
+    description: 'Created JavaScript. Co-founded Mozilla & Firefox '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/BrendanEich
+        followers: 137159
+  members:
+  - name: Brian Bondy
+    imagename: bat-basic-attention-token_brian_bondy.png
+    position: Co-Founder, Browser Engineering Lead
+    description: 'Previously: Khan Academy, Mozilla, Evernote'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/brianbondy
+        followers: 5387
+  - name: Yan Zhu
+    imagename: bat-basic-attention-token_yan_zhu.png
+    position: Security & Privacy Engineering
+    description: "EFF Fellow. \nPreviously: Yahoo, Tor Project, HTTPS Everywhere,\
+      \ Privacy Badger"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/bcrypt
+        followers: 70028
+  - name: Jonathan Sampson
+    imagename: bat-basic-attention-token_jonathan_sampson.png
+    position: Developer Relations & Web Engineering
+    description: "Previously: Microsoft  \n"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/JonathanSampson
+        followers: 7107
+  - name: Luke Mulks
+    imagename: bat-basic-attention-token_luke_mulks.png
+    position: Ad-Tech Expert
+    description: 'Previously: OAO
+
+      '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pureproductions
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/lukemulks?lang=en
+        followers: 3612
+  - name: Aubrey Keus
+    imagename: bat-basic-attention-token_aubrey_keus.png
+    position: Automation & Wallet Systems
+    description: 'Previously: Pulse360
+
+      '
+    links:
+      github:
+        url: https://github.com/aekeus
+        followers: 126
+      linkedin:
+        url: https://www.linkedin.com/in/aubrey-keus-13b887
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/aekeus
+        followers: 356
+  - name: Brian Johnson
+    imagename: bat-basic-attention-token_brian_johnson.png
+    position: Electron & Chromium Integrations
+    description: 'Previously: J.D. Power, Korrelate'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brian-johnson-aaa11018
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marshall Rose
+    imagename: bat-basic-attention-token_marshall_rose.png
+    position: Ledger & Wallet Systems
+    description: Previously on the Internet Engineering Task Force
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marshallrose
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/_mtr?lang=en
+        followers: 680
+  - name: Brian Brown
+    imagename: bat-basic-attention-token_brian_brown.png
+    position: Go-to-Market
+    description: 'Previously: Co-founded Joyent. Deputy Editor WSJ, Brussels.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/brian-brown-2bb97317
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Catherine Corre
+    imagename: bat-basic-attention-token_catherine_corre.png
+    position: Communications
+    description: 'Previously: AOL, Netscape'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/catherine-corre-b2817
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/catherinecorre?lang=en
+        followers: 594
+  - name: Bradley Richter
+    imagename: bat-basic-attention-token_bradley_richter.png
+    position: Brand & Interaction Design
+    description: 'Previously: EFI/Fiery, Co-creator: eBeam & Luidia, Percipo. Advising
+      Circullio'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/richterbrad
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ben Livshits
+    imagename: null
+    position: Chief Scientist (nChain)
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ben-livshits
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nejc Zdovc
+    imagename: null
+    position: Senior Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/nejczdovc
+        followers: 270
+  - name: Scott Locklin
+    imagename: null
+    position: BAT Smart Contracts & Economics
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/scottlocklin
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ankur Nandwani
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ankurbn
+        followers: null
+      medium:
+        url: https://medium.com/@ankur.nandwani_56862
+        followers: 632
+      twitter:
+        url: null
+        followers: null
+  - name: Zooko Wilcox
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/zookow
+        followers: null
+      medium:
+        url: https://medium.com/@zooko_25893
+        followers: 88
+      twitter:
+        url: https://twitter.com/zooko
+        followers: 58142
+  - name: Greg Badros
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/badros
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jon Bond
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jonbond57
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jennie
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/batproject
+  reddit: https://www.reddit.com/r/BATProject
+  twitter: https://twitter.com/@attentiontoken
+  facebook: null
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: brave
+  main_repository: brave/brave-browser
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "After the popular cryptocurrency bull-run in 2017, the world witnessed\
+        \ a drastic increase in the number of users and the significant amount of\
+        \ attention being diverted towards the cryptocurrency technology. Many more\
+        \ businesses were adamant to incorporate some cryptocurrency in their business\
+        \ in some way or another. This led to the introduction of specialized coins\
+        \ that had a much-localized purpose, like loyalty-building coins and utility\
+        \ tokens. Among them is Basic Attention Coin (BAT).<br />\r\nThe Basic Attention\
+        \ Token (BAT) is a specialized utility token which will be solely used within\
+        \ the Brave-Browser Ecosystem. The Brave Browser is an internet browser whose\
+        \ build is comparable to that of Google Chrome Browser. The catch, however,\
+        \ is that Brave-Browser offers integrated Ad Blocker and Tracker Blocker which\
+        \ serves as the solution to the ad spamming that frustrates internet users.\
+        \ This results in faster browsing and small loading times as the user does\
+        \ not have to process ad data as well. The browser also gives its users the\
+        \ option to see ads that are verified by Brave, and if they do so, they will\
+        \ be able to earn BAT tokens that can be used within the Brave ecosystem to\
+        \ purchase several benefits on apps like YouTube and Twitch (Team Brave, 2018). "
+      score: 4.4
+      references: "Team Brave. (2018, February 03). Brave. Retrieved from Brave Website:\
+        \ https://brave.com/download<br />\r\n"
+  current_stand:
+    scandals_highlights:
+      description: "While many Initial Coin Offerings have been organized by several\
+        \ different cryptocurrencies, none of could come close to what BAT ICO did.\
+        \ The BAT ICO was marked with complete action, where the company raised more\
+        \ than $35 million in a mind-boggling record time of under one minute. Though\
+        \ there have been concerns concerning the inability of many people to participate\
+        \ in the ICO, as only a handful of big shareholders took a chunk out of the\
+        \ BAT supply. One buyer even managed to secure a $4.7 million worth of Basic\
+        \ Attention Token deal (Russell, 2017).<br />\r\nSince then, BAT has frequently\
+        \ managed to maintain its position in the news and among cryptocurrency enthusiasts.\
+        \ Recently, it partnered with the TAP network, which is an advertisement company\
+        \ with over 250,000 clients. This could give Brave-Browser and BAT a real\
+        \ boost in terms of its reach (Tapcoin, 2019).<br />\r\n"
+      score: 4.1
+      references: "Russell, J. (2017, June 01). TechCrunch. Retrieved from TechCrunch\
+        \ Website: https://techcrunch.com/2017/06/01/brave-ico-35-million-30-seconds-brendan-eich/<br\
+        \ />\r\nTapcoin. (2019, February 11). Tap Global. Retrieved from Tap Global\
+        \ Website: https://www.tapcoin.net/<br />\r\n"
+    product:
+      description: The company has already launched the Brave-Browser which is a completely
+        working version for desktop and mobile devices. The primary aim of the product
+        is to achieve undisturbed and seamless web browsing which is not plagued by
+        ad spamming. For this purpose, it comes with an integrated advertisement blocker
+        and tracker blocker. Unless and until the user opts for Brave-verified ads,
+        they will not be bothered with any ads. In return for seeing the ads, the
+        users will be able to earn free BAT coins. The Browser comes with many features,
+        and the interface is really clean and easy to use (Team Brave, 2018).
+      score: 4.7
+      references: 'Team Brave. (2018, February 03). Brave. Retrieved from Brave Website:
+        https://brave.com/download'
+    development:
+      description: The code for the Brave Browser and BAT blockchain is developed
+        and upgraded by the Brave Software Team. The team is made up of famous names
+        in the programming community. Even though they have not been able to deliver
+        every development according to the deadline, they have achieved much in respect
+        to the Brave project. The developments can be overviewed on GitHub with the
+        latest upgrades available on the site (Team Brave, 2019).
+      score: 4.5
+      references: 'Team Brave. (2019, June 27). GitHub. Retrieved from GitHub Website:
+        https://github.com/brave/brave-browser'
+    partnerships:
+      description: "The Brave Software Company has been able to acquire and form meaningful\
+        \ partnerships with different companies. In 2018, it was revealed that Brave\
+        \ has partnered with the famous Dow Jones Media Group. The users of Brave-Browser\
+        \ could access the premium content on the website for free and could also\
+        \ choose to donate BAT tokens that they redeemed on the Brave ecosystem(Team\
+        \ Brave, 2018).<br />\r\nThen in February 2019, Brave Software Company and\
+        \ their BAT token bagged another major partnership with the TAP network. Brave\
+        \ Browser could now use the 250,000 clients of the TAP network and distribute\
+        \ its advertisements through them, gaining a handful of reach (Tapcoin, 2019).<br\
+        \ />\r\n"
+      score: 4.2
+      references: "Tapcoin. (2019, February 11). Tap Global. Retrieved from Tap Global\
+        \ Website: https://www.tapcoin.net/<br />\r\nTeam Brave. (2018, February 03).\
+        \ Brave. Retrieved from Brave Website: https://brave.com/download<br />\r\n"
+    community:
+      description: The BAT community on Reddit is very active with posts being written
+        daily and community managers who contribute to it frequently and look after
+        the network. The Brave Browser has already reached a landmark of 10 million
+        downloads in 2018, with the number of users still growing steadily. Also,
+        users have now started to build their own websites which are compatible with
+        the Brave-Browser (BATGrowth, 2019).
+      score: 4.6
+      references: 'BATGrowth. (2019, October 03). BATGrowth. Retrieved from BATGrowth
+        Website: https://batgrowth.com/publishers'
+    substitutes:
+      description: Although BAT can be compared to the likes of LEO Token and Huobi
+        Token which are loyalty-building tokens that can only be used within the ecosystem
+        of their respective products, there are not many coins that can compete with
+        BAT in terms of technological benefits. There are no substitutes with their
+        own browser development teams that can compete with BAT in the field of advertisement.
+      score: 4.7
+      references: null
+  foresight:
+    prediction:
+      description: "The world of cryptocurrency is not unfamiliar with what BAT holds\
+        \ as its potential. With BRAVE-Browser steadily registering new users each\
+        \ day, it should become one of the most popular web browsers and its faster\
+        \ performance, coupled with its policy on no unapproved advertisement is what\
+        \ will draw more users to the browser. It will also become the next hub for\
+        \ advertisements and many businesses will look towards Brave Browser to advertise\
+        \ their products in a regulated manner. <br />\r\nAdvertisement companies\
+        \ are already eyeing the browser and the user base is growing further.<br\
+        \ />\r\nBAT will probably be used to buy premium content or to buy products/services\
+        \ online once it becomes mainstream through the Brave Browser. <br />\r\n"
+      score: 4.7
+      references: null
+    projects:
+      description: "The main project under the parent company is the Brave Browser,\
+        \ which is already functioning seamlessly and still undergoing frequent upgrades\
+        \ and fixes from the development team. With Brendan Eich as the CEO, the project\
+        \ is destined to attain greater heights. His insights have previously made\
+        \ a company like Mozilla, and now he has built a team that fits the sphere\
+        \ in all perspectives. Also, potential business contacts and partnerships\
+        \ can further enhance the project. <br />\r\nThe roadmap for the project indicates\
+        \ that the next step is to finalize the BAT blockchain, develop regionalized\
+        \ advertisements and internet advertisement companies so that the whole model\
+        \ comes in its working position and starts bearing results.<br />\r\n"
+      score: 4.6
+      references: null
+    potential:
+      description: The advertisement industry is huge with revenues reaching up to
+        a staggering amount of billions of dollars. Brave Browser aims to capture
+        a big portion of that, and if it succeeds in doing so, it will become the
+        first blockchain-based incentive that could make its mark in the industry.
+        Therefore, the potential of the BAT technology is huge.
+      score: 5.0
+      references: null
+  pro_con:
+    product_availability:
+      description: The cryptocurrency is a functioning technology, with BAT tokens
+        being already used within the Brave Browser.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: "Tokens that are built on top of Ethereum can\u2019t exceed the\
+        \ TPS of Ethereum yet."
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: BAT transactions are subject to a transaction cost of a few cents.
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: 'There are no official figures available, but tokens that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet. '
+      is_pro: false
+      is_contra: true
+    security:
+      description: BAT token is based on the Ethereum blockchain, and offers a similar
+        level of security.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: 'The token has become popular and has gained recognition in the
+        cryptocurrencies community in a short time. The community wholeheartedly supports
+        the token and the incentives it offers. It has captured partnerships with
+        TAP network and some media groups. '
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: The energy consumption is comparable to that of Ethereum.
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: 'The technology does not offer complete privacy as BAT is a pseudo
+        cryptocurrency which means that transactions can be tracked and balances of
+        individual accounts are available for people to see. '
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: The cryptocurrency offers a high level of decentralization and
+        it was released through an ICO.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Basic Attention Token (BAT) is available on almost every exchange
+        and has a BAT/USDT trading pair on Binance since March 2019.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "The founders of BAT Token and Brave-Browser are not new to the\
+        \ world of technology. The project was founded by the famous Brendan Eich,\
+        \ who serves as the CEO, and Brian Bondy who has taken the command as CTO\
+        \ of the project.<br />\r\nBrendan Eich is famous for developing LiveScript,\
+        \ which later served as the base for the development of the JavaScript programming\
+        \ language which revolutionized the programming industry (DevChat, 2014).\
+        \ Also, apart from this venture, he was also among the six founders of Mozilla\
+        \ Corporation that introduced Mozilla Firefox\u2019s web browser to a world\
+        \ that heavily relied upon Microsoft\u2019s Internet Explorer. He served both\
+        \ as a CTO and CEO of Mozilla corporation up till 2014, when he had to part\
+        \ ways with the organization over a backlash regarding a donation of $ 1000\
+        \ he made in support of anti-gay-marriage protest (Kuchler, 2014).<br />\r\
+        \nThe second co-founder is Brian Bondy, who is no lesser in expertise and\
+        \ relevant skills. He left a mark in the programming industry with his involvement\
+        \ in projects like Khan Academy App for FirefoxOS and Windows 8, among many\
+        \ other interesting applications (TeamPublications, 2014).<br />\r\n"
+      score: 4.5
+      references: "DevChat. (2014, September 2014). Intentional Excellence Productions,\
+        \ LLC. Retrieved from Intentional Excellence Productions, LLC. Website: https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich/<br\
+        \ />\r\nKuchler, H. (2014, October 9). Financial Times. Retrieved from Financial\
+        \ Times Website: https://www.ft.com/content/461bf398-47ee-11e4-ac9f-00144feab7de\
+        \ <br />\r\nTeamPublications. (2014, March 22). BrianBondy. Retrieved from\
+        \ BrianBondy Website: https://brianbondy.com/projects"
+    developers:
+      description: 'The Basic Attention Token (BAT) and Brave Browser are backed by
+        a very strong development team which not only is among the strongest teams
+        of the current crypto sphere but also have all the relevant skills and expertise
+        to build upon the project. Most widely known members are Brendan Eich (CEO)
+        and Ben Livshits (Chief Scientist). '
+      score: 4.8
+      references: null

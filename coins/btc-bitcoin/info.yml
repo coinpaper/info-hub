@@ -1,0 +1,332 @@
+id: btc-bitcoin
+symbol: BTC
+name: Bitcoin
+logo: btc-bitcoin_logo@512x512.png
+founded: '2009-01-03'
+descriptions:
+  one_sentence: Digital, tamperproof and openly traded money
+  introduction: "The theory behind Bitcoin was first\
+    \ described by Satoshi Nakomoto in a whitepaper: A Peer to Peer Electronic\
+    \ Cash System published to a cryptographic mailing list on the 31st of October\
+    \ 2008. In this paper, Satoshi described the protocol (Proof of Work) that would\
+    \ solve the double-spend problem inherent in non-physical (digital)\
+    \ forms of currency. The first or Genesis block was mined by Satoshi on the 3rd\
+    \ of January 2009, with the text -The Times 03/Jan/2009 Chancellor on brink\
+    \ of second bailout for banks- written into the coinbase of the block"
+  technology: "31st October 2008 - White paper released by Satoshi Nakomoto.\
+    \ 3rd January 2009 - Genesis block mined by Satoshi Nakomoto. 12th January 2009 -\
+    \  First transaction using Bitcoin; Satoshi Nakomoto sends 100 BTC to Hal Finney.\
+    \ 22nd May 2010 - First recorded commercial transaction using Bitcoin; aka Pizza\
+    \ Day. 14th January 2016 - Lightning Network white paper, a Layer-2 solution to\
+    \ scaling Bitcoin. 1st August 2017 - Bitcoin Cash (BCH) hard fork. 23rd August\
+    \ 2017 - Segregated Witness (SegWit) implemented."
+  future: 'Decentralized access allowing any party with the
+    open-source software and internet access to send and receive Bitcoin irreversibly
+    without third party interference or trust. Decentralized governance via open-source
+    development and forking. Relatively slow block times in comparison to other
+    crypto-currencies although there are solutions in development such as the Lightning
+    Network aiming to solve the problem of scaling.'
+blockchain:
+  consensus: Proof of Work
+  algorithm: SHA256
+  issue_date: '2008-11-01'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://blockchair.com/bitcoin
+- https://www.blockchain.com/explorer
+- https://blockstream.info/
+whitepaper:
+  abstract: A purely peer-to-peer version of electronic cash would allow online payments
+    to be sent directly from one party to another without going through a financial
+    institution. Digital signatures provide part of the solution, but the main benefits
+    are lost if a trusted third party is still required to prevent double-spending.
+    We propose a solution to the double-spending problem using a peer-to-peer network.
+  file: btc-bitcoin_whitepaper.pdf
+website:
+  url: https://bitcoin.org/en/
+video:
+  url: https://www.youtube.com/watch?v=bBC-nXj3Ng4
+team:
+  leader:
+    name: Satoshi Nakamoto
+    imagename: btc-bitcoin_satoshi_nakamoto.png
+    position: Founder
+    description: Satoshi Nakamoto is the name used by the unknown person or people
+      who developed bitcoin, authored the bitcoin white paper, and created and deployed
+      bitcoin's original reference implementation. As part of the implementation,
+      they also devised the first blockchain database.In the process, they were the
+      first to solve the double-spending problem for digital currency using a peer-to-peer
+      network. They were active in the development of bitcoin up until December 2010.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Wladimir J. van der Laan
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/laanwj
+        followers: 2687
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/orionwl
+        followers: 38027
+  - name: Jonas Schnelli
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/jonasschnelli
+        followers: 893
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/_jonasschnelli_
+        followers: 33720
+  - name: Marco Falke
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/MarcoFalke
+        followers: 647
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: null
+  reddit: https://www.reddit.com/r/bitcoin
+  twitter: https://twitter.com/bitcoincoreorg
+  facebook: https://www.facebook.com/bitcoins/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: bitcoin
+  main_repository: bitcoin/bitcoin
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "In 2009, the concept of a peer-to-peer electronic payment system\
+        \ was published in a whitepaper that revolutionized the world and laid foundations\
+        \ for the birth of a multi-billion dollar industry of cryptocurrencies. Little\
+        \ did anyone know that the technologies and applications the cryptocurrencies\
+        \ provide will offer so much in value and open doors for further innovations.\
+        \ Bitcoin was the very first cryptocurrency to be accepted as a peer-to-peer\
+        \ version of an electronic payment system, therefore opening doors for other\
+        \ cryptocurrencies to be born.<br />\r\nThe primary aim behind the inception\
+        \ of Bitcoin was to provide people with an easier and more efficient means\
+        \ of transaction that was not under the authority of any institution. Apart\
+        \ from the decentralization concept, it intended to solve the delay and time-costly\
+        \ transactional processes and cut down on the fee charges. Bitcoin, in summary,\
+        \ was trying to achieve the same functionality as companies like PayPal, but\
+        \ attempted to save users their money and render these third-party systems\
+        \ obsolete and useless (Nakamoto, 2009).<br />\r\n"
+      score: 4.9
+      references: 'Nakamoto, S. (2009). Bitcoin. Retrieved from Bitcoin Website: https://bitcoin.org/bitcoin.pdf '
+  current_stand:
+    scandals_highlights:
+      description: "Bitcoin saw the peak of its glory in the \u2018bull-run\u2019\
+        \ of 2017-2018 when it increased by tenfold and took the whole world by storm.\
+        \ However, after that, its popularity took a major hit. The number of newspapers\
+        \ and websites willing to write and publish articles about Bitcoin reduced\
+        \ drastically, as more and more alternative cryptocurrencies stormed the market\
+        \ each day.<br />\r\nCurrently, Bitcoin holds around 50% of the market capitalization\
+        \ of all cryptocurrencies available and is getting accepted by more and more\
+        \ businesses. Recently, Bitcoin was announced as a legal medium for the general\
+        \ public to pay their taxes in the State of Ohio. With this major development\
+        \ in November 2018, it is likely that more states will follow in introducing\
+        \ similar incentives (Ma, 2019).<br />\r\n"
+      score: 4.5
+      references: 'Ma, A. (2019, April 08). Marketplace. Retrieved from Marketplace
+        Website: https://www.marketplace.org/2019/04/08/ohio-experiments-bitcoin-tax-payments/ '
+    product:
+      description: The actual product or the application of the Bitcoin network is
+        mainly for transactional purposes. Within 10 years, 350 million transactions
+        have been processed by the Bitcoin network since 2009. The network allows
+        up to 7 transactions per second and the transactional speeds are in seconds
+        (Blockchain.com, 2019).
+      score: 4.4
+      references: Blockchain.com. (2019). Blockchain.com. Retrieved from https://www.blockchain.com/de/charts
+    development:
+      description: 'The Bitcoin community works actively at all times to update and
+        improve its code. With its tech-savvy users and many developers present on
+        the network, the code is updated and upgraded quite frequently. Some developers
+        have also managed to push their work directly to the source code. The lead
+        developer right now is Vladimir J. van der Laan, who was nominated by the
+        last leader in 2011 (Github, 2019). '
+      score: 4.5
+      references: 'Github. (2019, November). Github. Retrieved from Github Website:
+        https://github.com/bitcoin/bitcoin '
+    partnerships:
+      description: Although, no official partnership has been announced by any business
+        with Bitcoin, the popularity and originality of the technology are enough
+        to help it grab the attention of many businesses worldwide. If some business
+        accepts cryptocurrencies as a payment method, rest assured Bitcoin is always
+        there at the top. Even Microsoft now allows users to deposit Bitcoin on their
+        accounts (Microsoft, 2018) and companies like Expedia give their users the
+        option to book hotels using Bitcoin (Street, 2014).
+      score: 4.5
+      references: "Microsoft. (2018, October 05). Microsoft. Retrieved from Microsoft\
+        \ Website: https://support.microsoft.com/en-us/help/13942/microsoft-account-how-to-use-bitcoin-to-add-money-to-your-account<br\
+        \ />\r\nStreet, T. (2014, June 11). Expedia. Retrieved from Expedia Website:\
+        \ https://viewfinder.expedia.com/features/expedia-embraces-bitcoin<br />\r\
+        \n"
+    community:
+      description: "Bitcoin\u2019s community is very active and remains one of the\
+        \ strongest communities to date. Though the number of people that trade with\
+        \ Bitcoin has decreased drastically with time, many people are still \u2018\
+        HODL-ing\u2019 (holding/storing) the tokens in the hope of large returns on\
+        \ their investments."
+      score: 4.8
+      references: null
+    substitutes:
+      description: 'There are many altcoins (alternative cryptocurrencies) that are
+        aiming to achieve what Bitcoin had announced in its whitepaper. Each technology
+        claims that they offer better transaction speed, less transactional limits,
+        pseudonymity, programmable contracts (smart contracts) and fewer price charges,
+        in some way or another. Coins like Monero (privacy), Ethereum (smart contracts)
+        and Nano (scalable, energy saving and feeless) have managed to offer these
+        benefits to an extent. '
+      score: 3.4
+      references: null
+  foresight:
+    prediction:
+      description: Bitcoin has laid down the foundations for a global digital payment
+        system and sooner or later, this vision will become a reality. Though, it
+        is difficult to predict whether it would be Bitcoin, or some other cryptocurrency
+        based on Blockchain or even some altcoin based on new technology. For Bitcoin
+        to remain in the number game, it needs to address issues related to its transactional
+        speed, transactional limits and the energy-intensive nature of its processes.
+        If it can successfully solve these problems, it can maintain its position
+        as the industry leader. Bitcoin still might be the future gold of cryptocurrencies.
+      score: 4.5
+      references: null
+    projects:
+      description: Bitcoin developers are researching and working on many different
+        projects some of which are already in their development phase. There could
+        potentially be voting systems within the Blockchain network or possibilities
+        for crowdfunding campaigns, but none of it is certain. It will take time to
+        get unveiled for the general public.
+      score: 4.5
+      references: null
+    potential:
+      description: The potential that Bitcoin holds has been on for show time and
+        time again, and to say that it is massive would be an understatement. If the
+        team successfully solves the related issues plaguing other cryptocurrencies,
+        Bitcoin can find itself at the centre of all-digital payment systems. The
+        number of businesses to accept Bitcoin will increase drastically and there
+        can come a day when Bitcoin would be used for small scale day-to-day transactions.
+      score: 4.8
+      references: null
+  pro_con:
+    product_availability:
+      description: Bitcoin is already being used by multiple merchants.
+      is_pro: true
+      is_contra: false
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: Bitcoin can currently handle seven transactions per second. For
+        global usage as a digital payment system it should handle at least 1000 transactions
+        per second. VISA handled roughly 1667 TPS in the year 2016.
+      is_pro: false
+      is_contra: true
+    transaction_cost:
+      description: Bitcoin fees are relatively low compared to the fees banks charge
+        for their transactions, but they are much higher than fees of other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    transaction_speed:
+      description: 'Bitcoin transactions are faster compared to transaction times
+        for bank transfers, but they are much slower than other cryptocurrencies. '
+      is_pro: false
+      is_contra: true
+    security:
+      description: Relatively high. Bitcoin has been around for 10 years and its stability
+        and security have been proven multiple times. Miners have an incentive to
+        mine Bitcoin as the rewards are high and the cryptocurrency world relies on
+        Bitcoin.
+      is_pro: true
+      is_contra: false
+    adoption:
+      description: Bitcoin is the most accepted coin of all cryptocurrencies.
+      is_pro: true
+      is_contra: false
+    energy_consumption:
+      description: 'Bitcoin miners used 73 TWh of energy in 2017 which is equivalent
+        to 0.33% of the global energy consumption. '
+      is_pro: false
+      is_contra: true
+    privacy:
+      description: Bitcoin transactions are not anonymous. They are pseudonymous,
+        which means every user on the network can trace, track and analyse the transactional
+        history of other users. If you have Bitcoins worth of a hundred thousand dollars
+        and you pay your coffee from that Bitcoin address, then the coffeeshop owner
+        will know your balance and can check all of your transactions.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: The coin is fully decentralized.
+      is_pro: true
+      is_contra: false
+    exchange_availability:
+      description: Every cryptocurrency exchange lists Bitcoin. Most exchanges use
+        Bitcoin as trading pairs with other cryptocurrencies.
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: The founder of Bitcoin has remained a mystery to the whole world.
+        The founder goes by the name of Satoshi Nakamoto and it is still unclear as
+        to whether this name is real or a pseudonym. The smallest Bitcoin amount that
+        can be transferred is named after him and is known as 1 Satoshi (0.00000001
+        BTC). After the founder of the Bitcoin, it is the lead developer Wladimir
+        J. van der Laan who has earned the trust and support of previous developers
+        and the Bitcoin community on the whole. Vladimir is not involved in any other
+        projects and is working solely for Bitcoin (Bitcoin Wiki, 2015).
+      score: 4.0
+      references: 'Bitcoin Wiki. (2015, August 27). Bitcoin Wiki. Retrieved from Bitcoin
+        Wiki Website: https://en.bitcoin.it/wiki/Wladimir_van_der_Laan'
+    developers:
+      description: Satoshi Nakamoto is the pseudonym used for the mind behind the
+        Bitcoin vision though nobody knows his real identity or whereabouts. The current
+        lead developer of the Bitcoin network is Wladimir J. van der Laan (laanwj)
+        who has been working on the current post since 2014. (Bitcoin Wiki, 2015).
+      score: 4.0
+      references: 'Bitcoin Wiki. (2015, August 27). Bitcoin Wiki. Retrieved from Bitcoin
+        Wiki Website: https://en.bitcoin.it/wiki/Wladimir_van_der_Laan'

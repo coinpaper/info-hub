@@ -1,0 +1,1578 @@
+id: trx-tron
+symbol: TRX
+name: TRON
+logo: trx-tron_logo@512x512.png
+founded: '2017-08-30'
+descriptions:
+  one_sentence: Platform for entertainment content through smart contracts
+  introduction: General Data and Information. TRON is an open source platform launched
+    in 2017 for the decentralized global distribution of content and entertainment
+    in addition to the deployment of smart contracts. Their white paper was released
+    ahead of their August 2017 ICO on the Ethereum blockchain.
+  technology: April 2017 - Tron Foundation established. August 2017 - Tron ICO. 31st
+    May 2018 - Tron Mainnet launched. June 2018 - ERC20 tokens migrated to to Tron.
+    23rd July 2018 - Bittorrent acquired by Tron. Utility. The native coin (TRX) can
+    be used by content consumers to pay creators for in-game assets, or use as currency
+    in gaming or to reward creators directly for their entertainment content or to
+    purchase additional access.
+  future: 'Freezing (staking) TRX tokens results in energy and bandwidth required
+    to interact smoothly with the network as well as the increase in voting power
+    of voting for Super Representatives. Significant Features. Average blocktime of
+    15 seconds; Total supply of 100 billion TRX; Consensus via Proof of Stake (Fast
+    Paxos). High bandwidth, averaging 2000 Transactions per Second.'
+blockchain:
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
+  issue_date: '2017-07-01'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://tronscan.org/
+- https://www.trxplorer.io/
+whitepaper:
+  abstract: "TRON is an ambitious project dedicated to the establishment of a truly\
+    \ decentralized Internet and its infrastructure. The TRON Protocol, one of the\
+    \ largest blockchain-based operating systems in the world, offers public blockchain\
+    \ support of high throughput, high scalability, and high availability for all\
+    \ Decentralized Applications (DApps) in the TRON ecosystem. The July 2018 acquisition\
+    \ of BitTorrent further cemented TRON\u2019s leadership in pursuing a decentralized\
+    \ ecosystem."
+  file: trx-tron_whitepaper.pdf
+website:
+  url: https://tron.network
+video:
+  url: https://www.youtube.com/watch?v=mZ4nJsgUxIQ
+team:
+  leader:
+    name: Justin Sun
+    imagename: trx-tron_justin_sun.png
+    position: Founder and CEO
+    description: 'Born in 1990 Masters, University of Pennsylvania, Bachelors, Peking
+      University.
+
+      Former chief representative at Ripple Labs, Greater China Region.
+
+      2011 Asia Weekly Cover Person; 2014 Davos Global Shaper, 2015 Forbes China 30
+      Under 30.
+
+      2015 CNTV Rising Star of the Year; 2015 only millennial graduate in the first
+      batch of entrepreneurs at Hupan University.
+
+      Since July 24th, 2018, TRON acquired BitTorrent Inc. which is an Internet technology
+      company based in San Francisco and became its CEO'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sunyuchen
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/justinsuntron?lang=en
+        followers: 2105128
+  members:
+  - name: Lucien Chen
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/chen-zhiqiang-5b4b7631?trk=org-employees_mini-profile_title
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chang Min
+    imagename: null
+    position: HRVP
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhao Hong
+    imagename: null
+    position: Technical Director
+    description: null
+    links:
+      github:
+        url: https://github.com/zhaohong
+        followers: 63
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yi Wen
+    imagename: null
+    position: Product Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhao Haoqi
+    imagename: null
+    position: Director of Technical Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/haoqi-zhao-8632ab4a
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhang Sicong
+    imagename: null
+    position: Technical Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Deuce Yu
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charles Zhang
+    imagename: null
+    position: Operation Supervisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/charleszhang0827?trk=org-employees_mini-profile_title
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacky Li
+    imagename: null
+    position: Design Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liu Zeyang
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "\uAE40\uC8FC\uC131"
+    imagename: null
+    position: Head of Korean Community Operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Osayd\uFF08\u0623\u0633\u064A\u062F \uFF09"
+    imagename: null
+    position: Operator of Arabic Community
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "LI SERGEI\uFF08\u041B\u0438 \u0421\u0435\u0440\u0433\u0435\u0439)"
+    imagename: null
+    position: Russian Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liu Sheng
+    imagename: null
+    position: Senior Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Hu Zhenyuan '
+    imagename: null
+    position: Senior Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Matt Yue
+    imagename: null
+    position: Senior Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jorge Guo
+    imagename: null
+    position: Senior Security Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wu Bin
+    imagename: null
+    position: Senior Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xie Chang
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xie Xiaodong
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yang Boheng
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Evan zhang
+    imagename: null
+    position: Senior Code Expert
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liu Yue
+    imagename: null
+    position: HR Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lin Maorong
+    imagename: null
+    position: Senior Backend Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Miao Zhanfei
+    imagename: null
+    position: Operation and Maintenance Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peng Siying
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shang Yameng
+    imagename: null
+    position: Senior Test Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tian Mi
+    imagename: null
+    position: HR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Jiaxin
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sun Mojun
+    imagename: null
+    position: Operator of Japanese Community
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhu Yuhan
+    imagename: null
+    position: Overseas Community Operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Jiang Hongru '
+    imagename: null
+    position: Community Operator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Wang
+    imagename: null
+    position: Community operation
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lyman
+    imagename: null
+    position: New Media Operation Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gao Mengdi
+    imagename: null
+    position: Video Making
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Fang
+    imagename: null
+    position: New Media Operation Editor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexzander Liu
+    imagename: null
+    position: New Media Video Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mandy Xu
+    imagename: null
+    position: Senior Activity Operator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Zhang
+    imagename: null
+    position: Overseas Community Operation Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhang Yixiao
+    imagename: null
+    position: PR Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xu Wenjie
+    imagename: null
+    position: Senior Front End Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Junju
+    imagename: null
+    position: Front End Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bella Zhao
+    imagename: null
+    position: Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chen Fei
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ma Zexin
+    imagename: null
+    position: Senior Test Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ji Zhiqiang
+    imagename: null
+    position: Senior Front End Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhang Mei
+    imagename: null
+    position: Assistant of Technical Department
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chen Songming
+    imagename: null
+    position: UI Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Ziye
+    imagename: null
+    position: Test Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jing Zehao
+    imagename: null
+    position: Effect Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fu Rui
+    imagename: null
+    position: Administration Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: He Fuli
+    imagename: null
+    position: Data Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cui Mingnan
+    imagename: null
+    position: Animation Original Painter
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lis
+    imagename: null
+    position: HR Specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Liu Jintong '
+    imagename: null
+    position: Python Development Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Liu Yan '
+    imagename: null
+    position: Administration Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qi Hao
+    imagename: null
+    position: iOS Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liu Bin
+    imagename: null
+    position: Customer Service Supervisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Yibing
+    imagename: null
+    position: iOS Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Hou Tanzhong '
+    imagename: null
+    position: Senior Operation Maintenance Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhou Xuan
+    imagename: null
+    position: Backend Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cao Libao
+    imagename: null
+    position: Customer Service
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhu Liang
+    imagename: null
+    position: HR Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liu Lulu
+    imagename: null
+    position: HR Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Song Jiahao
+    imagename: null
+    position: Customer Service
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Jiajia
+    imagename: null
+    position: Product Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yi Wei
+    imagename: null
+    position: Product Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Han Min
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wang Mingtao
+    imagename: null
+    position: Python Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hu Xiaoyue
+    imagename: null
+    position: Data Research Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xu Lu
+    imagename: null
+    position: Senior Activity Operator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huang Wanxin
+    imagename: null
+    position: Copywriter
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhao Jitong
+    imagename: null
+    position: Customer Service
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Xia Xianxian '
+    imagename: null
+    position: Senior Operation Supervisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/tronnetworkCN03
+  reddit: https://www.reddit.com/r/Tronix
+  twitter: https://twitter.com/justinsuntron
+  facebook: https://www.facebook.com/tronfoundation/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: tronprotocol
+  main_repository: tronprotocol/java-tron
+manual_reviews:
+  available: true
+  introduction:
+    purpose:
+      description: "As the cryptocurrency craze continues to grow, and the \u2018\
+        crypto-verse\u2019 expands unabatingly, with Bitcoin leading the crypto-race,\
+        \ newer and sometimes cheaper, smaller and better alternatives have emerged\
+        \ in the market. One of them is Tron (TRX), whose founder created the technology\
+        \ with the sole intention of pursuing a dream of decentralized entertainment\
+        \ industry at large while rendering the middle-party content providing platforms\
+        \ like Facebook, YouTube, and Netflix, etc. insignificant. The technology\
+        \ aims to build a decentralized platform that offers free, global, digital\
+        \ content directly to the consumers (Seth, 2019).<br />\r\nTo put things into\
+        \ perspective, what someone might say is an issue with the present-day entertainment\
+        \ industry is that it runs the network of middle-men. When a user wants to\
+        \ download an app, for example, he gets it through App Stores, or if a consumer\
+        \ wants access to movies or series, he has to subscribe to content providing\
+        \ platforms like Netflix or Amazon Prime. This is exactly what Tron aims to\
+        \ eliminate, by providing a digital platform where users can create, publish,\
+        \ store and access their content while having full authority over their creation\
+        \ (Tuwiner, 2018). The protocol strives to develop an ecosystem where the\
+        \ creators can engage with the consumers directly by means of issuing and\
+        \ trading the digital cryptocurrency Tron (The Analyst Team, 2018).<br />\r\
+        \n"
+      score: 4.6
+      references: "Seth, S. (2019, June 25). Investopedia. Retrieved from Investopedia\
+        \ Website: https://www.investopedia.com/tech/what-tron-trx/<br />\r\nTuwiner,\
+        \ J. (2018, January 20). Cryptoslate. Retrieved from Cryptoslate Website:\
+        \ https://cryptoslate.com/tron/<br />\r\nThe Analyst Team. (2018, November\
+        \ 12). Crypto Briefing. Retrieved from Crypto Briefing Website: https://cryptobriefing.com/what-is-tron-introduction-to-trx/"
+  current_stand:
+    scandals_highlights:
+      description: "On June 25, 2018, Tron Foundation observed a major development\
+        \ as they launched their own main-net. Tron was previously based on the Ethereum\
+        \ Blockchain. This shift towards a Blockchain especially designed for Tron\
+        \ by its developers is now celebrated as \u2018Tron Independence Day\u2019\
+        \ among Tron\u2019s community (Holman, 2019).<br />\r\nTron has rapidly gained\
+        \ popularity among the many different cryptocurrencies and currently, it has\
+        \ persistently ranked in the top 10 cryptocurrencies on many exchanges. Tron\
+        \ Foundation has transformed into a full-house development center since its\
+        \ creation, housing around 400 employees as compared to only 10 at the time\
+        \ of its inception. The team has committed a total of 22 updates to the Tron\
+        \ protocol, more than that of Ethereum or EOS, indicating the regular and\
+        \ fast development of the protocol (Masnavi, 2019). <br />\r\nTron Foundation,\
+        \ in an exemplary turn of events, recently succeeded in acquiring BitTorrent.\
+        \ This means that with its user-base of up to 100 million active users, Tron\
+        \ has become the \u201Clargest decentralized Internet ecosystem in the world\u201D\
+        . This is a major step towards the vision of a decentralized Internet and\
+        \ Web 3.0 as defined by Tron\u2019s founder, Justin Sun (Holt, 2018).<br />\r\
+        \nHowever, when everything is going in your and your technology\u2019s favor,\
+        \ then the setbacks and scandal are just close by, waiting to strike. Tron\u2019\
+        s price took a major hit when Justin Sun was accused of plagiarizing Tron\u2019\
+        s technology from many other peer-to-peer Blockchain technology\u2019s whitepapers.\
+        \ Tron Foundation, however, pointed out that the apparent similarities between\
+        \ the different whitepapers are due to the poor English translation, as the\
+        \ original Tron Whitepaper was published in Chinese and is an original authentic\
+        \ work of its developers (Brown, 2018).<br />\r\nIn yet another controversy,\
+        \ Tron\u2019s CEO, Justin Sun, was accused of money-laundering, illegal fund-raising,\
+        \ porn transaction facilitation and gambling by the Chinese media. Tron Foundation\
+        \ released an official statement, disregarding and disapproving the claims\
+        \ while asserting that it is a core policy of Tron Foundation that their protocol\
+        \ should not be used for unlawful purposes (Zmudzinski, 2019).<br />\r\nJustin\
+        \ Sun was also scheduled to co-host a lunch with Warren Buffet in presence\
+        \ of many Blockchainleaders in July. However, the event was postponed by Tron\
+        \ Foundation who claimed that Justin was diagnosed with kidney stones and\
+        \ had to attend to his medical procedures. Some argued otherwise claiming\
+        \ that the postponement was made in wake of the negative news about Justin\
+        \ Sun, who supposedly laundered money, circulating in the media (Steven Russolillo,\
+        \ 2019). <br />\r\n"
+      score: 1.5
+      references: "Brown, M. (2018, January 9). Inverse. Retrieved from Inverse Web\
+        \ site: https://www.inverse.com/article/40050-tron-trx-cryptocurrency-plagiarism-scandal<br\
+        \ />\r\nHolman, T. (2019, June 24). Crypto Newz. Retrieved from Crypto Newz\
+        \ Web site: https://www.cryptonewsz.com/its-tron-independence-day-tomorrow-lets-see-its-main-achievements-during-this-year/27815/<br\
+        \ />\r\nHolt, K. (2018, July 7). Verizon Media. Retrieved from Verizon Media\
+        \ Web site: https://www.engadget.com/2018/07/25/blockchain-company-tron-buys-bittorrent/?guccounter=1<br\
+        \ />\r\nMasnavi, S. (2019, June 25). Crypto Coin Comparison Ltd. Retrieved\
+        \ from Crypto Coin Comparison Ltd Web site: https://www.cryptoglobe.com/latest/2019/06/tron-trx-celebrates-independence-day-highlights-of-achievements-in-past-year/<br\
+        \ />\r\nSteven Russolillo, P. V. (2019, July 23). Dow Jones & Company Inc.\
+        \ Retrieved from Dow Jones & Company Inc. Web site: https://www.wsj.com/articles/crypto-promoter-justin-sun-postpones-charity-lunch-with-warren-buffett-11563884489<br\
+        \ />\r\nZmudzinski, A. (2019, July 23). Coin Telegraph. Retrieved from Coin\
+        \ Telegraph Web site: Adrian Zmudzinski<br />\r\n<br />\r\n"
+    product:
+      description: "Tron Foundation has created and launched a fully working wallet\
+        \ for Tron coins. The wallet is available on app stores by the name of TronWallet.\
+        \ Apart from Tron(TRX), this wallet also supports many other tokens that are\
+        \ based on Tron protocol.<br />\r\nTron Foundation has also rolled out a website\
+        \ known as TronScan which serves multiple purposes. Firstly, it is an official\
+        \ exchange to trade Tron tokens. Secondly, it is a platform where users can\
+        \ vote to elect the Tron Super Representatives of their choice. Also, the\
+        \ users can gain all insights into the recent health and activity of the Tron\
+        \ network, user volume and its value. <br />\r\nHowever, creating wallets\
+        \ and a decentralized DApp platform was never part of the main task of Tron.\
+        \ Tron is yet to create the application that they were dedicated to building,\
+        \ a decentralized platform for entertainment content. <br />\r\n"
+      score: 2.2
+      references: null
+    development:
+      description: "Tron\u2019s protocol is available as an open-source code provided\
+        \ by the Tron Foundation on GitHub. The code is regularly updated and upgraded\
+        \ by the team. "
+      score: 3.3
+      references: null
+    partnerships:
+      description: 'This year, Tron held a summit in San Francisco and called it niTRON.
+        The event featured a number of exciting announcements regarding Tron. Among
+        them were partnerships with Steemit, Aurora, Oracle and Pantera. Apart from
+        that, Tron is already a partner with notable apps like Peiwo, oBike and Gifto
+        (Qamar, 2019). '
+      score: 3.7
+      references: 'Qamar, A. (2019, March 22). Tron Weekly. Retrieved from Tron Weekly
+        Web site: https://www.tronweekly.com/tron-partnerships-and-competition-with-ethereum/'
+    community:
+      description: Tron has already captured a network of more than 3 million users.
+        The community is increasing rapidly with each passing day. The community contributor
+        team is led by the Blockchain Welfare Foundation who actively works towards
+        the development of the Tron ecosystem. Another online platform by the name
+        of Tron-society has emerged which is made of engaged people who pursue a common
+        goal of expanding a community by making the Tron Blockchainmore reachable
+        to people (Tron Society, 2019).
+      score: 4.1
+      references: 'Tron Society. (2019, January 3). Tron Society. Retrieved from Tron
+        Society Web site: https://tron-society.com/'
+    substitutes:
+      description: 'Since Tron was based on a side chain of Ethereum Blockchain, the
+        main substitute of Tron are all other similar technologies which are based
+        on Ethereum Blockchain. Ethereum itself is considered to be a competitor of
+        Tron, only that it is currently a lot more known safer to use option than
+        Tron. '
+      score: 3.4
+      references: null
+  foresight:
+    prediction:
+      description: A lot of positive development has happened since it broke away
+        from the Ethereum Blockchain but there is still a void to be filled. The leader
+        of Tron, Justin Sun, seems to have good relationships with many market leaders
+        and recent partnerships with exchanges like BitForex and OTCBTC, and companies
+        like Oracle and Aurora, has paved way for Tron to remain popular for years
+        to come.
+      score: 3.6
+      references: null
+    projects:
+      description: 'The most talked-about and visionary project under the umbrella
+        of Tron Foundation is Project Atlas, which aims to shake the entertainment
+        industry and shatter the outdated Web by bringing in a new network of Web
+        3.0. This involves the decentralization of the whole web community through
+        the use of Tron protocol. Now with the acquisition of BitTorrent and an expanded
+        network of around 3 million users, the hopes of dismantling the web mechanism
+        are high (Down, 2018). '
+      score: 4.8
+      references: 'Down, M. (2018, October 20). A Medium Corporation. Retrieved from
+        A Medium Corporation Web site: https://medium.com/swlh/blockchain-torrent-tron-project-atlas-internet5a6bfc0b5e89-5a6bfc0b5e89'
+    potential:
+      description: "The potential for Tron would be outstanding if the entertainment\
+        \ content platform was completed and the Tron Foundation doesn\u2019t suffer\
+        \ major loss due to scandals."
+      score: 4.5
+      references: null
+  pro_con:
+    product_availability:
+      description: Despite the enormous market capital of $19 billion, there is no
+        product that backs and evaluates Tron.
+      is_pro: false
+      is_contra: true
+    product_usage:
+      description: null
+      is_pro: false
+      is_contra: true
+    transactions_per_second:
+      description: "Tron boasts a remarkable throughput of 2000 TPS as compared to\
+        \ Ethereum\u2019s 25 TPS and Bitcoin\u2019s 6 TPS."
+      is_pro: true
+      is_contra: false
+    transaction_cost:
+      description: "Tron\u2019s transaction cost is less than that of Ethereum and\
+        \ a lot of cryptocurrencies. In addition to that, Tron provides a daily amount\
+        \ of free bandwidth to its users from which they can process roughly 15 transactions\
+        \ free of cost."
+      is_pro: true
+      is_contra: false
+    transaction_speed:
+      description: "The transaction speed is much higher compared to other cryptocurrencies.\
+        \ <br />\r\n"
+      is_pro: true
+      is_contra: false
+    security:
+      description: Relatively low. The coin is relatively new/unproven.
+      is_pro: false
+      is_contra: true
+    adoption:
+      description: Tron (TRX) has a low acceptance rate compared to other cryptocurrencies.
+      is_pro: false
+      is_contra: true
+    energy_consumption:
+      description: 'As the Tron protocol is faster and computationally more feasible
+        than Ethereum, its energy consumption is much less than that of Ethereum. '
+      is_pro: true
+      is_contra: false
+    privacy:
+      description: Transactions with this coin are pseudonymous.
+      is_pro: false
+      is_contra: true
+    decentralization:
+      description: Contrary to its founding principles, Tron has become highly centralized
+        or is pseudo-centralized, as was explained by the former CTO of Tron who quit
+        the project because of that.
+      is_pro: false
+      is_contra: true
+    exchange_availability:
+      description: 'The whole supply of Tron is available in the market. It is already
+        being offered by top exchanges like Bittrex, Binance, eToro, etc. '
+      is_pro: true
+      is_contra: false
+  team:
+    founders:
+      description: "The focal person behind this cryptocurrency is Justin Sun, an\
+        \ ambitious 29- year tech-entrepreneur from China (Seth, 2019). Some people\
+        \ refer to Justin as the prot\xE9g\xE9 of Jack Ma, the founder of Ali Baba.\
+        \ It was due to the untiring efforts of Justin, and his vision and passion\
+        \ to develop a decentralized web, that he founded the Tron Foundation. Justin\
+        \ Sun is heading the team with himself as the CEO of the foundation, taking\
+        \ upon the challenge of promoting the development and marketing of Tron protocol\
+        \ and its products. Unfortunately, Justin Sun has been caught in a lie a couple\
+        \ of times as can be read in the part about Highlights/Scandals. "
+      score: 1.0
+      references: null
+    developers:
+      description: "Tron\u2019s team has grown from 10 people to a staggering 400\
+        \ people in 2019. The Tron foundation is headed by Justin Sun, who is one\
+        \ of China\u2019s most famous tech-entrepreneur. "
+      score: 4.0
+      references: null

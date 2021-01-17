@@ -1,0 +1,369 @@
+id: pax-paxos-standard-token
+symbol: PAX
+name: Paxos Standard
+logo: pax-paxos-standard-token_logo@512x512.png
+founded: '2020-01-01'
+descriptions:
+  one_sentence: Stablecoin that should stay at the value of 1 USD
+  introduction: "Paxos Standard\u2122 is the world's first regulated crypto asset.\
+    \ The Paxos Standard token is fully collateralized 1:1 by the U.S. dollar, issued\
+    \ by the Paxos Trust Company, and approved and regulated by the New York State\
+    \ Department of Financial Services."
+  technology: Built on the Ethereum blockchain, it offers the benefits of crypto-assets
+    such as immutability and decentralized accounting. Since it is fully collateralized
+    by dollars, Paxos Standard offers a liquid, digital alternative to cash that is
+    available 24/7 for instantaneous transaction settlement and is fully redeemable.
+    As a Trust company, Paxos is a fiduciary and qualified custodian of customer funds,
+    and can therefore offer greater protections for customer assets than any other
+    existing stablecoin. Dollar deposits used to purchase PAX from Paxos.com are always
+    held in segregated accounts at multiple FDIC-insured U.S.-domiciled banks.
+  future: Verified Paxos customers can purchase and redeem tokens directly through
+    Paxos.com on a 1:1 basis with USD. Paxos Standard has been designed as an Ethereum
+    token written according to the ERC-20 protocol, so that anyone with an Ethereum
+    wallet will be able to send and receive Paxos Standard tokens. The smart contract
+    has been audited by smart contract auditors Nomic Labs and ChainSecurity, and
+    nationally top-ranking auditing firm Withum will perform attestation procedures
+    on our token and bank account balances on a month-end basis..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2020-01-01'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1
+whitepaper:
+  abstract: "Paxos Standard is regulated crypto asset. It is fully collateralized\
+    \ 1:1 by the U.S. dollar, approved and regulated by the NYDFS, and enables instantaneous\
+    \ transactions. Paxos Standard (PAX) was created by Paxos, a financial\
+    \ technology company on a mission to modernize finance by mobilizing assets at\
+    \ the speed of the internet. Paxos was the first virtual currency company\
+    \ to receive a charter from the New York State Department of Financial Services."
+  file: pax-paxos-standard-token_whitepaper.pdf
+website:
+  url: https://www.paxos.com/
+video:
+  url: https://www.youtube.com/watch?v=Y6rcynY60VU
+team:
+  leader:
+    name: Charles Cascarilla
+    imagename: pax-paxos-standard-token_charles_cascarilla.png
+    position: CEO and Co-Founder
+    description: With over 15 years of experience in financial services, Charles has
+      a unique perspective on integrating blockchain technology with traditional systems.
+      He co-founded institutional asset management complex Cedar Hill Capital Partners
+      in 2005 and its venture capital subsidiary, Liberty City Ventures, in 2012.
+      Earlier in his career, Charles was a portfolio manager at Claiborne Capital
+      and worked at both Bank of America Securities and Goldman Sachs.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Sheila Bair
+    imagename: null
+    position: Board Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bill Bradley
+    imagename: null
+    position: Board Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robert Herz
+    imagename: null
+    position: Board Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jim Manzi
+    imagename: null
+    position: Board Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrew Chang
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Duncan Niederauer
+    imagename: null
+    position: Board Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rachel Nelson
+    imagename: null
+    position: General Counsel and Chief Compliance Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rajesh Nair
+    imagename: null
+    position: VP of Engineering
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bharath Jayaraman
+    imagename: null
+    position: VP of People
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marisa Goldberg
+    imagename: null
+    position: Head of Talent
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jake Skinner
+    imagename: null
+    position: Strategic Initiatives
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: null
+  reddit: null
+  twitter: https://twitter.com/paxosglobal?lang=en
+  facebook: https://www.facebook.com/PaxosGlobal
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: paxosglobal
+  main_repository: paxosglobal/pax-contracts
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

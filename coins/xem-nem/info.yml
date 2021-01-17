@@ -1,0 +1,510 @@
+id: xem-nem
+symbol: XEM
+name: NEM
+logo: xem-nem_logo@512x512.png
+founded: '2014-06-06'
+descriptions:
+  one_sentence: Smart contract platform for businesses
+  introduction: 'NEM is the world''s first Smart Asset blockchain. Built from the
+    ground up for enterprise-grade performance, NEM''s blockchain technology delivers
+    a world class platform for management of almost any kind of asset: currencies,
+    supply chains, notarizations, ownership records and more.'
+  technology: "NEM\u2019S power is exposed through a straightforward and secure developer\
+    \ interface so that you can deploy your blockchain solution in record time. Whether\
+    \ you are building the next best mobile app or bringing blockchain into your existing\
+    \ business infrastructure, NEM makes blockchain work for you. NEM\u2019s Smart\
+    \ Asset system allows anyone to completely customize how they use the NEM blockchain,\
+    \ with a robust set of features including domain-like namespaces and full on-blockchain\
+    \ Multi-signature control."
+  future: "Any application can access these features through NEM\u2019s simple API\
+    \ allowing easy integration within mobile apps, existing business infrastructure\
+    \ or contract logic. The NEM public blockchain provides an open and self-scaling\
+    \ platform for developers.."
+blockchain:
+  consensus: Proof of Importance
+  algorithm: PoI
+  issue_date: '2015-04-01'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://explorer.nemtool.com/#/
+whitepaper:
+  abstract: "NEM is a cryptocurrency and blockchain platform for smart digital assets.\r\
+    \nMain new feature in NEM includes Proof of Importance (POI), new consensus algorithm,\
+    \ and smart asset system."
+  file: xem-nem_whitepaper.pdf
+website:
+  url: https://www.nem.io/
+video:
+  url: https://www.youtube.com/watch?v=HnEzF3bqibw
+team:
+  leader:
+    name: Alexandra Tinsman
+    imagename: xem-nem_alexandra_tinsman.png
+    position: President
+    description: "Nem (Xem) founder"
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alextinsman/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Dona Rinon
+    imagename: xem-nem_dona_rinon.png
+    position: Treasurer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ronel Li
+    imagename: xem-nem_ronel_li.png
+    position: Secretary-General
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ronelli/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lon Wong
+    imagename: null
+    position: President
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lonwong1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/2017Lon
+        followers: 23098
+  - name: Jeff McDonald
+    imagename: null
+    position: Vice President
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jeffmcdonald/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/thejabo38
+        followers: 815
+  - name: Ken Chan
+    imagename: null
+    position: Treasurer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ken-leng-chan-a7838522
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Takao Asayama
+    imagename: null
+    position: Council Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/takaoasayama/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/takaoasayama
+        followers: 40131
+  - name: Stephen Chia
+    imagename: null
+    position: Council Member Regional Head, Southeast Asia
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/schia/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Albert Castellana
+    imagename: null
+    position: Council Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/acastellana/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nelson Valero
+    imagename: null
+    position: Council Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nelz-valero-13a912123/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kristof Van de Reck
+    imagename: null
+    position: Council Member Regional Head, Europe
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kristof-van-de-reck/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kvandereck
+        followers: 414
+  - name: Niko Maenpaa
+    imagename: null
+    position: Council Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/niko-m\xE4enp\xE4\xE4-287289110/"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Leon Yeoh
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kailin O'Donnell
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Erik Van Himbergen
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/erikvanhimbergen/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ewan
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: QM
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jason Lee
+    imagename: null
+    position: Australasia Director Partnership & Strategic Alliances
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Samy Mendiburo
+    imagename: null
+    position: Marketing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/Samydme/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Misha Granin
+    imagename: null
+    position: Head of Partnerships
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/granin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yoshiaki Okabe
+    imagename: null
+    position: Senior Technical Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yoshiaki-okabe/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/nemred
+  reddit: https://www.reddit.com/r/nem
+  twitter: https://twitter.com/nemofficial/
+  facebook: https://www.facebook.com/ourNEM/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: nemtech
+  main_repository: nemtech/catapult-rest
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

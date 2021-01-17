@@ -1,0 +1,180 @@
+id: qnt-quant
+symbol: QNT
+name: Quant
+logo: qnt-quant_logo@512x512.png
+founded: '2018-06-24'
+descriptions:
+  one_sentence: Bridge between blockchains and other networks
+  introduction: "What is Overledger?. Overledger is the world\u2019s first blockchain\
+    \ operating system (OS) that not only connects blockchains to one another but\
+    \ also connects existing networks to blockchain and facilitates the creation of\
+    \ internet scale multi-chain applications otherwise known as MApps. What does\
+    \ it address?. Overledger will address the major limitations of current blockchain\
+    \ technology and unlock its true potential. Overledger has the ability to unlock\
+    \ and distribute value and applications across current and future blockchains.\
+    \ Overledger is an agnostic platform that connects the world\u2019s networks to\
+    \ blockchains and ensures you\u2019re not limited to any single vendor or technology."
+  technology: "Who can take advantage of Overledger?. Enterprise and business:. Overledger\
+    \ empowers businesses with the flexibility to connect their network to blockchains\
+    \ without burden of being locked into an existing technology or vendor. By facilitating\
+    \ multi-chain interoperability, Overledger will enable businesses to access new\
+    \ markets, increase resilience, and de-risk investments. Individuals:. Facilitate\
+    \ human-to-human and machine-to-machine trust that ensures safe and secure transactions\
+    \ with one another. Provide individuals with a level of access and control of\
+    \ their personal information we\u2019ve never experienced before. Governments:."
+  future: "Deliver solutions for governments that minimise the bureaucracy but enhance\
+    \ transparency and collaboration between governments, business and citizens. Provide\
+    \ the opportunity for collaboration between the public and private sectors that\
+    \ were never thought possible. Developers:. Give developers the ability to unlock\
+    \ and distribute value and applications across current and future blockchains\
+    \ and build their own unique Multi-Chain Applications. Overledger is not another\
+    \ blockchain. It\u2019s the \u2018over ledger\u2019 that sits on top of blockchains\
+    \ providing a meta-gateway.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-06-24'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://ethplorer.io/address/0x4a220e6096b25eadb88358cb44068a3248254675
+- https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675
+whitepaper:
+  abstract: "Overledger - The first Blockchain operating system that connects the\
+    \ world\u2019s networks and facilitates the development of multi-chain applications."
+  file: qnt-quant_whitepaper.pdf
+website:
+  url: https://www.quant.network/
+video:
+  url: https://www.youtube.com/watch?v=vuZ2RlOYzVA
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/quantnetworkannouncements
+  reddit: https://www.reddit.com/r/QuantNetwork
+  twitter: https://twitter.com/quant_network
+  facebook: https://www.facebook.com/quantnetwork
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: quantnetwork
+  main_repository: quantnetwork/overledger-sdk-javascript
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

@@ -1,0 +1,1254 @@
+id: ont-ontology
+symbol: ONT
+name: Ontology
+logo: ont-ontology_logo@512x512.png
+founded: '2018-02-26'
+descriptions:
+  one_sentence: Authentification, verification and data exchange
+  introduction: "General Data and Information. Ontology is a public blockchain project\
+    \ with distributed data collaboration aiming to build a peer to peer cross system\
+    \ trust network. Ontology trust network provides a strategic cooperation of data\
+    \ systems and trust sources. This network is composed of decentralized identity\
+    \ verification systems, multi factor authentication, distributed ledger technology\
+    \ and distributed data exchange All business types can be applied to Ontology\
+    \ blockchain technology without the need of users having prior knowledge on distributed\
+    \ networks. Led by a global blockchain expert team, Ontology provides distributed\
+    \ infrastructure to various businesses and decentralized applications. Ontology\
+    \ aims to bind decentralized digital world to the real world using \u201COntology\
+    \ Common\u201D or \u201COntology Custom\u201D designs. These designs enable secure\
+    \ end effective decentralized systems. Ontology\u2019s ecosystem can be divided\
+    \ into three categories: The Technological Ecosystem, The Application Ecosystem\
+    \ and The Governance Ecosystem."
+  technology: 'Ontology system architecture has a flexible design allowing for expansions
+    and support for ever growing applications. The businesses Ontology aims to support
+    include distributed ledgers, smart contracts, distributed authentication protocols,
+    distributed data exchange protocols, and more.  The layers of Ontology network
+    can be divided into three: core layer, application layer and user layer. Core
+    layer is composed of protocols and chain groups, application layer is composed
+    of partners, application frameworks and modules, and the user layer is composed
+    of Ontology ecosystem application users. Partners hold great importance building
+    the Ontology ecosystem. Milestones. In 2017, Ontology was the first China based
+    blockchain project to join DIF. In 2018, Ontology released the VBFT consensus
+    algorithm, announced the consensus economic model, released the ONTO app, was
+    selected as a part of Microsoft Accelerator and announced their sharding design.
+    In 2019, Ontology development platform was added to Google Cloud Marketplace,
+    and Ontology multichain design, WASM Testnet and multichain testnet was released.
+    Utility.'
+  future: There are more than 2 million community contributors, 900 technical contributors,
+    190 partners and 200 team members in Ontology Blockchain Network. There are also
+    50 and growing dApps, 56 nodes and more than 517000 wallet addresses in Ontology
+    Ecosystem. Ontology token uses VBFT, a combination of three different models of
+    Proof of Stake (PoS), Byzantine Fault Tolerance (BFT) and Verifiable Random Functions
+    (VRF). The application areas of Ontology include finance, payments, insurance,
+    consumer, internet of things, media, software development, medicine, asset titles,
+    and government activities such as voting systems. Significant Features. Ontology
+    brings solutions to current trust system flaws such as data fragmentation, individual's
+    lack of role, monopolization of data management, false identity verification,
+    transparency and security issues, weak reputation systems and insufficient community
+    management. Ontology offers blockchain solutions presenting custom modules to
+    businesses with issuable trust and verifiable identity systems. One of the key
+    powers of Ontology is dealing with current real-life business issues instead of
+    presenting a framework for future cases..
+blockchain:
+  consensus: Ontology Consensus Engine
+  algorithm: VBFT
+  issue_date: '2018-02-26'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://ont.tokenview.com
+- https://explorer.ont.io/
+whitepaper:
+  abstract: "Ontology is a new high-performance public blockchain project & a distributed\
+    \ trust collaboration platform.\r\n\r\nOntology provides new high-performance\
+    \ public blockchains that include a series of complete distributed ledgers and\
+    \ smart contract systems.\r\n\r\nOntology blockchain framework supports public\
+    \ blockchain systems and is able to customize different public blockchains for\
+    \ different applications. Ontology supports collaboration amongst chain networks\
+    \ with its various protocol groups."
+  file: ont-ontology_whitepaper.pdf
+website:
+  url: https://ont.io
+video:
+  url: https://www.youtube.com/watch?v=VAs122Dc9Wk
+team:
+  leader:
+    name: Jun Li
+    imagename: ont-ontology_jun_li.png
+    position: Founder
+    description: "Li has a rich academic background, including a Bachelor\u2019s degree\
+      \ in Computer Science, Master\u2019s in Communication Engineering, MBA, and\
+      \ PMP. He is a senior blockchain architect and blockchain solutions professional\
+      \ with 16 years\u2019 work experience in IT and fintech. Li previously provided\
+      \ technical architecture, management, and planning support for top international\
+      \ IT firms and major Chinese financial exchanges."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Xianping Mao
+    imagename: ont-ontology_xianping_mao.png
+    position: Dean of Ontology Research Institute
+    description: Mao holds a PhD in cryptography from Shanghai Jiao Tong University.
+      He is committed to innovation and application research of blockchain underlying
+      technology and cryptography, and has a deep understanding of blockchain consensus
+      mechanisms, blockchain privacy protection, and data security. Mao has been in
+      well-known international journals in the field of cryptography and has published
+      more than ten related academic papers for conferences.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Elmond Cong
+    imagename: ont-ontology_elmond_cong.png
+    position: Senior Architecture Expert
+    description: "Cong studied computer science at Tsinghua University and is a professional\
+      \ in distributed systems and decentralized consensus algorithm design. He previously\
+      \ worked on distributed network protocols and distributed storage systems at\
+      \ Cisco and EMC, and later moved onto blockchain architecture design for large\
+      \ business groups. Cong excels in a range of blockchain structures and protocols,\
+      \ and participated in building the biggest alliance chain (between Union Pay,\
+      \ JD, CMB, and Wanda Group) in China."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ning Hu
+    imagename: ont-ontology_ning_hu.png
+    position: Senior Architecture Expert
+    description: Hu is one of the first Semantic Web professionals in China. His experience
+      includes enterprise resource planning, digitization of government affairs, gaming
+      platforms, and media streaming. In 2008, he joined Project Halo, initiated by
+      Paul Allen, Co-Founder of Microsoft, where his contributions included big data,
+      artificial intelligence, work related to Semantic Web, etc. In 2013, Hu took
+      part in setting up the Chinese division for Green Dot. He has rich understanding
+      in banking finance and prepaid card services.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Ji
+    imagename: ont-ontology_andy_ji.png
+    position: Co-founder
+    description: "Ji Zhoudong has substantial experience in blockchain technology,\
+      \ including being a leader of one of the Top 500 Blockchain groups, Deputy General\
+      \ Manager of Wanda Technology Group Innovation Center and Wanda\u2019s Chief\
+      \ of Blockchain Technology, Deputy Secretary-General of China\u2019s Ministry\
+      \ of Industry and Information Technology\u2019s Blockchain Technology and Industrial\
+      \ Development Forum, a director of Hyperledger, a member of China\u2019s delegation\
+      \ of ISO/IEC TC 307, and Deputy Director of the China Blockchain Ecosystem Alliance\
+      \ (CBEA)."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andy-ji-55650398/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wentao Yang
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tony Duan
+    imagename: null
+    position: UX Designer
+    description: null
+    links:
+      github:
+        url: https://github.com/tony1duan
+        followers: 1
+      linkedin:
+        url: https://www.linkedin.com/in/tony-duan/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Julia Yu
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/julia-yu-557389b6/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Assab
+    imagename: null
+    position: Senior Overseas Market Specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/daniel-assab-0a6346a6/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jianqi Liu
+    imagename: null
+    position: Senior Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jianqi-liu-348300bb
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy An
+    imagename: null
+    position: Senior Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andy-an-63561249/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Ding
+    imagename: null
+    position: Investor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ruoyuding/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Honglei Cong
+    imagename: null
+    position: Senior Blockchain Technology Professional
+    description: Cong studied computer science at Tsinghua University and is a professional
+      in distributed systems and decentralized consensus algorithm design.
+    links:
+      github:
+        url: https://github.com/Honglei-Cong
+        followers: 32
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Junjie Weng
+    imagename: null
+    position: Technical Manager
+    description: Weng has 10+ years of work experience at IBM in software development
+      and solutions, and was one of the first developers of Fabric.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Min Xiao
+    imagename: null
+    position: Technical Director of Financial Systems
+    description: Xiao previously worked at China UnionPay Data Services, a major payment
+      service provider in China. He has rich work experience which includes IT planning
+      and team management for financial systems, cross-border payments, accounts,
+      and liquidation.
+    links:
+      github:
+        url: https://github.com/xiaomin49
+        followers: 5
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yan Zhou
+    imagename: null
+    position: Technical Manager
+    description: Zhou was previously the Chief Product Officer and Technical Vice
+      President of Oriental Pass. He has more than 10 years of experience in fundamental
+      software marketing, product management, and development, with a focus on middleware,
+      microservices, cloud computing, and blockchain.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel Wen
+    imagename: null
+    position: Director Business Development
+    description: Daniel brings to the team over 15 years of experience in private
+      equity, investment banking, and financial due diligence. Before joining the
+      Ontology team, he had worked for international banks, Fortune-500 MNCs, and
+      Big 4 accounting firms.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sally Xue Gong
+    imagename: null
+    position: Head of Strategic Partnerships
+    description: Prior to joining the team, Sally was a partner of a boutique management
+      consulting firm. She has previously worked for two global Fortune 500 tech companies
+      and a global big four consulting firm.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhichao Lai
+    imagename: null
+    position: Senior Software Engineer
+    description: Lai is a blockchain core developer and has experience in distributed
+      ledgers, P2P networks, and consensus development. He also has a strong technical
+      experience in data mining and big data.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bing Wang
+    imagename: null
+    position: Senior Software Engineer
+    description: Wang has five years of internet development experience and has worked
+      in a large financial data technology company in China.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yuan Tan
+    imagename: null
+    position: Senior Software Engineer
+    description: Tan is a DNA Smart Contract Core Developer, NEO Community Developer,
+      and Participant of NEO NEP-5 token standards.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pan Liu
+    imagename: null
+    position: Senior Software Engineer
+    description: Liu graduated from the National Laboratory of Computer Systems at
+      Huazhong University of Science and Technology. He previously worked at Cisco
+      and specializes in internet protocols and network virtualization.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Guanjun Hu
+    imagename: null
+    position: Senior Software Engineer
+    description: Hu previously worked on an enterprise public cloud platform at Honeywell.
+      His work experience includes distributed storage, NoSQL databases, microservice,
+      and DevOps.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Menghang Zhang
+    imagename: null
+    position: Senior Systems Engineer
+    description: Zhang is a senior developer focusing on blockchain underlying technologies
+      and applications, and was once a blockchain system assessment professional recognized
+      by China Eletronics Standardization Institute.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Junxi Xie
+    imagename: null
+    position: Senior Systems Engineer
+    description: Xie once worked on online gaming development and quantity transaction
+      development at Giant Network, Grand Game, some private equity firms. He uses
+      C++ in Linux system and has rich development experience in Go.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peiwen Zhou
+    imagename: null
+    position: Senior Systems Engineer
+    description: Zhou is working on developing blockchain applications and underlying
+      infrastructure. He has worked at HP, SGI, Ping An Group, and more, and holds
+      solid experience in product lifecycle management, high-performance computing,
+      and third-party payment.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wei Lyu
+    imagename: null
+    position: Senior Information Security Engineer
+    description: 'Lyu is an information security professional with expertise in cryptography
+      and internet security. '
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kunxian Xia
+    imagename: null
+    position: Information Security Specialist
+    description: "Xia did his Master\u2019s degree in Information Security, specializing\
+      \ in elliptic-curve cryptography and lattice-based cryptography. He won second\
+      \ prize in a postgraduate mathematical modeling contest."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiping Li
+    imagename: null
+    position: Senior Project Manager
+    description: Li worked for more than 10 years at IBM (in finance and logistics)
+      and has years of experience in banking core system solutions, project and team
+      management, and experience overseas.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xi Zhou
+    imagename: null
+    position: Senior Software Engineer
+    description: Zhou studied in Sweden and obtained his Master's degree in Embedded
+      and Intelligent Systems. He was previously a software engineer at Honeywell
+      and has several years' experience in microservices and distributed concurrent
+      systems.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qiushan Liu
+    imagename: null
+    position: Researcher
+    description: Liu was involved in the ZhongAn Technology/Fudan University blockchain
+      lab, where he participated in R&D of core consensus algorithm. He was formerly
+      a system performance analyst at IBM and has participated in the development
+      of Fabric 0.6.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wilson Hua
+    imagename: null
+    position: Technical Product Manager
+    description: Wilson used to be the technical principal of a blockchain application
+      project at ZhongAn Technology and the core financial blockchain developer at
+      LeTV. He participated in the compilation of the white paper, reference framework,
+      and blockchain standards set out by the Ministry and Information Technology
+      of China.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yingxuan Li
+    imagename: null
+    position: Senior Systems Engineer
+    description: Li is a core developer of DNA. He is a full-stack engineer proficient
+      in Golang, Python, PHP, NodeJS, VueJS, MySQL, and more.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yihen Liu
+    imagename: null
+    position: Senior Systems Engineer
+    description: "Liu has eight years of work experience. He has a Bachelor\u2019\
+      s degree in Computer Science and a Master\u2019s degree in Statistics."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiang Fu
+    imagename: null
+    position: Senior Systems Engineer
+    description: Fu is a core developer of DNA. He received his Master's degree in
+      Communications and Information Systems from Beijing University of Posts and
+      Telecommunications and previously worked at the Chinese Academy of Sciences
+      where he was awarded with an Outstanding Technical Achievement Award.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yin Shen
+    imagename: null
+    position: Architect
+    description: Shen has more than 10 years of work experience. He has worked as
+      an application development architect, and is very experienced in internet application
+      development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiaojie Guo
+    imagename: null
+    position: Senior Software Engineer
+    description: Guo has been engaged in a series of importance projects led by the
+      State Administration of Taxation, Ministry of Public Security, and other government
+      departments. Guo has many years of experience in information security.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lucas Si
+    imagename: null
+    position: Software Engineer
+    description: Si holds a master's degree from Shanghai Jiaotong University. He
+      previously worked at Shanghai Stock Exchange Technology where he worked on a
+      blockchain-based securities trading system verification project development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wei Zhang
+    imagename: null
+    position: Senior Software Engineer
+    description: Zhang is a DNA core developer with experience in blockchain infrastructure
+      and security development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Qiang Zhou
+    imagename: null
+    position: Software Engineer
+    description: Zhou gained his degree in Information Security and worked in credit
+      card service at Ping An Bank. His experience varies from financial payment systems
+      to blockchain application development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Link Su
+    imagename: null
+    position: Frontend Software Engineer
+    description: Su previously worked at IBM, has rich experience in banking project
+      experience, and has taken part in the front-end design and development of multiple
+      corporate blockchain projects.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dashuang Wang
+    imagename: null
+    position: Frontend Software Engineer
+    description: Wang gained his degree in Software Engineer from East China Normal
+      University and worked on front-end development at a startup.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jing Liu
+    imagename: null
+    position: Frontend Software Engineer
+    description: Liu majored in Information Security and previously worked at TopSec.
+      She has a solid amount of experience in security protocols, cryptographic algorithms,
+      and security product development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wenbin Ding
+    imagename: null
+    position: Project Manager
+    description: Ding was previously worked in operations and business development
+      for a third party WeChat developer.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Cheng Wang
+    imagename: null
+    position: Software Engineer
+    description: Wang graduated from the International School of Software at Wuhan
+      University and previously worked at Huawei. He has extensive experience in software
+      development and has studied computer networks and distributed software systems.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xudong Wei
+    imagename: null
+    position: Devops Engineer
+    description: Wei graduated from Taiyuan University of Technology with a major
+      in computer science. He used to work for Nanjing Zhenshi Intelligence Technology,
+      where he gained extensive experience in DevOps including automation operation
+      and maintenance, database operation and maintenance, business monitoring, and
+      promming in Java, Python, and Shell.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhijie Chen
+    imagename: null
+    position: Software Engineer
+    description: Chen received his bachelor's degree in computer science and finance
+      from South China University of Technology. He is a full stack developer who
+      has worked with iOS apps and Node.js and Go development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Will Liu
+    imagename: null
+    position: Senior Blockchain Solutions Specialist
+    description: Will graduated from the University of Hong Kong with a major in Computer
+      Science.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dave Dong
+    imagename: null
+    position: Business Manager
+    description: Dong has work experience in independent business development at Chinese
+      state-owned enterprises and big data, anti-fraud, and corporate collaboration.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Defoe Chiang
+    imagename: null
+    position: Director of Policy and Legal Affairs
+    description: Jiang has previously worked at governmental organizations, state-owned
+      enterprises, law firms, and startup investment institutions.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mathias Glintborg
+    imagename: null
+    position: Development manager
+    description: Mathias holds Master degrees in international business/finance and
+      mechanical engineering. His previous professional experience includes AI and
+      analytics with a F500 company, financial advisory, and new product development.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Walter Yang
+    imagename: null
+    position: Business Development Specialist
+    description: Walter is an interdisciplinary professional, with experiences ranging
+      from content marketing and product branding to business development and strategic
+      management.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chelsea Mu
+    imagename: null
+    position: Senior Public Relations Specialist
+    description: Mu has worked for international PR agencies and first-tier internet
+      companies where she was responsible for brand promotion, communications, and
+      media relations for technology companies such as Microsoft and NetApp.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christina Liu
+    imagename: null
+    position: Overseas Community Operations
+    description: Christina has more than three years working experience in London
+      in dealing with international high net worth individuals on various investment
+      and acquisition projects in technology, real estate, investment immigration,
+      and education throughout Europe.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tian Xie
+    imagename: null
+    position: UI Designer
+    description: Xie has design experience in multiple projects and is responsible
+      for design-related work. She addresses project needs in product design and UI
+      design.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zhao Wang
+    imagename: null
+    position: UI Designer
+    description: Zhao Graduated from User-Experience research major in a well-known
+      design university in the US. She has four years of UX/UI design work experience.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/OntologyNetworkCN
+  reddit: https://www.reddit.com/r/OntologyNetwork
+  twitter: https://twitter.com/OntologyNetwork
+  facebook: https://www.facebook.com/ONTnetwork/
+  medium: null
+  vimeo: null
+  discord: https://discord.com/invite/4TQujHj
+github:
+  username: ontio
+  main_repository: ontio/ontology
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

@@ -1,0 +1,171 @@
+id: mana-decentraland
+symbol: MANA
+name: Mana
+logo: mana-decentraland_logo@512x512.png
+founded: '2015-06-01'
+descriptions:
+  one_sentence: Platform to create VR content
+  introduction: Decentraland is a virtual reality platform powered by the Ethereum
+    blockchain. Users can create, experience, and monetize content and applications.
+    Land in Decentraland is permanently owned by the community, giving them full control
+    over their creations. Users claim ownership of virtual land on a blockchain-based
+    ledger of parcels.
+  technology: Landowners control what content is published to their portion of land,
+    which is identified by a set of cartesian coordinates (x,y). Contents can range
+    from static 3D scenes to interactive systems such as games. Land is a non-fungible,
+    transferrable, scarce digital asset stored in an Ethereum smart contract. It can
+    be acquired by spending an ERC20 token called MANA. MANA can also be used to make
+    in-world purchases of digital goods and services. People are spending increasingly
+    more time in virtual worlds, for both leisure and work.
+  future: This occurs predominantly in 2D interfaces such as the web and mobile phones.
+    But a traversable 3D world adds an immersive component as well as adjacency to
+    other content, enabling physical clusters of communities. Unlike other virtual
+    worlds and social networks, Decentraland is not controlled by a centralized organization.
+    There is no single agent with the power to modify the rules of the so ware, contents
+    of land, economics of the currency, or prevent others from accessing the world..
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-09-18'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers: []
+whitepaper:
+  abstract: Decentraland will be a virtual reality platform powered by the Ethereum
+    blockchain. Users can create, experience, and monetize content and applications.
+  file: mana-decentraland_whitepaper.pdf
+website:
+  url: https://decentraland.org
+video:
+  url: https://www.youtube.com/watch?v=sNukPZpWBIQ
+team:
+  leader:
+    name: Unknown
+    imagename: null
+    position: Founder
+    description: Founder unknown
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members: []
+socials:
+  telegram: https://t.me/dcl_market
+  reddit: https://www.reddit.com/r/decentraland
+  twitter: https://twitter.com/decentraland
+  facebook: https://www.facebook.com/decentraland/
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: decentraland
+  main_repository: decentraland/marketplace
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null

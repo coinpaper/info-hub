@@ -1,0 +1,489 @@
+id: enj-enjin-coin
+symbol: ENJ
+name: Enjin Coin
+logo: enj-enjin-coin_logo@512x512.png
+founded: '2017-07-24'
+descriptions:
+  one_sentence: Build websites/apps for gaming
+  introduction: Since its founding in 2009, Enjin has been deeply involved with the
+    gaming industry. The same year, the company launched a gaming community platform
+    called the Enjin Network and has grown it to more than 20 million users over the
+    course of a decade.
+  technology: "In 2017 following a successful ICO that raised $18.9 million, Enjin\
+    \ established itself as a leading blockchain ecosystem developer, building a suite\
+    \ of user-first blockchain products that enable anyone to easily create, manage,\
+    \ trade, store, explore, distribute, and integrate blockchain assets. Built on\
+    \ top of a robust on-chain infrastructure and comprised of the Enjin Platform,\
+    \ Explorer, Wallet, Beam, and other tools and services, the Enjin ecosystem empowers\
+    \ gamers with true ownership of digital assets and enables game industry businesses\
+    \ to increase revenue, gain a competitive edge, and innovate in previously impossible\
+    \ ways. Forged in gaming, Enjin\u2019s tools and services can also be used by\
+    \ companies of all sizes and industries seeking to create blockchain products\
+    \ or utilize tokenized digital assets as part of their acquisition, retention,\
+    \ engagement, and monetization strategies. The Enjin ecosystem is fueled by Enjin\
+    \ Coin (ENJ), an Ethereum-based cryptocurrency used to directly back the value\
+    \ of next-generation blockchain assets."
+  future: "Today, there\u2019s millions of ENJ locked in blockchain-based digital\
+    \ assets. For more information, please visit https://enjin.io.."
+blockchain:
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-11-02'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers: []
+whitepaper:
+  abstract: "Enjin is introducing Enjin Coin (\u201CENJ\u201D), a new ERC20 token\
+    \ that gives communities, content creators, game servers and game publishers,\
+    \ an easy solution for implementing virtual goods and real value, into their gameplay\
+    \ and communities."
+  file: enj-enjin-coin_whitepaper.pdf
+website:
+  url: https://www.enjin.com
+video:
+  url: https://www.youtube.com/watch?v=OCeg_i782f0
+team:
+  leader:
+    name: Maxim Blagov
+    imagename: enj-enjin-coin_maxim_blagov.png
+    position: Founder & CEO
+    description: "Maxim is the CEO and Co-Founder of Enjin Pte Ltd and Enjin Coin.\
+      \ He's the visionary \nand creative director of Enjin with 18 years of expertise\
+      \ in creative direction, software \nproject management, marketing and software\
+      \ design. He's an expert in concept & \nstrategy development for large interactive\
+      \ applications, specializing in the Video \nGaming and Blockchain industry. "
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/maxim-blagov-24787214/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Witold Radomski
+    imagename: enj-enjin-coin_witold_radomski.png
+    position: Co-Founder & CTO
+    description: Witek is the CTO and Co-Founder of Enjin Pte Ltd and Enjin Coin.
+      He is the creator of the ERC-1155 token standard and the technical brains behind
+      Enjin. Witek has overseen the technical engineering of Enjin for nearly a decade.
+      He champions best-practices in software design, security and testing, and leads
+      Enjin Coin development, implementation and integration.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Witek Radomski
+    imagename: null
+    position: CTO & Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/witek-radomski-5318a274/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Josh Woelfel
+    imagename: null
+    position: Lead Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joshwoelfel/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vyacheslav Volkov
+    imagename: null
+    position: Lead Mobile Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vyacheslav-volkov-075b2b80/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lilia Pritchard
+    imagename: null
+    position: Marketing & Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lilia-pritchard-30b2b2148/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Evan Lindsay
+    imagename: null
+    position: Java & Game Server Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/evanlindsay/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anthony Diiorio
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/anthonydiiorio1/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pat LaBine
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pat-labine-4903b41/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robin Hanson
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robin-hanson-5156b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Lackey
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ryanlackey/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Trung Seng
+    imagename: null
+    position: Marketing Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/trung-seng-8b526554
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniel He
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Frederick Heartline
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/frederick-heartline-7047811b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roy Tay
+    imagename: null
+    position: Asia Business Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/roy-tay-b4433734/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ilija Rolovic
+    imagename: null
+    position: Chief Marketing Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kim L
+    imagename: null
+    position: Production Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roger Walco
+    imagename: null
+    position: VP of Communication
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Simon Kertonegoro
+    imagename: null
+    position: VP of Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+socials:
+  telegram: https://t.me/enjin_coin
+  reddit: https://www.reddit.com/r/EnjinCoin
+  twitter: https://twitter.com/enjin
+  facebook: https://www.facebook.com/enjinsocial
+  medium: null
+  vimeo: null
+  discord: null
+github:
+  username: enjin
+  main_repository: enjin/enjin-java-sdk
+manual_reviews:
+  available: false
+  introduction:
+    purpose:
+      description: null
+      score: null
+      references: null
+  current_stand:
+    scandals_highlights:
+      description: null
+      score: null
+      references: null
+    product:
+      description: null
+      score: null
+      references: null
+    development:
+      description: null
+      score: null
+      references: null
+    partnerships:
+      description: null
+      score: null
+      references: null
+    community:
+      description: null
+      score: null
+      references: null
+    substitutes:
+      description: null
+      score: null
+      references: null
+  foresight:
+    prediction:
+      description: null
+      score: null
+      references: null
+    projects:
+      description: null
+      score: null
+      references: null
+    potential:
+      description: null
+      score: null
+      references: null
+  pro_con:
+    product_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+    product_usage:
+      description: null
+      is_pro: null
+      is_contra: null
+    transactions_per_second:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_cost:
+      description: null
+      is_pro: null
+      is_contra: null
+    transaction_speed:
+      description: null
+      is_pro: null
+      is_contra: null
+    security:
+      description: null
+      is_pro: null
+      is_contra: null
+    adoption:
+      description: null
+      is_pro: null
+      is_contra: null
+    energy_consumption:
+      description: null
+      is_pro: null
+      is_contra: null
+    privacy:
+      description: null
+      is_pro: null
+      is_contra: null
+    decentralization:
+      description: null
+      is_pro: null
+      is_contra: null
+    exchange_availability:
+      description: null
+      is_pro: null
+      is_contra: null
+  team:
+    founders:
+      description: null
+      score: null
+      references: null
+    developers:
+      description: null
+      score: null
+      references: null
