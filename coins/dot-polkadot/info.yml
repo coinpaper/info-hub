@@ -34,7 +34,7 @@ team:
     links:
       github:
         url: https://github.com/gavofyork
-        followers: null
+        followers: 1700
       linkedin:
         url: https://www.linkedin.com/in/gavin-wood-88843316/
         followers: null
@@ -123,11 +123,12 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_speed:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'There are no official figures available, but tokens, like Polkadot, that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet. '
+      is_pro: false
+      is_contra: true
     security:
-      description: The mainnet is secured by a Delegated Proof of Stake algorithm.
+      description: The Polkadot mainnet is secured by a Delegated Proof of Stake algorithm.
       is_pro: true
       is_contra: false
     adoption:
