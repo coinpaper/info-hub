@@ -5,9 +5,9 @@ logo: hex-hex_logo@512x512.png
 founded: '2019-12-02'
 descriptions:
   one_sentence: Has almost all the signs of a classical pyramid scheme
-  introduction: 'The HEX cryptocurrency is a form of financial service that will be operated on blockchain technology. The purpose of HEX is to bring the concept of Certificate of Deposits (CD) to the digital world. Similar to the conventional setup, the users will deposit their cryptocurrency and earn interest on return after staking their coins.'
-  technology: ''
-  future: ''
+  introduction: 'The purpose of HEX is to bring the concept of Certificate of Deposits (CD) to the digital world.'
+  technology: 'The HEX cryptocurrency is a form of financial service that will be operated on blockchain technology.'
+  future: 'Similar to the conventional setup, the users will deposit their cryptocurrency and earn interest on return after staking their coins.'
 blockchain:
   consensus: Not mineable
   algorithm: None
@@ -26,7 +26,7 @@ whitepaper:
     \ the Ethereum network."
   file: hex-hex_whitepaper.pdf
 website:
-  url: https://hex.com/?from=1dapp.news
+  url: https://hex.com
 video:
   url: https://www.youtube.com/watch?v=v3bIsJ6vTYg
 team:
@@ -88,7 +88,7 @@ manual_reviews:
       will be operated on blockchain technology. The purpose of HEX is to bring the concept of 
       Certificate of Deposits (CD) to the digital world. Similar to the conventional setup, the users 
       will deposit their cryptocurrency and earn interest on return after staking their coins.' 
-      score: 4.2
+      score: 3.0
       references: null
   current_stand:
     scandals_highlights:
@@ -120,7 +120,7 @@ manual_reviews:
       hosted on GitHub under the name of BitcoinHEX. The team and developers on the Github repository, 
       however, are not very large in number and that is the primary reason why development has been 
       slow. The last activity was recorded 11 days ago.'
-      score: 4.2
+      score: 3.5
       references: https://github.com/BitcoinHEX/testui
     partnerships:
       description: 'HEX has managed to form several key partnerships, even though it is being considered 
@@ -141,7 +141,7 @@ manual_reviews:
       and Telegram to name a few. The community around the HEX project is seen to be growing exponentially 
       as it is becoming one of the intriguing projects in the sense that it is growing in terms of market 
       capitalization while there are cries of it being a scam.'
-      score: 4.2
+      score: 4.0
       references: null
     substitutes:
       description: 'HEX is one of its kind of technology in the market. There are not many cryptocurrency 
@@ -185,17 +185,17 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_cost:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: HEX transactions are subject to a transaction cost of a few cents.
+      is_pro: true
+      is_contra: false
     transaction_speed:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'There are no official figures available, but tokens that are built upon Ethereum Blockchain cannot exceed its transaction speed yet.'
+      is_pro: false
+      is_contra: true
     security:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: HEX token is based on the Ethereum blockchain, and offers a similar level of security.
+      is_pro: true
+      is_contra: false
     adoption:
       description: HEX has enjoyed a rising acceptance rate in the past year.
       is_pro: true
@@ -206,9 +206,11 @@ manual_reviews:
       is_pro: false
       is_contra: true
     privacy:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'The technology does not offer complete privacy as HEX is a pseudo
+        cryptocurrency which means that transactions can be tracked and balances of
+        individual accounts are available for people to see. '
+      is_pro: false
+      is_contra: true
     decentralization:
       description: HEX is decentralised blockchain technology.
       is_pro: true
@@ -225,6 +227,6 @@ manual_reviews:
       score: 2.8
       references: null
     developers:
-      description: null
-      score: null
+      description: 'Not much is known about the development team of HEX. The development for the HEX project is slow.'
+      score: 2.9
       references: null
