@@ -4,10 +4,10 @@ name: Wrapped Bitcoin
 logo: wbtc-wrapped-bitcoin_logo@512x512.png
 founded: '2019-01-24'
 descriptions:
-  one_sentence: Bitcoin copy on Ethereum Network
-  introduction: We could not find out any information about Wrapped Bitcoin yet.
-  technology: There is no technology description for Wrapped Bitcoin yet.
-  future: We can not provide any looks into the future for Wrapped Bitcoin yet.
+  one_sentence: Wrapped Bitcoin tokenises Bitcoin and brings it onto the Ethereum blockchain
+  introduction: Wrapped Bitcoin is a way to lock up Bitcoin (BTC) in a smart contract on the Ethereum (ETH) blockchain. A smart contract can turn the BTC into an ERC20 token, which is the standard token type used on Ethereum.
+  technology: The process of locking up the Bitcoin and turning it into an ERC20 token is known as “wrapping.” Once the BTC is turned into an ERC20 token, it can be used in Ethereum’s rapidly expanding DeFi ecosystem. Traders can deposit wrapped Bitcoin into a yield aggregator and earn interest on their deposit, supply liquidity to Uniswap and earn a percentage of trading fees & deposit wrapped Bitcoin in MakerDAO and take out a collateralized loan.
+  future: There are some benefits when you wrap Bitcoin. These advantages have helped creating a new sector in the blockchain industry.
 blockchain:
   consensus: Aura
   algorithm: Aura Consensus
@@ -164,7 +164,7 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_cost:
-      description: Different exchnages charge a little percentage of the transaction to wrap and unwrap a Bitcoin.
+      description: Different exchanges charge a little percentage of the transaction to wrap and unwrap a Bitcoin.
       is_pro: false
       is_contra: true
     transaction_speed:
