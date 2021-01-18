@@ -6,7 +6,7 @@ founded: '2016-05-30'
 descriptions:
   one_sentence: Allows disparate data to be transferred across blockchains
   introduction: There are not many cryptocurrencies that have gained so much popularity in such a short span of time as Polkadot. Although the cryptocurrency has been around since past 3 years and was in its development phase for a better period of time, its main net launched recently in August 2020. Polkadot has taken the crypto-markets by storm with the rapid development. The upsurge in its popularity has enabled it to make its way into the top 10 cryptocurrencies by market capital in just a matter of 2 weeks.
-  technology: Polkadot is often dubbed as the mother of all cryptocurrencies, and is sometimes described as the “Ethereum Killer”. Although the founder of Polkadot has put it out openly that it is not a competitor to Ethereum, a closer look into the dynamics of the technology suggests otherwise.
+  technology: Polkadot is sometimes dubbed as the mother of all cryptocurrencies, and is sometimes described as the Ethereum Killer. Although the founder of Polkadot has put it out openly that it is not a competitor to Ethereum, a closer look into the dynamics of the technology suggests otherwise.
   future: The technology that Polkadot has brought forward is indeed revolutionary; something which has the potential to change the dynamics of the whole cryptocurrency world.
 blockchain:
   consensus: PoS
@@ -18,8 +18,11 @@ blockchain:
 explorers:
 - https://polkascan.io
 whitepaper:
-  abstract: Present-day blockchain architectures all suffer from a number of issues not least practical means of extensibility and scalability. We believe this stems from tying two very important parts of the consensus architecture, namely canonicality and validity, too closely together. This paper introduces an architecture, the heterogeneous multi-chain, which fundamentally sets the two apart. In compartmentalising these two parts, and by keeping the overall functionality provided to an absolute minimum
-    of security and transport, we introduce practical means of core extensibility in situ.
+  abstract: Present-day blockchain architectures all suffer from a number
+    of issues not least practical means of extensibility and scalability.
+    We believe this stems from tying two very important parts of the consensus architecture,
+    namely canonicality and validity, too closely together. This paper introduces an
+    architecture, the heterogeneous multi-chain, which fundamentally sets the two apart.
   file: dot-polkadot_whitepaper.pdf
 website:
   url: https://polkadot.network
@@ -67,7 +70,7 @@ manual_reviews:
   current_stand:
     scandals_highlights:
       description: Polkadot organised its ICO in October 2017 on top of the Ethereum blockchain. The ICO for the DOT cryptocurrency was tremendously successful and managed to raise a huge amount of $145 million USD. During the ICO, 10 million DOTs were sold to the public which is essentially half the supply of the DOT cryptocurrency. Each DOT token was released at a price of $28.80 USD.
-        The main scandal of the DOT history came in two weeks later when after the “Parity Hack,” about 2/3 of these funds were permanently frozen. The cyber-attackers exploited a weakness in the code of the Parity Wallet. Despite this huge loss, the founding team decided to carry on with the project. In order to overcome this loss, another private funding round was organised in 2019. This time, each DOT token was sold at $120 USD, raising a staggering figure of over 60 million USD.
+        The main scandal of the DOT history came in two weeks later when after the Parity Hack, about 2/3 of these funds were permanently frozen. The cyber-attackers exploited a weakness in the code of the Parity Wallet. Despite this huge loss, the founding team decided to carry on with the project. In order to overcome this loss, another private funding round was organised in 2019. This time, each DOT token was sold at $120 USD, raising a staggering figure of over 60 million USD.
         The team behind Polkadot delivered the highly anticipated project by launching its main net in August 2020. Soon after the launch, Polkadot price valuation soared up high, making it amongst the top 10 cryptocurrencies by market capital.
       score: 3.8
       references: 'O Leary, R. (2017, November 9). Coindesk. Retrieved from Coindesk Website: https://www.coindesk.com/ico-funds-among-millions-frozen-parity-wallets'
@@ -123,8 +126,8 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_speed:
-      description: 'There are no official figures available, but tokens, like Polkadot, that are built
-        upon Ethereum Blockchain cannot exceed its transaction speed yet. '
+      description: There are no official figures available, but tokens, like Polkadot, that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet.
       is_pro: false
       is_contra: true
     security:
@@ -154,7 +157,7 @@ manual_reviews:
   team:
     founders:
       description: The founding figure of Poladot is none other than the cryptocurrency sensation, Dr. Gavin Woods. Dr. Woods was one of the pioneers of the Ethereum cryptocurrency and is an experienced individual with over 20 years of experience in the software industry. He has been involved with many blockchain projects including Ethereum, and is also renowned for creating the programming language Solidity (Matinger, 2020).
-        In 2017, Dr, Gavin started working on a new cryptocurrency, which eventually came out as Polkadot and was created to “deliver on the promises which Ethereum could not”.
+        In 2017, Dr, Gavin started working on a new cryptocurrency, which eventually came out as Polkadot and was created to deliver on the promises which Ethereum could not.
       score: 5.0
       references: 'Matinger, L. (2020, August 20). Cryptoticker. Retrieved from Cryptoticker: https://cryptoticker.io/en/what-is-polkadot/'
     developers:
