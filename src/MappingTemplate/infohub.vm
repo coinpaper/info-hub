@@ -1,0 +1,270 @@
+#set($data = $input.path('$.Item'))
+#set ( $lgithub = "$data.team.M.leader.M.links.M.github.M.followers.N")
+#set ( $llinkedin = "$data.team.M.leader.M.links.M.linkedin.M.followers.N")
+#set ( $lmedium = "$data.team.M.leader.M.links.M.medium.M.followers.N")
+#set ( $ltwitter = "$data.team.M.leader.M.links.M.twitter.M.followers.N")
+#set ( $reviewed = $data.manual_reviews.M.available.BOOL)
+#if($data == "")
+#set($context.responseOverride.status = 404)
+{
+    "error": "Coin does not exist"
+}
+#else
+{
+    "coin_id": "$data.coin_id.S",
+    "symbol": "$data.symbol.S",
+    "name": "$data.name.S",
+    "founded": "$data.founded.S",
+    "descriptions": {
+        "one_sentence": "$util.escapeJavaScript($data.descriptions.M.one_sentence.S)",
+        "introduction": "$util.escapeJavaScript($data.descriptions.M.introduction.S)",
+        "technology": "$util.escapeJavaScript($data.descriptions.M.technology.S)",
+        "future": "$util.escapeJavaScript($data.descriptions.M.future.S)"
+    },
+    "blockchain": {
+        "consensus": "$data.blockchain.M.consensus.S",
+        "algorithm": "$data.blockchain.M.algorithm.S",
+        "issue_date": "$data.blockchain.M.issue_date.S",
+        "type": "$data.blockchain.M.type.S",
+        "organization_structure": "$data.blockchain.M.organization_structure.S",
+        "development_status": "$data.blockchain.M.development_status.S"
+    },
+    "explorers": [
+#foreach($elem in $data.explorers.L)
+        "$elem.S"#if($foreach.hasNext),#end
+
+#end
+    ],
+    "whitepaper": {
+        "abstract": "$util.escapeJavaScript($data.whitepaper.M.abstract.S)",
+        "file": "$data.whitepaper.M.file.S"
+    },
+    "website": {
+        "url": "$data.website.M.url.S"
+    },
+    "video": {
+        "url": "$data.video.M.url.S"
+    },
+    "team": {
+       "leader": {
+         "name": "$data.team.M.leader.M.name.S",
+         "imagename": "$data.team.M.leader.M.imagename.S",
+         "position": "$util.escapeJavaScript($data.team.M.leader.M.position.S)",
+         "description": "$util.escapeJavaScript($data.team.M.leader.M.description.S)",
+
+         "links": {
+            "github": {
+                "url": "$data.team.M.leader.M.links.M.github.M.url.S",
+                "followers": #if ("$lgithub" == "") null #else $lgithub #end
+
+            },
+            "linkedin": {
+                "url": "$data.team.M.leader.M.links.M.linkedin.M.url.S",
+                "followers": #if ("$llinkedin" == "") null #else $llinkedin #end
+
+            },
+            "medium": {
+                "url": "$data.team.M.leader.M.links.M.medium.M.url.S",
+                "followers": #if ("$lmedium" == "") null #else $lmedium #end
+
+            },
+            "twitter": {
+                "url": "$data.team.M.leader.M.links.M.twitter.M.url.S",
+                "followers": #if ("$ltwitter" == "") null #else $ltwitter #end
+
+            }
+         }
+       },
+       members: [
+#foreach($elem in $data.team.M.members.L)
+#set ( $mgithub = "$elem.M.links.M.github.M.followers.N")
+#set ( $mlinkedin = "$elem.M.links.M.linkedin.M.followers.N")
+#set ( $mmedium = "$elem.M.links.M.medium.M.followers.N")
+#set ( $mtwitter = "$elem.M.links.M.twitter.M.followers.N")
+            {
+                "name": "$elem.M.name.S",
+                "imagename": "$elem.M.imagename.S",
+                "position": "$util.escapeJavaScript($elem.M.position.S)",
+                "description": "$util.escapeJavaScript($elem.M.description.S)",
+                "links": {
+                    "github": {
+                        "url": "$elem.M.links.M.github.M.url.S",
+                        "followers": #if ("$mgithub" == "") null #else $mgithub #end
+
+                    },
+                    "linkedin": {
+                        "url": "$elem.M.links.M.linkedin.M.url.S",
+                        "followers": #if ("$mlinkedin" == "") null #else $mlinkedin #end
+
+                    },
+                    "medium": {
+                        "url": "$elem.M.links.M.medium.M.url.S",
+                        "followers": #if ("$mmedium" == "") null #else $mmedium #end
+
+                    },
+                    "twitter": {
+                        "url": "$elem.M.links.M.twitter.M.url.S",
+                        "followers": #if ("$mtwitter" == "") null #else $mtwitter #end
+
+                    }
+                }
+            }#if($foreach.hasNext),#end
+
+#end
+
+       ]
+    },
+    "socials": {
+        "telegram": "$data.socials.M.telegram.S",
+        "reddit": "$data.socials.M.reddit.S",
+        "twitter": "$data.socials.M.twitter.S",
+        "facebook": "$data.socials.M.facebook.S",
+        "medium": "$data.socials.M.medium.S",
+        "vimeo": "$data.socials.M.vimeo.S",
+        "discord": "$data.socials.M.discord.S"
+    },
+    "github": {
+        "main_repository": "$data.github.M.main_repository.S",
+        "username": "$data.github.M.username.S"
+    },
+    "manual_reviews": {
+        "available": $data.manual_reviews.M.available.BOOL,
+        "introduction": {
+            "purpose": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.introduction.M.purpose.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.introduction.M.purpose.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.introduction.M.purpose.M.references.S)"
+            }
+        },
+        "current_stand": {
+            "scandals_highlights": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.scandals_highlights.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.scandals_highlights.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.scandals_highlights.M.references.S)"
+            },
+            "product": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.product.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.product.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.product.M.references.S)"
+            },
+            "development": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.development.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.development.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.development.M.references.S)"
+            },
+            "partnerships": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.partnerships.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.partnerships.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.partnerships.M.references.S)"
+            },
+            "community": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.community.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.community.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.community.M.references.S)"
+            },
+            "substitutes": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.substitutes.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.current_stand.M.substitutes.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.current_stand.M.substitutes.M.references.S)"
+            }
+        },
+        "foresight": {
+            "prediction": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.prediction.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.foresight.M.prediction.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.prediction.M.references.S)"
+            },
+            "projects": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.projects.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.foresight.M.projects.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.projects.M.references.S)"
+            },
+            "potential": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.potential.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.foresight.M.potential.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.foresight.M.potential.M.references.S)"
+            }
+        },
+        "pro_con": {
+            "product_availability": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.product_availability.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.product_availability.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.product_availability.M.is_contra.BOOL #else null #end
+
+            },
+            "product_usage": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.product_usage.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.product_usage.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.product_usage.M.is_contra.BOOL #else null #end
+
+            },
+            "transactions_per_second": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.transactions_per_second.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transactions_per_second.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transactions_per_second.M.is_contra.BOOL #else null #end
+
+            },
+            "transaction_cost": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.transaction_cost.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transaction_cost.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transaction_cost.M.is_contra.BOOL #else null #end
+
+            },
+            "transaction_speed": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.transaction_speed.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transaction_speed.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.transaction_speed.M.is_contra.BOOL #else null #end
+
+            },
+            "security": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.security.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.security.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.security.M.is_contra.BOOL #else null #end
+
+            },
+            "security": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.adoption.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.adoption.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.adoption.M.is_contra.BOOL #else null #end
+
+            },
+            "energy_consumption": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.energy_consumption.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.energy_consumption.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) data.manual_reviews.M.pro_con.M.energy_consumption.M.is_contra.BOOL #else null #end
+
+            },
+            "privacy": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.privacy.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.privacy.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.privacy.M.is_contra.BOOL #else null #end
+
+            },
+            "decentralization": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.decentralization.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.decentralization.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.decentralization.M.is_contra.BOOL #else null #end
+
+            },
+            "exchange_availability": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.pro_con.M.exchange_availability.M.description.S)",
+                "is_pro": #if ($reviewed) $data.manual_reviews.M.pro_con.M.exchange_availability.M.is_pro.BOOL #else null #end,
+                "is_contra": #if ($reviewed) $data.manual_reviews.M.pro_con.M.exchange_availability.M.is_contra.BOOL #else null #end
+
+            }
+        },
+        "team": {
+            "founders": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.team.M.founders.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.team.M.founders.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.team.M.founders.M.references.S)"
+            },
+            "developers": {
+                "description": "$util.escapeJavaScript($data.manual_reviews.M.team.M.developers.M.description.S)",
+                "score": #if ($reviewed) $data.manual_reviews.M.team.M.developers.M.score.N #else null #end,
+                "references": "$util.escapeJavaScript($data.manual_reviews.M.team.M.developers.M.references.S)"
+            }
+        }
+    }
+}
+#end
