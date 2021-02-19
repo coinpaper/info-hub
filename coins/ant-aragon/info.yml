@@ -5,20 +5,27 @@ logo: ant-aragon_logo@512x512.png
 founded: '2020-01-01'
 descriptions:
   one_sentence: Manage a decentralized organization
-  introduction: ''
+  introduction: Aragon was born to bring transparency and independent governance to
+    the forefront of managing an organization. We want to give the users the freedom
+    they deserve to run their lives.
   technology: ''
   future: ''
 blockchain:
-  consensus: ''
-  algorithm: ''
+  consensus: Not mineable
+  algorithm: None
   issue_date: '2020-01-01'
   type: token
   organization_structure: Centralized
   development_status: Alpha version
 explorers: []
 whitepaper:
-  abstract: The Aragon Network is an Aragon organization that provides infrastructure and services to users of the Aragon platform, and is governed by ANT holders. The existing Aragon infrastructure enables users to create and manage organizations. Each Aragon organization exists as a set of smart contracts that define the organization's stakeholders and their associated rights and privileges. However, some rights and privileges require subjective constraints that cannot be encoded in a
-    smart contract directly.
+  abstract: The Aragon Network is an Aragon organization that provides infrastructure
+    and services to users of the Aragon platform, and is governed by ANT holders.
+    The existing Aragon infrastructure enables users to create and manage organizations.
+    Each Aragon organization exists as a set of smart contracts that define the organization's
+    stakeholders and their associated rights and privileges. However, some rights
+    and privileges require subjective constraints that cannot be encoded in a smart
+    contract directly.
   file: ant-aragon_whitepaper.pdf
 website:
   url: https://aragon.org/token/ant
@@ -26,9 +33,78 @@ video:
   url: https://www.youtube.com/watch?v=fuMRooPuPbI
 team:
   leader:
-    name: null
+    name: Luis Cuende
     imagename: null
-    position: null
+    position: Project Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/luisivancuende/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Jorge Izquierdo
+    imagename: null
+    position: Tech Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/izqui/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Daniele Levi
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/danielelevi/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Oliver Nordbjerg
+    imagename: null
+    position: Programmer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/oliver-nordbjerg-a665a978/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maria Gomez
+    imagename: null
+    position: Strategy & Operations Lead
     description: null
     links:
       github:
@@ -43,7 +119,227 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: "Tatu K\xE4rki"
+    imagename: null
+    position: Communications
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luke Duncan
+    imagename: null
+    position: Head of Research
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pierre Bertet
+    imagename: null
+    position: UI Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brett Sun
+    imagename: null
+    position: Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Remus
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bingen Eguzkitza
+    imagename: null
+    position: Solidity Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jouni Helminen
+    imagename: null
+    position: Design Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexa Weaver
+    imagename: null
+    position: Operations Assistant
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: John Light
+    imagename: null
+    position: Community Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mihai Alisie
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jake Brukhman
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jbrukh
+        followers: 18831
+  - name: Kenny Rowe
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kennyrowe/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Brayton Williams
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/braytonwilliams
+        followers: null
+      medium:
+        url: https://medium.com/@brayton
+        followers: 2461
+      twitter:
+        url: https://twitter.com/braytonkey?lang=en
+        followers: 8327
 socials:
   telegram: null
   reddit: null
