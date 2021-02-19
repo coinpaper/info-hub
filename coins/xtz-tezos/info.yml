@@ -24,7 +24,9 @@ blockchain:
   type: coin
   organization_structure: Semi-centralized
   development_status: Working product
-explorers: []
+explorers:
+- https://tezos.id/
+- https://tzstats.com
 whitepaper:
   abstract: 'Tezos, a generic and self-amending crypto-ledger. Tezos can instantiate
     any blockchain based ledger. The operations of a regular blockchain are implemented
