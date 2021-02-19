@@ -5,29 +5,56 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "GreenPower (GRN) is fastest cryptocurrency in the world\r\n\r\n\r\
+    \nNetLeaders (company which stands by GreenPower/Dascoin development) is a known\
+    \ MLM (Multi-Level Marketing) company, which has sold \"Dascoins\" in \"licences\
+    \ packages\" from 100Euro up to 25.000Euro, has been heavily promoting their affilate\
+    \ programme, and have leaders, which have commisions from selling \"licences packages\"\
+    .\r\n\r\nCease and desist order by NASAA:\r\n\r\nhttp://www.nasaa.org/45121/state-and-provincial-securities-regulators-conduct-coordinated-international-crypto-crackdown-2/\r\
+    \n\r\nPolish authorities investigation against Dascoin:\r\n\r\nhttps://www.uokik.gov.pl/news.php?news_id=13850\r\
+    \nhttps://bitcoinexchangeguide.com/polish-authorities-seize-over-10-million-dollars-from-dascoin-crypto-mlm-scam/"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: Unknown
+explorers:
+- https://dascoinexplorer.com/
+- https://grnexplorer.io/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://dascoin.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Michael Mathias
     imagename: null
-    position: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://hk.linkedin.com/in/mjmathias
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Natkanda Shotpitithanapat
+    imagename: null
+    position: Chairman
     description: null
     links:
       github:
@@ -42,17 +69,16 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/dascoin/
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/@dascoinofficial
   vimeo: null
   discord: null
 github:
-  username: null
+  username: green-powerchain-ltd
   main_repository: null
 manual_reviews:
   available: false
