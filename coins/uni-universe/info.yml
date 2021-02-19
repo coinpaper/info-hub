@@ -2,25 +2,28 @@ id: uni-universe
 symbol: UNI
 name: Universe
 logo: null
-founded: null
+founded: '2017-04-07'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "The coin was designed for online games, the Scrypt Proof-of-stake\
+    \ (PoS) algorithm is a protection method in cryptocurrencies, based on the need\
+    \ to prove the storage of a certain amount of funds on the account.\r\n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
+  consensus: Proof of Stake
+  algorithm: Scrypt
+  issue_date: '2017-04-07'
+  type: coin
+  organization_structure: Decentralized
   development_status: null
-explorers: []
+explorers:
+- https://chainz.cryptoid.info/uni/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://unicoin.pw/
 video:
   url: null
 team:
@@ -52,7 +55,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: universe-project
   main_repository: null
 manual_reviews:
   available: false
