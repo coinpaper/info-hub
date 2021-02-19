@@ -2,30 +2,85 @@ id: chsb-swissborg
 symbol: CHSB
 name: SwissBorg
 logo: null
-founded: null
+founded: '2017-09-08'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: SwissBorg is a wealthtech offering Swiss-made crypto investment solutions
+    to the world.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-09-08'
+  type: token
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba
+- https://ethplorer.io/address/0xba9d4199fab4f26efe3551d490e3821486f135ba
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://swissborg.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Cyrus Fazel
+    imagename: null
+    position: CEO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Anthony Lesoismier-Geniaux
+    imagename: null
+    position: Co-Founder & CSO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christophe Diserens
+    imagename: null
+    position: CBDO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Maxime Gillot
     imagename: null
     position: null
     description: null
@@ -42,17 +97,135 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Marco Guerreiro Viegas
+    imagename: null
+    position: Head of AI
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Micha Roon
+    imagename: null
+    position: Head of Blockchain
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Ma\xEBlle Baud"
+    imagename: null
+    position: Head of Digital Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Colin Wirz
+    imagename: null
+    position: Data Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Olga Vorobyeva
+    imagename: null
+    position: Head of PR and Community Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tomas Hanak
+    imagename: null
+    position: Full Stack Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Deni Dudaev
+    imagename: null
+    position: null
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/swissborg/
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: SwissBorg
   main_repository: null
 manual_reviews:
   available: false
