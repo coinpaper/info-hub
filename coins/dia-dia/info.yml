@@ -5,14 +5,17 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: DIA (Decentralised Information Asset) is an open-source, data and
+    oracle platform for the DeFi ecosystem. DIA leverages crypto economic incentives
+    to drive supply, share and use transparent, crowd-verified price data and oracles
+    on financial and digital assets.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
 explorers: []
@@ -20,7 +23,7 @@ whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://diadata.org
 video:
   url: null
 team:
@@ -45,14 +48,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/user/DIAdata
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/@diadata_org
   vimeo: null
   discord: null
 github:
-  username: null
+  username: diadata-org
   main_repository: null
 manual_reviews:
   available: false
