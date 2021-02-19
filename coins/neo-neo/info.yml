@@ -5,18 +5,17 @@ logo: neo-neo_logo@512x512.png
 founded: '2016-09-09'
 descriptions:
   one_sentence: Chinese platform for smart contracts
-  introduction: "Neo is an open-source platform driven by the community.\
-    It utilizes blockchain technology and digital identities to digitize \
-    and automate the management of assets using smart contracts. Using \
-    a distributed network, it aims to create a smart economy by building \
-    infrastructures of the next-gen Internet and creating a solid foundation \
-    for mass blockchain adoption."
-  technology: "Launched in 2016, the Neo MainNet has been in stable operation \
-    for more than 3 years. Neo is expecting to launch Neo3 in 2020, a robust implementation\
-    \ with high throughput, enhanced stability and security, an optimized smart contract\
-    \ system, and a feature-packed infrastructure set to empower developer adoption\
-    \ and to accelerate enterprise-grade blockchain innovations."
-  future: "Learn more at: https://neo.org"
+  introduction: Neo is an open-source platform driven by the community.It utilizes
+    blockchain technology and digital identities to digitize and automate the management
+    of assets using smart contracts. Using a distributed network, it aims to create
+    a smart economy by building infrastructures of the next-gen Internet and creating
+    a solid foundation for mass blockchain adoption.
+  technology: Launched in 2016, the Neo MainNet has been in stable operation for more
+    than 3 years. Neo is expecting to launch Neo3 in 2020, a robust implementation
+    with high throughput, enhanced stability and security, an optimized smart contract
+    system, and a feature-packed infrastructure set to empower developer adoption
+    and to accelerate enterprise-grade blockchain innovations.
+  future: 'Learn more at: https://neo.org'
 blockchain:
   consensus: Delegated Byzantine Fault Tolerant
   algorithm: dBFT
