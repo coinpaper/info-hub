@@ -5,12 +5,12 @@ logo: eos-eos_logo@512x512.png
 founded: '2017-05-06'
 descriptions:
   one_sentence: Platform for decentralized apps and smart contracts
-  introduction: "General Data and Information. EOSIO was developed and launched by\
-    \ block.one (white paper released in 2017), a company headed by Daniel Larimer\
-    \ (formerly of Bitshares and Steemit) and Brendan Blumer. It was one of the most\
-    \ famous (if not THE most) ICOs (Initial Coin Offering), with an almost year long\
-    \ uncapped ICO being offered to investors between June 2017 and June 2018, resulting\
-    \ in a funding of almost 4 billion US dollars."
+  introduction: General Data and Information. EOSIO was developed and launched by
+    block.one (white paper released in 2017), a company headed by Daniel Larimer (formerly
+    of Bitshares and Steemit) and Brendan Blumer. It was one of the most famous (if
+    not THE most) ICOs (Initial Coin Offering), with an almost year long uncapped
+    ICO being offered to investors between June 2017 and June 2018, resulting in a
+    funding of almost 4 billion US dollars.
   technology: Milestones. 26th June 2017 - ICO begins, ERC20 tokens offered on Ethereum
     blockchain. 3rd September 2017 - Testnet (Dawn 1.0) launched. 4th December 2017
     - Testnet (Dawn 2.0) launched. 25th January 2018 - Testnet (Dawn 3.0) launched.
