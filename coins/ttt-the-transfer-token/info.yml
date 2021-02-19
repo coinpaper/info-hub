@@ -2,39 +2,47 @@ id: ttt-the-transfer-token
 symbol: TTT
 name: The Transfer Token
 logo: null
-founded: null
+founded: '2020-03-30'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "The Transfer Token (TTT) is an ERC-20 based cryptocurrency developed\
+    \ by Atom Solutions. It is intended to be utilized as a gateway for currency exchange\
+    \ and overseas remittance. One of the main features of TTT is that, 50% of the\
+    \ fees incurred by trading and exchanging using Eternal Wallet are returned to\
+    \ the users, accordingly to the amount of TTT they hold within Eternal Wallet.\r\
+    \nAnother feature is that Eternal Wallet, through using TTT, can provide users\
+    \ with the world\u2019s most affordable currency exchange and overseas remittance,\
+    \ making it a revolutionary innovation in the current global state of currency\
+    \ exchanges."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2020-03-30'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.atom-solutions.jp/en/xecttt/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Hayashi Hirokazu
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: null
+        url: https://www.linkedin.com/in/hirokazuhys/
         followers: null
       medium:
         url: null
@@ -42,17 +50,51 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Clement S.J
+    imagename: null
+    position: Director of Partnership and Overseas Business
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/clementcj/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Saito Rie
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rie-saito/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/AtomSolutions/
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: atom-solutions
   main_repository: null
 manual_reviews:
   available: false
