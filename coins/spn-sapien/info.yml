@@ -5,22 +5,25 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Sapien is a Web 3.0 social news platform that gives users control
+    of their data, rewards content creators, and fights fake news.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Stake
+  algorithm: Unknown
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a
+- https://ethplorer.io/address/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.sapien.network/
 video:
   url: null
 team:
@@ -45,14 +48,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/sapien
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: SapienNetwork
   main_repository: null
 manual_reviews:
   available: false
