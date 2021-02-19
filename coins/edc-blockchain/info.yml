@@ -5,22 +5,34 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Launched in 2015, EDC Blockchain describes itself as a global multi-currency\
+    \ platform with a built-in constructor of coins. All EDC holders are reportedly\
+    \ merged into masternodes (a type of fund in which users donate their coins),\
+    \ thereby allowing the node to mine EDC. Based on a hybrid LPoS mining algorithm\
+    \ and using Bitshares 2.0 Graphene protocol, EDC reportedly provides network security\
+    \ when implementing important functions, such as instant confirmation of transactions\
+    \ and network voting. The last EDC coin will be produced on January 1st, 2040.\
+    \ The EDC community reportedly exceeds 1 million users, while the cryptocurrency\
+    \ is used by people in 57 countries. EDC is actively focusing on the Southeast\
+    \ Asia, Latin American and European markets.\r\n\r\nThere are numerous complains\
+    \ about E-Dinar coin and reports, that's it's recruting people through MLM programme\
+    \ and that it is a ponzi scheme.\r\n\r\nhttps://behindmlm.com/mlm-reviews/e-dinar-review-edr-unit-ponzi-points-cryptocurrency/"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Delegated Proof of Stake
+  algorithm: DPoS
   issue_date: null
-  type: null
-  organization_structure: null
+  type: coin
+  organization_structure: Centralized
   development_status: null
-explorers: []
+explorers:
+- https://explorer.blockchain.mn
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://blockchain.mn
 video:
   url: null
 team:
@@ -52,7 +64,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: EDCBlockchain
   main_repository: null
 manual_reviews:
   available: false
