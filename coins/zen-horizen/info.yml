@@ -2,32 +2,276 @@ id: zen-horizen
 symbol: ZEN
 name: Horizen
 logo: null
-founded: null
+founded: '2017-05-30'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Horizen is an inclusive ecosystem where everyone is empowered and\
+    \ rewarded for their contributions.\r\nHorizen\u2019s massively scalable platform\
+    \ enables businesses and developers to quickly and affordably create their own\
+    \ public or private blockchains on the largest node network in the industry. Horizen\u2019\
+    s Sidechain SDK provides all necessary components for easy and fast deployment\
+    \ of a fully customizable blockchain."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Work
+  algorithm: Equihash
+  issue_date: '2017-05-30'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://zen.tokenview.com
+- https://explorer.zensystem.io/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://academy.horizen.global
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Rob Viglione
     imagename: null
-    position: null
+    position: Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robert-viglione-2780634
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robviglione
+        followers: 41435
+  members:
+  - name: Rolf Versluis
+    imagename: null
+    position: Chief Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rolfversluis
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/RolfVersluis
+        followers: 2704
+  - name: Alberto Garoffolo
+    imagename: null
+    position: Senior Software Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alberto-garoffolo-576554
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/agaroffolo
+        followers: 41
+  - name: Pier Stabilini
+    imagename: null
+    position: Software Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/pier-stabilini-3a532a1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pierre Schiro
+    imagename: null
+    position: Senior Software Developer
+    description: "Pierre Schiro is an experienced, hands-on software architect and\
+      \ software engineering manager. He\u2019s involved in the architecture, design,\
+      \ and implementation of micro-services architectures, service-oriented architectures,\
+      \ and distributed systems."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Franck De Girolami
+    imagename: null
+    position: Senior Software Developer
+    description: 'Franck has over 25 years of experience in high performance software
+      application development including extensive work in video games for PC, console
+      and mobile platforms. As software architect and lead programmer, Franck was
+      directly responsible for a number of groundbreaking video games including Alone
+      in the Dark, Cyberia and Tron 2.0: Killer App.'
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wayne Dawson
+    imagename: null
+    position: Senior Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/waynedawson
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nicola Onassis
+    imagename: null
+    position: Senior Software Developer
+    description: "Nicola is an experienced technical manager with 20 years of software\
+      \ engineering and 15+ years of architecture development. His work spans many\
+      \ aspects of technology development \u2013from web platform architecture to\
+      \ system integration, database architecture to data warehousing, API architecture\
+      \ to system engineering, and more."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Idan Gelbourt
+    imagename: null
+    position: Senior Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/idange
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: William Wolf
+    imagename: null
+    position: Senior Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/throughnothing
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Allan Dumaine
+    imagename: null
+    position: Senior Software Developer
+    description: A seasoned professional with over 28 years experience in Information
+      Technology including a variety of executive level roles. His broad technical
+      background and expertise helps in translating difficult concepts into simple
+      designs and transforming complex business processes into practical software
+      solutions.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kendrick Tan
+    imagename: null
+    position: Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tankendrick
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lukas Bures
+    imagename: null
+    position: Software Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bureslukas
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robin Guyard
+    imagename: null
+    position: Software Developer Intern
     description: null
     links:
       github:
@@ -42,17 +286,702 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Cronic
+    imagename: null
+    position: Infrastructure Manager
+    description: Cronic is an experienced Linux sysadmin who originally started off
+      in the telecommunications industry. He specializes in virtualization technologies,
+      storage and application containerization.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: James Mccourt Cordingley
+    imagename: null
+    position: Infrastructure
+    description: Mac spent the last 8 years developing asset integrity and risk management
+      systems for the oil and gas industry. An experienced linux sysadmin and database
+      technologies professional with many years development experience.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jake Tarren
+    imagename: null
+    position: Infrastructure
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Johncarlo Maddalena
+    imagename: null
+    position: Testing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Psyrax_Aus
+        followers: 79
+  - name: Spencer Whetstone
+    imagename: null
+    position: Testing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/garnetandblock
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Emmett Hannigan
+    imagename: null
+    position: SW Engineering Intern
+    description: Emmett is currently attending New York University majoring in Computer
+      Science. His areas of interests are machine learning, blockchain, cryptocurrencies,
+      and cybersecurity.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gustavo Fialho
+    imagename: null
+    position: User Experience Director
+    description: Gustavo is a web developer and entrepreneur with extensive experience
+      supporting cryptocurrency projects. When not in front of a computer he can be
+      found cycling up hills sporting his Pantani Jersey. He believes life should
+      be kept simple and enjoys helping others.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mike Lorey
+    imagename: null
+    position: Senior Front End Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/mikelorey
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mdlorey
+        followers: 599
+  - name: Vitalik Demin
+    imagename: null
+    position: Software Program Manager
+    description: Vitalik started his career in consulting, helping companies around
+      the world optimize their business models, design technology solutions and improve
+      customer service. He holds an MBA in Strategic Management and Marketing from
+      the University of St. Thomas, Minneapolis MN.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/vitalikdemin/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nathan King
+    imagename: null
+    position: Information Architect
+    description: Nathan spent the past 9 years developing virtual & physical payment
+      platforms, RESTful API services and subscription systems for global household
+      names such as Samsung, ODEON Cinemas and Microsoft.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nathankingck/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rosario Pabst
+    imagename: null
+    position: Marketing & Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rosario-pabst
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jane Lippencott
+    imagename: null
+    position: Academic Programs Lead
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/janelippencott
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/janehk
+        followers: 4748
+  - name: Lucy Bruce
+    imagename: null
+    position: Marketing Analyst
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Teplitsky
+    imagename: null
+    position: Marketing Analyst
+    description: Jonathan holds a MBA from Harvard Business School and has marketing
+      experience at Amazon.com, Uber, and Accenture. As a former Army officer, Jonathan
+      led humanitarian assistance missions in Djiobuti, Uganda and Tanzania.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Medar
+    imagename: null
+    position: Grassroots Marketing Associate
+    description: Crypto enthusiast since 2012, core believer in privacy rights and
+      father of two. Front-end developer. Enjoys spreading knowledge about ZenCash
+      and focus marketing at the grassroots level.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Linda Bucksey
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/linda-bucksey-9ab67466
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Marko Orcic
+    imagename: null
+    position: Graphic Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/marko-orcic-10a9aa70
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexa Senio
+    imagename: null
+    position: Technical Writer
+    description: Alexa is a certified UX Designer and Scrum Master with experience
+      in program management, digital communication, agile methodologies, and user
+      experience design. She has a BA from James Madison University where she studied
+      in Writing, Rhetoric, and Technical Communication; Humanitarian Affairs, Sociology,
+      and Leadership.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Philippe F\xFCrst"
+    imagename: null
+    position: Program Manager
+    description: After getting his diploma in mechanical engineering, Philippe became
+      project manager for brown and greenfield plant extensions and new buildings.
+      His profession is very diversified as he is working in various industries.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kamila Bures-Haller
+    imagename: null
+    position: Program Manager
+    description: Kamila has a M.Sc. degree in Dynamics and Mechatronics and has experience
+      in leading and R&D projects through the product lifecycle. She has great interest
+      in everything crypto and blockchain technology especially ZenCash.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jeremy Wan
+    imagename: null
+    position: Operation Intern
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jeremy-wan-557ba1107
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/Mimish53
+        followers: 21
+  - name: Said Mammdov
+    imagename: null
+    position: 'Country Manager: Turkey'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/said-mammadov-8699905
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kirk Phillips
+    imagename: null
+    position: Finance & Accounting
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kirk-phillips-cpa
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/thebitcoincpa
+        followers: 525
+  - name: Dean Steinbeck
+    imagename: null
+    position: General Counsel
+    description: Dean Steinbeck is a corporate attorney with a focus on data privacy
+      and technology. He has over a decade of experience representing traditional
+      VC-backed software development companies, most recently serving as General Counsel
+      to TigerConnect, a secure and regulatory compliant communication platform used
+      in over 4,000 healthcare facilities.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/dean-steinbeck-79b32b36/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rowan Stone
+    imagename: null
+    position: Business Development Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/rowan-stone-alterchain
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Davit Mrelashvili
+    imagename: null
+    position: 'Region lead: Eastern Europe, CIS'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/davit-mrelashvili-md-mba-5b4039121
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Arno Pfefferling
+    imagename: null
+    position: 'Region Lead: Central Europe'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/arno-pfefferling-65382590
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/mrceebo
+        followers: 163
+  - name: "Andreas Wider\xF8e"
+    imagename: null
+    position: 'Region Lead: Scandinavia & Northern Europe'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://www.linkedin.com/in/andreas-wider\xF8e-7061a1b9"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Levis Caycedo
+    imagename: null
+    position: 'Region Lead: North America '
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leviscaycedo
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alex Zabuga
+    imagename: null
+    position: 'Country Representative: Russia'
+    description: "After experiencing bureaucracy of a post-soviet state firsthand,\
+      \ Alex realized the need for an alternate banking and private peer-to-peer economy.\
+      \ Alex\u2019s formal background is in science and IT."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Luca Cermelli
+    imagename: null
+    position: 'Country Manager: Italy'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/cermelli
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Angie Villarreal
+    imagename: null
+    position: 'Country Manager: Mexico'
+    description: "Angie is using her background in Industrial & Systems Engineering\
+      \ by Monterrey Institute of Technology and Higher Education (ITESM University)\
+      \ to have a great impact in the cryptoworld, which she\u2019s devoted herself\
+      \ to in the past years."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ruben Elizondo
+    imagename: null
+    position: 'Country Representative: Mexico'
+    description: Ruben is a Mechatronic Engineer and have worked in international
+      companies such as John Deere and Heineken, working as a PLC programmer and as
+      a Design Engineer.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Taiga Ikuta
+    imagename: null
+    position: 'Country Representative: Japan'
+    description: Taiga is a freelance translator and writer. After dropping out of
+      Keio University, he set out to travel abroad to discover different cultures
+      and the beauty the world has to offer.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sebastian Dienst
+    imagename: null
+    position: 'Country Representative: Japan'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/sebastiandienst
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonghun Hong
+    imagename: null
+    position: 'Country Representative: Korea'
+    description: Jonghun is a Mechanical Engineer with experience in IOT, MCU programming,
+      application programming, mechanical design, and digital circuit design.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hugh Ayara
+    imagename: null
+    position: 'Country Representative: Kenya'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hugh-ayara-82ab5a77
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charles Hoskinson
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/charles-hoskinson-1a95a4b4
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/IOHK_Charles
+        followers: 192238
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/Horizen
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: ZencashOfficial
   main_repository: null
 manual_reviews:
   available: false
