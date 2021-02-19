@@ -2,25 +2,31 @@ id: xwc-whitecoin
 symbol: XWC
 name: WhiteCoin
 logo: null
-founded: null
+founded: '2014-04-13'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Whitecoin (XWC) is a three year old decentralized global blockchain\
+    \ with a focus on cyber security, payments & secure communications.\r\nWhile available\
+    \ to everyone, WhiteCoin is driven by a dedicated community of supporters yet\
+    \ controlled by no one single individual. This attractive combination will help\
+    \ ensure stability, growth, and compelling technological"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Stake
+  algorithm: POS 3.0
+  issue_date: '2014-04-13'
+  type: coin
+  organization_structure: Unknown
+  development_status: On-going development
+explorers:
+- https://explorer.xwccore.com/
+- http://explorer.whitecoin.info/chain/Whitecoin
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.xwccore.com/en/
 video:
   url: null
 team:
@@ -45,14 +51,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/whitecoin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: Whitecoin-org
   main_repository: null
 manual_reviews:
   available: false
