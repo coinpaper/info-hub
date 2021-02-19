@@ -5,9 +5,9 @@ logo: dai-dai_logo@512x512.png
 founded: '2017-12-19'
 descriptions:
   one_sentence: Stablecoin that should stay at the value of 1 USD
-  introduction: "Dai is a stablecoin"
-  technology: "Maker Smart contract platform."
-  future: "Enables stable coin smart contracts."
+  introduction: Dai is a stablecoin
+  technology: Maker Smart contract platform.
+  future: Enables stable coin smart contracts.
 blockchain:
   consensus: Not mineable
   algorithm: None
