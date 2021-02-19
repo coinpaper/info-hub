@@ -2,32 +2,37 @@ id: chz-chiliz
 symbol: CHZ
 name: Chiliz
 logo: null
-founded: null
+founded: '2018-01-01'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Chiliz is a fintech platform for the sports industry with its product
+    Socios.com. It tokenise some of the biggest sports teams like Juventus, Paris
+    Saint-Germain and many others to be announed.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-01-01'
+  type: token
+  organization_structure: Centralized
+  development_status: Beta version
+explorers:
+- https://explorer.binance.org/asset/CHZ-ECD
+- https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af
+- https://ethplorer.io/address/0x3506424f91fd33084466f402d5d97f05f8e3b4af
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.chiliz.com
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Alexandre Dreyfus
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
@@ -40,8 +45,8 @@ team:
         url: null
         followers: null
       twitter:
-        url: null
-        followers: null
+        url: https://twitter.com/alex_dreyfus
+        followers: 52863
   members: []
 socials:
   telegram: null
