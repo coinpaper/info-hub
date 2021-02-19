@@ -57,7 +57,29 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Dr Craig S Wright
+    imagename: null
+    position: Chief Scientist (nChain)
+    description: "Dr Craig Steven Wright (born October 1970) - is an Australian computer\
+      \ scientist and businessman. He has claimed, that he is standing behind Satoshi\
+      \ Nakamoto pseudonym/nickname.\r\n\r\nCraig graduated from high school in 1987\
+      \ from Padua College\u200C in Brisbane. He is a computer scientist and researcher,\
+      \ and worked for several IT companies.\r\n\r\nHe is a founder of a few companies\
+      \ tied to IT or cryptocurrency ecosystem, like DeMorgan LTD."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/craigswright
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
   reddit: null
