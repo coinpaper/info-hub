@@ -4,10 +4,19 @@ name: Wrapped Bitcoin
 logo: wbtc-wrapped-bitcoin_logo@512x512.png
 founded: '2019-01-24'
 descriptions:
-  one_sentence: Wrapped Bitcoin tokenises Bitcoin and brings it onto the Ethereum blockchain
-  introduction: Wrapped Bitcoin is a way to lock up Bitcoin (BTC) in a smart contract on the Ethereum (ETH) blockchain. A smart contract can turn the BTC into an ERC20 token, which is the standard token type used on Ethereum.
-  technology: The process of locking up the Bitcoin and turning it into an ERC20 token is known as "wrapping." Once the BTC is turned into an ERC20 token, it can be used in Ethereum’s rapidly expanding DeFi ecosystem. Traders can deposit wrapped Bitcoin into a yield aggregator and earn interest on their deposit, supply liquidity to Uniswap and earn a percentage of trading fees & deposit wrapped Bitcoin in MakerDAO and take out a collateralized loan.
-  future: There are some benefits when you wrap Bitcoin. These advantages have helped creating a new sector in the blockchain industry.
+  one_sentence: Wrapped Bitcoin tokenises Bitcoin and brings it onto the Ethereum
+    blockchain
+  introduction: Wrapped Bitcoin is a way to lock up Bitcoin (BTC) in a smart contract
+    on the Ethereum (ETH) blockchain. A smart contract can turn the BTC into an ERC20
+    token, which is the standard token type used on Ethereum.
+  technology: "The process of locking up the Bitcoin and turning it into an ERC20\
+    \ token is known as \"wrapping.\" Once the BTC is turned into an ERC20 token,\
+    \ it can be used in Ethereum\xE2\u20AC\u2122s rapidly expanding DeFi ecosystem.\
+    \ Traders can deposit wrapped Bitcoin into a yield aggregator and earn interest\
+    \ on their deposit, supply liquidity to Uniswap and earn a percentage of trading\
+    \ fees & deposit wrapped Bitcoin in MakerDAO and take out a collateralized loan."
+  future: There are some benefits when you wrap Bitcoin. These advantages have helped
+    creating a new sector in the blockchain industry.
 blockchain:
   consensus: Aura
   algorithm: Aura Consensus
@@ -20,10 +29,11 @@ explorers:
 - https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
 - https://enjinx.io/en-GB/eth/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
 whitepaper:
-  abstract: With the rise in popularity of ERC20, digital tokens in the Ethereum ecosystem have emerged
-    as an important asset class. These tokens have all the advantages that blockchains and
-    Ethereum have to offer in terms of transparency in total number of coins, owners, minting, fast
-    confirmation times, transactions details and smart contract execution.
+  abstract: With the rise in popularity of ERC20, digital tokens in the Ethereum ecosystem
+    have emerged as an important asset class. These tokens have all the advantages
+    that blockchains and Ethereum have to offer in terms of transparency in total
+    number of coins, owners, minting, fast confirmation times, transactions details
+    and smart contract execution.
   file: wbtc-wrapped-bitcoin_whitepaper.pdf
 website:
   url: https://wbtc.network
@@ -64,143 +74,176 @@ manual_reviews:
   available: true
   introduction:
     purpose:
-      description: 'One amazing project that has been the focus of the deFi community lately is the Wrapped Bitcoin. 
-      Wrapped Bitcoin, or WBTC, has been the most successful project in the deFi category in terms of market 
-      capitalization, use in the sector, and community growth. The purpose behind Wrapped Bitcoin is very intriguing. 
-      It is a protocol that aims to bring the whole Bitcoin infrastructure under the covers of Ethereum. This means 
-      that users will be able to use Bitcoin while staying inside Ethereum’s ecosystem.'
+      description: "One amazing project that has been the focus of the deFi community\
+        \ lately is the Wrapped Bitcoin. Wrapped Bitcoin, or WBTC, has been the most\
+        \ successful project in the deFi category in terms of market capitalization,\
+        \ use in the sector, and community growth. The purpose behind Wrapped Bitcoin\
+        \ is very intriguing. It is a protocol that aims to bring the whole Bitcoin\
+        \ infrastructure under the covers of Ethereum. This means that users will\
+        \ be able to use Bitcoin while staying inside Ethereum\xE2\u20AC\u2122s ecosystem."
       score: 4.8
       references: null
   current_stand:
     scandals_highlights:
-      description: 'The project is very young now. It was launched in January 2019 as a collaborative effort between 
-      multiple big players of the community. It is interesting to note that the majority of these organizations 
-      belonged to deFi space and were aiming to use Bitcoin to increase liquidity on the Ethereum network. BitGo, 
-      Compound, MakerDAO, Kyber, and Ren are some of the blockchain entities supporting the development of WBTC. 
-      The reason to target Bitcoin is that Bitcoin is by far the most popular cryptocurrency of all time, and a 
-      majority of it is just sitting idly in cold wallet storage. By bringing a fraction of that idle cryptocurrency 
-      into the natural market will boost the deFi economy and will prove to be fruitful in terms of better liquidity. 
-      Wrapped Bitcoin has gained quite a name for itself. It has become a rising force in the deFi space. Crypto-enthusiast 
-      who were particularly interested in Bitcoin is now pulled towards the world of deFi all because of WBTC. In October, 
-      Coinbase announced that it is going to list WBTC on its exchange, Coinbase Pro. This is a very exciting development 
-      for WBTC, as it is now being accepted and listed by many renowned trading exchanges.'
+      description: The project is very young now. It was launched in January 2019
+        as a collaborative effort between multiple big players of the community. It
+        is interesting to note that the majority of these organizations belonged to
+        deFi space and were aiming to use Bitcoin to increase liquidity on the Ethereum
+        network. BitGo, Compound, MakerDAO, Kyber, and Ren are some of the blockchain
+        entities supporting the development of WBTC. The reason to target Bitcoin
+        is that Bitcoin is by far the most popular cryptocurrency of all time, and
+        a majority of it is just sitting idly in cold wallet storage. By bringing
+        a fraction of that idle cryptocurrency into the natural market will boost
+        the deFi economy and will prove to be fruitful in terms of better liquidity.
+        Wrapped Bitcoin has gained quite a name for itself. It has become a rising
+        force in the deFi space. Crypto-enthusiast who were particularly interested
+        in Bitcoin is now pulled towards the world of deFi all because of WBTC. In
+        October, Coinbase announced that it is going to list WBTC on its exchange,
+        Coinbase Pro. This is a very exciting development for WBTC, as it is now being
+        accepted and listed by many renowned trading exchanges.
       score: 4.8
-      references: 'Coinbase. (2020, October 16). Coinbase. Retrieved from Coinbase: https://blog.coinbase.com/wrapped-bitcoin-wbtc-is-launching-on-coinbase-pro-48804a13aa35'
+      references: 'Coinbase. (2020, October 16). Coinbase. Retrieved from Coinbase:
+        https://blog.coinbase.com/wrapped-bitcoin-wbtc-is-launching-on-coinbase-pro-48804a13aa35'
     product:
-      description: 'WBTCs, as actual products are tokens based on ERC-20 standards. Each token is basically supported 
-      by a Bitcoin in a 1:1 parity. WBTC is a way to integrate Bitcoin, and therefore other cryptocurrencies, to their 
-      DeFi counterparts on the Ethereum blockchain. 
-      Before WBTC, there was no way for Bitcoin holders to participate in the DeFi space, as it only supports ERC-20 tokens. 
-      How things happened before was that users had to exchange their Bitcoin for Ethereum or any other ERC-20 token, and it
-      required transferring their coins to and fro cryptocurrency trading exchanges and wallets. Altogether, it used to be an 
-      arduous task, and the users then were not owning Bitcoin, they were holding Ethereum.
-      WBTC has made this process easier and much quicker. The legging into Ethereum from Bitcoin does not require these many 
-      steps and can be considered direct for an end-user.'
+      description: WBTCs, as actual products are tokens based on ERC-20 standards.
+        Each token is basically supported by a Bitcoin in a 1:1 parity. WBTC is a
+        way to integrate Bitcoin, and therefore other cryptocurrencies, to their DeFi
+        counterparts on the Ethereum blockchain. Before WBTC, there was no way for
+        Bitcoin holders to participate in the DeFi space, as it only supports ERC-20
+        tokens. How things happened before was that users had to exchange their Bitcoin
+        for Ethereum or any other ERC-20 token, and it required transferring their
+        coins to and fro cryptocurrency trading exchanges and wallets. Altogether,
+        it used to be an arduous task, and the users then were not owning Bitcoin,
+        they were holding Ethereum. WBTC has made this process easier and much quicker.
+        The legging into Ethereum from Bitcoin does not require these many steps and
+        can be considered direct for an end-user.
       score: 4.7
       references: null
     development:
-      description: 'The current development activities are being done collectively under the collaboration of many cryptocurrency 
-      giants. The code for the WBTC protocol is available for the public on GitHub. The GitHub repository is very active and 
-      shows frequent commits.' 
+      description: The current development activities are being done collectively
+        under the collaboration of many cryptocurrency giants. The code for the WBTC
+        protocol is available for the public on GitHub. The GitHub repository is very
+        active and shows frequent commits.
       score: 4.7
-      references: 'Wrapped Bitcoin. (2019, November 17). GitHub. Retrieved from GitHub Website:
-        https://github.com/WrappedBTC/bitcoin-token-smart-contracts'
+      references: 'Wrapped Bitcoin. (2019, November 17). GitHub. Retrieved from GitHub
+        Website: https://github.com/WrappedBTC/bitcoin-token-smart-contracts'
     partnerships:
-      description: 'Wrapped Bitcoin has swept the cryptocurrency markets with great success and has acquired amazing 
-      partnerships along the way. First of all, it is being developed under the collaboration of many cryptocurrency 
-      giants like BitGo, Compound, MakerDAO, Kyber, and Ren. Many cryptocurrency trading exchanges have also listed 
-      WBTC on their exchange lists in the previous year. Among these are Coinbase Pro, Binance, Bittrex, OKEx, etc. 
-      In September, WBTC entered into a partnership with TRON cryptocurrency as well. BitGo, one of the developers of WBTC, 
-      plans to launch the token on the TRON blockchain as well. This will take WBTC to new heights as it will capture another 
-      cryptocurrency network other than Ethereum.'
+      description: Wrapped Bitcoin has swept the cryptocurrency markets with great
+        success and has acquired amazing partnerships along the way. First of all,
+        it is being developed under the collaboration of many cryptocurrency giants
+        like BitGo, Compound, MakerDAO, Kyber, and Ren. Many cryptocurrency trading
+        exchanges have also listed WBTC on their exchange lists in the previous year.
+        Among these are Coinbase Pro, Binance, Bittrex, OKEx, etc. In September, WBTC
+        entered into a partnership with TRON cryptocurrency as well. BitGo, one of
+        the developers of WBTC, plans to launch the token on the TRON blockchain as
+        well. This will take WBTC to new heights as it will capture another cryptocurrency
+        network other than Ethereum.
       score: 4.7
-      references: 'Omelchenko, D. (2020, September 24). ihodl. Retrieved from ihodl: 
-      https://ihodl.com/topnews/2020-09-24/tron-adds-support-wbtc-partners-bitgo/'
+      references: 'Omelchenko, D. (2020, September 24). ihodl. Retrieved from ihodl:
+        https://ihodl.com/topnews/2020-09-24/tron-adds-support-wbtc-partners-bitgo/'
     community:
-      description: 'WBTC has attracted a great number of followers in no time and has developed a huge community around 
-      itself. It has active representation on social platforms like Reddit, Medium, Twitter, etc. It is being adopted 
-      by a growing number of exchanges and is on its way to becoming a mainstream cryptocurrency.'
+      description: WBTC has attracted a great number of followers in no time and has
+        developed a huge community around itself. It has active representation on
+        social platforms like Reddit, Medium, Twitter, etc. It is being adopted by
+        a growing number of exchanges and is on its way to becoming a mainstream cryptocurrency.
       score: 3.6
       references: null
     substitutes:
-      description: 'Wrapped Bitcoin is very similar to many other cryptocurrencies in its architectural styles. Although 
-      many of the other wrapped technologies do not necessarily target Bitcoin, the architectural concept is very close 
-      to the likes of Yearn Finance (YFI), Wrapped Ether (WETH), Tether (USDT), USD Coin (USDC), Dai (DAI), ChainLink 
-      (LINK) and Compound (COMP), etc.'
+      description: Wrapped Bitcoin is very similar to many other cryptocurrencies
+        in its architectural styles. Although many of the other wrapped technologies
+        do not necessarily target Bitcoin, the architectural concept is very close
+        to the likes of Yearn Finance (YFI), Wrapped Ether (WETH), Tether (USDT),
+        USD Coin (USDC), Dai (DAI), ChainLink (LINK) and Compound (COMP), etc.
       score: 4.3
-      references: 'Crypto.com. (n.d.). Crypto.com. Retrieved from Crypto.com: 
-      https://blog.crypto.com/wbtc-on-defi-swap/'
+      references: 'Crypto.com. (n.d.). Crypto.com. Retrieved from Crypto.com: https://blog.crypto.com/wbtc-on-defi-swap/'
   foresight:
     prediction:
-      description: 'The development around WBTC has been very promising and it has gained an unmatched amount of support 
-      in only two years. With the way things are going, WBTC is going to grow both in terms of its community and digital 
-      usage.'
+      description: The development around WBTC has been very promising and it has
+        gained an unmatched amount of support in only two years. With the way things
+        are going, WBTC is going to grow both in terms of its community and digital
+        usage.
       score: 4.6
       references: null
     projects:
-      description: 'The upcoming projects under the hood of WBTC are Betoken. Betoken is a project that will increase the 
-      use of cases for WBTC and grow its involvement in daily transactions. Other than that, another much-hyped project 
-      is known as dYdX and is a tool that will allow users to lend, borrow, and margin Bitcoin on the Ethereum network.'
+      description: The upcoming projects under the hood of WBTC are Betoken. Betoken
+        is a project that will increase the use of cases for WBTC and grow its involvement
+        in daily transactions. Other than that, another much-hyped project is known
+        as dYdX and is a tool that will allow users to lend, borrow, and margin Bitcoin
+        on the Ethereum network.
       score: 4.6
       references: null
     potential:
-      description: 'WBTC has immense potential. This can be gauged by the fact that the most popular cryptocurrency is 
-      Bitcoin. Even if we talk in terms of market capitalization, BTC has a clear lead. On the other hand, deFi is the 
-      future of the cryptocurrency world. When both these forces will join, the result will naturally become one of the 
-      most sought after utility.'
+      description: WBTC has immense potential. This can be gauged by the fact that
+        the most popular cryptocurrency is Bitcoin. Even if we talk in terms of market
+        capitalization, BTC has a clear lead. On the other hand, deFi is the future
+        of the cryptocurrency world. When both these forces will join, the result
+        will naturally become one of the most sought after utility.
       score: 4.8
       references: null
   pro_con:
     product_availability:
-      description: WBTC has already tokenized around 560 Bitcoins and has started working as an actual product.
+      description: WBTC has already tokenized around 560 Bitcoins and has started
+        working as an actual product.
       is_pro: true
       is_contra: false
     product_usage:
-      description: WBTC protocol will be used by Bitcoin users willing to enjoy the benefits of deFI space.
+      description: WBTC protocol will be used by Bitcoin users willing to enjoy the
+        benefits of deFI space.
       is_pro: true
       is_contra: false
     transactions_per_second:
-      description: Since WBTC is an ERC-20 token, it offers a decent transactional speed.
+      description: Since WBTC is an ERC-20 token, it offers a decent transactional
+        speed.
       is_pro: true
       is_contra: false
     transaction_cost:
-      description: Different exchanges charge a little percentage of the transaction to wrap and unwrap a Bitcoin.
+      description: Different exchanges charge a little percentage of the transaction
+        to wrap and unwrap a Bitcoin.
       is_pro: false
       is_contra: true
     transaction_speed:
-      description: Since WBTC is an ERC-20 token, it offers a decent transactional speed.
+      description: Since WBTC is an ERC-20 token, it offers a decent transactional
+        speed.
       is_pro: true
       is_contra: false
     security:
-      description: wBTC is a relatively newer cryptocurrency, and therefore, its security has not been fully tried and tested.
+      description: wBTC is a relatively newer cryptocurrency, and therefore, its security
+        has not been fully tried and tested.
       is_pro: false
       is_contra: true
     adoption:
-      description: WBTC has been widely accepted lately, and the community around the project has grown significantly.
+      description: WBTC has been widely accepted lately, and the community around
+        the project has grown significantly.
       is_pro: true
       is_contra: false
     energy_consumption:
-      description: The technology does not rely on mining processes to carry out financial transactions and for that reason, it can be counted as an energy-efficient technology.
+      description: The technology does not rely on mining processes to carry out financial
+        transactions and for that reason, it can be counted as an energy-efficient
+        technology.
       is_pro: true
       is_contra: false
     privacy:
-      description: WBTC miners are required to comply with KYC/AML procedures. However, normal users who just hold WBTC are not required to comply with KYC procedures.
+      description: WBTC miners are required to comply with KYC/AML procedures. However,
+        normal users who just hold WBTC are not required to comply with KYC procedures.
       is_pro: false
       is_contra: true
     decentralization:
-      description: wBTC is not fully decentralised 
+      description: wBTC is not fully decentralised
       is_pro: false
       is_contra: true
     exchange_availability:
-      description: WBTC is getting accepted and listed on many renowned cryptocurrency exchanges. 
+      description: WBTC is getting accepted and listed on many renowned cryptocurrency
+        exchanges.
       is_pro: true
       is_contra: false
   team:
     founders:
-      description: WBTC is a collaborative project of BitGo, Compound, MakerDAO, Kyber, and Ren. 
+      description: WBTC is a collaborative project of BitGo, Compound, MakerDAO, Kyber,
+        and Ren.
       score: 4.7
       references: null
     developers:
-      description: It is being developed under the unanimous and collaborative efforts of many cryptocurrency organizations.
+      description: It is being developed under the unanimous and collaborative efforts
+        of many cryptocurrency organizations.
       score: 4.6
       references: null
