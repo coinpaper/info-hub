@@ -2,25 +2,30 @@ id: mona-monacoin
 symbol: MONA
 name: MonaCoin
 logo: null
-founded: null
+founded: '2014-01-01'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Monacoin is the first cryptocurrency in Japan that was born in December\
+    \ 2013.\r\nMonacoin community is the most active cryptocurrency users community\
+    \ in Japan.\r\nBesides Bitcoin, Monacoin is accepted in some stores in Japan."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Work
+  algorithm: Scrypt
+  issue_date: '2014-01-01'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://mona.tokenview.com
+- https://mona.chainsight.info/
+- https://mona.chainseeker.info/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://monacoin.org
 video:
   url: null
 team:
@@ -45,14 +50,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/monacoin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: monacoinproject
   main_repository: null
 manual_reviews:
   available: false
