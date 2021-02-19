@@ -300,7 +300,7 @@ team:
       twitter:
         url: null
         followers: null
-  - name: "Michal Tomasik"
+  - name: Michal Tomasik
     imagename: lsk-lisk_michal_tomasik.png
     position: Frontend Developer
     description: "Micha\u0142 loves trying new things; over the past few years, he\
@@ -599,7 +599,7 @@ team:
       twitter:
         url: https://twitter.com/rey_raa
         followers: 157
-  - name: "Vit Stanislav"
+  - name: Vit Stanislav
     imagename: lsk-lisk_vit_stanislav.png
     position: Frontend Developer
     description: "V\xEDt\u2019s life of programming began when he was just a teenager.\
