@@ -5,22 +5,38 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "CrypticCoin is a cryptocurrency designed for everyday use. It is\
+    \ a decentralized and open-source cryptocurrency that offers privacy and selective\
+    \ transparency of transactions (allows the user to choose between private and\
+    \ public ledgers on the blockchain). CrypticCoin uses anonymity networks such\
+    \ as Tor and I2P. Our decentralized privacy coin is a secure way to create peer\
+    \ to peer transactions that are powered by blockchain. The IP addresses of the\
+    \ users are obfuscated, and the transactions are completely untraceable.\r\n\r\
+    \nCrypticCoin payments are published on a public blockchain, but the sender, recipient,\
+    \ and amount of a transaction remain private. CrypticCoin is based on peer-reviewed\
+    \ cryptographic research and built by a security expert development / engineering\
+    \ team on an open source platform based on the original Bitcoin Blockchain / Core\
+    \ codebase. CrypticCoin advances upon the original Bitcoin Blockchain / Core and\
+    \ is focused on fulfilling its initial purpose of providing users and businesses\
+    \ with an effective, efficient and fast decentralized way of making direct transactions\
+    \ while preserving personal privacy. Our improvement over Bitcoin is the addition\
+    \ of many features including efficiency, speed and privacy."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Work
+  algorithm: Equihash
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: On-going development
+explorers:
+- https://explorer.crypticcoin.io/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://crypticcoin.io/
 video:
   url: null
 team:
@@ -45,14 +61,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/crypticcoin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: 'http:'
   main_repository: null
 manual_reviews:
   available: false
