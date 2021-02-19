@@ -2,32 +2,36 @@ id: evr-everus
 symbol: EVR
 name: Everus
 logo: null
-founded: null
+founded: '2017-09-06'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Everus (EVR) is a platform that will leverage the Ethereum blockchain
+    to empower their services. Services like an exchange, its own cryptocurrency ATM,
+    a BaaS (Blockchain as a Service) enabling decentralized applications to use it
+    as a payment service, and an e-Mall (EVR Mall). EVR is an ERC-20 token that will
+    provide users with voting rights
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-09-06'
+  type: token
+  organization_structure: Centralized
   development_status: null
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://everus.org/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Srinivas Oddati
     imagename: null
-    position: null
+    position: "CEO & \u0421o-founder"
     description: null
     links:
       github:
@@ -42,17 +46,119 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Ravi Kumar
+    imagename: null
+    position: VP of Strategic Growth
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rajesh Jannavarapu
+    imagename: null
+    position: Data Expert
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Navaneethan Marimuthu
+    imagename: null
+    position: QA
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Liew Kok Mun
+    imagename: null
+    position: Head of Product Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rahizal Bin Zakaria
+    imagename: null
+    position: UI/UX Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Gan Kwok Wei
+    imagename: null
+    position: UI/UX Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/everus-world
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: EverusWorld
   main_repository: null
 manual_reviews:
   available: false
