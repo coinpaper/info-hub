@@ -2,30 +2,140 @@ id: aoa-aurora
 symbol: AOA
 name: Aurora
 logo: null
-founded: null
+founded: '2018-05-16'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Aurora makes a breakthrough in the Blockchain world. By applying DPOS+BFT
+    consensus mechanisms, we create lightning-fast contracts to link industries such
+    as gaming, big data, artificial intelligence and IoT. Aurora offers unique intelligent
+    application isolation, enabling multi-chain parallel expansion and an unlimited
+    increase of TPS with guaranteed security.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: DPOS+BFT
+  algorithm: DPOS+BFT
+  issue_date: '2018-05-16'
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a
+- https://browser.aurorachain.io/#/?lang=en
+- https://ethplorer.io/address/0x9ab165d795019b6d8b3e971dda91071421305e5a
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.aurorachain.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Christopher Mourey
+    imagename: null
+    position: Project Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Timothy Franklin
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Allen Guan
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ayode
+    imagename: null
+    position: Blockchain Entrepreneur
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kolawole Philip
+    imagename: null
+    position: Investor & influencer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Christopher Sparks
+    imagename: null
+    position: Blockchain and Crypto Investor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric Ai
     imagename: null
     position: null
     description: null
@@ -42,17 +152,50 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Michael Padderatz
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anudeep Reddy
+    imagename: null
+    position: Blockchain Expert
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/anudeepreddy200/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/AuroraOfficial
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/@AuroraOfficial
   vimeo: null
   discord: null
 github:
-  username: null
+  username: aoaio
   main_repository: null
 manual_reviews:
   available: false
