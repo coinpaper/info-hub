@@ -2,32 +2,85 @@ id: snt-status
 symbol: SNT
 name: Status
 logo: null
-founded: null
+founded: '2017-06-20'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Status is an interface to access Ethereum, built for Android & iOS.
+    Enjoy encrypted messaging, a cryptocurrency wallet, and seamless access to DApps.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-06-20'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://status.im/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Jarrad Hope
     imagename: null
-    position: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: https://github.com/jarradh
+        followers: 97
+      linkedin:
+        url: https://www.linkedin.com/in/jarradhope
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Carl Bennetts
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: https://github.com/carlbennetts
+        followers: 27
+      linkedin:
+        url: https://www.linkedin.com/in/carlbennetts
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nabil Naghdy
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: https://github.com/naghdy
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Rajanie Henry
+    imagename: null
+    position: Assistant to the COO
     description: null
     links:
       github:
@@ -42,17 +95,1053 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Ben Morris
+    imagename: null
+    position: Head of Incubate
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chad Jackson
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/chadyj
+        followers: 16
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Roman Volosovskyi
+    imagename: null
+    position: Team Leader
+    description: null
+    links:
+      github:
+        url: https://github.com/rasom
+        followers: 89
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrey Shovkoplyas
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/flexsurfer
+        followers: 108
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Aleksandr Patiukhov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/alwx
+        followers: 117
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Julien Eluard
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/jeluard
+        followers: 134
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jan Herich
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/janherich
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eric Dvorsak
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/yenda
+        followers: 45
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Goran Jovic
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/goranjovic
+        followers: 27
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Oskar Thoren
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/oskarth
+        followers: 132
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dmitry Novotochinov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/dmitryn
+        followers: 66
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vitaliy Vlasov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/siphiuel
+        followers: 14
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Martin Klepsch
+    imagename: null
+    position: Team Leader
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://github.com/martinklepsch
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adam Babik
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/adambabik
+        followers: 66
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Frank Mueller
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/themue
+        followers: 55
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ivan Daniluk
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/divan
+        followers: 965
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Igor Mandrigin
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/mandrigin
+        followers: 35
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: F. Eugene Aumson
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/feugenea
+        followers: 26
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrea Franz
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/pilu
+        followers: 7
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Adria Cidre Jugo
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/adriacidre
+        followers: 37
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Boris Petrov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/b00ris
+        followers: 12
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pedro Pombeiro
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/pombeirp
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dmitry Shulyak
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/dshulyak
+        followers: 37
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Danilenko Eugene Victorovich
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/jekamas
+        followers: 22
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anna Danchenko
+    imagename: null
+    position: QA Lead
+    description: null
+    links:
+      github:
+        url: https://github.com/annadanchenko
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anastasiya Semiankevich
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/asemiankevich
+        followers: 12
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Anton Danchenko
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/antdanchenko
+        followers: 17
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yevheniia Berdnyk
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/yevh-berdnyk
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sergey Chumak
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/serhy
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tetiana Churikova
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/churik
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lukasz Fryc
+    imagename: null
+    position: QA Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/lukaszfryc
+        followers: 6
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ricardo Schmidt
+    imagename: null
+    position: Smart Contracts Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/3esmit
+        followers: 185
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Richard Roy L\xF3pez"
+    imagename: null
+    position: Smart Contracts Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/richard-ramos
+        followers: 34
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacques Wagener
+    imagename: null
+    position: Python Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/jacqueswww
+        followers: 73
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Michele Balistreri
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/bitgamma
+        followers: 25
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Arash Mahboubi
+    imagename: null
+    position: Product Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/arash009
+        followers: 3
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Tudhope
+    imagename: null
+    position: Bounties Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/andytudhope
+        followers: 66
+      linkedin:
+        url: https://za.linkedin.com/in/andytud
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/cryptowanderer?lang=en
+        followers: 2683
+  - name: Iurii Glukhov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexander Ivanov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/alehander42
+        followers: 127
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Zahary Karadjov
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/zah
+        followers: 102
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ryan Lipscombe
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mamy Ratsimbazafy
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/mratsim
+        followers: 473
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jacek Sieka
+    imagename: null
+    position: Team Member
+    description: null
+    links:
+      github:
+        url: https://github.com/arnetheduck
+        followers: 85
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Hutchinson
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Muhammad Hadi Ismail
+    imagename: null
+    position: Community Management
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eduardo Garza
+    imagename: null
+    position: Community Manager Latin America
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/eduardo-garza-51a12214b
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Zerah
+    imagename: null
+    position: Marketing Manager
+    description: null
+    links:
+      github:
+        url: https://github.com/j-zerah
+        followers: 2
+      linkedin:
+        url: https://www.linkedin.com/in/jonathan-zerah-b613967/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kimberly Fournier
+    imagename: null
+    position: Global Marketing Specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kimjfournier
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alli Magidsohn
+    imagename: null
+    position: Creative Strategist and Marketing specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/allimagidsohn
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shawn Sabeti
+    imagename: null
+    position: Marketing Specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shawnsabeti
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andrei Mironov
+    imagename: null
+    position: Head of design
+    description: null
+    links:
+      github:
+        url: https://github.com/andmironov
+        followers: 107
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Denis Sharypin
+    imagename: null
+    position: UI/UX Designer
+    description: null
+    links:
+      github:
+        url: https://github.com/denis-sharypin
+        followers: 13
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Patrick Bowen
+    imagename: null
+    position: Lead UX Research
+    description: null
+    links:
+      github:
+        url: https://github.com/jpbowen
+        followers: 2
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hester Bruikman
+    imagename: null
+    position: UX Research
+    description: null
+    links:
+      github:
+        url: https://github.com/hesterbruikman
+        followers: 11
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Euge Ortiz '
+    imagename: null
+    position: UX Research
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Max Risuhin
+    imagename: null
+    position: Desktop Port Team
+    description: null
+    links:
+      github:
+        url: https://github.com/maxris
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Volodymyr Kozieiev
+    imagename: null
+    position: Desktop Port Team
+    description: null
+    links:
+      github:
+        url: https://github.com/vkjr
+        followers: 21
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Henriette Herud
+    imagename: null
+    position: HR Operations Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Stef Chiorboli
+    imagename: null
+    position: People Ops
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Barbara Franca
+    imagename: null
+    position: Head of Talent
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jonathan Barker
+    imagename: null
+    position: 'Head of People Operations '
+    description: null
+    links:
+      github:
+        url: https://github.com/jonathanbarker
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jonathanbarker/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/statusim
   twitter: null
   facebook: null
-  medium: null
+  medium: https://blog.status.im/
   vimeo: null
   discord: null
 github:
-  username: null
+  username: status-im
   main_repository: null
 manual_reviews:
   available: false
