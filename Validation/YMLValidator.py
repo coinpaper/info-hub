@@ -134,6 +134,6 @@ class YMLValidator:
 
 
 if __name__ == "__main__":
-    v = YMLValidator("dot-polkadot")
+    v = YMLValidator("aave-new")
     v.validate()
 
