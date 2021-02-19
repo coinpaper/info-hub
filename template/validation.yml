@@ -13,8 +13,8 @@ blockchain:
   algorithm: optional|text|max(60)
   issue_date: optional|date
   type: optional|oneof(token,coin,unknown)
-  organization_structure: optional|oneof(Centralized,Semi-centralized,Decentralized,unknown)
-  development_status: optional|oneof(Defunct,Alpha version,Just an Idea,Beta version,On-going development,Working product)
+  organization_structure: optional|oneof(Unknown,Centralized,Semi-centralized,Decentralized,unknown)
+  development_status: optional|oneof(Unknown,Defunct,Prototype / MVP,Alpha version,Just an Idea,Beta version,On-going development,Working product)
 explorers: foreach(url)
 whitepaper:
   abstract: optional|text|max(600)
@@ -45,7 +45,7 @@ team:
   members:
     name: text|max(50)
     imagename: optional|image|png
-    position: text|max(60)
+    position: optional|text|max(60)
     description: optional|text|max(600)
     links:
       github:

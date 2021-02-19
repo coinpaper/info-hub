@@ -52,10 +52,10 @@ socials:
   twitter: null
   facebook: https://www.facebook.com/blockstack/
   medium: null
-  vimeo: null
+  vimeo: https://vimeo.com/user73224458
   discord: null
 github:
-  username: null
+  username: blockstack
   main_repository: null
 manual_reviews:
   available: false

@@ -2,25 +2,33 @@ id: avax-avalanche
 symbol: AVAX
 name: Avalanche
 logo: null
-founded: null
+founded: '2020-07-22'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Avalanche is an open-source platform for launching decentralized\
+    \ finance applications and enterprise blockchain deployments in one interoperable,\
+    \ highly scalable ecosystem. Developers who build on Avalanche can easily create\
+    \ powerful, reliable, and secure applications and custom blockchain networks with\
+    \ complex rulesets or build on existing private or public subnets. Avalanche gives\
+    \ you complete control on both the network and application layers\u2013helping\
+    \ you build anything you can imagine."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Stake
+  algorithm: Avalanche
+  issue_date: '2020-07-22'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://explorer.avax.network
+- https://avascan.info
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://avalabs.org
 video:
   url: null
 team:
@@ -52,7 +60,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: ava-labs
   main_repository: null
 manual_reviews:
   available: false

@@ -2,25 +2,28 @@ id: usdq-usdq
 symbol: USDQ
 name: USDQ
 logo: null
-founded: null
+founded: '2019-05-10'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: USDQ is a decentralized stable coin, which is backed by bitcoin and
+    pegged to the dollar, so 1 USDQ = $1 USD.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2019-05-10'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x4954db6391f4feb5468b6b943d4935353596aec9
+- https://ethplorer.io/address/0x4954db6391f4feb5468b6b943d4935353596aec9
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://usdq.platinum.fund/
 video:
   url: null
 team:
@@ -48,11 +51,11 @@ socials:
   reddit: null
   twitter: null
   facebook: null
-  medium: null
+  medium: https://medium.com/platinum-fund
   vimeo: null
   discord: null
 github:
-  username: null
+  username: Platinumengineering
   main_repository: null
 manual_reviews:
   available: false

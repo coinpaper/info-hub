@@ -27,7 +27,7 @@ descriptions:
     \ assets. For more information, please visit https://enjin.io.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-11-02'
   type: token
   organization_structure: Centralized

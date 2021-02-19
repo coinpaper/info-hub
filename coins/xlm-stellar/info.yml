@@ -143,7 +143,7 @@ team:
       twitter:
         url: null
         followers: null
-  - name: "Rafal Malinowski"
+  - name: Rafal Malinowski
     imagename: xlm-stellar_rafal_malinowski.png
     position: Developer
     description: "Rafa\u0142 is a software developer with great passion for C++.\n\
@@ -285,11 +285,11 @@ team:
       twitter:
         url: https://twitter.com/nicolassf
         followers: 173
-  - name: "David Mazieres"
+  - name: David Mazieres
     imagename: xlm-stellar_david_mazieres.png
     position: Chief Scientist
-    description: "David Mazieres is a professor of Computer Science at Stanford\
-      \ University, where he leads the Secure Computer Systems Group. "
+    description: 'David Mazieres is a professor of Computer Science at Stanford University,
+      where he leads the Secure Computer Systems Group. '
     links:
       github:
         url: null

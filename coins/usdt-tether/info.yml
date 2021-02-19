@@ -18,14 +18,14 @@ descriptions:
     \ customer (non-exchange) fiat redemption enabled. 4th March 2019 - USDT tokens\
     \ supported on TRON. 31st May 2019 - USDT tokens supported on EOS. 29 th July\
     \ 2019 - USDT tokens supported on Liquid Network."
-  future: 'Designed to be backed 1:1 by fiat (US dollars), Tether tokens
-    (USDT) are minted or burnt (destroyed) as the reserves held by Tether (the company)
-    increase (via deposits) or fall (via claims against the tokens). In this way,
-    Tether tokens are seen as a stable store of value in an otherwise highly volatile
-    crypto-currency ecosystem.'
+  future: Designed to be backed 1:1 by fiat (US dollars), Tether tokens (USDT) are
+    minted or burnt (destroyed) as the reserves held by Tether (the company) increase
+    (via deposits) or fall (via claims against the tokens). In this way, Tether tokens
+    are seen as a stable store of value in an otherwise highly volatile crypto-currency
+    ecosystem.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2014-11-26'
   type: token
   organization_structure: Centralized

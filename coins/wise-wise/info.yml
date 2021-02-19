@@ -2,25 +2,29 @@ id: wise-wise
 symbol: WISE
 name: WISE
 logo: null
-founded: null
+founded: '2020-12-31'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: WISE is a unique staking platform that leveraged an unprecedented
+    96% of presale capital to form an instant, massive, and unremovable market on
+    Uniswap.org. WISE is audited, functional, complete, and free of any admin keys,
+    or anything threatening its decentralization.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
+  issue_date: '2020-12-31'
+  type: token
   organization_structure: null
-  development_status: null
-explorers: []
+  development_status: Working product
+explorers:
+- https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://wisetoken.net/
 video:
   url: null
 team:
@@ -45,14 +49,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/WiseTokenOfficial/
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: wise-foundation
   main_repository: null
 manual_reviews:
   available: false

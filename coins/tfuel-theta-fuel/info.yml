@@ -5,22 +5,26 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Theta Fuel is the operational token of the Theta protocol. It is the
+    second token in the Theta protocol that works in conjunction with the Theta Token
+    that exists today. It powers on-chain operations like payments to relayers for
+    sharing a video stream, or for deploying or interacting with smart contracts.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Multi-Level Byzantine Fault Tolerance
+  algorithm: MBFT
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://explorer.thetatoken.org
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.thetatoken.org
 video:
   url: null
 team:
@@ -45,14 +49,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/theta_network
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: thetatoken
   main_repository: null
 manual_reviews:
   available: false

@@ -18,7 +18,7 @@ descriptions:
   future: We can not provide any looks into the future for OKB yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-01-01'
   type: token
   organization_structure: Centralized
@@ -27,12 +27,12 @@ explorers:
 - https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c
 - https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c
 whitepaper:
-  abstract: "OKB is a global utility token issued by OK Blockchain foundation. It\
-    \ is a token economy system designed and launched by our world-class development\
-    \ team based on blockchain technology. OKB is set to connect prospective digital\
-    \ asset projects to OKEx users as well as professional investors, creating an\
-    \ OKEx ecosystem that helps to advance the development of blockchain technology\
-    \ and the digital asset industry."
+  abstract: OKB is a global utility token issued by OK Blockchain foundation. It is
+    a token economy system designed and launched by our world-class development team
+    based on blockchain technology. OKB is set to connect prospective digital asset
+    projects to OKEx users as well as professional investors, creating an OKEx ecosystem
+    that helps to advance the development of blockchain technology and the digital
+    asset industry.
   file: okb-okb_whitepaper.pdf
 website:
   url: https://www.okex.com

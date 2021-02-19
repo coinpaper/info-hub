@@ -2,25 +2,31 @@ id: bst-blockstamp
 symbol: BST
 name: BlockStamp
 logo: null
-founded: null
+founded: '2018-08-20'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: BlockStamp is a multipurpose Bitcoin blockchain fork designed to promote
+    liberty, transparency, and sovereignty in areas of the digital economy where these
+    fundamental values are most at risk. BlockStamp natively hosts a digital tool
+    for transparently sealing data (timestamping), radically fair online gambling
+    platform, a censorship-proof internet Domain Naming System, and the BST crypto
+    coin.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Work
+  algorithm: SHA256
+  issue_date: '2018-08-20'
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://explorer.blockstamp.info/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://blockstamp.info/
 video:
   url: null
 team:
@@ -52,7 +58,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: BlockStamp
   main_repository: null
 manual_reviews:
   available: false

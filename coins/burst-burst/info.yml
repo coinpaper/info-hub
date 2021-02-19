@@ -2,32 +2,39 @@ id: burst-burst
 symbol: BURST
 name: Burst
 logo: null
-founded: null
+founded: '2014-06-12'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Burst was officially introduced on the 10th of August 2014 with the\
+    \ goal of solving other cryptocurrencies\u2019 biggest problems : lack of decentralization,\
+    \ waste of energy, unfair releases, supremacy of big miners and corporations.\
+    \ It is the first and only cryptocurrency secured by the Proof-of-Capacity algorithm.\r\
+    \n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Capacity
+  algorithm: Shabal256
+  issue_date: '2014-06-12'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://explore.burst.cryptoguru.org/
+- https://burstcoin.cc
+- https://x.burstnation.com/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.burst-coin.org
 video:
   url: null
 team:
   leader:
-    name: null
+    name: cgb
     imagename: null
-    position: null
+    position: PoC Consortium
     description: null
     links:
       github:
@@ -42,17 +49,204 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Fuse
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Antigo
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: bold
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sergey Blagodarenko
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Quibus
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: "Tom Cr\xE9ance"
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ac0v
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: rico666
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: mrmmm
+    imagename: null
+    position: PoC Consortium
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: daWallet
+    imagename: null
+    position: Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hamish Speirs
+    imagename: null
+    position: Infrastructure Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/burstcoin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: PoC-Consortium
   main_repository: null
 manual_reviews:
   available: false

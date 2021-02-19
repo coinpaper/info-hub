@@ -15,11 +15,11 @@ descriptions:
     be used by content consumers to pay creators for in-game assets, or use as currency
     in gaming or to reward creators directly for their entertainment content or to
     purchase additional access.
-  future: 'Freezing (staking) TRX tokens results in energy and bandwidth required
-    to interact smoothly with the network as well as the increase in voting power
-    of voting for Super Representatives. Significant Features. Average blocktime of
-    15 seconds; Total supply of 100 billion TRX; Consensus via Proof of Stake (Fast
-    Paxos). High bandwidth, averaging 2000 Transactions per Second.'
+  future: Freezing (staking) TRX tokens results in energy and bandwidth required to
+    interact smoothly with the network as well as the increase in voting power of
+    voting for Super Representatives. Significant Features. Average blocktime of 15
+    seconds; Total supply of 100 billion TRX; Consensus via Proof of Stake (Fast Paxos).
+    High bandwidth, averaging 2000 Transactions per Second.
 blockchain:
   consensus: Delegated Proof of Stake
   algorithm: DPoS

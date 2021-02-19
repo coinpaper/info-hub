@@ -2,25 +2,36 @@ id: btb-bitball
 symbol: BTB
 name: BitBall
 logo: null
-founded: null
+founded: '2018-07-07'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "BitBall (BTB) - All in One Decentralized Cryptocurrency, bridging\
+    \ the gap between digital currencies, exchanges & clients worldwide. \r\nContributions\
+    \ live with bonus Bitball Treasure (BTRS)\r\nUnique One Cryptocurrency covering\
+    \ all financial aspects of digital transactions build on Ethereum Blockchain.\
+    \ A Multipurpose Digital currency with Endless Possibilities and Rewards.\r\n\
+    Bitball is a Community/People Powered Cryptocurrency with no ICO (20% Airdropped).\
+    \ 60% - 600 million Tokens will be distributed for high circulation (200 million\
+    \ BTB, Airdropped in between 40000+ people in Phase 1.). We also Believe in rewarding\
+    \ our Community. More Bitballs will be Distributed in forms of Prizes, Rewards\
+    \ and Jackpots !"
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2018-07-07'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x382117315856a533549ea621542ccce13e54ae82
+- https://ethplorer.io/address/0x382117315856a533549ea621542ccce13e54ae82
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.bitball-btb.com/
 video:
   url: null
 team:
@@ -52,7 +63,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: BitballErc20
   main_repository: null
 manual_reviews:
   available: false

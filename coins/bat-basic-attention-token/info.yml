@@ -17,7 +17,7 @@ descriptions:
     user privacy..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-05-31'
   type: token
   organization_structure: Centralized

@@ -5,15 +5,15 @@ logo: bch-bitcoin-cash_logo@512x512.png
 founded: '2017-08-01'
 descriptions:
   one_sentence: Bitcoin copy with faster transaction times
-  introduction: "Bitcoin Cash (BCH also known as BCHABC)\
-    \ is a hard-fork of Bitcoin after consensus was not reached on the question of\
-    \ increasing the blocksize of the original Bitcoin. An increased blocksize (Bitcoin\
-    \ Cash has a maximum block size of 8MB compared to Bitcoin\u2019s 1MB) was seen\
-    \ by backers (such as Roger Ver) as enabling Bitcoin to function better as a regularly\
-    \ used currency, as a larger block size would enable more transactions to be recorded\
-    \ per block (without decreasing the average block time) thus increasing the capacity\
-    \ of the blockchain. However, opponents of the increased block size argued that\
-    \ the increased block size and increased demands on storage for the complete blockchain\
+  introduction: "Bitcoin Cash (BCH also known as BCHABC) is a hard-fork of Bitcoin\
+    \ after consensus was not reached on the question of increasing the blocksize\
+    \ of the original Bitcoin. An increased blocksize (Bitcoin Cash has a maximum\
+    \ block size of 8MB compared to Bitcoin\u2019s 1MB) was seen by backers (such\
+    \ as Roger Ver) as enabling Bitcoin to function better as a regularly used currency,\
+    \ as a larger block size would enable more transactions to be recorded per block\
+    \ (without decreasing the average block time) thus increasing the capacity of\
+    \ the blockchain. However, opponents of the increased block size argued that the\
+    \ increased block size and increased demands on storage for the complete blockchain\
     \ would risk increased centralization of miners capacity (as the costs of running\
     \ mining nodes would increase further beyond the ability of smaller pools and\
     \ individual miners). As no consensus was reached, the faction supporting the\
@@ -82,7 +82,109 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Bitcoin Unlimited
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bitprim
+    imagename: null
+    position: R&D Team
+    description: Bitcoin Protocol Development Platform
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bitcoin XT
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: BTC1
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bitcrust
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Parity
+    imagename: null
+    position: R&D Team
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/bitcoincashfork
   reddit: https://www.reddit.com/r/btc/

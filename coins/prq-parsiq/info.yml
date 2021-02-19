@@ -2,25 +2,30 @@ id: prq-parsiq
 symbol: PRQ
 name: PARSIQ
 logo: null
-founded: null
+founded: '2018-10-01'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: PARSIQ is the next-gen monitoring and intelligence platform for various
+    blockchains. With PARSIQ users are able to track digital asset movements in real-time,
+    gather and process on-chain data, receive notifications on events happening across
+    different blockchains. Using third-party integrations users are able to enrich
+    transaction data with risk scoring, price quotes and apply any logic based on
+    their needs.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  issue_date: '2018-10-01'
+  type: token
+  organization_structure: Centralized
+  development_status: Working product
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.parsiq.net/
 video:
   url: null
 team:

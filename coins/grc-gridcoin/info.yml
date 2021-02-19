@@ -2,32 +2,36 @@ id: grc-gridcoin
 symbol: GRC
 name: GridCoin
 logo: null
-founded: null
+founded: '2013-10-16'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Gridcoin is a cryptocurrency which rewards volunteer distributed computation
+    performed on the BOINC platform on top of Proof of Stake.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
+  consensus: Proof of Research & Proof of Stake
+  algorithm: Scrypt
+  issue_date: '2013-10-16'
+  type: coin
+  organization_structure: Semi-centralized
   development_status: null
-explorers: []
+explorers:
+- https://gridcoinstats.eu/block
+- https://gridcoin.network/
+- https://www.gridresearchcorp.com/gridcoin/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.gridcoin.us/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: "Rob Half\xF6rd"
     imagename: null
-    position: null
+    position: Founder
     description: null
     links:
       github:
@@ -42,17 +46,119 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Ravon
+    imagename: null
+    position: Lead Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: IFoggz
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Caraka
+    imagename: null
+    position: Cross-platform Compatibility Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Huppdiwupp
+    imagename: null
+    position: UI Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bgb
+    imagename: null
+    position: Mining Pool Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Startail
+    imagename: null
+    position: Explorer Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/gridcoin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: gridcoin
   main_repository: null
 manual_reviews:
   available: false

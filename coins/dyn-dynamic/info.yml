@@ -5,22 +5,27 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "Dynamic enables fast, secure, verifiable transfers of data using\
+    \ blockchain technology. Enabling third-party developers to build low-cost solutions\
+    \ across varied industry using the BDAP protocol.\r\n\r\nDynamic can be used to\
+    \ run incentivized Dynodes; the second tier of nodes on the network; processing,\
+    \ verifying, validating and storing data."
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Proof of Work
+  algorithm: Argon2
   issue_date: null
-  type: null
-  organization_structure: null
+  type: coin
+  organization_structure: Centralized
   development_status: null
-explorers: []
+explorers:
+- https://dynexplorer.duality.solutions/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://duality.solutions/
 video:
   url: null
 team:
@@ -52,7 +57,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: duality-solutions
   main_repository: null
 manual_reviews:
   available: false

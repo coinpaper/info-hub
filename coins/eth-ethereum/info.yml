@@ -5,27 +5,26 @@ logo: eth-ethereum_logo@512x512.png
 founded: '2015-07-30'
 descriptions:
   one_sentence: Platform for decentralized apps and smart contracts
-  introduction: "General Data and Information. The Ethereum white paper was released\
-   \ by Vitalik Buterin in late 2013 after proposals to include a scripting language\
-   \ to enable decentralized applications (dApps) on the Bitcoin blockchain failed\
-   \ to gain traction. Ether is the native currency of the Ethereum blockchain and\
-   \ is used to compensate nodes for performing computations in the Turing-complete\
-   \ instruction set of the Ethereum Virtual Machine (EVM). These instructions form\
-   \ the backbone of smart contracts and digital asset ownership which are recorded\
-   \ and issued upon the Ethereum blockchain."
-  technology: "The development and governance of Ethereum\
-   \ relies upon the use of open-source Ethereum Improvement Proposals (EIPs) whereby\
-   \ developers and the wider public can submit proposals to improve or change standards\
-   \ to the Ethereum platform. These proposals can affect all aspects of the Ethereum\
-   \ ecosystem, from core code changes and ERC token standards through to public\
-   \ informational resources."
-  future: 'Significant Features. - Designed as a Virtual Machine with a Turing-complete
+  introduction: General Data and Information. The Ethereum white paper was released
+    by Vitalik Buterin in late 2013 after proposals to include a scripting language
+    to enable decentralized applications (dApps) on the Bitcoin blockchain failed
+    to gain traction. Ether is the native currency of the Ethereum blockchain and
+    is used to compensate nodes for performing computations in the Turing-complete
+    instruction set of the Ethereum Virtual Machine (EVM). These instructions form
+    the backbone of smart contracts and digital asset ownership which are recorded
+    and issued upon the Ethereum blockchain.
+  technology: The development and governance of Ethereum relies upon the use of open-source
+    Ethereum Improvement Proposals (EIPs) whereby developers and the wider public
+    can submit proposals to improve or change standards to the Ethereum platform.
+    These proposals can affect all aspects of the Ethereum ecosystem, from core code
+    changes and ERC token standards through to public informational resources.
+  future: Significant Features. - Designed as a Virtual Machine with a Turing-complete
     language means that Ethereum is the Swiss Army tool of blockchains. Highly flexible
     and adaptable, but perhaps not always the most efficient solution. - A comparatively
     large hashrate makes Ethereum one of the more secure blockchains in existence.
     - Solutions to scaling problems are being investigated, including sharding and
     a move to Proof of Stake consensus protocol. These changes are slated to be released
-    under the codename Casper.'
+    under the codename Casper.
 blockchain:
   consensus: Ethereum consensus (currently proof of work)
   algorithm: Ethash

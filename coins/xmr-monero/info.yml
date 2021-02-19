@@ -73,7 +73,109 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: "Francisco Caba\xF1as"
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ArticMine
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: smooth
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/iamsmooth
+        followers: 48
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: tacotime
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: luigi1111
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/luigi1111
+        followers: 64
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: NoodleDoodle
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/NoodleDoodleNoodleDoodleNoodleDoodleNoo
+        followers: 17
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: BinaryFate
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/binaryfate
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/monero
   reddit: https://www.reddit.com/r/monero

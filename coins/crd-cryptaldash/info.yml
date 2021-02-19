@@ -5,29 +5,33 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: The CryptalDash Exchange enables cross-market views and execution.
+    You can trade within our exchange or via integrated 3rd party exchanges. Trading
+    at CryptalDash means you always get the best price.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc
+- https://ethplorer.io/address/0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.cryptaldash.com/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Amine Larhrib
     imagename: null
-    position: null
+    position: Founder and Managing Director
     description: null
     links:
       github:
@@ -42,10 +46,95 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Ruell Magpayo
+    imagename: null
+    position: Trading System Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ruel Mindo
+    imagename: null
+    position: Full Stack Lead Dev
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ninebeth Padojinog
+    imagename: null
+    position: Business Analyst
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: ' Hani Benyahya'
+    imagename: null
+    position: 'CFTe: OTC Desk Trading Advisory'
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Iain Bell
+    imagename: null
+    position: Trading Automation Architecture
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/CryptalDashCommunity
   twitter: null
   facebook: null
   medium: null

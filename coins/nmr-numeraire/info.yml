@@ -2,30 +2,83 @@ id: nmr-numeraire
 symbol: NMR
 name: Numeraire
 logo: null
-founded: null
+founded: '2017-06-21'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: 'Numeraire: A Cryptographic Token for Coordinating Machine Intelligence
+    and Preventing Overfitting'
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  issue_date: '2017-06-21'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://numer.ai/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Peter Diamandis
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Ash Fontana
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joey Krug
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/joeykrug
+        followers: null
+      medium:
+        url: https://medium.com/@joeykrug
+        followers: 338
+      twitter:
+        url: https://twitter.com/joeykrug?lang=en
+        followers: 29431
+  - name: Dr Norman H. Packard
     imagename: null
     position: null
     description: null
@@ -42,17 +95,50 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Dr Vitaly Shmatikov
+    imagename: null
+    position: null
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Dr Arvind Narayanan
+    imagename: null
+    position: null
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/numerai
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: numerai
   main_repository: null
 manual_reviews:
   available: false

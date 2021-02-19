@@ -32,7 +32,7 @@ descriptions:
     \ providing a meta-gateway.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-06-24'
   type: token
   organization_structure: Centralized
@@ -67,7 +67,24 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Colin Paterson
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: https://t.me/quantnetworkannouncements
   reddit: https://www.reddit.com/r/QuantNetwork

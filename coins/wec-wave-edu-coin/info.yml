@@ -2,25 +2,28 @@ id: wec-wave-edu-coin
 symbol: WEC
 name: Wave edu coin
 logo: null
-founded: null
+founded: '2019-03-25'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: WEC is a waves based utility token which is basically used for international
+    decentralized transaction and online educational purpose.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2019-03-25'
+  type: token
+  organization_structure: Centralized
+  development_status: Prototype / MVP
+explorers:
+- https://wavesexplorer.com/tx/73Ae1BrVYhz1XLQurdJwrercNthKPw2awGkFU6hMURjQ
+- https://dev.pywaves.org/assets/Dd3ppdB8zuW8gEJK5RamNmNngo4BjcxC9gHM1ZDX2smF
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.waveeducoins.com/
 video:
   url: null
 team:

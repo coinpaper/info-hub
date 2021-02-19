@@ -5,29 +5,119 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "The goal is to make the XSN framework an environment that allows\
+    \ easy and secure staking via TPoS \u2013 the highest level of security using\
+    \ decentralized cold staking. We are always working with the developers from our\
+    \ community to invent new applications for TPoS"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Trustless Proof of Stake & Proof of Stake
+  algorithm: Hybrid
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Semi-centralized
+  development_status: Working product
+explorers:
+- https://xsnexplorer.io/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://xsncoin.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Esteban Pacheco
     imagename: null
-    position: null
+    position: Founder / Director of Operations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/john-draper/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Benjamin Wang
+    imagename: null
+    position: Software Architect
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/benwang2/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yura Oleksyshyn
+    imagename: null
+    position: Senior Developer - Blockchain
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yurii-oleksyshyn-71574675/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eloy Gil Guerrero
+    imagename: null
+    position: Developer - Full Stack
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/eloy-gil-guerrero-01126775/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Alexis Hernandez
+    imagename: null
+    position: Developer - Backend
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/alexis-hernandez/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shahab Benzadi
+    imagename: null
+    position: Founder / Platform Manager
     description: null
     links:
       github:
@@ -42,17 +132,135 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Carlos Melo
+    imagename: null
+    position: Engineering Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/carlosmeloeng/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Nathan Faust
+    imagename: null
+    position: Founder / Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/nathan-faust-926834128
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Paul Freeman
+    imagename: null
+    position: Community Support
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/FreemanStakenet
+        followers: 160
+  - name: Andrii Diachuk
+    imagename: null
+    position: Developer - Blockchain
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/andrii-diachuk-60a50a84/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wesley Forgione
+    imagename: null
+    position: PR Specialist
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wesley-forgione-6568562a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Emil Sterndorff
+    imagename: null
+    position: Community Moderator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/emil-sterndorff-urskov-rasmussen-5767b1a7/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Andy Osborne
+    imagename: null
+    position: Technical Support
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/kuo_stakes
+        followers: 244
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/StakeNet
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: X9Developers
   main_repository: null
 manual_reviews:
   available: false

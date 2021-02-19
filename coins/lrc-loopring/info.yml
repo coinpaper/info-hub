@@ -20,7 +20,7 @@ descriptions:
     stock trading fees in the US are in the range of $2 to $7 USD per trade..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-08-31'
   type: token
   organization_structure: Centralized

@@ -2,25 +2,26 @@ id: ksm-kusama
 symbol: KSM
 name: Kusama
 logo: null
-founded: null
+founded: '2019-12-12'
 descriptions:
   one_sentence: null
   introduction: null
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Proof of Stake
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2019-12-12'
+  type: coin
+  organization_structure: Decentralized
+  development_status: Working product
+explorers:
+- https://polkascan.io/kusama
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://kusama.network/
 video:
   url: null
 team:

@@ -2,32 +2,34 @@ id: bnt-bancor
 symbol: BNT
 name: Bancor
 logo: null
-founded: null
+founded: '2017-06-17'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Bancor Protocol is a standard for a new generation of cryptocurrencies
+    called Smart Tokens
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  issue_date: '2017-06-17'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
+explorers:
+- https://www.eosx.io/account/bntbntbntbnt
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://bancor.network/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Guy Benartzi
     imagename: null
-    position: null
+    position: Foundation Counsel
     description: null
     links:
       github:
@@ -42,17 +44,170 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Eyal Hertzog
+    imagename: null
+    position: Foundation Counsel
+    description: Bancor Co-founder and Chief Architect.
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/hertzog
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yehuda Levi
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Galia Benartzi
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ilana Pinchas
+    imagename: null
+    position: VP Engineering
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Or Bachar
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Asaf Rachman
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Omry Rozenfeld
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mati Levi
+    imagename: null
+    position: QA engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Itay Dreyfus
+    imagename: null
+    position: Product Designer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/Bancor
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: bancorprotocol
   main_repository: null
 manual_reviews:
   available: false

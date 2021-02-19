@@ -24,7 +24,7 @@ descriptions:
     for use with Ethereum smart contracts.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-06-23'
   type: token
   organization_structure: Centralized

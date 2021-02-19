@@ -9,18 +9,20 @@ descriptions:
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://etherscan.io/token/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f
+- https://ethplorer.io/address/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.bitpanda.com/en/best
 video:
   url: null
 team:
@@ -45,7 +47,7 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/bitpanda
   twitter: null
   facebook: null
   medium: null

@@ -5,12 +5,15 @@ logo: hex-hex_logo@512x512.png
 founded: '2019-12-02'
 descriptions:
   one_sentence: Has almost all the signs of a classical pyramid scheme
-  introduction: 'The purpose of HEX is to bring the concept of Certificate of Deposits (CD) to the digital world.'
-  technology: 'The HEX cryptocurrency is a form of financial service that will be operated on blockchain technology.'
-  future: 'Similar to the conventional setup, the users will deposit their cryptocurrency and earn interest on return after staking their coins.'
+  introduction: The purpose of HEX is to bring the concept of Certificate of Deposits
+    (CD) to the digital world.
+  technology: The HEX cryptocurrency is a form of financial service that will be operated
+    on blockchain technology.
+  future: Similar to the conventional setup, the users will deposit their cryptocurrency
+    and earn interest on return after staking their coins.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-12-02'
   type: token
   organization_structure: Semi-centralized
@@ -18,12 +21,12 @@ blockchain:
 explorers:
 - https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39
 whitepaper:
-  abstract: "HEX is an ERC20 token designed and launched by Richard Heart on 2 December\
-    \ 2019 on the Ethereum network. HEX is designed to be a store of value to replace\
-    \ the Certificate of Deposit as the blockchain counterpart of that financial product\
-    \ used in traditional financial markets. HEX is also designed to leverage off\
-    \ the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within\
-    \ the Ethereum network."
+  abstract: HEX is an ERC20 token designed and launched by Richard Heart on 2 December
+    2019 on the Ethereum network. HEX is designed to be a store of value to replace
+    the Certificate of Deposit as the blockchain counterpart of that financial product
+    used in traditional financial markets. HEX is also designed to leverage off the
+    emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within the
+    Ethereum network.
   file: hex-hex_whitepaper.pdf
 website:
   url: https://hex.com
@@ -34,9 +37,9 @@ team:
     name: Richard Heart
     imagename: hex-hex-richard_heart.png
     position: Founder
-    description: 'Richard represents cryptocurrencies on stage and on television. He has over 100,000 
-    followers across the Richard Heart Twitter and Richard Heart YouTube. Message him at his Richard 
-    Heart telegram.'
+    description: Richard represents cryptocurrencies on stage and on television. He
+      has over 100,000 followers across the Richard Heart Twitter and Richard Heart
+      YouTube. Message him at his Richard Heart telegram.
     links:
       github:
         url: null
@@ -54,7 +57,8 @@ team:
   - name: Brent Morrissey
     imagename: hex-hex-brent_morrissey.png
     position: CMO
-    description: Brent loves to increase awareness of digital currencies and their power.
+    description: Brent loves to increase awareness of digital currencies and their
+      power.
     links:
       github:
         url: null
@@ -68,7 +72,6 @@ team:
       twitter:
         url: https://twitter.com/brentmorrissey
         followers: 139
-
 socials:
   telegram: https://t.me/HEXcrypto
   reddit: https://www.reddit.com/r/HEXcrypto/
@@ -84,104 +87,118 @@ manual_reviews:
   available: true
   introduction:
     purpose:
-      description: 'As mentioned earlier, the HEX cryptocurrency is a form of financial service that 
-      will be operated on blockchain technology. The purpose of HEX is to bring the concept of 
-      Certificate of Deposits (CD) to the digital world. Similar to the conventional setup, the users 
-      will deposit their cryptocurrency and earn interest on return after staking their coins.' 
+      description: As mentioned earlier, the HEX cryptocurrency is a form of financial
+        service that will be operated on blockchain technology. The purpose of HEX
+        is to bring the concept of Certificate of Deposits (CD) to the digital world.
+        Similar to the conventional setup, the users will deposit their cryptocurrency
+        and earn interest on return after staking their coins.
       score: 3.0
       references: null
   current_stand:
     scandals_highlights:
-      description: 'HEX has been on a roller coaster ride ever since its advent. Interestingly, the ups 
-      and downs of its journey have been happening side by side, which is quite interesting. The project 
-      was quick enough to earn a notorious name for itself. It was seen as scam by many due to its founder 
-      (Richard Heart) being a very controversial figure. Due to the dubious practices of the founder, HEX 
-      is virtually not listed on any major exchange and not in the rankings either. 99% of the trading 
-      volume takes place on the decentralized exchange Uniswap. 
-      Even though the project was labeled a scam by many, it still managed to go big on the cryptocurrency 
-      markets. It is approaching the $1 billion milestones in terms of market capitalization very quickly. 
-      This development came in around May 2020, when the project had a reported market capitalization of 
-      over $970 million. A sudden surge came when many whales were rumored to have staked a lot of money 
-      in HEX tokens.'
+      description: HEX has been on a roller coaster ride ever since its advent. Interestingly,
+        the ups and downs of its journey have been happening side by side, which is
+        quite interesting. The project was quick enough to earn a notorious name for
+        itself. It was seen as scam by many due to its founder (Richard Heart) being
+        a very controversial figure. Due to the dubious practices of the founder,
+        HEX is virtually not listed on any major exchange and not in the rankings
+        either. 99% of the trading volume takes place on the decentralized exchange
+        Uniswap. Even though the project was labeled a scam by many, it still managed
+        to go big on the cryptocurrency markets. It is approaching the $1 billion
+        milestones in terms of market capitalization very quickly. This development
+        came in around May 2020, when the project had a reported market capitalization
+        of over $970 million. A sudden surge came when many whales were rumored to
+        have staked a lot of money in HEX tokens.
       score: 3.2
-      references: 'Wright, T. (2020, May 15). Coin Telegraph. Retrieved from Coin Telegraph: 
-      https://cointelegraph.com/news/hex-still-cant-shake-scam-label-as-token-approaches-1b-market-cap'
+      references: 'Wright, T. (2020, May 15). Coin Telegraph. Retrieved from Coin
+        Telegraph: https://cointelegraph.com/news/hex-still-cant-shake-scam-label-as-token-approaches-1b-market-cap'
     product:
-      description: 'HEX is an ERC-20 token as an actual product. The blockchain technology is built such 
-      that it will reward the holders of the token instead of the miners. The concept is very similar to 
-      that of conventional certificates of deposit (CD). Users can lock their investments in HEX tokens, 
-      and then can earn interest along with their principal amount, once the term matures.'
+      description: HEX is an ERC-20 token as an actual product. The blockchain technology
+        is built such that it will reward the holders of the token instead of the
+        miners. The concept is very similar to that of conventional certificates of
+        deposit (CD). Users can lock their investments in HEX tokens, and then can
+        earn interest along with their principal amount, once the term matures.
       score: 4.2
-      references: 'Wright, T. (2020, May 15). Coin Telegraph. Retrieved from Coin Telegraph: 
-      https://cointelegraph.com/news/hex-still-cant-shake-scam-label-as-token-approaches-1b-market-cap'
+      references: 'Wright, T. (2020, May 15). Coin Telegraph. Retrieved from Coin
+        Telegraph: https://cointelegraph.com/news/hex-still-cant-shake-scam-label-as-token-approaches-1b-market-cap'
     development:
-      description: 'The code for the HEX project is publicly available and anyone can access it. The 
-      top languages used in the project are Solidity and JavaScript. The main repository is being 
-      hosted on GitHub under the name of BitcoinHEX. The team and developers on the Github repository, 
-      however, are not very large in number and that is the primary reason why development has been 
-      slow. The last activity was recorded 11 days ago.'
+      description: The code for the HEX project is publicly available and anyone can
+        access it. The top languages used in the project are Solidity and JavaScript.
+        The main repository is being hosted on GitHub under the name of BitcoinHEX.
+        The team and developers on the Github repository, however, are not very large
+        in number and that is the primary reason why development has been slow. The
+        last activity was recorded 11 days ago.
       score: 3.5
       references: https://github.com/BitcoinHEX/testui
     partnerships:
-      description: 'HEX has managed to form several key partnerships, even though it is being considered 
-      a scam by a large part of the crypto-community. One of the most strategic partnerships under its 
-      belt is the one with the Milan-based payments company, SIA group. HEX hopes that this partnership 
-      will allow it to capture the existing bank clients by offering them a digital alternative. 
-      In other news, HEX has also entered into a partnership with IBM, the leading IT giant. HEX will 
-      be the official business partner for IBM for their new institutional custody solution for digital 
-      assets. In return, HEX will be making use of IBM’s advanced data security and protection features 
-      on their proprietary platform.'
+      description: "HEX has managed to form several key partnerships, even though\
+        \ it is being considered a scam by a large part of the crypto-community. One\
+        \ of the most strategic partnerships under its belt is the one with the Milan-based\
+        \ payments company, SIA group. HEX hopes that this partnership will allow\
+        \ it to capture the existing bank clients by offering them a digital alternative.\
+        \ In other news, HEX has also entered into a partnership with IBM, the leading\
+        \ IT giant. HEX will be the official business partner for IBM for their new\
+        \ institutional custody solution for digital assets. In return, HEX will be\
+        \ making use of IBM\xE2\u20AC\u2122s advanced data security and protection\
+        \ features on their proprietary platform."
       score: 4.0
-      references: 'Atkinson, S. (2020, October 22). cryptopolitan. Retrieved from cryptopolitan: 
-      https://www.cryptopolitan.com/hex-trust-sia-partnership/'
+      references: 'Atkinson, S. (2020, October 22). cryptopolitan. Retrieved from
+        cryptopolitan: https://www.cryptopolitan.com/hex-trust-sia-partnership/'
     community:
-      description: 'HEX has a remarkable community representation on many social platforms. Apart from 
-      marketing platforms, HEX is present on many technical publication websites and rolls out frequent 
-      publications. It has a strong presence on social media platforms like Facebook, Twitter, Reddit, 
-      and Telegram to name a few. The community around the HEX project is seen to be growing exponentially 
-      as it is becoming one of the intriguing projects in the sense that it is growing in terms of market 
-      capitalization while there are cries of it being a scam.'
+      description: HEX has a remarkable community representation on many social platforms.
+        Apart from marketing platforms, HEX is present on many technical publication
+        websites and rolls out frequent publications. It has a strong presence on
+        social media platforms like Facebook, Twitter, Reddit, and Telegram to name
+        a few. The community around the HEX project is seen to be growing exponentially
+        as it is becoming one of the intriguing projects in the sense that it is growing
+        in terms of market capitalization while there are cries of it being a scam.
       score: 4.0
       references: null
     substitutes:
-      description: 'HEX is one of its kind of technology in the market. There are not many cryptocurrency 
-      projects that act as a digital alternative for certificates of deposits. Although many other 
-      cryptocurrency projects offer financial services and are very trending in the DeFI space, there is 
-      no notable project that talks about staking interest in depositing your coins. KuCoin, Elcoin, and 
-      TopChain are considered as some technologies which offer a similar store of value feature as HEX.'
+      description: HEX is one of its kind of technology in the market. There are not
+        many cryptocurrency projects that act as a digital alternative for certificates
+        of deposits. Although many other cryptocurrency projects offer financial services
+        and are very trending in the DeFI space, there is no notable project that
+        talks about staking interest in depositing your coins. KuCoin, Elcoin, and
+        TopChain are considered as some technologies which offer a similar store of
+        value feature as HEX.
       score: 4.5
       references: null
   foresight:
     prediction:
-      description: 'Despite attracting negative news, the HEX project has managed to enjoy a good 
-      share of positive developments. It is predicted to rise both in terms of market capitalization 
-      and community numbers. The project is standing in a very good position and can easily take 
-      off from its current point.'
+      description: Despite attracting negative news, the HEX project has managed to
+        enjoy a good share of positive developments. It is predicted to rise both
+        in terms of market capitalization and community numbers. The project is standing
+        in a very good position and can easily take off from its current point.
       score: 4.0
       references: null
     projects:
-      description: 'There are no further projects disclosed under the HEX project. Also, the website 
-      hasn’t provided any details of the future roadmap or any upcoming projects, nor does the GitHub 
-      repository show signs of any new upgrades or developments.'
+      description: "There are no further projects disclosed under the HEX project.\
+        \ Also, the website hasn\xE2\u20AC\u2122t provided any details of the future\
+        \ roadmap or any upcoming projects, nor does the GitHub repository show signs\
+        \ of any new upgrades or developments."
       score: 2.0
       references: null
     potential:
-      description: 'Judging by how HEX has grown during the past two years, it surely has the 
-      potential to go further. If it manages to successfully shake off the label of scam from its 
-      face and comes up with a workable solution, it is bound to sweep the cryptocurrency markets.'
+      description: Judging by how HEX has grown during the past two years, it surely
+        has the potential to go further. If it manages to successfully shake off the
+        label of scam from its face and comes up with a workable solution, it is bound
+        to sweep the cryptocurrency markets.
       score: 3.5
       references: null
   pro_con:
     product_availability:
-      description: 'HEX has not entered its workable solution phase.'
+      description: HEX has not entered its workable solution phase.
       is_pro: false
       is_contra: true
     product_usage:
-      description: 'The scope of HEX is limited in the sense that it targets those users who want to stake their coins and earn interest as return.'
+      description: The scope of HEX is limited in the sense that it targets those
+        users who want to stake their coins and earn interest as return.
       is_pro: false
       is_contra: true
     transactions_per_second:
-      description: 'HEX is an ERC-20 token, so its transactional speed is comparable to and at par with other ERC-20 technologies.'
+      description: HEX is an ERC-20 token, so its transactional speed is comparable
+        to and at par with other ERC-20 technologies.
       is_pro: true
       is_contra: false
     transaction_cost:
@@ -189,11 +206,13 @@ manual_reviews:
       is_pro: true
       is_contra: false
     transaction_speed:
-      description: 'There are no official figures available, but tokens that are built upon Ethereum Blockchain cannot exceed its transaction speed yet.'
+      description: There are no official figures available, but tokens that are built
+        upon Ethereum Blockchain cannot exceed its transaction speed yet.
       is_pro: false
       is_contra: true
     security:
-      description: HEX token is based on the Ethereum blockchain, and offers a similar level of security.
+      description: HEX token is based on the Ethereum blockchain, and offers a similar
+        level of security.
       is_pro: true
       is_contra: false
     adoption:
@@ -201,8 +220,9 @@ manual_reviews:
       is_pro: true
       is_contra: false
     energy_consumption:
-      description: 'HEX technology depends upon the mining of HEX tokens. It is not as computationally 
-      expensive as Bitcoin itself, but at the same time, is not mining-free as Ethereum.'
+      description: HEX technology depends upon the mining of HEX tokens. It is not
+        as computationally expensive as Bitcoin itself, but at the same time, is not
+        mining-free as Ethereum.
       is_pro: false
       is_contra: true
     privacy:
@@ -221,12 +241,13 @@ manual_reviews:
       is_contra: true
   team:
     founders:
-      description: 'The main face behind HEX is Richard Heart, who is considered a very controversial 
-      figure. Some of the other names on the project team are Kieran Mesquita, Cody Lamson, Brent 
-      Morrissey, and Dan Emmons.'
+      description: The main face behind HEX is Richard Heart, who is considered a
+        very controversial figure. Some of the other names on the project team are
+        Kieran Mesquita, Cody Lamson, Brent Morrissey, and Dan Emmons.
       score: 2.8
       references: null
     developers:
-      description: 'Not much is known about the development team of HEX. The development for the HEX project is slow.'
+      description: Not much is known about the development team of HEX. The development
+        for the HEX project is slow.
       score: 2.9
       references: null

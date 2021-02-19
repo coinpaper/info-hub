@@ -18,7 +18,7 @@ descriptions:
     accepting crypto seamless, cost-efficient and secure.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-11-13'
   type: token
   organization_structure: Centralized

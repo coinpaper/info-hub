@@ -33,7 +33,7 @@ descriptions:
     \ network is an easy and convenient process for everyone involved.."
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-09-25'
   type: token
   organization_structure: Centralized

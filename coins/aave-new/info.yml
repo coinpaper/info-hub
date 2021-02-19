@@ -1,155 +1,211 @@
 id: aave-new
 symbol: AAVE
 name: Aave
-logo: null
-founded: null
+logo: aave-new_logo@512x512.png
+founded: '2018-09-18'
 descriptions:
-  one_sentence: null
-  introduction: null
-  technology: null
-  future: null
+  one_sentence: Lending Platform
+  introduction: The main purpose of Aave, or ETHLend then, was to devise a solution that could resolve the issue of defaults on loans.
+  technology: This was specifically important to safeguard the losses suffered by the lenders when borrowers were unable to return the amount they borrowed.
+  future: Aave came up with a smart-contract based solution to lock digital asset as a collateral against some loan, without having to sell those assets.
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2018-09-18'
+  type: token
+  organization_structure: Centralized
+  development_status: Alpha version
 explorers: []
 whitepaper:
-  abstract: null
-  file: null
+  abstract: Decentralized Lending on Ethereum Network - Lending Ethereum
+  file: aave-new_whitepaper.pdf
 website:
-  url: null
+  url: https://aave.com/
 video:
-  url: null
+  url: https://www.youtube.com/watch?v=BiseNyNpniE
 team:
   leader:
-    name: null
-    imagename: null
-    position: null
-    description: null
+    name: Stani Kulechov
+    imagename: aave-new_stani_kulechov.png
+    position: Founder
+    description: Stani Kulechov is the founder and CEO of Aave and ETHLend. He is
+      an influencer in the development of technology, with extensive experience mentoring
+      founders and advisors of ICOs and blockchain projects. Stani has spoken at numerous
+      FinTech, Blockchain and cryptocurrency events, particularly on topics related
+      to Ethereum Smart Contracts.
     links:
       github:
-        url: null
+        url: https://github.com/EthWarrior
         followers: null
       linkedin:
-        url: null
+        url: https://www.linkedin.com/in/stani-kulechov-361284132
         followers: null
       medium:
-        url: null
+        url: https://medium.com/@stanikulechov
         followers: null
       twitter:
-        url: null
-        followers: null
+        url: https://twitter.com/StaniKulechov
+        followers: 28500
   members: []
 socials:
-  telegram: null
+  telegram: https://t.me/Aavesome
   reddit: null
-  twitter: null
+  twitter: https://twitter.com/aaveaave
   facebook: null
   medium: null
   vimeo: null
-  discord: null
+  discord: https://discord.com/invite/adPfquZDZc
 github:
-  username: null
-  main_repository: null
+  username: aave
+  main_repository: aave/aave-protocol
 manual_reviews:
-  available: false
+  available: true
   introduction:
     purpose:
-      description: null
-      score: null
-      references: null
+      description: 'The main purpose of Aave, or ETHLend then, was to devise a solution that could
+      resolve the issue of defaults on loans. This was specifically important to safeguard the losses
+      suffered by the lenders when borrowers were unable to return the amount they borrowed. Aave came
+      up with a smart-contract based solution to lock digital asset as a collateral against some loan,
+      without having to sell those assets.
+
+      ETHLend was built on top of the Ethereum network to form an ecosystem secure lending in a simple
+      peer-to-peer model. At the core of the protocol is the Smart Contract which records all the
+      details related to the loan and also contains the address of the wallet where the collateral
+      assets are stored. In case the borrower fails to return the loan, the collateral assets were
+      simply transferred to the lender who then has the freedom to either keep it or sell it in open
+      market'
+      score: 4.0
+      references: 'Walters, S. (2019, April 29). Coin Bureau. Retrieved from Coin Bureau:
+        https://www.coinbureau.com/review/ethlend-lend/'
   current_stand:
     scandals_highlights:
-      description: null
-      score: null
-      references: null
+      description: 'The origin of Aave started with ETHLend in 2017. Back then, it was a one of a
+      kind project that has some very ambitious goals. ETHLend was built on top of the Ethereum network,
+      and had a native ERC-20 token known as LEND. ETHLend held their ICO in November 2017 which gained
+      considerable success. The ICO raised $16.2 million by selling almost 1 billion LEND tokens. Each
+      token was priced at $0.0176. The release of the token was right in the middle of the crypto-bull
+      run of 2017. Taking on the same trajectory, LEND soon reached an all-time-high of $0.44 in January
+      2018.
+
+      However, soon after the crypto-markets crashed, and LEND started on its journey of downfall. It
+      remained well below its ICO price for the most of 2018 and 2019. In January 2020, ETHLend was
+      rebranded and relaunched as Aave. The upgrade of Aave also brought many new features on the
+      application platform and also enhanced the technology stack of the application with more advanced
+      protocols. Aave quickly rallied a community around it and its popularity sky-rocketed. In just a
+      matter of months, Aave managed to surpass $1 billion in market capitalization.'
+      score: 3.6
+      references: 'Walters, S. (2019, April 29). Coin Bureau. Retrieved from Coin Bureau:
+        https://www.coinbureau.com/review/ethlend-lend/'
     product:
-      description: null
-      score: null
-      references: null
+      description: 'Aave is simply a decentralised cryptocurrency lending platform. It allows for the
+      lending and borrowing of cryptocurrencies in a trust less manner. Decentralised lending and
+      borrowing means there in no middle party involved and the financial security is provided through
+      the implementation of smart contracts. The platform offers as much as 17 different assets for
+      lending and borrowing which include DAI, USD Coin, Tether, Ethereum, Basic Attention Token and True
+      USD'
+      score: 4.6
+      references: 'Fankhouser, D. (2020, July 1). Bitcompare. Retrieved from Bitcompare:
+        https://bitcompare.net/reviews/aave'
     development:
-      description: null
-      score: null
+      description: 'The team behind Aave is solely responsible for the development of the Aave protocol.
+      After Aave relaunched in January 2020, it made its main protocol open source and non-custodial. The
+      code developments can be monitored on their official Github repository.'
+      score: 4.3
       references: null
     partnerships:
-      description: null
-      score: null
+      description: 'Aave has merged the previous partnerships of ETHLend with its upgraded project. ETHLend
+      managed to form some key partnerships that has boosted Aave a lot. The project does not only have
+      key partnerships with companies providing FinTech services, it also has other Altcoin project like
+      Tether and Kyber Network working with them. Renowned projects that Aave have partnered with include
+      Veriff, SanBlock, SwissBorg and Enigma.'
+      score: 4.4
       references: null
     community:
-      description: null
-      score: null
+      description: 'Soon after its launch in January 2020, Aave became the talk of the town. Many crypto-enthusiasts
+      and DeFi promoters showed interest in the technology. The community around Aave grew as a result.
+      Currently, the community is very active on Reddit and Twitter, and have an official account on the
+      publishing website Medium as well.'
+      score: 4.0
       references: null
     substitutes:
-      description: null
-      score: null
+      description: 'Aave is a sensation of the current DeFi setup. Other protocols which are scorching
+      hot these days and provide similar solution for lending and borrowing financial services include
+      MakerDAO, Compound, Torque and Fulcrum.'
+      score: 4.0
       references: null
   foresight:
     prediction:
-      description: null
-      score: null
+      description: 'The current market charts seems to be in favour of the Aave cryptocurrency. Each
+      LEND token is valued at $0.663 but its popularity and the maturity of DeFi space will take it a
+      leap ahead. Many analyst are of the opinion that it can grow to as much as $2.60 in a period of
+      one year.'
+      score: 4.1
       references: null
     projects:
-      description: null
-      score: null
+      description: The main project that Aave is working on is the Aave protocol, an Open Source and Non-Custodial protocol to earn interest on deposits and borrow assets.
+      score: 3.4
       references: null
     potential:
-      description: null
-      score: null
+      description: 'Aave is a pioneering technology in the DeFi space. With the recent hype being drawn
+      by the DeFi, it is soon going to see a tremendous amount of growth and development. The potential
+      that lies within the Aave cryptocurrency is tremendous and will not be fully utilised until the
+      DeFi space becomes a norm.'
+      score: 4.2
       references: null
   pro_con:
     product_availability:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The product was launched as a fully working platform in January 2020.
+      is_pro: true
+      is_contra: false
     product_usage:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The Aave protocol can be used by anyone who wants to lend or borrow using cryptocurrencies.
+      is_pro: true
+      is_contra: false
     transactions_per_second:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'Aave is a protocol. Therefore, its speed is not measured in TPS.'
+      is_pro: true
+      is_contra: false
     transaction_cost:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: 'Aave protocol charges around 0.012 Aave coins as transaction cost'
+      is_pro: false
+      is_contra: true
     transaction_speed:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Although there is no official report for the transaction speed, but it is said that it can be compared with Ethereum based technologies.
+      is_pro: true
+      is_contra: false
     security:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The platform is secure and it also further safeguards the interests of the lenders.
+      is_pro: true
+      is_contra: false
     adoption:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: The project has shown a high acceptance rate after its relaunch in January 2020.
+      is_pro: true
+      is_contra: false
     energy_consumption:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: It is not based on an energy-intensive model.
+      is_pro: true
+      is_contra: false
     privacy:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Transactions on the Aave protoocl are not anonymous
+      is_pro: false
+      is_contra: true
     decentralization:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Aave protocol supports complete decentralization.
+      is_pro: true
+      is_contra: false
     exchange_availability:
-      description: null
-      is_pro: null
-      is_contra: null
+      description: Aave is available in many renowned exchanges including Binance, Okex, Huobi and Gate IO.
+      is_pro: true
+      is_contra: false
   team:
     founders:
-      description: null
-      score: null
+      description: 'Aave has a wealth of talent and experience under the banner of its team. The
+      executive team of ETHLend project migrated to Aave after the former project was merged within it.
+      Stani Kulechov is serving as the current CEO while Lazaro Gustavo is the COO'
+      score: 4.4
       references: null
     developers:
-      description: null
-      score: null
-      references: null
+      description: The team of developers has 18 members ranging from a diverse background
+      score: 4.2
+      references: 'B.C. (2020, September 3). Boxmining. Retrieved from Boxmining:
+        https://boxmining.com/aave-lend/'

@@ -5,22 +5,24 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: Winco focuses on investing in startups and real estate.
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: Unknown
+explorers:
+- https://etherscan.io/token/0xd44bb6663936cab1310584a277f7daa6943d4904
+- https://ethplorer.io/address/0xd44bb6663936cab1310584a277f7daa6943d4904
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://winco.io
 video:
   url: null
 team:
@@ -52,7 +54,7 @@ socials:
   vimeo: null
   discord: null
 github:
-  username: null
+  username: WincoCrypto
   main_repository: null
 manual_reviews:
   available: false

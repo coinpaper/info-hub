@@ -9,18 +9,19 @@ descriptions:
   technology: null
   future: null
 blockchain:
-  consensus: null
+  consensus: Not mineable
   algorithm: null
   issue_date: null
-  type: null
+  type: token
   organization_structure: null
   development_status: null
-explorers: []
+explorers:
+- https://explorer.binance.org/asset/ERD-D06
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://elrond.com
 video:
   url: null
 team:
@@ -45,14 +46,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/elrondnetwork
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: ElrondNetwork
   main_repository: null
 manual_reviews:
   available: false
