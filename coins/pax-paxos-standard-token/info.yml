@@ -34,12 +34,12 @@ blockchain:
 explorers:
 - https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1
 whitepaper:
-  abstract: "Paxos Standard is regulated crypto asset. It is fully collateralized\
-    \ 1:1 by the U.S. dollar, approved and regulated by the NYDFS, and enables instantaneous\
-    \ transactions. Paxos Standard (PAX) was created by Paxos, a financial\
-    \ technology company on a mission to modernize finance by mobilizing assets at\
-    \ the speed of the internet. Paxos was the first virtual currency company\
-    \ to receive a charter from the New York State Department of Financial Services."
+  abstract: Paxos Standard is regulated crypto asset. It is fully collateralized 1:1
+    by the U.S. dollar, approved and regulated by the NYDFS, and enables instantaneous
+    transactions. Paxos Standard (PAX) was created by Paxos, a financial technology
+    company on a mission to modernize finance by mobilizing assets at the speed of
+    the internet. Paxos was the first virtual currency company to receive a charter
+    from the New York State Department of Financial Services.
   file: pax-paxos-standard-token_whitepaper.pdf
 website:
   url: https://www.paxos.com/
