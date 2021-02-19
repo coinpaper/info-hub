@@ -2,32 +2,362 @@ id: iost-iost
 symbol: IOST
 name: IOST
 logo: null
-founded: null
+founded: '2018-01-03'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: The IOS (Internet of Services) offers a solid infrastructure for online
+    service providers. Its high TPS, scalable and secure blockchain, and privacy protection
+    provide infinite possibilities for online service providers to serve their customer
+    base.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  consensus: Proof of Believability
+  algorithm: PoB
+  issue_date: '2018-01-03'
+  type: coin
+  organization_structure: Centralized
+  development_status: Working product
+explorers:
+- https://explorer.iost.io/
+- https://www.iostabc.com/
+- https://iost.tokenview.com/en
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://iost.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Terrence Wang
     imagename: null
-    position: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yannan-terrence-wang-3092252a/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Jimmy Zhong
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jimmy-zhong-a6322b45/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Tan
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/kelvin-tan-a09428bb/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ray Xiao
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ray-xiao-600a5044/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sa Wang
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/wangsa/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tiancheng Li
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/tiancheng-li/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Shangyan Li
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/shangyan-li-3582456b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Bman Lee
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/bmanlee/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ben Waters
+    imagename: null
+    position: Head of  Digital
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ben-d-waters/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jay Lee
+    imagename: null
+    position: Growth Lead, Korea
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/jay-lee-a2151836/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Leeho Lim
+    imagename: null
+    position: Growth Lead, Europe
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/leeholim/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lawrence Lim
+    imagename: null
+    position: Growth Lead, SEA
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/lawrencelimhz/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Fei Teng
+    imagename: null
+    position: Growth Lead, China
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/fei-teng-6a4517161/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Akio Sashima
+    imagename: null
+    position: Growth Lead, Japan
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/akio-sashima-575160b/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lei Li
+    imagename: null
+    position: Senior Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/lileicool1
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pejian He
+    imagename: null
+    position: Core Developer Team Lead
+    description: null
+    links:
+      github:
+        url: https://github.com/flybikeGx
+        followers: 6
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Hao Xu
+    imagename: null
+    position: Senior Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/HowHsu
+        followers: 4
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jiannan Liang
+    imagename: null
+    position: Senior Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ljnanest
+        followers: 4
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Xiao Zhou
+    imagename: null
+    position: Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/x-zho14
+        followers: 3
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Haifeng Li
+    imagename: null
+    position: Core Developer
     description: null
     links:
       github:
@@ -42,17 +372,67 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Ziran Liu
+    imagename: null
+    position: Senior Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/ziranliu
+        followers: 8
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Laijun Meng
+    imagename: null
+    position: Core Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/mlj1991
+        followers: 19
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Yu Wang
+    imagename: null
+    position: Senior Blockchain Developer
+    description: null
+    links:
+      github:
+        url: https://github.com/wangyu0air
+        followers: 16
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/IOStoken
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: iost-official
   main_repository: null
 manual_reviews:
   available: false
