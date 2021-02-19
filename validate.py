@@ -14,8 +14,14 @@ def get_coins():
 if __name__ == "__main__":
     coins = get_coins()
     print(coins)
+    skip_until_coin = ""
+    skipping = True
     for coin in coins:
         print(f"*** {coin} ***")
+        if coin == skip_until_coin:
+            skipping = False
+        if skip_until_coin and skipping:
+            continue
         validator = YMLValidator(coin)
         validator.validate()
 

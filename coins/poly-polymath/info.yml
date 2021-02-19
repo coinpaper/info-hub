@@ -12,7 +12,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-12-25'
   type: token
   organization_structure: Centralized
@@ -107,7 +107,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/igordenisov
+        url: https://www.linkedin.com/in/igordenisov
         followers: null
       medium:
         url: null
@@ -313,13 +313,13 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/anthonydiiorio1
+        url: https://www.linkedin.com/in/anthonydiiorio1
         followers: null
       medium:
         url: null
         followers: null
       twitter:
-        url: http://twitter.com/diiorioanthony
+        url: https://twitter.com/diiorioanthony
         followers: 29474
   - name: Matt Roszak
     imagename: null
@@ -496,7 +496,7 @@ socials:
   reddit: https://www.reddit.com/r/polymathnetwork
   twitter: null
   facebook: null
-  medium: https://blog.polymath.network/
+  medium: null
   vimeo: null
   discord: null
 github:

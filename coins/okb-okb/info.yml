@@ -18,7 +18,7 @@ descriptions:
   future: We can not provide any looks into the future for OKB yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-01-01'
   type: token
   organization_structure: Centralized

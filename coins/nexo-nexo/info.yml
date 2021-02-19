@@ -12,11 +12,11 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: null
   type: token
   organization_structure: Centralized
-  development_status: Only token
+  development_status: Prototype / MVP
 explorers:
 - https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
 - https://ethplorer.io/address/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
@@ -24,7 +24,7 @@ whitepaper:
   abstract: null
   file: null
 website:
-  url: http://nexo.io
+  url: https://nexo.io
 video:
   url: null
 team:
@@ -353,13 +353,13 @@ team:
     imagename: null
     position: Advisor
     description: "J. Michael Arrington is a serial entrepreneur and the founder of\
-      \ TechCrunch, a blog that covers startups and technology news.\r\n\r\nhttp://uncrunched.com/"
+      \ TechCrunch, a blog that covers startups and technology news.\r\n\r\nhttps://uncrunched.com/"
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/michaelarrington
+        url: https://www.linkedin.com/in/michaelarrington
         followers: null
       medium:
         url: null

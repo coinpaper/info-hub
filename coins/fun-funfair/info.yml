@@ -13,7 +13,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-02-01'
   type: token
   organization_structure: Centralized
@@ -37,7 +37,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/jeremy-longley-16827b
+        url: https://www.linkedin.com/in/jeremy-longley-16827b
         followers: null
       medium:
         url: null
@@ -72,7 +72,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/davidgreyling
+        url: https://www.linkedin.com/in/davidgreyling
         followers: null
       medium:
         url: null
@@ -106,7 +106,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/rob-palmer-hole-a398b210
+        url: https://www.linkedin.com/in/rob-palmer-hole-a398b210
         followers: null
       medium:
         url: null
@@ -140,7 +140,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/paul-jackman-9b116142
+        url: https://www.linkedin.com/in/paul-jackman-9b116142
         followers: null
       medium:
         url: null
@@ -157,7 +157,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/will-master-4384973
+        url: https://www.linkedin.com/in/will-master-4384973
         followers: null
       medium:
         url: null
@@ -174,7 +174,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://de.linkedin.com/in/mridgwel/de
+        url: https://www.linkedin.com/in/mridgwel/de
         followers: null
       medium:
         url: null
@@ -191,7 +191,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/jas-austin-8ba5323
+        url: https://www.linkedin.com/in/jas-austin-8ba5323
         followers: null
       medium:
         url: null
@@ -208,7 +208,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/kim-man-49521954
+        url: https://www.linkedin.com/in/kim-man-49521954
         followers: null
       medium:
         url: null
@@ -225,7 +225,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/joe-blakeston-878693b6
+        url: https://www.linkedin.com/in/joe-blakeston-878693b6
         followers: null
       medium:
         url: null
@@ -242,7 +242,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/steveolliffe
+        url: https://www.linkedin.com/in/steveolliffe
         followers: null
       medium:
         url: null
@@ -259,7 +259,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/johancontractor
+        url: https://www.linkedin.com/in/johancontractor
         followers: null
       medium:
         url: null
@@ -276,7 +276,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/krzysztof-krygier-41b40956
+        url: https://www.linkedin.com/in/krzysztof-krygier-41b40956
         followers: null
       medium:
         url: null
@@ -293,7 +293,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/nicholas-antill-9528358
+        url: https://www.linkedin.com/in/nicholas-antill-9528358
         followers: null
       medium:
         url: null
@@ -310,7 +310,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/daniel-grant-31277b5b
+        url: https://www.linkedin.com/in/daniel-grant-31277b5b
         followers: null
       medium:
         url: null
@@ -327,7 +327,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/jamesharrison1977
+        url: https://www.linkedin.com/in/jamesharrison1977
         followers: null
       medium:
         url: null
@@ -344,7 +344,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/zuzanaborosova
+        url: https://www.linkedin.com/in/zuzanaborosova
         followers: null
       medium:
         url: null
@@ -361,7 +361,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/darrenanthonykenny
+        url: https://www.linkedin.com/in/darrenanthonykenny
         followers: null
       medium:
         url: null
@@ -378,7 +378,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/pete-moores-6731112b
+        url: https://www.linkedin.com/in/pete-moores-6731112b
         followers: null
       medium:
         url: null
@@ -395,7 +395,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/dimitriskapagioridis
+        url: https://www.linkedin.com/in/dimitriskapagioridis
         followers: null
       medium:
         url: null
@@ -429,7 +429,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/nicksdjohnson
+        url: https://www.linkedin.com/in/nicksdjohnson
         followers: null
       medium:
         url: null
@@ -480,7 +480,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://uk.linkedin.com/in/eitan-jankelewitz-3b1b3154
+        url: https://www.linkedin.com/in/eitan-jankelewitz-3b1b3154
         followers: null
       medium:
         url: null

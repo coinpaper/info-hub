@@ -19,7 +19,7 @@ descriptions:
     needed for a robust decentralized margin trading platform..'
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-01-30'
   type: token
   organization_structure: Centralized

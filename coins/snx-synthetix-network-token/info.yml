@@ -16,7 +16,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-02-28'
   type: token
   organization_structure: Centralized

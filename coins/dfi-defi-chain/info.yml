@@ -16,7 +16,7 @@ blockchain:
   organization_structure: null
   development_status: Working product
 explorers:
-- http://explorer.defichain.io/#/DFI/mainnet/home
+- https://explorer.defichain.io/#/DFI/mainnet/home
 whitepaper:
   abstract: null
   file: null

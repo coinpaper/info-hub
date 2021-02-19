@@ -47,14 +47,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: https://reddit.com/r/solana
+  reddit: https://www.reddit.com/r/solana
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: 'http:'
+  username: solana-labs
   main_repository: null
 manual_reviews:
   available: true

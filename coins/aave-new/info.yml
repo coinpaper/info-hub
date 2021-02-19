@@ -10,7 +10,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2020-10-13'
   type: token
   organization_structure: Centralized
@@ -34,7 +34,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://fi.linkedin.com/in/villevvalkonen
+        url: https://www.linkedin.com/in/villevvalkonen
         followers: null
       medium:
         url: null
@@ -375,7 +375,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://lt.linkedin.com/in/ada-jonuse-9766364b
+        url: https://www.linkedin.com/in/ada-jonuse-9766364b
         followers: null
       medium:
         url: null
@@ -555,7 +555,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://ethlend.io/en/team/#
+        url: null
         followers: null
       medium:
         url: null

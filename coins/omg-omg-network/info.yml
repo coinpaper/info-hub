@@ -13,7 +13,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-06-23'
   type: token
   organization_structure: Centralized
@@ -37,7 +37,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://sg.linkedin.com/in/junhase
+        url: https://www.linkedin.com/in/junhase
         followers: null
       medium:
         url: null
@@ -55,7 +55,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/ezra-don-harinsut-18530a77
+        url: https://www.linkedin.com/in/ezra-don-harinsut-18530a77
         followers: null
       medium:
         url: null
@@ -106,7 +106,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: 'https://th.linkedin.com/in/vansa-chatikavanij-5270a930 '
+        url: https://www.linkedin.com/in/vansa-chatikavanij-5270a930
         followers: null
       medium:
         url: null
@@ -140,7 +140,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://au.linkedin.com/in/venndjeremy
+        url: https://www.linkedin.com/in/venndjeremy
         followers: null
       medium:
         url: null
@@ -157,7 +157,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://pl.linkedin.com/in/piotr-dobaczewski-98b92421
+        url: https://www.linkedin.com/in/piotr-dobaczewski-98b92421
         followers: null
       medium:
         url: null
@@ -191,7 +191,7 @@ team:
         url: https://github.com/T-Dnzt
         followers: 81
       linkedin:
-        url: https://th.linkedin.com/in/thibaultdenizet
+        url: https://www.linkedin.com/in/thibaultdenizet
         followers: null
       medium:
         url: https://medium.com/@thibaultdenizet
@@ -208,7 +208,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://pl.linkedin.com/in/paulperegud
+        url: https://www.linkedin.com/in/paulperegud
         followers: null
       medium:
         url: null
@@ -242,7 +242,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/medericpetit - Translate this page
+        url: https://www.linkedin.com/in/medericpetit
         followers: null
       medium:
         url: null
@@ -276,7 +276,7 @@ team:
         url: https://github.com/ripzery
         followers: 27
       linkedin:
-        url: 'https://th.linkedin.com/in/phuchit-sirimongkolsathien '
+        url: https://www.linkedin.com/in/phuchit-sirimongkolsathien
         followers: null
       medium:
         url: null
@@ -310,7 +310,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/jitthip
+        url: https://www.linkedin.com/in/jitthip
         followers: null
       medium:
         url: null
@@ -327,7 +327,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/apirak
+        url: https://www.linkedin.com/in/apirak
         followers: null
       medium:
         url: https://medium.com/@apirak/
@@ -344,7 +344,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: 'https://jp.linkedin.com/in/hitoshi-kakizawa-69415346 '
+        url: https://www.linkedin.com/in/hitoshi-kakizawa-69415346
         followers: null
       medium:
         url: null
@@ -412,7 +412,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/yuyie-chattanika-klinkaew-64991bab
+        url: https://www.linkedin.com/in/yuyie-chattanika-klinkaew-64991bab
         followers: null
       medium:
         url: null
@@ -497,7 +497,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://th.linkedin.com/in/tayanee-sriyotha-35925a128
+        url: https://www.linkedin.com/in/tayanee-sriyotha-35925a128
         followers: null
       medium:
         url: null
@@ -514,7 +514,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://ca.linkedin.com/in/evabeylin
+        url: https://www.linkedin.com/in/evabeylin
         followers: null
       medium:
         url: https://medium.com/@eva.beylin
@@ -531,7 +531,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: "https://pl.linkedin.com/in/pawe\u0142-thomalla-61b0b8100"
+        url: "https://www.linkedin.com/in/pawe\u0142-thomalla-61b0b8100"
         followers: null
       medium:
         url: null
@@ -605,7 +605,7 @@ team:
         url: https://github.com/gavofyork
         followers: 1761
       linkedin:
-        url: https://uk.linkedin.com/in/gavin-wood-88843316
+        url: https://www.linkedin.com/in/gavin-wood-88843316
         followers: null
       medium:
         url: null
@@ -693,7 +693,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://pl.linkedin.com/in/julian-zawistowski-352478
+        url: https://www.linkedin.com/in/julian-zawistowski-352478
         followers: null
       medium:
         url: https://medium.com/@julian_z
@@ -761,27 +761,13 @@ team:
       \ in 2017, which saw the birth of Bitcoin Cash after a clash of ideas among\
       \ the leading lights within the Bitcoin network. Since that he event - he promotes\
       \ Bitcoin Cash (BCH), and claims it to be the true Bitcoin\r\n\r\nGrew up in\
-      \ Silicon Valley.\r\nIn 1999 Roger began his career by founding MemoryDealers\
-      \ at the age of nineteen while still attending college. Under his leadership\
-      \ the company quickly grew to become a market leader, employing dozens of people\
-      \ across the world and generating millions of dollars in revenue.\r\nIn 2005\
-      \ Roger saw an opportunity in the market for fibre optic transceivers used in\
-      \ networking subsystems, so he founded Agilestar. Agilestar went on to become\
-      \ a world leader in optical transceivers used by fortune 100 companies around\
-      \ the world.\r\nHe also sold explosives on eBay and later pleaded guilty to\
-      \ three related felony charges. He served 10 months in prison, then moved to\
-      \ Japan in 2005. \r\n\r\nRoger Ver renounced his United States citizenship in\
-      \ 2014 after obtaining a Saint Kitts and Nevis passport. He identifies as a\
-      \ libertarian, an anarcho-capitalist, peace advocate, and an advocate for individualism\
-      \ and voluntaryism. \r\nHe is also an investor in multiple bitcoin startups\
-      \ - including Bitcoin.com (also a founder), Blockchain.com, Bitpay.com, Kraken.com,\
-      \ purse.io, and many many more."
+      \ Silicon Valley."
     links:
       github:
         url: null
         followers: null
       linkedin:
-        url: https://jp.linkedin.com/in/rogerver
+        url: https://www.linkedin.com/in/rogerver
         followers: null
       medium:
         url: null
@@ -798,13 +784,13 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/stephenmcnamara
+        url: https://www.linkedin.com/in/stephenmcnamara
         followers: null
       medium:
         url: null
         followers: null
       twitter:
-        url: http://twitter.com/smcnamara
+        url: https://twitter.com/smcnamara
         followers: 660
   - name: Prof. David Lee Kuo Chuen
     imagename: null
@@ -815,7 +801,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: "https://sg.linkedin.com/in/david-lee-kuo-chuen-\u674E\u56FD\u6743-07750baa"
+        url: "https://www.linkedin.com/in/david-lee-kuo-chuen-\u674E\u56FD\u6743-07750baa"
         followers: null
       medium:
         url: null
@@ -862,7 +848,7 @@ socials:
   reddit: https://www.reddit.com/r/omise_go
   twitter: null
   facebook: null
-  medium: https://blog.omisego.network/
+  medium: null
   vimeo: null
   discord: null
 github:

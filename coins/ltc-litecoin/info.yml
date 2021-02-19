@@ -44,7 +44,7 @@ blockchain:
   organization_structure: Semi-centralized
   development_status: Working product
 explorers:
-- http://explorer.litecoin.net/chain/Litecoin
+- https://explorer.litecoin.net/chain/Litecoin
 - https://chainz.cryptoid.info/ltc/
 - https://live.blockcypher.com/ltc/
 - https://blockchair.com/litecoin

@@ -13,7 +13,7 @@ descriptions:
     and earn interest on return after staking their coins.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-12-02'
   type: token
   organization_structure: Semi-centralized

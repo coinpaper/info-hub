@@ -25,7 +25,7 @@ descriptions:
     of land, economics of the currency, or prevent others from accessing the world..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-09-18'
   type: token
   organization_structure: Centralized
@@ -119,7 +119,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://mt.linkedin.com/in/giottodf
+        url: https://www.linkedin.com/in/giottodf
         followers: null
       medium:
         url: https://medium.com/@giottodf

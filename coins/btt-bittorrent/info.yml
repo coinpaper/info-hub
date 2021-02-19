@@ -37,7 +37,7 @@ descriptions:
     streaming performers, and crowdfunding the creation of new works..
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-01-02'
   type: token
   organization_structure: Centralized

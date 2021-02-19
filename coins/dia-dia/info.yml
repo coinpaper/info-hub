@@ -13,7 +13,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: null
   type: token
   organization_structure: null
@@ -48,7 +48,7 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: https://www.reddit.com/user/DIAdata
+  reddit: https://www.reddit.com/r/DIAdata/
   twitter: null
   facebook: null
   medium: https://medium.com/@diadata_org

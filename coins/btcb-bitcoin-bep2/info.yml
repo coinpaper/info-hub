@@ -12,11 +12,11 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-06-17'
   type: token
   organization_structure: Centralized
-  development_status: Only token
+  development_status: Just an Idea
 explorers:
 - https://explorer.binance.org/asset/BTCB-1DE
 whitepaper:

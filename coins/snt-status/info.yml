@@ -11,7 +11,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-06-20'
   type: token
   organization_structure: Centralized
@@ -21,7 +21,7 @@ whitepaper:
   abstract: null
   file: null
 website:
-  url: http://status.im/
+  url: https://status.im/
 video:
   url: null
 team:
@@ -305,10 +305,10 @@ team:
     description: null
     links:
       github:
-        url: null
+        url: https://github.com/martinklepsch
         followers: null
       linkedin:
-        url: https://github.com/martinklepsch
+        url: null
         followers: null
       medium:
         url: null
@@ -716,7 +716,7 @@ team:
         url: https://github.com/andytudhope
         followers: 66
       linkedin:
-        url: https://za.linkedin.com/in/andytud
+        url: https://www.linkedin.com/in/andytud
         followers: null
       medium:
         url: null
@@ -1137,7 +1137,7 @@ socials:
   reddit: https://www.reddit.com/r/statusim
   twitter: null
   facebook: null
-  medium: https://blog.status.im/
+  medium: null
   vimeo: null
   discord: null
 github:

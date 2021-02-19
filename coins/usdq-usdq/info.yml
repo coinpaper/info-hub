@@ -11,13 +11,13 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2019-05-10'
   type: token
   organization_structure: Centralized
   development_status: Working product
 explorers:
-- 'https://etherscan.io/token/0x4954db6391f4feb5468b6b943d4935353596aec9 '
+- https://etherscan.io/token/0x4954db6391f4feb5468b6b943d4935353596aec9
 - https://ethplorer.io/address/0x4954db6391f4feb5468b6b943d4935353596aec9
 whitepaper:
   abstract: null

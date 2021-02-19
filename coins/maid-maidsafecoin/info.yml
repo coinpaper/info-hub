@@ -15,13 +15,13 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2016-08-12'
   type: token
   organization_structure: Centralized
   development_status: Prototype / MVP
 explorers:
-- http://omniexplorer.info/asset/3
+- https://omniexplorer.info/asset/3
 whitepaper:
   abstract: null
   file: null
@@ -54,7 +54,7 @@ socials:
   reddit: https://www.reddit.com/r/safenetwork
   twitter: null
   facebook: null
-  medium: https://blog.maidsafe.net/
+  medium: null
   vimeo: null
   discord: null
 github:

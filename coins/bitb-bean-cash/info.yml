@@ -25,12 +25,12 @@ blockchain:
 explorers:
 - https://chainz.cryptoid.info/bitb/
 - https://chainz.cryptoid.info/bean/
-- http://aida.ageleis.de/
+- https://aida.ageleis.de/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: http://beancash.org/
+  url: https://beancash.org/
 video:
   url: null
 team:

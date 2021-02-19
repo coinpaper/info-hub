@@ -11,7 +11,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-06-21'
   type: token
   organization_structure: Centralized
@@ -70,7 +70,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: http://www.linkedin.com/in/joeykrug
+        url: https://www.linkedin.com/in/joeykrug
         followers: null
       medium:
         url: https://medium.com/@joeykrug

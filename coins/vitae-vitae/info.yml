@@ -16,9 +16,9 @@ blockchain:
   organization_structure: Centralized
   development_status: On-going development
 explorers:
-- http://vitaetoken.io:8181/
+- https://vitaetoken.io:8181/
 - https://vitae.tokenview.com/en
-- http://de.vit.tips/
+- https://de.vit.tips/
 - https://explorer.vitae.co/
 whitepaper:
   abstract: null

@@ -12,7 +12,7 @@ descriptions:
   future: null
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-12-14'
   type: token
   organization_structure: Centralized
@@ -173,7 +173,7 @@ team:
         url: https://github.com/loiluu
         followers: 119
       linkedin:
-        url: https://sg.linkedin.com/in/loiluu
+        url: https://www.linkedin.com/in/loiluu
         followers: null
       medium:
         url: https://medium.com/@loiluu

@@ -25,7 +25,7 @@ descriptions:
     ecosystem.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2014-11-26'
   type: token
   organization_structure: Centralized

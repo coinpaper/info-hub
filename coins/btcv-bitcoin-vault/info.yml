@@ -22,7 +22,7 @@ blockchain:
   organization_structure: Unknown
   development_status: On-going development
 explorers:
-- http://explorer.bitcoinvault.global/
+- https://explorer.bitcoinvault.global/
 whitepaper:
   abstract: null
   file: null

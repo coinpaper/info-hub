@@ -17,7 +17,7 @@ blockchain:
   organization_structure: Centralized
   development_status: On-going development
 explorers:
-- http://45.55.242.48:3001/
+- https://45.55.242.48:3001/
 - https://abbcblockchainexplorer.com
 whitepaper:
   abstract: ABBC is a technology optimized for distribution, finance, shopping, security,

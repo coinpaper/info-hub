@@ -14,7 +14,7 @@ descriptions:
   future: We can not provide any looks into the future for DxChain Token yet.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2018-08-04'
   type: coin
   organization_structure: Centralized
@@ -264,7 +264,7 @@ team:
         url: null
         followers: null
       linkedin:
-        url: https://cn.linkedin.com/in/betashow
+        url: https://www.linkedin.com/in/betashow
         followers: null
       medium:
         url: null

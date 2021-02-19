@@ -28,7 +28,7 @@ descriptions:
     signatures.
 blockchain:
   consensus: Not mineable
-  algorithm: None
+  algorithm: null
   issue_date: '2017-09-22'
   type: coin
   organization_structure: Centralized

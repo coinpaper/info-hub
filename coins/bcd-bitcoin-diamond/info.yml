@@ -22,7 +22,7 @@ blockchain:
   organization_structure: Semi-centralized
   development_status: Working product
 explorers:
-- http://explorer.btcd.io/
+- https://explorer.btcd.io/
 - https://bcd.tokenview.com
 whitepaper:
   abstract: "Bitcoin Diamond (BCD) is a fork of Bitcoin that occurs at the predetermined\
