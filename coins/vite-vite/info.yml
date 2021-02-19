@@ -5,22 +5,24 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: A Next Generation High-performance Decentralized Application Platform.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Delegated Proof of Stake
+  algorithm: DAG
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: coin
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://explorer.vite.net/
+- https://vitescan.io/
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.vite.org
 video:
   url: null
 team:
@@ -45,14 +47,14 @@ team:
   members: []
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/vitelabs
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: vitelabs
   main_repository: null
 manual_reviews:
   available: false
