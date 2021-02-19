@@ -5,29 +5,33 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: XinFin will be a Hybrid Blockchain technology company focused on international
+    trade and finance. We have developed a highly scalable, secure, permissioned and
+    commercial grade Blockchain architecture.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2
+- https://ethplorer.io/address/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://www.xinfin.io/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Sameer Dharap
     imagename: null
-    position: null
+    position: Vice President
     description: null
     links:
       github:
@@ -42,17 +46,204 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Emerson Samfilippo
+    imagename: null
+    position: Early Supporter
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joseph M. Appalsamy
+    imagename: null
+    position: Head of Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Meenu Sarin
+    imagename: null
+    position: Ecosystem Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tadashi Yoshida
+    imagename: null
+    position: Ecosystem Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Confidence Nyirenda
+    imagename: null
+    position: Ecosystem Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: 'Alan Lai '
+    imagename: null
+    position: Blockchain Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ankit Patel
+    imagename: null
+    position: Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Atul Khekade
+    imagename: null
+    position: Ecosystem Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Chris Neill
+    imagename: null
+    position: Head of Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ritesh Kakkad
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Peter Yeo
+    imagename: null
+    position: Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/xinfin
   twitter: null
   facebook: null
   medium: null
   vimeo: null
   discord: null
 github:
-  username: null
+  username: XinFinorg
   main_repository: null
 manual_reviews:
   available: false
