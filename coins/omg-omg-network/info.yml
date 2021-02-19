@@ -2,32 +2,70 @@ id: omg-omg-network
 symbol: OMG
 name: OMG Network
 logo: null
-founded: null
+founded: '2017-06-23'
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: "The OMG network is a scaling solution for finance on Ethereum, enabling\
+    \ transparent, peer-to-peer transactions in real-time. The decentralized network\
+    \ facilitates self-sovereign financial services across geographies, asset classes\
+    \ and applications.\r\n"
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
-  issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
+  consensus: Not mineable
+  algorithm: None
+  issue_date: '2017-06-23'
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
 explorers: []
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: https://omg.omise.co/
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Jun Hasegawa
     imagename: null
-    position: null
+    position: CEO / Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://sg.linkedin.com/in/junhase
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  members:
+  - name: Donnie Harinsut
+    imagename: null
+    position: COO / Co-Founder
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/ezra-don-harinsut-18530a77
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Wendell Davis
+    imagename: null
+    position: Product Development Lead
     description: null
     links:
       github:
@@ -42,17 +80,793 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  - name: Thomas Greco
+    imagename: null
+    position: Special Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Vansa Chatikavanij
+    imagename: null
+    position: Managing Director
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: 'https://th.linkedin.com/in/vansa-chatikavanij-5270a930 '
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Robin Clart
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/robinclart/?ppe=1
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/robinclart
+        followers: 255
+  - name: Jeremy Lam
+    imagename: null
+    position: Product & Technical Coordinator
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://au.linkedin.com/in/venndjeremy
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Piotr Dobaczewski
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://pl.linkedin.com/in/piotr-dobaczewski-98b92421
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: David Knott
+    imagename: null
+    position: Researcher
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@davidlknott
+        followers: 395
+      twitter:
+        url: https://twitter.com/davidlknott
+        followers: 1505
+  - name: Thibault Denizet
+    imagename: null
+    position: Lead Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/T-Dnzt
+        followers: 81
+      linkedin:
+        url: https://th.linkedin.com/in/thibaultdenizet
+        followers: null
+      medium:
+        url: https://medium.com/@thibaultdenizet
+        followers: 181
+      twitter:
+        url: https://twitter.com/t_dnzt?lang=en
+        followers: 571
+  - name: "Pawe\u0142 Peregud"
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://pl.linkedin.com/in/paulperegud
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kridsada Thanabulpong
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/sirn
+        followers: 81
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Mederic Petit
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/medericpetit - Translate this page
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Unnawut Leepaisalsuwanna
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/unnawut
+        followers: 68
+      linkedin:
+        url: https://www.linkedin.com/in/unnawut/
+        followers: null
+      medium:
+        url: https://medium.com/@unnawut
+        followers: 282
+      twitter:
+        url: null
+        followers: null
+  - name: Phuchit Sirimongkolsathien
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/ripzery
+        followers: 27
+      linkedin:
+        url: 'https://th.linkedin.com/in/phuchit-sirimongkolsathien '
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kanchan Desai
+    imagename: null
+    position: Marketing
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: https://medium.com/@kanchandesai89
+        followers: 4
+      twitter:
+        url: null
+        followers: null
+  - name: Jitthip Suthammanuwat
+    imagename: null
+    position: Human Resources
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/jitthip
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Apirak Panatkool
+    imagename: null
+    position: Design
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/apirak
+        followers: null
+      medium:
+        url: https://medium.com/@apirak/
+        followers: 2602
+      twitter:
+        url: https://twitter.com/apirak?lang=en
+        followers: 1232
+  - name: Hitoshi Kakizawa
+    imagename: null
+    position: Business Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: 'https://jp.linkedin.com/in/hitoshi-kakizawa-69415346 '
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Naoko Akari
+    imagename: null
+    position: Business Developer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Sutthiporn Mekhaaphira
+    imagename: null
+    position: Business Development
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Kevin Xu
+    imagename: null
+    position: Product
+    description: null
+    links:
+      github:
+        url: https://github.com/imkevinxu
+        followers: 105
+      linkedin:
+        url: https://www.linkedin.com/in/imkevinxu
+        followers: null
+      medium:
+        url: https://medium.com/@imkevinxu
+        followers: 1807
+      twitter:
+        url: https://twitter.com/imkevinxu?lang=en
+        followers: 2709
+  - name: Chattanika Klinkaew
+    imagename: null
+    position: Recruitment
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/yuyie-chattanika-klinkaew-64991bab
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/yuyie_chkk
+        followers: 5
+  - name: Kelvin Fichter
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/kfichter
+        followers: 276
+      linkedin:
+        url: https://www.linkedin.com/in/kelv-in
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Althea Allen
+    imagename: null
+    position: Ecosystem Relations
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Justin Lee
+    imagename: null
+    position: Finance
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/justin-lee-9a285b40
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pawel Gebal
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tayanee Sriyotha
+    imagename: null
+    position: UI/UX
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://th.linkedin.com/in/tayanee-sriyotha-35925a128
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Eva Beylin
+    imagename: null
+    position: Strategy
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://ca.linkedin.com/in/evabeylin
+        followers: null
+      medium:
+        url: https://medium.com/@eva.beylin
+        followers: 628
+      twitter:
+        url: https://twitter.com/evabeylin?lang=en
+        followers: 8456
+  - name: Pawel Thomalla
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://pl.linkedin.com/in/pawe\u0142-thomalla-61b0b8100"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tim Jones
+    imagename: null
+    position: Community Manager
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Joseph Poon
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/josephpoon
+        followers: 283
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/jcp?lang=en
+        followers: 14552
+  - name: Vitalik Buterin
+    imagename: null
+    position: Advisor
+    description: Vitalik is the creator of Ethereum. He first discovered blockchain
+      and cryptocurrency technologies through Bitcoin in 2011, and was immediately
+      excited by the technology and its potential. He cofounded Bitcoin Magazine in
+      September 2011, and after two and a half years looking at what the existing
+      blockchain technology and applications had to offer, wrote the Ethereum white
+      paper in November 2013. He now leads Ethereum's research team, working on future
+      versions of the Ethereum protocol.
+    links:
+      github:
+        url: https://github.com/vbuterin/
+        followers: 7927
+      linkedin:
+        url: https://www.linkedin.com/in/vitalik-buterin-267a7450/
+        followers: null
+      medium:
+        url: https://medium.com/@VitalikButerin
+        followers: 38287
+      twitter:
+        url: https://twitter.com/VitalikButerin
+        followers: 1168211
+  - name: Dr. Gavin Wood
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/gavofyork
+        followers: 1761
+      linkedin:
+        url: https://uk.linkedin.com/in/gavin-wood-88843316
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/gavofyork?lang=en
+        followers: 100581
+  - name: Jae Kwon
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/yjkwon
+        followers: null
+      medium:
+        url: https://medium.com/@jaekwon
+        followers: 528
+      twitter:
+        url: https://twitter.com/jaekwon
+        followers: 1244
+  - name: Vlad Zamfir
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/vladzamfir
+        followers: 343
+      linkedin:
+        url: https://www.linkedin.com/in/vlad-zamfir/
+        followers: null
+      medium:
+        url: https://medium.com/@Vlad_Zamfir
+        followers: 5820
+      twitter:
+        url: null
+        followers: null
+  - name: Karl Floersch
+    imagename: null
+    position: Advisor
+    description: "Karl Floersch specializes in the development of blockchain systems,\
+      \ focusing on Ethereum. His experience prior to blockchain had him engineering\
+      \ software for clients including Macy\u2019s and SC Johnson, and working full\
+      \ time with Citibank and Riverbed Technology."
+    links:
+      github:
+        url: https://github.com/karlfloersch
+        followers: 413
+      linkedin:
+        url: https://www.linkedin.com/in/karlfloersch
+        followers: null
+      medium:
+        url: https://medium.com/@karl_dot_tech
+        followers: 1109
+      twitter:
+        url: https://twitter.com/karl_dot_tech?lang=en
+        followers: 16025
+  - name: Martin Becze
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: https://github.com/wanderer
+        followers: 637
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Julian Zawistowski
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://pl.linkedin.com/in/julian-zawistowski-352478
+        followers: null
+      medium:
+        url: https://medium.com/@julian_z
+        followers: 965
+      twitter:
+        url: null
+        followers: null
+  - name: Aya Miyaguchi
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/amiyaguchi
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Pandia Jiang
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Ash Han
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/ash-han-seunghwan-a08551124
+        followers: null
+      medium:
+        url: https://medium.com/@ashhan8904
+        followers: 94
+      twitter:
+        url: null
+        followers: null
+  - name: Roger Ver
+    imagename: null
+    position: Advisor
+    description: "Roger Ver is one of the earliest investors and promoters of bitcoin.\
+      \ He is one of the founders of the Bitcoin Foundation. Roger has been known\
+      \ as \"Bitcoin Jesus\" for his promotion of bitcoin.\r\nHe was pro-Bitcoin split\
+      \ in 2017, which saw the birth of Bitcoin Cash after a clash of ideas among\
+      \ the leading lights within the Bitcoin network. Since that he event - he promotes\
+      \ Bitcoin Cash (BCH), and claims it to be the true Bitcoin\r\n\r\nGrew up in\
+      \ Silicon Valley.\r\nIn 1999 Roger began his career by founding MemoryDealers\
+      \ at the age of nineteen while still attending college. Under his leadership\
+      \ the company quickly grew to become a market leader, employing dozens of people\
+      \ across the world and generating millions of dollars in revenue.\r\nIn 2005\
+      \ Roger saw an opportunity in the market for fibre optic transceivers used in\
+      \ networking subsystems, so he founded Agilestar. Agilestar went on to become\
+      \ a world leader in optical transceivers used by fortune 100 companies around\
+      \ the world.\r\nHe also sold explosives on eBay and later pleaded guilty to\
+      \ three related felony charges. He served 10 months in prison, then moved to\
+      \ Japan in 2005. \r\n\r\nRoger Ver renounced his United States citizenship in\
+      \ 2014 after obtaining a Saint Kitts and Nevis passport. He identifies as a\
+      \ libertarian, an anarcho-capitalist, peace advocate, and an advocate for individualism\
+      \ and voluntaryism. \r\nHe is also an investor in multiple bitcoin startups\
+      \ - including Bitcoin.com (also a founder), Blockchain.com, Bitpay.com, Kraken.com,\
+      \ purse.io, and many many more."
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://jp.linkedin.com/in/rogerver
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/rogerkver
+        followers: 635330
+  - name: Stephen McNamara
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: http://www.linkedin.com/in/stephenmcnamara
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: http://twitter.com/smcnamara
+        followers: 660
+  - name: Prof. David Lee Kuo Chuen
+    imagename: null
+    position: Advisor
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: "https://sg.linkedin.com/in/david-lee-kuo-chuen-\u674E\u56FD\u6743-07750baa"
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: https://twitter.com/davidkchuenlee?lang=en
+        followers: 1672
+  - name: Luke Cheng
+    imagename: null
+    position: Chief Financial officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: https://www.linkedin.com/in/luke-cheng-a8b5a72/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Jarindr Thitadilaka
+    imagename: null
+    position: Software Engineer
+    description: null
+    links:
+      github:
+        url: https://github.com/jarindr
+        followers: 23
+      linkedin:
+        url: https://www.linkedin.com/in/jarindr/
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
-  reddit: null
+  reddit: https://www.reddit.com/r/omise_go
   twitter: null
   facebook: null
-  medium: null
+  medium: https://blog.omisego.network/
   vimeo: null
   discord: null
 github:
-  username: null
+  username: omise
   main_repository: null
 manual_reviews:
   available: false
