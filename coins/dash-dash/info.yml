@@ -44,7 +44,7 @@ team:
     name: 'Ryan Taylor '
     imagename: dash-dash_ryan_taylor_.png
     position: CEO
-    description: "Ryan Taylor is the founder of dash."
+    description: Ryan Taylor is the founder of dash.
     links:
       github:
         url: null
