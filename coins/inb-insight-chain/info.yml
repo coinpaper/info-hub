@@ -5,29 +5,32 @@ logo: null
 founded: null
 descriptions:
   one_sentence: null
-  introduction: null
+  introduction: An EOS-Based Platform to Establish Wall Street-like Financial Order
+    in the Blockchain Domain.
   technology: null
   future: null
 blockchain:
-  consensus: null
-  algorithm: null
+  consensus: Not mineable
+  algorithm: None
   issue_date: null
-  type: null
-  organization_structure: null
-  development_status: null
-explorers: []
+  type: token
+  organization_structure: Centralized
+  development_status: On-going development
+explorers:
+- https://etherscan.io/token/0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482
+- https://ethplorer.io/address/0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482
 whitepaper:
   abstract: null
   file: null
 website:
-  url: null
+  url: http://www.insightchain.io
 video:
   url: null
 team:
   leader:
-    name: null
+    name: Lisa Yang
     imagename: null
-    position: null
+    position: CEO
     description: null
     links:
       github:
@@ -42,7 +45,109 @@ team:
       twitter:
         url: null
         followers: null
-  members: []
+  members:
+  - name: Jason Ji
+    imagename: null
+    position: CTO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Lifeng Liu
+    imagename: null
+    position: CSO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Charles Yan
+    imagename: null
+    position: COO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Claudius Tsang
+    imagename: null
+    position: CMO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tao Chang
+    imagename: null
+    position: CIO
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
+  - name: Tallan Zhou
+    imagename: null
+    position: Chief Analytics Officer
+    description: null
+    links:
+      github:
+        url: null
+        followers: null
+      linkedin:
+        url: null
+        followers: null
+      medium:
+        url: null
+        followers: null
+      twitter:
+        url: null
+        followers: null
 socials:
   telegram: null
   reddit: null
