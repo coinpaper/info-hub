@@ -87,7 +87,6 @@ class InfoHub:
         with open(os.path.join(main_dir, "info.yml"), "w") as file:
             yaml.dump(yml, file, sort_keys=False)
 
-
     @staticmethod
     def initYML(coin_id):
         tempalte_dir = f"{REPO_DIR}/template"
@@ -193,6 +192,7 @@ def create_member_from_coinpaprika(member):
     ]
     return transfer_property(coinpaprika_member, infohub_member, member_mapping)
 
+
 def transfer_property(from_object, to_object, mappings):
     for mapping in mappings:
         if len(mapping) == 2:
@@ -206,6 +206,7 @@ def transfer_property(from_object, to_object, mappings):
             pydash.set_(to_object, to_path, from_value)
     return to_object
 
+
 def empty_team_member():
     return {
         "name": None,
@@ -213,10 +214,9 @@ def empty_team_member():
         "position": None,
         "description": None,
         "links": {
-            "github": { "url": None, "followers": None },
-            "linkedin": { "url": None, "followers": None },
-            "medium": { "url": None, "followers": None },
-            "twitter": { "url": None, "followers": None },
+            "github": {"url": None, "followers": None},
+            "linkedin": {"url": None, "followers": None},
+            "medium": {"url": None, "followers": None},
+            "twitter": {"url": None, "followers": None},
         }
     }
-

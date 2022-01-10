@@ -17,8 +17,10 @@ headers = {
 
 github_headers = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    'Authorization': f"token {os.environ['GITHUBAPI']}"
 }
+
+if 'GITHUBAPI' in os.environ:
+    github_headers['Authorization'] = f"token {os.environ['GITHUBAPI']}"
 
 
 def optional(value, argument=None, arguments=None, context=None):
@@ -165,7 +167,8 @@ def png(value, argument=None, arguments=None, context=None):
 def opposite(value, argument=None, arguments=None, context=None):
     opposite_val = context["opposite"]
     if not (type(value) == bool and type(opposite_val) == bool):
-        raise ValueError(f"The input or opposite values are not of type boolean. Value is type '{type(value)}', opposite is type '{type(opposite_val)}'")
+        raise ValueError(
+            f"The input or opposite values are not of type boolean. Value is type '{type(value)}', opposite is type '{type(opposite_val)}'")
     opposite_val_neg = not opposite_val
     if value != opposite_val_neg:
         raise ValueError(
